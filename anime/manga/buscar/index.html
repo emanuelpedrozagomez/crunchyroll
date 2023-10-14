@@ -1,0 +1,3196 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+    <link rel="icon" href="../../img/crunchyroll.ico" type="image/ico" />
+    <link rel="stylesheet" href="../../css/estilos.css" />
+    <link rel="stylesheet" href="../../css/scrollbar.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
+    />
+    <title>Busqueda Crunchyroll - Manga</title>
+  </head>
+  <body>
+    <div class="container">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="../../index.html"
+            ><img
+              src="../../img/Crunchyroll-logo.png"
+              alt="logo"
+              width="150"
+              height="59"
+          /></a>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarNav"
+            aria-controls="navbarNav"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="../../index.html"
+                  >Inicio</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="../../anime/anime.html">Anime</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="../index.html">Live Actions</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="../../pelicula/index.html"
+                  >Peliculas</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="../../manga/index.html">Manga</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="../../light-novels/index.html"
+                  >Novelas</a
+                >
+              </li>
+              <li class="nav-item">
+                <a
+                  class="nav-link"
+                  target="_blank"
+                  href="https://open.spotify.com/collection/playlists"
+                  >Musica</a
+                >
+              </li>
+              <li class="nav-item">
+                <a
+                  class="nav-link"
+                  target="_blank"
+                  href="https://www.crunchyroll.com/es/news"
+                  >Noticias</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </div>
+    <div
+      class="container"
+      style="
+        padding-left: 80px;
+        padding-right: 80px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        margin-top: 75px;
+      "
+    >
+      <form class="d-flex" role="search">
+        <input
+          class="form-control me-2"
+          type="text"
+          id="searchInput"
+          placeholder="Buscar"
+          aria-label="Search"
+          style="
+            background-color: black;
+            color: white;
+            display: block;
+            width: 100%;
+            border: none;
+          "
+        />
+      </form>
+      <ul
+        id="results"
+        style="
+          background-color: black;
+          color: white;
+          text-decoration: none;
+          list-style-type: none;
+          margin-top: 10px;
+        "
+      ></ul>
+      <div id="mensaje" style="display: none; list-style-type: none">
+        <li style="background-color: black; color: white">
+          <i class="bi bi-info-circle-fill"></i> No se encontraron resultados.
+        </li>
+      </div>
+      <div class="container">
+        <ul
+          id="mangas"
+          style="
+            background-color: black;
+            color: white;
+            text-decoration: none;
+            list-style-type: none;
+            margin-top: 10px;
+          "
+        >
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://lectortmo.com/library/manga/38342/86-eighty-six"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51A9RnsQV5L.jpg"
+                alt="mangas 1"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>86 EIGHTY-SIX Vol 1</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://lectortmo.com/library/manga/61033/86-eighty-six-operation-high-school"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51oEvtZoJfL.jpg"
+                alt="manga 2"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>86 EIGHTY-SIX Vol 2</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://lectortmo.com/library/manga/60869/86-eighty-six-fragmental-neoteny"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/91HGinJFr7L._AC_UF1000,1000_QL80_.jpg"
+                alt="manga 3"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>86 EIGHTY-SIX Vol 3</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Aho-Girl/20f2c667-b163-4816-991f-3c1c2af8161c"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://cdn.myanimelist.net/images/manga/3/184551.jpg"
+                alt="manga 4"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Aho Girl</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Another/6ca12a70-53ef-4da8-b3dd-db7c72775e14"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w220_and_h330_face/auEIx2p67fPQE1zQSw6fvFp8rhv.jpg"
+                alt="manga 5"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Another</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Ao-no-Exorcist/6ba3bd58-32cd-4edf-91b0-3b672a9f91e9"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/61FgaySLtBL.jpg"
+                alt="manga 6"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Ao no Exorcist</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www.webtoons.com/es/drama/lookism/list?title_no=1930&page=42"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w220_and_h330_face/3b3C7FWpQQa15J02x2zp53D8imF.jpg"
+                alt="manga 7"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Apari3ncias</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Arifureta-Nichijou-de-Sekai-Saikyou/4b6ffefd-2e24-4e10-9e7e-ed4cb461b837"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/91v5UKrTMqL._AC_UF1000,1000_QL80_.jpg"
+                alt="manga 8"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Arifureta</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://mangaplus.shueisha.co.jp/titles/200008"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w440_and_h660_face/7dHONdLf91r1SmEthST1MmLrLjh.jpg"
+                alt="manga 9"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Assassination Classroom</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://mangaplus.shueisha.co.jp/titles/200052"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w220_and_h330_face/qlrFTJ2kWucHGlk6guAMWaNEjwj.jpg"
+                alt="manga 10"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Ayakashi Triangle</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Berserk/5cc13fca-2e10-41e7-bbca-d70353d6a55a"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/61QWsst-4zL._SX598_BO1,204,203,200_.jpg"
+                alt="manga 11"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Berserk</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://mangaplus.shueisha.co.jp/titles/200020"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51HjwPDEfQL._SX331_BO1,204,203,200_.jpg"
+                alt="manga 12"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Black Clover</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Bleach/92ef1c08-d79b-4485-ba5c-2588a7fd25b4"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/511cLXGNhqL._SX331_BO1,204,203,200_.jpg"
+                alt="manga 13"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Bleach</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Boruto/c7922ed3-318a-486e-81fe-bfe7461797a2"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/61mXuhA03UL._SX331_BO1,204,203,200_.jpg"
+                alt="manga 14"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Boruto Naruto Next Generations</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Bungo-Stray-Dogs/0e2a0582-ae55-45d4-8a34-d663c8b12cff"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51REGB9wIXL._SX326_BO1,204,203,200_.jpg"
+                alt="manga 15"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Bungo Stray Dogs</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Bungo-Stray-Dogs-Wan/22b798b6-2e8d-40c7-81c5-ac231d7a7bf1"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51TJbpUz7BL._SX430_BO1,204,203,200_.jpg"
+                alt="manga 16"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Bungo Stray Dogs Wan!</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Burn-The-Witch/a295a267-c964-4995-a1c8-0831c55c3f9a"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w440_and_h660_face/ztSeBcOfx99lk4L7wkDFWAfl0ks.jpg"
+                alt="manga 17"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Burn the Witch</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://mangaplus.shueisha.co.jp/titles/200014"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w1280/guIoz0TElP6udn9YajiW3ciuL8s.jpg"
+                alt="pelicula 18"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Captain Tsubasa</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Captain-Tsubasa-Road-to-2002/ea7cc8bc-4881-42ae-b24d-afeb1b5ce39d"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://comicvine.gamespot.com/a/uploads/scale_small/13/136525/5933041-10.jpg"
+                alt="manga 19"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Captain Tsubasa Road to 2002</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://lectortmo.com/library/manga/48132/carole-tuesday"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="../../img/carole-tuesday.jpg"
+                alt="manga 20"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Carole And Tuesday</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Chainsaw-Man/81459b12-bd95-476e-a078-186e91ca6786"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="../../img/chinsawman.jpg"
+                alt="manga 21"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Chainsaw Man</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Charlotte/adb4fd60-b04b-4684-9305-e3f9ed41bdb4"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://pack-yak.intomanga.com/thumbnails/manga/Charlotte/adb4fd60-b04b-4684-9305-e3f9ed41bdb4"
+                alt="manga 22"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Charlotte</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://lectortmo.com/library/manga/14763/Youkoso-Jitsuryoku-Shijou-Shug"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/5111IoQQwVL.jpg"
+                alt="manga 23"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Classroom of Elite Vol 1</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://lectortmo.com/library/manga/47985/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-other-school-days"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://pbs.twimg.com/media/DKbESmyWkAAeqXp?format=jpg&name=large"
+                alt="manga 24"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Classroom of Elite: Other School Days</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://lectortmo.com/library/manga/41539/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-horikita"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51kwny2N-ML._AC_SY780_.jpg"
+                alt="manga 25"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Classroom of Elite: Horikita</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://lectortmo.com/library/manga/65597/youkoso-jitsuryoku-shijou-shugi-kyoushitsu-e-2-nensei-hen"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://1.bp.blogspot.com/-Yilt_Pya-eQ/Xzm89h-3Y0I/AAAAAAAAWRA/uaMeWAgRtj0BDc8RouFs3n1BN6W3oqw6QCLcBGAsYHQ/w282-h400/Youkoso%2BVolumen%2B12%2Bespanol.jpg"
+                alt="manga 26"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Classroom of Elite: 2nd Year Vol 1</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/CodeName-Sailor-V/78ae1ba7-aec9-4560-86d1-44a9911977cf"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/91fTT1sUMvL.jpg"
+                alt="manga 27"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Codename: Sailor V</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://lectortmo.com/library/manga/8717/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://otakuteca.com/images/books/cover/5c79d9c2043e9.jpg"
+                alt="manga 28"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Danmachi</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://lectortmo.com/library/manga/45950/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://otakuteca.com/images/books/cover/5ffba32bc6059.jpg"
+                alt="manga 29"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Danmachi 2</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://lectortmo.com/library/manga/10118/Dungeon-ni-Deai-o-Motomeru-no-wa-Machigatte-Iru-Darou-ka-4koma--Days-of-Goddess-"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://otakuteca.com/images/books/cover/10118_TMOmanga113826.jpg"
+                alt="manga 30"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>DanMachi Nichijou</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Darling-In-The-FranXX/16c72526-2efb-4a61-9994-8602efdc9fa2"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w220_and_h330_face/ngleTiRHbziuNzclcRK0Mxaqluo.jpg"
+                alt="manga 31"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Darling In The FranXX</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Death-Note/aadd281d-2bb0-4049-b75e-5ebf92f69e66"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51SkSDhUidL.jpg"
+                alt="manga 32"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Death Note</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://mangaplus.shueisha.co.jp/titles/200042"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51s8YU7jvfL.jpg"
+                alt="manga 33"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Death Note One-Shot</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Kimetsu-no-Yaiba/78352626-0e2c-4b10-9610-28abf57c6881"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/81ZNkhqRvVL.jpg"
+                alt="manga 34"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Demon Slayer</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Kimetsu-No-Yaiba-Rengoku-Kyojuro-Gaiden/12ef741f-ef43-4bb5-85a8-0700ac61813e"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://pack-yak.intomanga.com/thumbnails/manga/Kimetsu-No-Yaiba-Rengoku-Kyojuro-Gaiden/12ef741f-ef43-4bb5-85a8-0700ac61813e"
+                alt="manga 35"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Demon Slayer: Rengoku Kyojuro Gaiden</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://nagatoro.manganyaa.com/leer-online-gratis-espanol/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w220_and_h330_face/MnvFnNNCLSVq6AtiN1MJQ6pCTU.jpg"
+                alt="manga 36"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Don't Toy With Me, Miss Nagatoro</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Dr-Stone/d9e47ba6-7dfc-401d-a21c-19326c2ea45f"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="../../img/dr_stone_manga.jpg"
+                alt="manga 37"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Dr. Stone</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Dr-Stone-Reboot-Byakuya/f3b16aa1-c350-41d6-bb69-d0862a25591d"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/81H66ydGKcL.jpg"
+                alt="manga 38"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Dr. Stone Reboot: Byakuya</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://mangaplus.shueisha.co.jp/titles/200010"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/513nt+LEs6L._AC_SY780_.jpg"
+                alt="manga 39"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Dragon Ball</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://mangaplus.shueisha.co.jp/titles/100012"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/81lpQYNjXLL.jpg"
+                alt="manga 40"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Dragon Ball Super</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Eden-s-Zero/0d07f1cd-2faf-4834-81a0-16957be58620"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://api-manga.crunchyroll.com/i/croll_manga/7498b07a9cd167a74c35d0b7daaf4ae4_1530049449_large.jpg"
+                alt="manga 41"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Edens Zero</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Fairy-Tail/d39c9e78-2d59-422a-b888-cdf6e7d72cbc"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://api-manga.crunchyroll.com/i/croll_manga/731b1e7fb3ae28b5fef5b97e3de18432_1378507252_large.jpg"
+                alt="manga 42"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Fairy Tail</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Fairy-Tail-La-misi%C3%B3n-de-los-100-a%C3%B1os/583ac97b-3b8d-49df-9748-8ada7c677b67"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/91+HE-R3X6L.jpg"
+                alt="manga 43"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Fairy Tail: La misión de los 100 años</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://lectortmo.com/library/manga/16238/fateapocrypha"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51eeXap2WOL._AC_SY780_.jpg"
+                alt="manga 44"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Fate/Apocryphe</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Fate-Stay-Night/0b5cb98f-7e4e-4f79-811f-486f04cc1d7b"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51fCwKI8DoL.jpg"
+                alt="manga 45"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Fate Stay Night</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Fire-Brigade-Of-Flames/4b5b74a8-11da-4943-a561-b36f0082f7be"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://api-manga.crunchyroll.com/i/croll_manga/83fa13859c8baee6f20708b5d4bd5c35_1640071967_large.jpg"
+                alt="manga 46"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Fire Force</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Fruits-Basket/8ebd41f1-cca8-4f18-907c-c605327aec70"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51Oh-5eENWL.jpg"
+                alt="manga 47"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Fruits Basket</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Fruits-Basket-Another/bbc37cd0-f216-452b-af06-e6592e62e07c"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjCqVLtvZlAzMlD_uB_KxmHmHmSVrCIo3bzQ&usqp=CAU"
+                alt="manga 48"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Fruits Basket Another</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Fuuka/09623b76-59b3-4e37-8bec-f78de05568ac"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51AJBBvLCKL.jpg"
+                alt="manga 49"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Fuuka</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Fuuka-Special-Edition/c26decd9-51e0-4072-899f-2d06e945cfe9"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://pack-yak.intomanga.com/thumbnails/manga/Fuuka-Special-Edition/c26decd9-51e0-4072-899f-2d06e945cfe9"
+                alt="manga 50"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Fuuka Especial Edition</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Fullmetal-Alchemist/42bafd7a-2567-4ffd-8c57-88b67a448d1d"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51HW0wQziGL.jpg"
+                alt="manga 51"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Fullmetal Alchemist</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Goblin-Slayer/d9c03100-c6ba-43ff-a67b-8c8a056442c7"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51t0YisJowL.jpg"
+                alt="manga 52"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Goblin Slayer</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Goblin-Slayer-Year-One/3df8e479-ec8f-4a49-bcbd-0f3c706c1004"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51oM665GNqL.jpg"
+                alt="manga 53"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Goblin Slayer: Year One</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Goblin-Slayer-Brand-New-Day/915c87ee-1081-4d1f-af21-98b237971b62"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51Qv4VmIuQL.jpg"
+                alt="manga 54"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Goblin Slayer: Brand New Day</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Golden-Time/55c1e529-ae1a-4b71-8808-b37a953bd370"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://pack-yak.intomanga.com/thumbnails/manga/Golden-Time/55c1e529-ae1a-4b71-8808-b37a953bd370"
+                alt="manga 55"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Golden Time</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://lectortmo.com/library/manga/48563/kanojo-mo-kanojo"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51vNuggtVKL.jpg"
+                alt="manga 56"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Girlfriend, Girlfriend</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Haikyuu/4bfbdcce-93ed-487b-85ef-aab02d17c977"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51r7FqAIw8L.jpg"
+                alt="manga 57"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Haikyu!!</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Hajime-no-Ippo/45d38b23-1105-4a36-a373-6b4ebb00b398"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51e5xkL6hGL.jpg"
+                alt="manga 58"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Hajime no Ippo</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://mangaplus.shueisha.co.jp/titles/200104"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51icwPwxt8L.jpg"
+                alt="manga 59"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Hell's Paradise: Jigokuraku re-edition</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://lectortmo.com/library/manga/35014/jigokuraku"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51OE08rgToL._SX347_BO1,204,203,200_.jpg"
+                alt="manga 60"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Hell's Paradise: Jigokuraku</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://mangaplus.shueisha.co.jp/titles/200109"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="../../img/Jigokuraku_one_shot.jpg"
+                alt="manga 61"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Hell's Paradise: Jigokuraku One-Shot</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Haikyuu/4bfbdcce-93ed-487b-85ef-aab02d17c977"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://pack-yak.intomanga.com/thumbnails/manga/Hentai-Ouji-to-Warawanai-Neko/1d944740-3448-47e8-8527-d4c33a1cd682"
+                alt="manga 62"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Hentai Ouji to Warawanai Neko</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Hero-s/789b27e9-14f1-4594-8cf2-c00d99bb1726"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://otakuteca.com/images/books/cover/5f3c6facf03b5.jpg"
+                alt="manga 63"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Hero's</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://lectortmo.com/library/manga/8495/high-school-dxd"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://d14d9vp3wdof84.cloudfront.net/image/589816272436/image_gveud3qkel7rt65vssh6et106l/-S265-FWEBP"
+                alt="manga 64"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>High School DxD</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://lectortmo.com/library/manga/59673/world-of-leadale"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/81FewBC22WL._AC_UF894,1000_QL80_.jpg"
+                alt="manga 65"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>In the Land of Leadale</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://r2.leermanga.xyz/kyokou+suiri/18506"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://api-manga.crunchyroll.com/i/croll_manga/841e6b055d4e951297a7d84e6b28d7d9_1640073610_large.jpg"
+                alt="manga 66"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>In/Spectre</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Inazuma-Eleven/7fa3c073-a510-45c2-bb74-f56e6ca6cdd9"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/812KWAh4ZPL._AC_UF1000,1000_QL80_.jpg"
+                alt="manga 67"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Inazuma Eleven</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://lectortmo.com/library/manga/45780/kimi-wa-houkago-insomnia"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/71PSYpAlD9S._AC_UF1000,1000_QL80_.jpg"
+                alt="manga 68"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Insomniacs After School</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Inuyasha/ede0baf1-ef5f-4321-bd53-65368840810a"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51hmAnGfGFL._SX335_BO1,204,203,200_.jpg"
+                alt="manga 69"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Inuyasha</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/JoJo-s-Bizarre-Adventure/647ab58c-7c00-4889-acfd-03cd678c6b33"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/511bO4zTWEL._SX336_BO1,204,203,200_.jpg"
+                alt="manga 70"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>JoJo's Bizarre Adventure</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Jojos-Bizarre-Adventure-Parte-2-Battle-Tendency/85e85fb5-88d3-4849-85ec-68f2578d9ba1"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/61vKCfI9UXL._SX347_BO1,204,203,200_.jpg"
+                alt="manga 71"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Jojos Bizarre Adventure Parte 2: Battle Tendency</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://inmanga.com/ver/manga/Jojos-Bizarre-Adventure-Parte-3-Stardust-Crusaders/ee17bdf7-53c8-4962-8506-9a0b81efb94f"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://m.media-amazon.com/images/I/51rdL5YupQL._SX336_BO1,204,203,200_.jpg"
+                alt="manga 72"
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Jojos Bizarre Adventure Parte 3: Stardust Crusaders</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/re-zero-kara-hajimeru-isekai-seikatsu-hyouketsu-no-kizuna-aigpmjso"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/uFtwdbAiNP9QKdsU3gOWTErFDUw.jpg"
+                alt="pelicula 73"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Re:Zero Movie 2</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.animeonline.ninja/pelicula/rezero-kara-hajimeru-isekai-seikatsu-hyouketsu-no-kizuna-1/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/uFtwdbAiNP9QKdsU3gOWTErFDUw.jpg"
+                alt="pelicula 74"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Re:Zero Movie 2 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/seishun-buta-yarou-wa-yumemiru-shoujo-no-yume-wo-minai"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/5MgMCnslrxQfOfaq6T5ndkLlcCk.jpg"
+                alt="pelicula 75"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Bunny Girl Senpai Movie</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/summer-ghost"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/AkZ4ArPT5HR3VGp4cUmvyrtgic8.jpg"
+                alt="pelicula 76"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Summer Ghost</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.henaojara.com/ver/summer-ghost-espanol-latino-hd/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/AkZ4ArPT5HR3VGp4cUmvyrtgic8.jpg"
+                alt="pelicula 77"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Summer Ghost Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/season/suzume-no-tojimari-sub-espanol-hd-1/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/lrACtADbyOCEK2K3gU7ZL5LYXR6.jpg"
+                alt="pelicula 78"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Suzume</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://drive.google.com/file/d/1n10Tg8Le0f4iu6YdAPOpoqT0Zs-ehcaT/view"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/8qaICWPguiCUlG35McbG4PZ94Zm.jpg"
+                alt="pelicula 79"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Sword Art Online: Ordinal Scale Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/sword-art-online-extra-edition"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/nI2nNWCZZIMFb1sV7RVq1Nd8iWM.jpg"
+                alt="pelicula 80"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Sword Art Online: Extra Edition</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/boku-ga-aishita-subete-no-kimi-e"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/b9165e5aa4edbee30442f0b0e363577b.jpe"
+                alt="pelicula 81"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>To Every You I've Loved Before</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/kimi-wo-aishita-hitori-no-boku-e"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a995e989258d964172a8b84573a6bcc0.jpe"
+                alt="pelicula 82"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>To Me, The One Who Loved You</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/tensei-shitara-slime-datta-ken-movie-guren-no-kizuna-hen"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/xBspq7kJsfkzch95MzFl5RDDMK4.jpg"
+                alt="pelicula 83"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span
+                >That Time I Got Reincarnated as a Slime The Movie: Scarlet
+                Bond</span
+              >
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/season/tensei-shitara-slime-datta-ken-movie-espanol-latino-hd-1/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/xBspq7kJsfkzch95MzFl5RDDMK4.jpg"
+                alt="pelicula 84"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span
+                >That Time I Got Reincarnated as a Slime The Movie: Scarlet Bond
+                Latino</span
+              >
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/eBdT6fBRMHO4bq00VZcAGlDGizz.jpg"
+                alt="pelicula 85"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>DanMachi: La película</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/episode/kimetsu-no-yaiba-mugen-train-espanol-latino-hd-1x1/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/AqhA7GXDEaP1spOWih195YzSPem.jpg"
+                alt="pelicula 86"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Demon Slayer: Mugen Train Movie Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www.viki.com/movies/35622c"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/41HQbBFxI3AtUTFZbHBvKbImaU3.jpg"
+                alt="pelicula 87"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Ghost Messager</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/given-movie"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/u1wHUA0R48FH4WV3sGqjwx3aNZm.jpg"
+                alt="pelicula 88"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Given: The Movie</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/goblin-slayer-goblins-crown"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/k0C6lcVUFzxlvjeSldKnMy5hITv.jpg"
+                alt="pelicula 89"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Goblin Slayer: Goblin's Crown Movie</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/kakushigoto-movie"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/9K06g8yFjUPGVZ2bFmKhsl1pg12.jpg"
+                alt="pelicula 90"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Kakushigoto Movie</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.animeonline.ninja/pelicula/kanojo-to-kanojo-no-neko-everything-flows/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/eVWGvkxYuDy4xZWiUPEu9eQ2ItE.jpg"
+                alt="pelicula 91"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Kanojo to Kanojo no Neko: Everything Flows</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/the-legend-of-luoxiaohei"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/uK4DbBOadzUC36Pd3Oxdy9mCJsB.jpg"
+                alt="pelicula 92"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>La leyenda de hei</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://tubitv.com/movies/689822/la-princesa-y-el-piloto-doblado?start=true"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/BsugEx8xj1MNaowx5YXZ2hfG51.jpg"
+                alt="pelicula 93"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>La Princesa Y El Piloto Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www.animelatinohd.com/anime/hotaru-no-haka"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/3kFSr5CrSaeQZ00lCOKQopyK7h3.jpg"
+                alt="pelicula 94"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>La tumba de las luciernagas</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/little-witch-academia-mahou-shikake-no-parade"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/1POfVpdNPMURXomBDXbYuk4qV73.jpg"
+                alt="pelicula 95"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Little Witch Academia: The Enchanted Parade</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://animebum.net/v-love-live-the-school-idol-movie"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/52lsYCKGL74ULaRRmLNVIYLeudO.jpg"
+                alt="pelicula 96"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Love Live! The School Idol Movie</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www.henaojara.com/ver/luces-en-el-cielo-espanol-latino-hd/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/jALSBQCFjwf3rvkKjpmBZnVeTjT.jpg"
+                alt="pelicula 97"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Luces En El Cielo Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.animeonline.ninja/pelicula/lupin-iii-vs-cats-eye/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/vd6qdfp3TjJ0acLtSWfH6gfx3WI.jpg"
+                alt="pelicula 98"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Lupin III vs. Cat's Eye Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://monoschinos2.com/anime/kimi-no-suizou-wo-tabetai-latino-sub-espanol"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/7mEdttJoHCHjBUP4YvLXFs3Ddmi.jpg"
+                alt="pelicula 99"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Quiero Comerme tu Pancreas Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/saenai-heroine-no-sodatekata-fine-mhv2yrnb"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/n4mSs3hQ3mQZX6KKqeSRDLs062y.jpg"
+                alt="pelicula 100"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Saenai Heroine no Sodatekata Fine</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://monoschinos2.com/anime/ookami-kodomo-no-ame-to-yuki-latino-sub-espanol"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/eNWjMbuhGxJdzaIY9ZZ2KvWx2sQ.jpg"
+                alt="pelicula 101"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Los Niños Lobo Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/chiisana-eiyuu-kani-to-tamago-to-toumei-ningen"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/o0v4FKQgxP345993HnznYImIiEC.jpg"
+                alt="pelicula 102"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Héroes modestos: Teatro de cortometrajes de Ponoc</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.animeonline.ninja/pelicula/chiisana-eiyuu-kani-to-tamago-to-toumei-ningen/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/o0v4FKQgxP345993HnznYImIiEC.jpg"
+                alt="pelicula 103"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span
+                >Héroes modestos: Teatro de cortometrajes de Ponoc Latino</span
+              >
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara.com/ver/mary-y-la-flor-de-la-bruja-latino-hd/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/abILXCcNDLbxQNFSidHTaYROqGN.jpg"
+                alt="pelicula 104"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Mary y la Flor de la Bruja</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/natsu-e-no-tunnel-sayonara-no-deguchi"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/4Qtk6XMIaXl8ASgxXJU3uTLzTzH.jpg"
+                alt="pelicula 105"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Natsu e no Tunnel, Sayonara no Deguchi</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.animeonline.ninja/pelicula/naruto-the-movie-ninja-clash-in-the-land-of-snow/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/cGhW2jigeUUke682LdhzNGtyfA7.jpg"
+                alt="pelicula 106"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Naruto Movie 1 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.animeonline.ninja/pelicula/naruto-the-movie-2-legend-of-the-stone-of-gelel/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/ldwWnaWoW8ziEFflimoraZouyvB.jpg"
+                alt="pelicula 107"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Naruto Movie 2 Latino</span>
+            </a>
+          </li>
+
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.animeonline.ninja/pelicula/naruto-the-movie-3-guardians-of-the-crescent-moon-kingdom/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/w1JPid4Wx9awVpAxcgXFlNcCrUA.jpg"
+                alt="pelicula 108"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Naruto Movie 3 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x1/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/cIp2F2KnPVnZ9Klw600uRkfLWu9.jpg"
+                alt="pelicula 109"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Naruto Shippuden Movie 1 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x2/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/original/fNseqlKRt7a1MHnPw8L2gGYgd1K.jpg"
+                alt="pelicula 110"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Naruto Shippuden Movie 2 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x3/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/c8iPAKL5nQqZOmSXVrcJvWNA9DQ.jpg"
+                alt="pelicula 111"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Naruto Shippuden Movie 3 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x4/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/cRd7J9VS1Z7GeF7qE0V0F4glln2.jpg"
+                alt="pelicula 112"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Naruto Shippuden Movie 4 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x5/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/2LNoyJWFuBf3HoFQH19yyhxIL7v.jpg"
+                alt="pelicula 113"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Naruto Shippuden Movie 5 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x6/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/euiQ3P7E6wPdETmzWQj7kyDiE3D.jpg"
+                alt="pelicula 114"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Road to Ninja: Naruto Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x7/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/uOeaOJi83lKOpPSx4X5oOnUGyNQ.jpg"
+                alt="pelicula 115"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Naruto Shippuden Movie 7 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.animeonline.ninja/pelicula/boruto-naruto-the-movie/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/lw4Semx1gAQHT7DHIYw8wm9M5fE.jpg"
+                alt="pelicula 116"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Boruto: Naruto The Movie Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://animebum.net/v/koe-no-katachi-audio-latino"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/d0Yld2HRTzJsemfjIxMbIqywbSD.jpg"
+                alt="pelicula 117"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Una voz Silenciosa Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www.animeonegai.com/es/watch/5gJEL6EjLN6yLcdqV"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/Aeyvtayt8ZxOuxWA1zf5MkoVNbn.jpg"
+                alt="pelicula 118"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Coicent Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.animeonline.ninja/pelicula/bishoujo-senshi-sailor-moon-eternal-1/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/3FvokGWH2yMz4CbjpcHPFYBP8qb.jpg"
+                alt="pelicula 119"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Sailor Moon Eternal Parte 1 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.animeonline.ninja/pelicula/bishoujo-senshi-sailor-moon-eternal-2/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/4QA7pKpmNgeXkhN1FFIBelHwr6V.jpg"
+                alt="pelicula 120"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Sailor Moon Eternal Parte 2 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/date-a-bullet-dead-or-bullet"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/4EokCcm4N6BMp42oLgNOl6r7aoy.jpg"
+                alt="pelicula 121"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Date A Bullet: Dead or Bullet</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://animebum.net/v-date-a-live-movie-mayuri-judgment"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/66F3PsT9JzE93WDgp5Ry8KIdM4n.jpg"
+                alt="pelicula 122"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Date A Live Movie: Mayuri Judgment</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www.animelatinohd.com/anime/dragon-ball-super-movie-broly"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/qdAdwnlkNogUATybTncHAG0MT3i.jpg"
+                alt="pelicula 123"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Dragon Ball Super Broly Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://animebum.net/v-hula-fulla-dance"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/8SYsf4yF0CmrdCVZSj43tZHGoG6.jpg"
+                alt="pelicula 124"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Hulla Fulla Dance</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://peliculasflix.co/peliculas/belle"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/fE79agBNwNTZf28fGVs9wY2NkCS.jpg"
+                alt="pelicula 125"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>BELLE Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www.animelatinohd.com/anime/sen-to-chihiro-no-kamikakushi"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/sRDfWh1x7qVi9R6Y86XVCQzSjVH.jpg"
+                alt="pelicula 126"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>El Viaje de Chihiro Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/episode/palabras-que-burbujean-como-un-refresco-espanol-latino-hd-1x1/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/489F49miNdfDanV1buIPKLR6ym9.jpg"
+                alt="pelicula 127"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Palabras que Burbujean Como un Refresco Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://animebum.net/v-pokemon-mewtwo-contraataca-evolucion-audio-latino"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/6ufHj6uqyje1ogAlCvRB54hcGgn.jpg"
+                alt="pelicula 128"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Pokémon Mewtwo Contraataca: Evolución Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www.animelatinohd.com/anime/pokemon-movie-21-minna-no-monogatari"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/kgNLLBgKxUKViZ0NiBED6cN8KnK.jpg"
+                alt="pelicula 129"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Pokémon: El poder de todos Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://pelispop.lat/pelicula/pokemon-detective-pikachu/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/99fKFSYYKadyJ8axbhuXDy4zpfO.jpg"
+                alt="pelicula 130"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Pokémon: Detective Pikachu Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/sword-art-online-progressive-movie-hoshi-naki-yoru-no-aria"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/2kvl6lcgoyAaf8cSRkzxE611u6T.jpg"
+                alt="pelicula 131"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Sword Art Online: Progressive</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/sword-art-online-progressive-espanol-latino-hd/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/2kvl6lcgoyAaf8cSRkzxE611u6T.jpg"
+                alt="pelicula 132"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Sword Art Online: Progressive Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www.henaojara.com/ver/season/sword-art-online-progressive-scherzo-of-deep-night-espanol-latino-hd-1/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/a5alro35e0XUa21Hb9Wlci67U73.jpg"
+                alt="pelicula 134"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span
+                >Sword Art Online: Progressive Scherzo of Deep Night
+                Latino</span
+              >
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/season/pelicula-eiga-karakai-jouzu-no-takagi-san-espanol-latino-hd-1/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/14XlXF6t940NLEm8WCmPXmRDtnc.jpg"
+                alt="pelicula 135"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Teasing Master Takagi-san: Pelicula Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/ai-no-utagoe-wo-kikasete"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/4nswAImPQjLbyCpXkwHjFlXxAeG.jpg"
+                alt="pelicula 136"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Ai No Utagoe Wo Kikasete</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/episode/ai-no-utagoe-wo-kikasete-espanol-latino-hd-1x1/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/2hkyfxdJkBRR75msNs6V7Y9hd8k.jpg"
+                alt="pelicula 137"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Canta Con Una Chispa De Armonía</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/fruits-basket-prelude"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/dUgCPD69mBKpg41DVc9gEBHs3wY.jpg"
+                alt="pelicula 138"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Fruit Basket Prelude</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www.henaojara.com/ver/kimi-wa-kanata-mas-alla-de-ti-espanol-latino-hd/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/zremTsDpnGNOBFOfcSzIQdk0WFU.jpg"
+                alt="pelicula 139"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Más Allá De Ti</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/sabores-juventud-latino-hd/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/AmEvVC8H4v9ITSVgpG3HCTPaBo1.jpg"
+                alt="pelicula 140"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Flavors of Youth Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www.animelatinohd.com/anime/howl-no-ugoku-shiro"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/summupW5iJAbgStpAxSrZq0NiJu.jpg"
+                alt="pelicula 141"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>El Castillo Ambulante Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/season/pelicula-jujutsu-kaisen-0-espanol-latino-hd-1/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/7Cqu1tJpptsoozc93vPiISgyhBm.jpg"
+                alt="pelicula 142"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Jujutsu Kaisen 0 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/el-nino-y-la-bestia-latino-hd/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/iMfe0tPCOQJRkiqOyAWGMheky01.jpg"
+                alt="pelicula 143"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>El niño y la bestia Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/el-cuento-de-la-princesa-kaguya-espanol-latino-hd/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/3SPzYCeY1KNNIEKgK7GjV1Dwayz.jpg"
+                alt="pelicula 144"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>El Cuento De La Princesa Kaguya Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/el-viento-se-levanta-espanol-latino-hd/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/qHNn6lQ4TLS6ClckCztMAvgsTIP.jpg"
+                alt="pelicula 145"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>El Viento Se Levanta Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www.animelatinohd.com/anime/shingeki-no-kyojin-movie-1-guren-no-yumiya"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/1tmIKXWWDAvMJbbo66HrpZtHCb6.jpg"
+                alt="pelicula 146"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Shingeki no Kyojin: El arco y la flecha escarlata</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www.animelatinohd.com/anime/shingeki-no-kyojin-movie-2-jiyuu-no-tsubasa"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/tcVANUddqdRm2hOyrrISd89Lid2.jpg"
+                alt="pelicula 147"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Shingeki no Kyojin: Las alas de la libertad</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www.animelatinohd.com/anime/shingeki-no-kyojin-season-2-movie-kakusei-no-houkou"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/juKWzBx4jgF8dhAV0qktMCeEfe6.jpg"
+                alt="pelicula 148"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Shingeki no Kyojin: El rugido del despertar</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://drive.google.com/drive/u/0/folders/1O3g1RXAd-3j4-QEVBwABR3cZjZOIWjGy"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/kfjgWuV5oRhzM3pTqvKU8DTDGEu.jpg"
+                alt="pelicula 149"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Kanna Y Los Dioses De Octubre Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/koutetsujou-no-kabaneri-unato-kessen"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/pJOYBevz1tMTtexr3KeSx8G6SCN.jpg"
+                alt="pelicula 150"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Koutetsujou no Kabaneri Movie 3</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://animebum.net/v-koutetsujou-no-kabaneri-movie-3-unato-kessen-audio-latino"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/pJOYBevz1tMTtexr3KeSx8G6SCN.jpg"
+                alt="pelicula 151"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Koutetsujou no Kabaneri Movie 3 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://monoschinos2.com/anime/yu-gi-oh-el-lado-oscuro-de-dimensiones-latino-sub-espanol"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/gwHQsHSGdJD0xcru4JF6Xd99q3p.jpg"
+                alt="pelicula 152"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Yu-Gi-Oh! El Lado Obscuro De Las Dimensiones Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/season/pelicula-eiga-karakai-jouzu-no-takagi-san-espanol-latino-hd-1/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/qFIW1hxWOSLMwUuI9MB3udqmFUU.jpg"
+                alt="pelicula 153"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Made in Abyss Movie 1 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://animebum.net/v-made-in-abyss-movie-2-hourou-suru-tasogare-audio-latino"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/fUANpIoeKeK9mngo5wJz6bTNzt4.jpg"
+                alt="pelicula 154"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Made in Abyss Movie 2 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/496/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/cajdWJfmvTqZJjbryygNNMe65GW.jpg"
+                alt="pelicula 155"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Mi Vecino Totoro Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/wakaokami-wa-shougakusei-espanol-latino-hd/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/vYjzuMvI3Q4VUr7LYK4oJ2pJx9Y.jpg"
+                alt="pelicula 156"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Okko y los fantasmas: la pelicula</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://vix.com/es-es/detail/video-4259665"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/g08t3r6oesgg2Js0bQgWY4ZnHY1.jpg"
+                alt="pelicula 157"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Inazuma Eleven: La película Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://vix.com/es-es/detail/video-4259681"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/xhfSdY68URA7iHXVmMjmWBJd07q.jpg"
+                alt="pelicula 158"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>InuYasha Movie 1 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://vix.com/es-es/detail/video-4287298"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/enYAtRF46XCm1qUHI2sDS7U2T5z.jpg"
+                alt="pelicula 159"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>InuYasha Movie 2 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://vix.com/es-es/detail/video-4259692"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/wuwnRFk8pmuyAPlBdWo1cW9C8Dx.jpg"
+                alt="pelicula 160"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>InuYasha Movie 3 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://vix.com/es-es/detail/video-4287290"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/i5IFMT8dgMBAL8W80GSOzqS8kXm.jpg"
+                alt="pelicula 162"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>InuYasha Movie 4 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www.animelatinohd.com/anime/toki-wo-kakeru-shoujo"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/d2OqnQtOu31lImipTIcTTT9FaQI.jpg"
+                alt="pelicula 163"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>La chica que saltaba a través del tiempo Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/pompoko-espanol-latino-hd/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/3YDaDwaB4XnRhYLLdW8qzS9VVoS.jpg"
+                alt="pelicula 164"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Pompoko Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/perfect-blue"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/t102ksBHM4P6t2AQZQ6zipGtYbr.jpg"
+                alt="pelicula 165"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Perfect Blue</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/851/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/c4si8JOIVnN03fESnwngdkJxNj3.jpg"
+                alt="pelicula 166"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Ponyo y el secreto de la Sirenita Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.animeonline.ninja/pelicula/psycho-pass-sinners-of-the-system-case-1/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/pieDnLArEw43kZxYejn3XbrNZdg.jpg"
+                alt="pelicula 167"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Psycho-Pass Movie 1 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.animeonline.ninja/pelicula/psycho-pass-sinners-of-the-system-case-2-first-guardian/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/pvPvg8k7tfER4xPFJ4edPcx7ImC.jpg"
+                alt="pelicula 168"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Psycho-Pass Movie 2 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.animeonline.ninja/pelicula/psycho-pass-sinners-of-the-system-case-3/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/z58HUycqOWH38CK8R3Q03v0M8UC.jpg"
+                alt="pelicula 169"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Psycho-Pass Movie 3 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.animeonline.ninja/pelicula/psycho-pass-3-first-inspector/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/cojOMQvTwcPTSUc0BnRZqfKU34y.jpg"
+                alt="pelicula 170"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Psycho-Pass 3: FIRST INSPECTOR</span>
+            </a>
+          </li>
+          <!------------------->
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/mundo-de-los-diminutos-latino-hd/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/dJIY15svyL5aCeGfd036uAB5x4D.jpg"
+                alt="pelicula 171"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>The Secret World of Arrietty Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://tubitv.com/movies/581873/the-king-s-avatar-for-the-glory-espa-ol?start=true"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/9CC0s1VbBHBUBWMWi5mueXHQYCK.jpg"
+                alt="pelicula 172"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>The King's Avatar: For the Glory Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/episode/peliculas-towa-no-quon-espanol-latino-hd-1x1/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/ylXRjwhPvN3hPtMfQ1kLHtP1Mfs.jpg"
+                alt="pelicula 173"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Towa no Quon: Movie 1 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/episode/peliculas-towa-no-quon-espanol-latino-hd-1x2/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/83mzED0e2naR6ap8W74GelFM8cf.jpg"
+                alt="pelicula 174"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Towa no Quon: Movie 2 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/episode/peliculas-towa-no-quon-espanol-latino-hd-1x3/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/nOd53C825QEVQboCIh43iAxHxpy.jpg"
+                alt="pelicula 175"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Towa no Quon: Movie 3 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/episode/peliculas-towa-no-quon-espanol-latino-hd-1x4/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/oQheBkbGkMzvc57N2LZgY73Oj16.jpg"
+                alt="pelicula 176"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Towa no Quon: Movie 4 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/episode/peliculas-towa-no-quon-espanol-latino-hd-1x5/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/tiqvem84cpEJTVB0xhq3SP5ejuc.jpg"
+                alt="pelicula 177"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Towa no Quon: Movie 5 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/episode/peliculas-towa-no-quon-espanol-latino-hd-1x6/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/1hI83abh9Vd2YOJhMKVHk8qWaPf.jpg"
+                alt="pelicula 178"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Towa no Quon: Movie 6 Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/umibe-no-etranger-sub-espanol-hd/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/oAWRp4jwuCFZshUlkYyJIXAvF99.jpg"
+                alt="pelicula 179"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Un Estraño En La Orilla Del Mar</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www.animelatinohd.com/anime/koukaku-kidoutai-stand-alone-complex-2nd-gig-individual-eleven"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/9dcsUNdMVK6hEyD3CiVmBWG594s.jpg"
+                alt="pelicula 180"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Ghost in the Shell Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/kidou-senshi-gundam-cucuruz-doan-no-shima"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/sRUKTGQngY3XAJ0nxjvCO030Kby.jpg"
+                alt="pelicula 181"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Mobile Suit Gundam</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.animeonline.ninja/pelicula/ni-no-kuni/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/rtmpBx8BBRyCjZwLu1x9Zg2VnMZ.jpg"
+                alt="pelicula 182"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Ni no Kuni Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/kono-subarashii-sekai-ni-shukufuku-wo-kurenai-densetsu-16o2iapv"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/wqpTrmGiqMJ6onAq3zrBhfomIJl.jpg"
+                alt="pelicula 183"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Konosuba The Movie Legend of Crismon</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://ww3.animeonline.ninja/pelicula/konosuba-kurenai-densetsu-2/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/wqpTrmGiqMJ6onAq3zrBhfomIJl.jpg"
+                alt="pelicula 184"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Konosuba The Movie Legend of Crismon Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/862/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/A70r0FeqeASmm8X5uqoTwXLiO4r.jpg"
+                alt="pelicula 185"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>La Colina De Las Amapolas Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://henaojara2.com/ver/la-princesa-mononoke-espanol-latino-hd/"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/9EXOVRt9j6Fy7RqhgU3CLtWkXPL.jpg"
+                alt="pelicula 186"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>La Princesa Mononoke Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/odd-taxi-movie-in-the-woods"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/hV0ORYPc3ImcfgK0ay3BuPgjg1G.jpg"
+                alt="pelicula 187"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Odd Taxi Movie</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/watashi-ni-tenshi-ga-maiorita-precious-friends"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/A5IUpILPQufbCbjI62LXrYZTWhm.jpg"
+                alt="pelicula 188"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>WATATEN!</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/youjo-senki-movie"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/dMcaQp4XfPK11bDeUyj2JOqEY8I.jpg"
+                alt="pelicula 189"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Youjo Senki Movie</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/youjo-senki-movie-latino"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/dMcaQp4XfPK11bDeUyj2JOqEY8I.jpg"
+                alt="pelicula 190"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Youjo Senki Movie Latino</span>
+            </a>
+          </li>
+          <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href="https://www1.otakustv.com/anime/yuru-camp-movie"
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src="https://www.themoviedb.org/t/p/w500_and_h282_face/nBU9ZF7P397Xp7IlUfwbShigAcE.jpg"
+                alt="pelicula 191"
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>Yuru Camp Movie</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <a href="#" id="scrollUpButton" class="floating-button"
+      ><i class="bi bi-arrow-up"></i
+    ></a>
+    <a href="#" id="scrollDownButton" class="floating-button"
+      ><i class="bi bi-arrow-down"></i
+    ></a>
+    <script src="script.js"></script>
+  </body>
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+    crossorigin="anonymous"
+  ></script>
+</html>

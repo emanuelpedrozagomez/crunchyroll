@@ -1,0 +1,555 @@
+const data = [
+  {
+    name: "¡Soy Reiko Shiratori!",
+    link: "https://www.viki.com/tv/35653c#episodes",
+    image:
+      "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/33e4cbe6255ed8f44b19f4f3c6c4ad73.jpe",
+  },
+  {
+    name: "¡Soy Reiko Shiratori! La Pelicula",
+    link: "https://www.viki.com/movies/35652c",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/yReI97H20J5RdYsLOtKbE6WsseS.jpg",
+  },
+  {
+    name: "Alarma de Amor Season 1",
+    link: "https://pandrama.com/detalle/alarma-de-amor/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/mXouvrZbn8YpZMURGvw30QK8qfo.jpg",
+  },
+  {
+    name: "Alarma de Amor Season 2",
+    link: "https://pandrama.com/detalle/Love-Alarm-2/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/3LxH7kVJOK0dW5vdjPzKQ4ZWVQy.jpg",
+  },
+  {
+    name: "Alarma de Amor Season 1 Latino",
+    link: "https://pandrama.com/detalle/love-alarm-doblada/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/mXouvrZbn8YpZMURGvw30QK8qfo.jpg",
+  },
+  {
+    name: "Alarma de Amor Season 2 Latino",
+    link: "https://pandrama.com/detalle/Love-Alarm-2-doblado/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/3LxH7kVJOK0dW5vdjPzKQ4ZWVQy.jpg",
+  },
+  {
+    name: "Alta Dirección",
+    link: "https://www.doramasvip.vip/ver-doramas-online/top-managament/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/1KvB3lhnP1Q0Di6CVH2fEsYGJOE.jpg",
+  },
+  {
+    name: "Asistente de superestrella",
+    link: "https://www.viki.com/tv/38154c#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/lavVUgjBzbAsSi6LX1MEMGpqSFg.jpg",
+  },
+  {
+    name: "Beso Travieso: Amor en Tokyo",
+    link: "https://www.viki.com/tv/22593c#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/hSPl1ASM2HuWitindaK8LPmm0w.jpg",
+  },
+  {
+    name: "Beso Travieso 2: Amor en Tokyo",
+    link: "https://www.viki.com/tv/25563c#episodes",
+    image:
+      "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/674355dd0d327d84e878ee80a9ef76d7.jpe",
+  },
+  {
+    name: "Blackpink: Light Up the Sky",
+    link: "https://doramasflix.in/peliculas-online/blackpink-light-up-the-sky",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/hjwByr4YkMLOCBAohiq6lK3ymvr.jpg",
+  },
+  {
+    name: "Blackpink: The Movie",
+    link: "https://doramasflix.in/peliculas-online/blackpink-the-movie",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/19BZEsN5p3LWHaZqPzPWEbo4t44.jpg",
+  },
+  {
+    name: "Blackpink: The Show",
+    link: "https://doramasflix.in/doramas-online/blackpink-the-show",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/bc3k6ybsMISVl9W6AZvKPwVTn08.jpg",
+  },
+  {
+    name: "Boys Over Flowers",
+    link: "https://www.viki.com/tv/38391c#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/7guIurRpW1U4nKLRVRV3OFJozQc.jpg",
+  },
+  {
+    name: "Boys Over Flowers: Returns",
+    link: "https://www.viki.com/tv/38390c#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/rO4XFHXdKCmFcysiMy9YH7YJuhs.jpg",
+  },
+  {
+    name: "Chicos Nobles",
+    link: "https://www.viki.com/tv/37348c-noble-boys?qId=7205793ae351abf880d90227e66eaaa9#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/tbS9ICa9RGNGqj0d681U46hCc2f.jpg",
+  },
+  {
+    name: "Cursed in Love",
+    link: "https://doramasflix.in/doramas-online/cursed-in-love",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/f9WIXqDKEiHn2jRwWsmT2hcg714.jpg",
+  },
+  {
+    name: "Descendientes del Sol",
+    link: "https://www.viki.com/tv/23205c#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/xoPtxpbc2WSbjTZvoiNQ05m65hL.jpg",
+  },
+  {
+    name: "Descendientes del Sol Latino",
+    link: "https://doramasflix.in/doramas-online/descendants-of-the-sun",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/xoPtxpbc2WSbjTZvoiNQ05m65hL.jpg",
+  },
+  {
+    name: "El amor da mucha guerra",
+    link: "https://doramasflix.in/doramas-online/love-to-hate-you",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/6zbGMxkmKbCnARQsJcPML4Se4uD.jpg",
+  },
+  {
+    name: "El amor es como el chachachá",
+    link: "https://pandrama.com/detalle/hometown-cha-cha-cha/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/niIq1sFJLIdFmwBFJNGzJR7xrnp.jpg",
+  },
+  {
+    name: "El amor es como el chachachá Latino",
+    link: "https://pandrama.com/detalle/hometown-cha-cha-cha-sp/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/niIq1sFJLIdFmwBFJNGzJR7xrnp.jpg",
+  },
+  {
+    name: "El asesino del impermeable",
+    link: "https://doramasflix.in/variedades-online/el-asesino-del-impermeable",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/ctDcoK9QJ5yac7RmdQwfIUSOT9n.jpg",
+  },
+  {
+    name: "El primer amor: Hatsukoi Latino",
+    link: "https://pandrama.com/detalle/el-primer-amor-hatsukoi-latino/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/yJsFFvlGLjcbcDzziElJMfWFzW3.jpg",
+  },
+  {
+    name: "Eligiendo al cónyuge por lotería",
+    link: "https://www.viki.com/tv/37465c-choosing-spouse-by-lottery#about",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/AjV5SkyD93e1GgluwpFBUyiTHTe.jpg",
+  },
+  {
+    name: "Érase un Amor Rural",
+    link: "https://doramasflix.co/doramas/once-upon-a-small-town",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/bdkfBz4waYCe3DsgLMMHsgQGw8R.jpg",
+  },
+  {
+    name: "¡Éxito inesperado!",
+    link: "https://www.viki.com/tv/38709c#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/vKyZiSaYVyLgmz62cg1uVOSujfM.jpg",
+  },
+  {
+    name: "Fábrica de fideos de Tokio",
+    link: "https://www.viki.com/tv/38229c#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/IstbbAFb5ndkDSO74FVHnTi0KZ.jpg",
+  },
+  {
+    name: "Given Live Action",
+    link: "https://www1.otakustv.com/anime/given-live-action",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/bjSvFFmLtB4luDBdh4amXCO0qUL.jpg",
+  },
+  {
+    name: "Gudetama: Del Cascaron A La Aventura Latino",
+    link: "https://pandrama.com/detalle/gudetama-del-cascaron-a-la-aventura-latino/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/aDi1Eke1u3QGkVYQakXTqqIC7kZ.jpg",
+  },
+  {
+    name: "Horimiya Live Action Latino",
+    link: "https://www1.animeonline.ninja/online/horimiya-live-action/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/sZoJtjNDfyCx3xOWXL8SmMYh44O.jpg",
+  },
+  {
+    name: "Hotel Del Luna",
+    link: "https://www.viki.com/tv/36667c#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/oC40djK4MXkqpJ0ItVxRjCl9vsc.jpg",
+  },
+  {
+    name: "Kakafukaka",
+    link: "https://www.viki.com/tv/36906c-kakafukaka-series#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/gNBcaReWhvYaMRHH45Im1V8naXM.jpg",
+  },
+  {
+    name: "Kakafukaka Especial",
+    link: "https://www.viki.com/movies/37015c#about",
+    image:
+      "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3gZzBBA59NMq44OTTTGOye1YR2z.jpg",
+  },
+  {
+    name: "Koinaka",
+    link: "https://www24.estrenosdoramas.net/2015/10/koinaka.html",
+    image:
+      "https://3.bp.blogspot.com/-0tGfoqN58_s/VePC0w3of-I/AAAAAAAACWM/2HdHImPNAoQ/s1600/maxresdefault.jpg",
+  },
+  {
+    name: "Kanojo Okarishimasu Live Action",
+    link: "https://www.viki.com/tv/38941c-rental-a-girlfriend#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/ySBgNFRLSiCYmS6LCqXMTRLMl31.jpg",
+  },
+  {
+    name: "Kimi ni Todoke: Llegando a Ti Live Action Latino",
+    link: "https://doramasflix.in/doramas-online/kimi-ni-todoke-from-me-to-you",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/9yuEDUTjM3XnzNN0P1NcMhEEvIl.jpg",
+  },
+  {
+    name: "Kimi ni Todoke: Llegando a Ti Live Action Movie",
+    link: "https://www1.animeonline.ninja/pelicula/kimi-ni-todoke-llegare-a-ti/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/vQc3i8dFIEKx36FEpeApg7MXQD9.jpg",
+  },
+  {
+    name: "Kimi wa Petto",
+    link: "https://www.viki.com/tv/35651c-youre-my-pet-kimi-wa-petto#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/VgFpBfD8utG4axW0im74aJmGeg.jpg",
+  },
+  {
+    name: "Komi-San no puede comunicarse Live Action",
+    link: "https://www1.animeonline.ninja/online/komi-san-wa-comyushou-desu-live-action/",
+    image:
+      "https://1.bp.blogspot.com/-wt3U3cwO2W0/YSL5003zPnI/AAAAAAAAU0E/I4tlCsWEBHAQz0TQBF4421wE6U5GJKnQwCLcBGAsYHQ/s700/komi-san-no-puede-comunicarse-live-action-dorama-poster.jpg",
+  },
+  {
+    name: "La Gloria",
+    link: "https://pandrama.com/detalle/the-glory-2022/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/iu5zBMCRKZECC78flUGd10tuQVT.jpg",
+  },
+  {
+    name: "La Gloria Latino",
+    link: "https://pandrama.com/detalle/la-gloria-lat/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/iu5zBMCRKZECC78flUGd10tuQVT.jpg",
+  },
+  {
+    name: "Lupin III y el corazón púrpura de Cleopatra Latino",
+    link: "https://tubitv.com/movies/100002369/lupin-iii-y-el-coraz-n-p-rpura-de-cleopatra-doblado?start=true",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/z1N17Y5q1EE0IMrBbALyCHBuNE8.jpg",
+  },
+  {
+    name: "Mi ID es belleza de Gangnam",
+    link: "https://www.viki.com/tv/36424c-my-id-is-gangnam-beauty#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/eNK7aolIJ75W7tNeh5I0An14rtg.jpg",
+  },
+  {
+    name: "MURAI ENAMORADO",
+    link: "https://www.viki.com/tv/39609c#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/etdIIYKAnmLRw6DH602cAJL1sLc.jpg",
+  },
+  {
+    name: "Niños antes que flores",
+    link: "https://www.viki.com/tv/50c#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/9juHZxm3AIaYY7SVqw82MZEX9zB.jpg",
+  },
+  {
+    name: "Power Rangers Latino",
+    link: "https://www.lacartoons.com/serie/68",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/7QDBljltPXib9ozSbm67OZ5n3is.jpg",
+  },
+  {
+    name: "Power Rangers Tormenta Ninja Latino",
+    link: "https://www.lacartoons.com/serie/466",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/iflYm9fxcZHlzvDsOetnaCMOtU0.jpg",
+  },
+  {
+    name: "Programador Adorable",
+    link: "https://www.viki.com/tv/38692c#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/kx8BO31XgNbefidUJGxbKjG2A6v.jpg",
+  },
+  {
+    name: "Propuesta Laboral",
+    link: "https://pandrama.com/detalle/propuesta-de-negocios/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/wWlIpEOsxoJgM53sjvyaeOZvon9.jpg",
+  },
+  {
+    name: "Propuesta Laboral Latino",
+    link: "https://pandrama.com/detalle/propuesta-de-trabajo-latino/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/wWlIpEOsxoJgM53sjvyaeOZvon9.jpg",
+  },
+  {
+    name: "Querida Hermana Latino",
+    link: "https://www6.doramasprime.com/drama/querida-hermana",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/5mSk2KfeSFTw73N6f4sPWpzTDS0.jpg",
+  },
+  {
+    name: "Snowdrop",
+    link: "https://doramasflix.in/doramas-online/snowdrop",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/jByjtObPfhcxTrDJhh3KyoNS4yU.jpg",
+  },
+  {
+    name: "Sabuesos",
+    link: "https://doramasflix.in/doramas-online/bloodhounds",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/b2iWqSFpuy9CS5XWiAmnLzNv9eP.jpg",
+  },
+  {
+    name: "Silencio",
+    link: "https://www.viki.com/tv/38836c-silent#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/qQaD2tWg73TnVNhiskFnvPMOCQ8.jpg",
+  },
+  {
+    name: "Soundtrack 1 Latino",
+    link: "https://pandrama.com/detalle/soundtrack-1-latino/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/wQ5XdGHM59uw0Aobw0uDgHyyyfe.jpg",
+  },
+  {
+    name: "The Good Bad Mother",
+    link: "https://doramasflix.in/doramas-online/the-good-bad-mother",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/mNjXLuhgvj8ILVVeuuL2Lg4Uc0d.jpg",
+  },
+  {
+    name: "Theatre of Darkness Live Action",
+    link: "https://www1.otakustv.com/anime/yami-shibai-live-action",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/8pIgytRmoLsc1uIsBm2nUzF9aZ.jpg",
+  },
+  {
+    name: "True Beauty",
+    link: "https://doramasflix.in/doramas-online/true-beauty",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/lJunoYq5iMFFjqcRP88vYk7XvS4.jpg",
+  },
+  {
+    name: "Tú eres mi destino",
+    link: "https://www.viki.com/tv/36951c-you-are-my-destiny?qId=d84cc0b930d2a20bd3fd534ba78079bd#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/wIR1yAVJIF4IcmiPQR8SZJ5C4JN.jpg",
+  },
+  {
+    name: "Un amor precioso",
+    link: "https://pandrama.com/detalle/un-amor-tan-hermoso/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/haOBvTkiTXhDgMpRfFN0RGLOyPg.jpg",
+  },
+  {
+    name: "Un amor precioso Latino",
+    link: "https://pandrama.com/detalle/un-amor-tan-hermoso-latino/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/haOBvTkiTXhDgMpRfFN0RGLOyPg.jpg",
+  },
+  {
+    name: "Un amor tan hermoso",
+    link: "https://wetv.vip/es/play/1twrzqdqktvdgu8-Un%20amor%20tan%20hermoso/h00309h5ais-EP1%3A%20A%20love%20so%20beautiful",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/75jkeATO7961xE00qFhQW9gFCOz.jpg",
+  },
+  {
+    name: "Un caso incurable de amor",
+    link: "https://www.viki.com/tv/38087c-an-incurable-case-of-love#about",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/dSz2x0nQ0wV60HCOC3gw8DJHjsX.jpg",
+  },
+  {
+    name: "Una chica del siglo XX",
+    link: "https://doramasflix.in/peliculas-online/20th-century-girl",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/zwmuyx5ivQbU3TQDJxbUgxo41Jl.jpg",
+  },
+  {
+    name: "Wakakozake Live Action",
+    link: "https://www.viki.com/tv/38733c#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/8MNGBuBqovJxDwQ7BQm9Yi3RR8c.jpg",
+  },
+  {
+    name: "Wakakozake Season 2 Live Action",
+    link: "https://www.viki.com/tv/38734c#episodes",
+    image:
+      "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/671d39b04cb4147a40b0300bcd6d69d9.jpe",
+  },
+  {
+    name: "Wotakoi Live Action",
+    link: "https://pandrama.com/detalle/wotakoi-love-is-hard/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/prNSFGKGjtc2lYEr8zjDastCeEg.jpg",
+  },
+  {
+    name: "Youth of May",
+    link: "https://doramasflix.in/doramas-online/youth-of-may",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/xhKV1XuW4DkcFRQVXbTpSMQSmfg.jpg",
+  },
+  {
+    name: "Yuri u otro",
+    link: "https://www.viki.com/tv/37464c-yuri-or-another",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/c2EsCiXttFfF1xKCRSPfWDBGAfm.jpg",
+  },
+  {
+    name: "Zom 100: The Bucket List of the Dead Live Action",
+    link: "https://ww3.animeonline.ninja/pelicula/zom-100-bucket-list-of-the-dead-live-action/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/9yWftdMEsbu2BiMdcB2XcUAzxhF.jpg",
+  },
+  {
+    name: "La Isla",
+    link: "https://doramasflix.in/doramas-online/island",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/7vapdGNjm5FMQ2dbfj1F5Aby6Hq.jpg",
+  },
+  {
+    name: "One Piece Live Action Latino",
+    link: "https://www.henaojara.com/ver/season/one-piece-live-action-espanol-latino-hd-1/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/dHRjYJETHIsnI8eS5KgWPKS4Oki.jpg",
+  },
+  {
+    name: "Amor Bajo la Luz de la Luna",
+    link: "https://pandrama.tv/detalle/luz-de-luna-pintada-por-las-nubes/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/cCNE7fPYi0ezR0Jr5fs4cpmfVwb.jpg",
+  },
+  {
+    name: "Amor Bajo la Luz de la Luna Latino",
+    link: "https://pluto.tv/es/on-demand/series/love-in-the-moonlight-lt/details/season/1",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/cCNE7fPYi0ezR0Jr5fs4cpmfVwb.jpg",
+  },
+  {
+    name: "Sueña Sin Limites",
+    link: "https://pandrama.tv/detalle/dream-high/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/cOVekHdWlmTJCLcOpH3OQGy8G4.jpg",
+  },
+  {
+    name: "Sueña Sin Limites Latino",
+    link: "https://pluto.tv/es/on-demand/series/dream-high-lt/details/season/1",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/cOVekHdWlmTJCLcOpH3OQGy8G4.jpg",
+  },
+  {
+    name: "Sueña Sin Limites Season 2 Latino",
+    link: "https://pandrama.tv/detalle/suena-sin-limites-t2/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/farxfrH7D7D3TpybCs1AzXooICK.jpg",
+  },
+];
+const searchInput = document.getElementById("searchInput");
+const resultsList = document.getElementById("results");
+var ul = document.getElementById("series");
+var encontrado = false;
+function search() {
+  const query = searchInput.value.toLowerCase().trim();
+  const filteredData = data.filter((item) => item.name.toLowerCase() === query);
+  // Mostrar los resultados
+  filteredData.forEach((item) => {
+    const li = document.createElement("li");
+    const link = document.createElement("a");
+    link.href = item.link;
+    link.target = "_blank";
+    link.style = "text-decoration: none; color: white;";
+    li.style = "padding: 10px; margin-bottom: 5px;";
+
+    const img = document.createElement("img");
+    img.src = item.image;
+    img.alt = item.name;
+    img.width = 80;
+    img.height = 50;
+    img.style = "padding-right: 5px;";
+    link.appendChild(img);
+
+    const span = document.createElement("span");
+    span.textContent = item.name;
+    link.appendChild(span);
+
+    li.appendChild(link);
+    resultsList.appendChild(li);
+    ul.classList.add("filtro");
+  });
+  if (filteredData.length === 0) {
+    var mensaje = document.getElementById("mensaje");
+    mensaje.style.display = "block";
+  } else {
+    var mensaje = document.getElementById("mensaje");
+    mensaje.style.display = "none";
+  }
+  if (query === "") {
+    resultsList.innerHTML = ""; // Limpiar la lista de resultados si el campo de búsqueda está vacío
+    ul.classList.remove("filtro");
+    var mensaje = document.getElementById("mensaje");
+    mensaje.style.display = "none";
+    return; // Salir de la función
+  }
+}
+window.addEventListener("scroll", function () {
+  var scrollUpButton = document.getElementById("scrollUpButton");
+  var scrollDownButton = document.getElementById("scrollDownButton");
+  var windowHeight = window.innerHeight;
+  var documentHeight = document.body.scrollHeight;
+  if (window.pageYOffset > windowHeight / 2) {
+    // Muestra el botón de ir hacia arriba si estás más abajo de la mitad de la ventana
+    scrollUpButton.classList.add("show");
+  } else {
+    scrollUpButton.classList.remove("show");
+  }
+  if (window.pageYOffset + windowHeight < documentHeight - windowHeight / 2) {
+    // Muestra el botón de ir hacia abajo si no estás cerca del final de la página
+    scrollDownButton.classList.add("show");
+  } else {
+    scrollDownButton.classList.remove("show");
+  }
+});
+
+document
+  .getElementById("scrollUpButton")
+  .addEventListener("click", function (e) {
+    e.preventDefault();
+    window.scrollTo({ top: 0, behavior: "smooth" }); // Desplázate suavemente hacia la parte superior de la página
+  });
+
+document
+  .getElementById("scrollDownButton")
+  .addEventListener("click", function (e) {
+    e.preventDefault();
+    window.scrollTo({
+      top: document.body.scrollHeight,
+      behavior: "smooth",
+    }); // Desplázate suavemente hacia el final de la página
+  });
+
+// Escuchar eventos de entrada en el campo de búsqueda
+searchInput.addEventListener("input", search);

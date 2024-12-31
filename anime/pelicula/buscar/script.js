@@ -276,6 +276,18 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/jBIMZ0AlUYuFNsKbd4L6FojWMoy.jpg",
   },
   {
+    name: "Haikyuu!! La batalla en el basurero",
+    link: "https://wvw.henaojara.com/veronline/season/haikyu-la-batalla-del-basurero-sub-espanol-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/nqsLANIEa1h5lr7GPxWHjqbA26H.jpg",
+  },
+  {
+    name: "Haikyuu!! La batalla en el basurero Latino",
+    link: "https://ww3.animeonline.ninja/pelicula/haikyuu-movie-gomisuteba-no-kessen/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/nqsLANIEa1h5lr7GPxWHjqbA26H.jpg",
+  },
+  {
     name: "Haikyuu Movie 3",
     link: "https://www1.otakustv.com/anime/haikyuu-movie-3-sainou-to-sense-hemt6qpa",
     image:
@@ -307,19 +319,19 @@ const data = [
   },
   {
     name: "Evangelion 1.11 YOU ARE (NOT) ALONE Latino",
-    link: "https://monoschinos2.com/anime/evangelion-111-you-are-not-alone-latino-sub-espanol",
+    link: "https://ww3.animeonline.ninja/pelicula/evangelion-1-11-you-are-not-alone/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/tXSsyVC1nTNY2ZuHkvhSjj0FxkR.jpg",
   },
   {
     name: "Evangelion 2.22 YOU CAN (NOT) ADVANCE Latino",
-    link: "https://monoschinos2.com/anime/evangelion-222-you-can-not-advance-latino-sub-espanol",
+    link: "https://ww3.animeonline.ninja/pelicula/evangelion-2-22-you-can-not-advance/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/nDSYwWyL3SoX2cqMhVzBXfryjUY.jpg",
   },
   {
     name: "Evangelion 3.33 YOU CAN (NOT) REDO Latino",
-    link: "https://monoschinos2.com/anime/evangelion-333-you-can-not-redo-latino-sub-espanol",
+    link: "https://ww3.animeonline.ninja/pelicula/evangelion-3-33-you-can-not-redo/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/tNYhfqDhR5pKU5pnL3h0CmYoB1Q.jpg",
   },
@@ -553,7 +565,7 @@ const data = [
   },
   {
     name: "La leyenda de hei",
-    link: "https://www1.otakustv.com/anime/the-legend-of-luoxiaohei",
+    link: "https://www1.otakustv.com/anime/luo-xiao-hei-zhan-ji-movie",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/uK4DbBOadzUC36Pd3Oxdy9mCJsB.jpg",
   },
@@ -595,7 +607,7 @@ const data = [
   },
   {
     name: "Quiero Comerme tu Pancreas Latino",
-    link: "https://monoschinos2.com/anime/kimi-no-suizou-wo-tabetai-latino-sub-espanol",
+    link: "https://ww3.animeonline.ninja/pelicula/kimi-no-suizou-wo-tabetai-6-072924/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/7mEdttJoHCHjBUP4YvLXFs3Ddmi.jpg",
   },
@@ -607,7 +619,7 @@ const data = [
   },
   {
     name: "Los Niños Lobo Latino",
-    link: "https://monoschinos2.com/anime/ookami-kodomo-no-ame-to-yuki-latino-sub-espanol",
+    link: "https://ww3.animeonline.ninja/pelicula/ookami-kodomo-no-ame-to-yuki/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/eNWjMbuhGxJdzaIY9ZZ2KvWx2sQ.jpg",
   },
@@ -637,67 +649,67 @@ const data = [
   },
   {
     name: "Naruto Movie 1 Latino",
-    link: "https://www1.animeonline.ninja/pelicula/naruto-the-movie-ninja-clash-in-the-land-of-snow/",
+    link: "https://pluto.tv/es/on-demand/movies/naruto-the-movie-ninja-clash-in-the-land-of-snow-lt-2004-1-1/details",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/cGhW2jigeUUke682LdhzNGtyfA7.jpg",
   },
   {
     name: "Naruto Movie 2 Latino",
-    link: "https://www1.animeonline.ninja/pelicula/naruto-the-movie-2-legend-of-the-stone-of-gelel/",
+    link: "https://pluto.tv/es/on-demand/movies/naruto-the-movie-legend-of-the-stone-of-gelel-lt-2005-1-1/details",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/ldwWnaWoW8ziEFflimoraZouyvB.jpg",
   },
   {
     name: "Naruto Movie 3 Latino",
-    link: "https://www1.animeonline.ninja/pelicula/naruto-the-movie-3-guardians-of-the-crescent-moon-kingdom/",
+    link: "https://pluto.tv/es/on-demand/movies/naruto-the-movie-guardians-of-the-crescent-moon-kingdom-lt-2006-1-1/details",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/w1JPid4Wx9awVpAxcgXFlNcCrUA.jpg",
   },
   {
     name: "Naruto Shippuden Movie 1 Latino",
-    link: "https://henaojara2.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x1/",
+    link: "https://pluto.tv/es/on-demand/movies/naruto-shippuden-the-movie-lt-2007-1-1/details",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/cIp2F2KnPVnZ9Klw600uRkfLWu9.jpg",
   },
   {
     name: "Naruto Shippuden Movie 2 Latino",
-    link: "https://henaojara2.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x2/",
+    link: "https://pluto.tv/es/on-demand/movies/naruto-shippuden-the-movie-bonds-lt-2008-1-1/details",
     image:
       "https://www.themoviedb.org/t/p/original/fNseqlKRt7a1MHnPw8L2gGYgd1K.jpg",
   },
   {
     name: "Naruto Shippuden Movie 3 Latino",
-    link: "https://henaojara2.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x3/",
+    link: "https://pluto.tv/es/on-demand/movies/naruto-shippuden-the-movie-will-of-fire-lt-2009-1-1/details",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/c8iPAKL5nQqZOmSXVrcJvWNA9DQ.jpg",
   },
   {
     name: "Naruto Shippuden Movie 4 Latino",
-    link: "https://henaojara2.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x4/",
+    link: "https://pluto.tv/es/on-demand/movies/naruto-shippuden-the-movie-the-lost-tower-lt-2010-1-1/details",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/cRd7J9VS1Z7GeF7qE0V0F4glln2.jpg",
   },
   {
     name: "Naruto Shippuden Movie 5 Latino",
-    link: "https://henaojara2.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x5/",
+    link: "https://pluto.tv/es/on-demand/movies/naruto-shippuden-the-movie-blood-prison-lt-2011-1-1/details",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/2LNoyJWFuBf3HoFQH19yyhxIL7v.jpg",
   },
   {
     name: "Road to Ninja: Naruto Latino",
-    link: "https://henaojara.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x6/",
+    link: "https://pluto.tv/es/on-demand/movies/road-to-ninja-naruto-the-movie-lt-2012-1-1/details",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/euiQ3P7E6wPdETmzWQj7kyDiE3D.jpg",
   },
   {
     name: "Naruto Shippuden Movie 7 Latino",
-    link: "https://henaojara.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x7/",
+    link: "https://pluto.tv/es/on-demand/movies/the-last-naruto-the-movie-lt-2014-1-1/details",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/uOeaOJi83lKOpPSx4X5oOnUGyNQ.jpg",
   },
   {
     name: "Boruto: Naruto The Movie Latino",
-    link: "https://www1.animeonline.ninja/pelicula/boruto-naruto-the-movie/",
+    link: "https://pluto.tv/es/on-demand/movies/boruto-naruto-the-movie-lt-2015-1-1/details",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/lw4Semx1gAQHT7DHIYw8wm9M5fE.jpg",
   },
@@ -907,7 +919,7 @@ const data = [
   },
   {
     name: "Yu-Gi-Oh! El Lado Obscuro De Las Dimensiones Latino",
-    link: "https://monoschinos2.com/anime/yu-gi-oh-el-lado-oscuro-de-dimensiones-latino-sub-espanol",
+    link: "https://ww3.animeonline.ninja/pelicula/yu-gi-oh-the-darkside-dimensions-120424/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/gwHQsHSGdJD0xcru4JF6Xd99q3p.jpg",
   },
@@ -1069,7 +1081,7 @@ const data = [
   },
   {
     name: "Ghost in the Shell Latino",
-    link: "https://www.animelatinohd.com/anime/koukaku-kidoutai-stand-alone-complex-2nd-gig-individual-eleven",
+    link: "https://pluto.tv/es/on-demand/movies/602d2896ffe774001ad3616e/details?utm_source=googleads&utm_medium=cpc&utm_campaign=MexicoNon-BrandServicios",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/9dcsUNdMVK6hEyD3CiVmBWG594s.jpg",
   },
@@ -1144,6 +1156,330 @@ const data = [
     link: "https://ww3.animeonline.ninja/episodio/edens-zero-recap/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/2oFsFVLRq6Hpj83Dxo81kpiC37c.jpg",
+  },
+  {
+    name: "Suzume Latino",
+    link: "https://www.henaojara.com/ver/suzume-no-tojimari-espanol-latino-hd/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/lrACtADbyOCEK2K3gU7ZL5LYXR6.jpg",
+  },
+  {
+    name: "Santa Company Latino",
+    link: "https://pluto.tv/es/on-demand/movies/santa-company-the-secret-of-xmas-2019-1-1/details",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/Av3zsHuZeJWhMohkjwVo2w5lElx.jpg",
+  },
+  {
+    name: "Devilman: El Nacimiento Latino",
+    link: "https://pluto.tv/es/on-demand/movies/devilman-the-birth-1987-1-1/details",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/tap6TiYx7GJM6wGDcLH47EuWnhL.jpg",
+  },
+  {
+    name: "Devilman: Ave Demoniaca, Sirene Latino",
+    link: "https://pluto.tv/es/on-demand/movies/devilman-the-demon-bird-1990-1-1/details",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/gwcf7fzQUZbODZF7bsROYc395Rg.jpg",
+  },
+  {
+    name: "Gridman Universe",
+    link: "https://www1.otakustv.com/anime/gridman-universe",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/fdf186a6b2d9f37f8016bb1c25dfb9a7.jpg",
+  },
+  {
+    name: "Astro Boy",
+    link: "https://pluto.tv/es/on-demand/series/6553c3b025fde2001a376e4f/details/season/1?utm_source=googleads&utm_medium=cpc&utm_campaign=MexicoNon-BrandServicios",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/mpRJbjF7XTBOyW80LDthPsFDkhm.jpg",
+  },
+  {
+    name: "Rascal Does Not Dream of a Sister Venturing Out",
+    link: "https://www1.otakustv.com/anime/seishun-buta-yarou-wa-odekake-sister-no-yume-wo-minai",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/uHyg0pGMC6Ut0gJWfvVpPtKxHm9.jpg",
+  },
+  {
+    name: "Psycho-Pass: Providence",
+    link: "https://www1.otakustv.com/anime/psycho-pass-movie-providence",
+    image:
+      "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a89c322c22e288004cab9fa83ebb8f4e.jpe",
+  },
+  {
+    name: "Metropolis Latino",
+    link: "https://www.henaojara.com/ver/season/metropolis-espanol-latino-hd-1/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/sDloGsjw2IR1kArtv60nmuxvOOT.jpg",
+  },
+  {
+    name: "Inu-Oh Latino",
+    link: "https://www.henaojara.com/ver/season/inu-oh-espanol-latino-hd-1/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/tNJR1Qia3AmOUgP3f1ERmn0qorT.jpg",
+  },
+  {
+    name: "Kaina of the Great Snow Sea: Star Sage",
+    link: "https://www1.otakustv.com/anime/ooyukiumi-no-kaina-hoshi-no-kenja",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/eHKRUk1QENXXzrgKg3nLHJCQn4m.jpg",
+  },
+  {
+    name: "Kimi no Na wa",
+    link: "https://www1.otakustv.com/anime/kimi-no-na-wa",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/qg0P94wHVrrozZkxfcXx0w5fHl.jpg",
+  },
+  {
+    name: "Fumiko's Confession",
+    link: "https://www1.otakustv.com/anime/fumiko-no-kokuhaku",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/61ZrGFSciDEqlsTAGFofDRDd2Nj.jpg",
+  },
+  {
+    name: "Burn the Witch #0.8",
+    link: "https://www1.otakustv.com/anime/burn-the-witch-08",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/myjgnRHwNTqPboUEYdNnXff6Py3.jpg",
+  },
+  {
+    name: "Summer Wars Latino",
+    link: "https://www.henaojara.com/ver/season/summer-wars-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/b6p0JcqxSgQYDRD8UQzKtassylA.jpg",
+  },
+  {
+    name: "El chico y la garza",
+    link: "https://www1.otakustv.com/anime/kimitachi-wa-dou-ikiru-ka",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/ybn3jCia5XBD0ZgEM07gcUPuRNh.jpg",
+  },
+  {
+    name: "El chico y la garza Latino",
+    link: "https://www.henaojara.com/ver/season/el-chico-y-la-garza-kimitachi-wa-dou-ikiru-ka-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/ybn3jCia5XBD0ZgEM07gcUPuRNh.jpg",
+  },
+  {
+    name: "Susurros del Corazon",
+    link: "https://www.henaojara.com/veronline/season/susurros-del-corazon-1995-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/rvHT1o9Km0fHE1YRLMSvWkVCLVM.jpg",
+  },
+  {
+    name: "Assassination Classroom 365 Days Time The Movie",
+    link: "https://www1.otakustv.com/anime/ansatsu-kyoushitsu-365-nichi-no-jikan",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/s4B1dW363mFhQ3BJBkZOr0wTWkb.jpg",
+  },
+  {
+    name: "Dragon Ball: El Camino Hacia el Mas Fuerte",
+    link: "https://www1.otakustv.com/anime/dragon-ball-movie-4-saikyou-e-no-michi",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/1R9xxxweS2se0pbcLToYZPXVbtv.jpg",
+  },
+  {
+    name: "My Last Day",
+    link: "https://www1.otakustv.com/anime/my-last-day",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/rIGdrzXkR9VuiBfqpxOhBbQLCFi.jpg",
+  },
+  {
+    name: "My Oni Girl",
+    link: "https://www1.otakustv.com/anime/suki-demo-kirai-na-amanojaku",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/p1qQ9HjerdG2Xg4IopznsmaahDM.jpg",
+  },
+  {
+    name: "My Oni Girl Latino",
+    link: "https://wvw.henaojara.com/veronline/season/suki-demo-kirai-na-amanojaku-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/fD98mLMmxHmqdqWHOMht3iXvcj5.jpg",
+  },
+  {
+    name: "Dragon Ball Z: El Último Combate",
+    link: "https://www1.otakustv.com/anime/dragon-ball-z-special-1-tatta-hitori-no-saishuu-kessen",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/z9574kfCFSUh4kWCevRYUI3xGG9.jpg",
+  },
+  {
+    name: "Ultraman: Rising",
+    link: "https://www1.otakustv.com/anime/ultraman-rising",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/osZW7uhMXCKCpCfvKu6UT6gmSgm.jpg",
+  },
+  {
+    name: "Baki Hanma vs Kengan Ashura",
+    link: "https://www1.otakustv.com/anime/hanma-baki-vs-kengan-ashura",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/6LPGdnB3iJ8VjpuCOfICkimFhTt.jpg",
+  },
+  {
+    name: "Baki Hanma vs Kengan Ashura Latino",
+    link: "https://wvw.henaojara.com/veronline/season/baki-hanma-vs-kengan-ashura-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/6LPGdnB3iJ8VjpuCOfICkimFhTt.jpg",
+  },
+  {
+    name: "El imaginario",
+    link: "https://www1.otakustv.com/anime/yaneura-no-rudger",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/r488XPGouCdLA4HSU4L8pVfmQke.jpg",
+  },
+  {
+    name: "El imaginario Latino",
+    link: "https://wvw.henaojara.com/veronline/season/el-imaginario-yaneura-no-rudger-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/r488XPGouCdLA4HSU4L8pVfmQke.jpg",
+  },
+  {
+    name: "Akira Latino",
+    link: "https://wvw.henaojara.com/veronline/season/akira-1988-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/q8dW0cXbG5PbDsLLv7wszKtduIR.jpg",
+  },
+  {
+    name: "Blue Lock la pelicula Latino",
+    link: "https://wvw.henaojara.com/veronline/season/blue-lock-episode-nagi-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/z1Axpofbs05zyEYcQKEUoxILHUU.jpg",
+  },
+  {
+    name: "Blue Lock la pelicula",
+    link: "https://www1.otakustv.com/anime/blue-lock-episode-nagi",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/z1Axpofbs05zyEYcQKEUoxILHUU.jpg",
+  },
+  {
+    name: "Spy x Family Movie: Code: White",
+    link: "https://www1.otakustv.com/anime/spy-x-family-movie-code-white",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/18LFBhs0ZUM68BscioitOxr3HQ5.jpg",
+  },
+  {
+    name: "Spy x Family Movie: Codigo: Blanco",
+    link: "https://ww3.animeonline.ninja/pelicula/spyxfamily-the-movie-080924/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/18LFBhs0ZUM68BscioitOxr3HQ5.jpg",
+  },
+  {
+    name: "Sailor Moon Cosmos",
+    link: "https://www1.otakustv.com/anime/bishoujo-senshi-sailor-moon-cosmos-movie",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/so1c3Mz6UpPf6DtOakAPafnlatQ.jpg",
+  },
+  {
+    name: "Sailor Moon Cosmos Latino",
+    link: "https://ww3.animeonline.ninja/pelicula/bishoujo-senshi-sailor-moon-cosmos-movie-081224/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/jjtA1eeiJmjc1lZla1N9Ha0CYTf.jpg",
+  },
+  {
+    name: "The First Slam Dunk",
+    link: "https://www1.otakustv.com/anime/the-first-slam-dunk",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/mrGmzIdU0vYhlUyK8BlMRsbbi8j.jpg",
+  },
+  {
+    name: "The First Slam Dunk Latino",
+    link: "https://ww3.animeonline.ninja/pelicula/slam-dunk-movie-the-first-slam-dunk-120923/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/mrGmzIdU0vYhlUyK8BlMRsbbi8j.jpg",
+  },
+  {
+    name: "Arpeggio of Blue Steel: Ars Nova DC Latino",
+    link: "https://ww3.animeonline.ninja/pelicula/arpeggio-of-blue-steel-ars-nova-dc/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/t8gKdkqeBRGyNNOSOoaNqpJxOAi.jpg",
+  },
+  {
+    name: "Arpeggio of Blue Steel: Ars Nova Cadenza Latino",
+    link: "https://ww3.animeonline.ninja/pelicula/aoki-hagane-no-arpeggio-ars-nova-cadenza/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/xnvjzWFUtIclT0kVILPofLsKp21.jpg",
+  },
+  {
+    name: "Gurren Lagann: El fin de la infancia",
+    link: "https://www1.otakustv.com/anime/tengen-toppa-gurren-lagann-movie-1-gurren-hen",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/4VOTHrUV4n1NAXyLlBRrRAXzgEH.jpg",
+  },
+  {
+    name: "Hunter X Hunter: Phantom Rouge",
+    link: "https://www1.otakustv.com/anime/hunter-x-hunter-movie-1-phantom-rouge",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/ptSWHamfPL4hPBd6n3IskMfyBwd.jpg",
+  },
+  {
+    name: "Hunter X Hunter: Phantom Rouge Latino",
+    link: "https://ww3.animeonline.ninja/pelicula/hunter-x-hunter-phantom-rouge-072424/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/ptSWHamfPL4hPBd6n3IskMfyBwd.jpg",
+  },
+  {
+    name: "Hunter X Hunter: The Last Mission",
+    link: "https://www1.otakustv.com/anime/hunter-x-hunter-movie-2-the-last-mission",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/vUPS0GDkfWMGD34niNFtkBBezOY.jpg",
+  },
+  {
+    name: "Hunter X Hunter: The Last Mission Latino",
+    link: "https://ww3.animeonline.ninja/pelicula/hunter-x-hunter-the-last-mission-052224/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/vUPS0GDkfWMGD34niNFtkBBezOY.jpg",
+  },
+  {
+    name: "Look Back",
+    link: "https://www1.otakustv.com/anime/look-back",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/7X3WV3taAFtptTLhHoj6aSnsx8W.jpg",
+  },
+  {
+    name: "Look Back Latino",
+    link: "https://ww3.animeonline.ninja/pelicula/look-back/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/7X3WV3taAFtptTLhHoj6aSnsx8W.jpg",
+  },
+  {
+    name: "Dragon Ball Z: La Fusion de Goku y Vegeta",
+    link: "https://www1.otakustv.com/anime/dragon-ball-z-movie-12-fukkatsu-no-fusion-gokuu-to-vegeta",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/9hAgxPgaPHLGg9NUEGld194Ek05.jpg",
+  },
+  {
+    name: "Mononoke",
+    link: "https://www1.otakustv.com/anime/mononoke-movie-karakasa",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/jIJhDofDxf7TCHZSg99YbOLqIsZ.jpg",
+  },
+  {
+    name: "Mononoke Latino",
+    link: "https://ww3.animeonline.ninja/pelicula/mononoke-movie-karakasa/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/jIJhDofDxf7TCHZSg99YbOLqIsZ.jpg",
+  },
+  {
+    name: "Overlord: El reino sagrado Latino",
+    link: "https://www.henaojara.com/veronline/season/overlord-el-reino-sagrado-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
+  },
+  {
+    name: "SSSS.DYNAZENON",
+    link: "https://www1.otakustv.com/anime/ssssdynazenon-movie",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/gCkSjWRG9ebP89Ha20Lm8BRuZTN.jpg",
+  },
+  {
+    name: "The Concierge",
+    link: "https://www1.otakustv.com/anime/hokkyoku-hyakkaten-no-concierge-san",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/9fe91d91297c6c6e776c4aa42221f0a5.jpg",
+  },
+  {
+    name: "Given: The Movie II",
+    link: "https://www1.otakustv.com/anime/given-movie-2-hiiragi-mix",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/4scvBHAxMLXb6c4RLCtnCzbx4Mf.jpg",
   },
 ];
 const searchInput = document.getElementById("searchInput");

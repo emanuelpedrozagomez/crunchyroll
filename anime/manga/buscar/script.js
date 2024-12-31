@@ -27,6 +27,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w220_and_h330_face/auEIx2p67fPQE1zQSw6fvFp8rhv.jpg",
   },
   {
+    name: "Alya Sometimes Hides Her Feelings in Russian",
+    link: "https://visortmo.com/library/manga/73200/tokidokibosottorussiagodedererutonarinoalyasan",
+    image:
+      "https://images.tokopedia.net/img/cache/700/hDjmkQ/2023/5/2/14074ab6-5305-4bcd-81f4-9801476ae2a3.jpg",
+  },
+  {
     name: "Ao no Exorcist",
     link: "https://inmanga.com/ver/manga/Ao-no-Exorcist/6ba3bd58-32cd-4edf-91b0-3b672a9f91e9",
     image: "https://m.media-amazon.com/images/I/61FgaySLtBL.jpg",
@@ -154,17 +160,20 @@ const data = [
   {
     name: "Danmachi",
     link: "https://lectortmo.com/library/manga/8717/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka",
-    image: "https://otakuteca.com/images/books/cover/5c79d9c2043e9.jpg",
+    image:
+      "https://m.media-amazon.com/images/I/61X7Q844lHL._AC_UF894,1000_QL80_.jpg",
   },
   {
     name: "Danmachi 2",
     link: "https://lectortmo.com/library/manga/45950/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii",
-    image: "https://otakuteca.com/images/books/cover/5ffba32bc6059.jpg",
+    image:
+      "https://m.media-amazon.com/images/I/71E8l2cKUYL._AC_UF894,1000_QL80_.jpg",
   },
   {
     name: "DanMachi Nichijou",
     link: "https://lectortmo.com/library/manga/10118/Dungeon-ni-Deai-o-Motomeru-no-wa-Machigatte-Iru-Darou-ka-4koma--Days-of-Goddess-",
-    image: "https://otakuteca.com/images/books/cover/10118_TMOmanga113826.jpg",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk5SPvr9sbssCEMAxApvSZYFbSMMLR8zOraw&usqp=CAU",
   },
   {
     name: "Darling In The FranXX",
@@ -223,13 +232,13 @@ const data = [
     name: "Edens Zero",
     link: "https://inmanga.com/ver/manga/Eden-s-Zero/0d07f1cd-2faf-4834-81a0-16957be58620",
     image:
-      "https://api-manga.crunchyroll.com/i/croll_manga/7498b07a9cd167a74c35d0b7daaf4ae4_1530049449_large.jpg",
+      "https://m.media-amazon.com/images/I/814ZrdPDRfL._AC_UF894,1000_QL80_.jpg",
   },
   {
     name: "Fairy Tail",
     link: "https://inmanga.com/ver/manga/Fairy-Tail/d39c9e78-2d59-422a-b888-cdf6e7d72cbc",
     image:
-      "https://api-manga.crunchyroll.com/i/croll_manga/731b1e7fb3ae28b5fef5b97e3de18432_1378507252_large.jpg",
+      "https://m.media-amazon.com/images/I/81EIdomF4FL._AC_UF1000,1000_QL80_.jpg",
   },
   {
     name: "Fairy Tail: La misión de los 100 años",
@@ -250,7 +259,7 @@ const data = [
     name: "Fire Force",
     link: "https://inmanga.com/ver/manga/Fire-Brigade-Of-Flames/4b5b74a8-11da-4943-a561-b36f0082f7be",
     image:
-      "https://api-manga.crunchyroll.com/i/croll_manga/83fa13859c8baee6f20708b5d4bd5c35_1640071967_large.jpg",
+      "https://m.media-amazon.com/images/I/81oCwXtMrfL._AC_UF894,1000_QL80_.jpg",
   },
   {
     name: "Fruits Basket",
@@ -340,7 +349,7 @@ const data = [
   {
     name: "Hero's",
     link: "https://inmanga.com/ver/manga/Hero-s/789b27e9-14f1-4594-8cf2-c00d99bb1726",
-    image: "https://otakuteca.com/images/books/cover/5f3c6facf03b5.jpg",
+    image: "https://m.media-amazon.com/images/I/51jKolaitgL.jpg",
   },
   {
     name: "High School DxD",
@@ -358,7 +367,7 @@ const data = [
     name: "In/Spectre",
     link: "https://r2.leermanga.xyz/kyokou+suiri/18506",
     image:
-      "https://api-manga.crunchyroll.com/i/croll_manga/841e6b055d4e951297a7d84e6b28d7d9_1640073610_large.jpg",
+      "https://m.media-amazon.com/images/I/71LMJz0VfBL._AC_UF1000,1000_QL80_.jpg",
   },
   {
     name: "Inazuma Eleven",
@@ -397,718 +406,783 @@ const data = [
       "https://m.media-amazon.com/images/I/51rdL5YupQL._SX336_BO1,204,203,200_.jpg",
   },
   {
-    name: "Re:Zero Movie 1",
-    link: "https://www1.otakustv.com/anime/re-zero-kara-hajimeru-isekai-seikatsu-memory-snow-siihyg6j",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/t9ifVuOtSZBvtieF9L83pnHnOcC.jpg",
+    name: "Jojos Bizarre Adventure Parte 7: Steel Ball Run",
+    link: "https://inmanga.com/ver/manga/Jojos-Bizarre-Adventure-Parte-7-Steel-Ball-Run/9bb83484-c474-4750-baaa-c4b028ec744b",
+    image: "https://m.media-amazon.com/images/I/51V1bzeEAoL._AC_SY780_.jpg",
   },
   {
-    name: "Re:Zero Movie 1 Latino",
-    link: "https://www1.animeonline.ninja/pelicula/rezero-kara-hajimeru-isekai-seikatsu-memory-snow-1/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/t9ifVuOtSZBvtieF9L83pnHnOcC.jpg",
+    name: "Jojo's Bizarre Adventure: Asi Hablo Kishibe Rohan",
+    link: "https://inmanga.com/ver/manga/Kishibe-Rohan-wa-Ugokanai/07e56a21-3dd6-4624-a32b-1e4d5878f0b0",
+    image: "https://imagessl9.casadellibro.com/a/l/s5/49/9788418837449.webp",
   },
   {
-    name: "Re:Zero Movie 2",
-    link: "https://www1.otakustv.com/anime/re-zero-kara-hajimeru-isekai-seikatsu-hyouketsu-no-kizuna-aigpmjso",
+    name: "Joshi Kausei",
+    link: "https://lectortmo.com/library/manga/11675/joshi-kausei",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/uFtwdbAiNP9QKdsU3gOWTErFDUw.jpg",
+      "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1478295912i/32873150.jpg",
   },
   {
-    name: "Re:Zero Movie 2 Latino",
-    link: "https://www1.animeonline.ninja/pelicula/rezero-kara-hajimeru-isekai-seikatsu-hyouketsu-no-kizuna-1/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/uFtwdbAiNP9QKdsU3gOWTErFDUw.jpg",
+    name: "Jujutsu Kaisen",
+    link: "https://inmanga.com/ver/manga/Jujutsu-Kaisen/d88692a5-c341-47fc-8e39-da11a8fdee82",
+    image: "../../img/jujutsu_kaisen_manga.jpg",
   },
   {
-    name: "Bunny Girl Senpai Movie",
-    link: "https://www1.otakustv.com/anime/seishun-buta-yarou-wa-yumemiru-shoujo-no-yume-wo-minai",
+    name: "K-ON!",
+    link: "https://inmanga.com/ver/manga/K-ON/53978dbf-6629-42ae-965c-f3e9de12ca03",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/5MgMCnslrxQfOfaq6T5ndkLlcCk.jpg",
+      "https://m.media-amazon.com/images/I/518+dP7oYqL._AC_UF1000,1000_QL80_.jpg",
   },
   {
-    name: "Summer Ghost",
-    link: "https://www1.otakustv.com/anime/summer-ghost",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/AkZ4ArPT5HR3VGp4cUmvyrtgic8.jpg",
+    name: "Kaguya-sama",
+    link: "https://lectortmo.com/library/manga/131/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunosen",
+    image: "https://m.media-amazon.com/images/I/81+380N1RFL.jpg",
   },
   {
-    name: "Summer Ghost Latino",
-    link: "https://www1.henaojara.com/ver/summer-ghost-espanol-latino-hd/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/AkZ4ArPT5HR3VGp4cUmvyrtgic8.jpg",
+    name: "Kaguya-sama Full Color",
+    link: "https://lectortmo.com/library/manga/70841/kaguya-sama-love-is-war-digital-colored-comics",
+    image: "https://m.media-amazon.com/images/I/81+380N1RFL.jpg",
   },
   {
-    name: "Suzume",
-    link: "https://henaojara2.com/ver/season/suzume-no-tojimari-sub-espanol-hd-1/",
+    name: "Kaguya-sama Wa Kokurasetai Official Dounjinshi",
+    link: "https://lectortmo.com/library/manga/41615/kaguya-sama-wa-kokurasetai-official-doujinshi",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/lrACtADbyOCEK2K3gU7ZL5LYXR6.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhv4OWHvizSgUlzXKnPfZ-ZijTpk45zSZ07MDIkd5YJO-9jyJ5ra5WFr3I_H-AC1-iFd4&usqp=CAU",
   },
   {
-    name: "Sword Art Online: Ordinal Scale Latino",
-    link: "https://drive.google.com/file/d/1n10Tg8Le0f4iu6YdAPOpoqT0Zs-ehcaT/view",
+    name: "La Sacerdotisa de Octubre",
+    link: "https://lectortmo.com/library/manga/40541/kannazuki-no-miko",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/8qaICWPguiCUlG35McbG4PZ94Zm.jpg",
+      "https://m.media-amazon.com/images/I/51tBCoh6phL._AC_UF350,350_QL50_.jpg",
   },
   {
-    name: "Sword Art Online: Extra Edition",
-    link: "https://www1.otakustv.com/anime/sword-art-online-extra-edition",
+    name: "La Sacerdotisa de Octubre Spin-Off",
+    link: "https://lectortmo.com/library/manga/50416/kannazuki-no-miko-destiny-of-shrine-maiden-spin-off",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/nI2nNWCZZIMFb1sV7RVq1Nd8iWM.jpg",
+      "https://m.media-amazon.com/images/I/51837wCFORL._AC_UF894,1000_QL80_.jpg",
   },
   {
-    name: "To Every You I've Loved Before",
-    link: "https://www1.otakustv.com/anime/boku-ga-aishita-subete-no-kimi-e",
+    name: "Kanojo Okarishimasu",
+    link: "https://lectortmo.com/library/manga/30388/kanojo-okarishimasu",
     image:
-      "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/b9165e5aa4edbee30442f0b0e363577b.jpe",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRGtQh-PRMsAMGEpT7H1GsSYv6dyNcdqXtQhQnPdoKLm-kgQnNb45lmUx0RD3qVS733qk&usqp=CAU",
   },
   {
-    name: "To Me, The One Who Loved You",
-    link: "https://www1.otakustv.com/anime/kimi-wo-aishita-hitori-no-boku-e",
-    image:
-      "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a995e989258d964172a8b84573a6bcc0.jpe",
+    name: "Kanojo Okarishimasu Antologia",
+    link: "https://lectortmo.com/library/manga/52414/kanojo-okarishimasu-antologia",
+    image: "https://pbs.twimg.com/media/EeFL1wiXsAEYobd.jpg:large",
   },
   {
-    name: "That Time I Got Reincarnated as a Slime The Movie: Scarlet Bond",
-    link: "https://www1.otakustv.com/anime/tensei-shitara-slime-datta-ken-movie-guren-no-kizuna-hen",
+    name: "Karakai Jouzu no Takagi-san",
+    link: "https://lectortmo.com/library/manga/8960/karakai-jouzu-no-takagi-san",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/xBspq7kJsfkzch95MzFl5RDDMK4.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQumiB_KuOrIOPXuH6SIorvCJUTMyy54Q_zhmKm37JjAa2dXZER6ht1XMuTbItYPhnZPAY&usqp=CAU",
   },
   {
-    name: "That Time I Got Reincarnated as a Slime The Movie: Scarlet Bond Latino",
-    link: "https://henaojara2.com/ver/season/tensei-shitara-slime-datta-ken-movie-espanol-latino-hd-1/",
+    name: "Katekyo Hitman Reborn",
+    link: "https://inmanga.com/ver/manga/Katekyo-Hitman-Reborn/242430be-c91b-461d-a3f2-4505003299f8",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/xBspq7kJsfkzch95MzFl5RDDMK4.jpg",
+      "https://www.themoviedb.org/t/p/w220_and_h330_face/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
   },
   {
-    name: "DanMachi: La película",
-    link: "https://www1.otakustv.com/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya",
+    name: "Kenichi",
+    link: "https://inmanga.com/ver/manga/Shijo-Saikyo-no-Deshi-Kenichi/82697fa5-678a-405c-b5a3-0608ee7e7244",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/eBdT6fBRMHO4bq00VZcAGlDGizz.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNL7wtw_hhTeCtBBVHUtEdmKwNih0N6LVq8RnOrmnXwfNlRj6Kq8RkKZNHE7KNpg6wRz4&usqp=CAU",
   },
   {
-    name: "Demon Slayer: Mugen Train Movie Latino",
-    link: "https://henaojara2.com/ver/episode/kimetsu-no-yaiba-mugen-train-espanol-latino-hd-1x1/",
+    name: "Kimi Ni Todoke",
+    link: "https://inmanga.com/ver/manga/Kimi-Ni-Todoke/62aad989-b37d-410f-893d-5ae788fa9ffc",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/AqhA7GXDEaP1spOWih195YzSPem.jpg",
+      "https://m.media-amazon.com/images/I/51rsjJvXMsL._SX330_BO1,204,203,200_.jpg",
   },
   {
-    name: "Ghost Messager",
-    link: "https://www.viki.com/movies/35622c",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/41HQbBFxI3AtUTFZbHBvKbImaU3.jpg",
+    name: "Kimi No Na Wa",
+    link: "https://inmanga.com/ver/manga/Kimi-no-Na-wa/7ac03e04-35a4-4abf-81ed-e12d0256019e",
+    image: "https://m.media-amazon.com/images/I/41PleQlMxVL.jpg",
   },
   {
-    name: "Given: The Movie",
-    link: "https://www1.otakustv.com/anime/given-movie",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/u1wHUA0R48FH4WV3sGqjwx3aNZm.jpg",
+    name: "Kimi No Na Wa After Story",
+    link: "https://inmanga.com/ver/manga/Your-Name-After-Story/6c69b3f6-28ae-441e-8515-0482d9bdb126",
+    image: "https://m.media-amazon.com/images/I/81yvin6NLvL.jpg",
   },
   {
-    name: "Goblin Slayer: Goblin's Crown Movie",
-    link: "https://www1.otakustv.com/anime/goblin-slayer-goblins-crown",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/k0C6lcVUFzxlvjeSldKnMy5hITv.jpg",
+    name: "Kiss Him, Not Me",
+    link: "https://inmanga.com/ver/manga/Watashi-ga-Motete-Dousunda/9bf8c174-8061-408c-814e-a7b6c9364010",
+    image: "https://m.media-amazon.com/images/I/91ODsEQ7kPL.jpg",
   },
   {
-    name: "Kakushigoto Movie",
-    link: "https://www1.otakustv.com/anime/kakushigoto-movie",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/9K06g8yFjUPGVZ2bFmKhsl1pg12.jpg",
+    name: "Koe no Katachi",
+    link: "https://inmanga.com/ver/manga/Koe-no-Katachi/a8d51383-4afc-43c6-adea-78c20cfce80c",
+    image: "https://m.media-amazon.com/images/I/61leF3kduEL.jpg",
   },
   {
-    name: "Kanojo to Kanojo no Neko: Everything Flows",
-    link: "https://www1.animeonline.ninja/pelicula/kanojo-to-kanojo-no-neko-everything-flows/",
+    name: "Komi-San no puede comunicarse",
+    link: "https://lectortmo.com/library/manga/13698/komi-san-wa-komyushou-desu",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/eVWGvkxYuDy4xZWiUPEu9eQ2ItE.jpg",
+      "https://img1.ak.crunchyroll.com/i/spire3/9d8a8183b40eacb1911e0489bd7dc6421638218741_main.png",
   },
   {
-    name: "La leyenda de hei",
-    link: "https://www1.otakustv.com/anime/the-legend-of-luoxiaohei",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/uK4DbBOadzUC36Pd3Oxdy9mCJsB.jpg",
+    name: "Kubo no me deja ser invisible",
+    link: "https://mangaplus.shueisha.co.jp/titles/200089",
+    image: "https://m.media-amazon.com/images/I/71FZU3diOWL.jpg",
   },
   {
-    name: "La Princesa Y El Piloto Latino",
-    link: "https://tubitv.com/movies/689822/la-princesa-y-el-piloto-doblado?start=true",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/BsugEx8xj1MNaowx5YXZ2hfG51.jpg",
+    name: "Kuma Kuma Kuma Bear",
+    link: "https://lectortmo.com/library/manga/38049/kuma-kuma-kuma-bear-manga",
+    image: "https://m.media-amazon.com/images/I/81IxEKUSt9S.jpg",
   },
   {
-    name: "La tumba de las luciernagas",
-    link: "https://www.animelatinohd.com/anime/hotaru-no-haka",
+    name: "Kuma Kuma Kuma Bear Spin-Off",
+    link: "https://lectortmo.com/library/manga/58570/kuma-kuma-kuma-bear-kyou-mo-kuma-kuma-biyori",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/3kFSr5CrSaeQZ00lCOKQopyK7h3.jpg",
+      "https://somoskudasai.com/wp-content/uploads/2020/09/EhjkGqAU4AMr_SU.jpg",
   },
   {
-    name: "Little Witch Academia: The Enchanted Parade",
-    link: "https://www1.otakustv.com/anime/little-witch-academia-mahou-shikake-no-parade",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/1POfVpdNPMURXomBDXbYuk4qV73.jpg",
+    name: "Kuroko no Basket",
+    link: "https://inmanga.com/ver/manga/Kuroko-no-Basket/d81c979d-469f-47cf-bacb-f253b72921b3",
+    image: "https://m.media-amazon.com/images/I/71Jscy4HqEL.jpg",
   },
   {
-    name: "Love Live! The School Idol Movie",
-    link: "https://animebum.net/v-love-live-the-school-idol-movie",
+    name: "Konosuba",
+    link: "https://inmanga.com/ver/manga/Kono-Subarashii-Sekai-ni-Bakuen-wo/57c88d71-9190-4ee1-8e01-6896c7fa5842",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/52lsYCKGL74ULaRRmLNVIYLeudO.jpg",
+      "https://m.media-amazon.com/images/I/51vcSEZ-vZL._SX332_BO1,204,203,200_.jpg",
   },
   {
-    name: "Luces En El Cielo Latino",
-    link: "https://www.henaojara.com/ver/luces-en-el-cielo-espanol-latino-hd/",
+    name: "Lycoris Recoil",
+    link: "https://lectortmo.com/library/manga/71550/lycoris-recoil",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/jALSBQCFjwf3rvkKjpmBZnVeTjT.jpg",
+      "https://www.themoviedb.org/t/p/w220_and_h330_face/xTYDhM8LCoXX8VOLUmqR2qTW7Hi.jpg",
   },
   {
-    name: "Lupin III vs. Cat's Eye Latino",
-    link: "https://www1.animeonline.ninja/pelicula/lupin-iii-vs-cats-eye/",
+    name: "The Honor at Magic High School",
+    link: "https://inmanga.com/ver/manga/Mahouka-Koukou-no-Rettousei-Tsuioku-Hen/be5cd7f5-3307-4562-879a-ed60b3082c1a",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/vd6qdfp3TjJ0acLtSWfH6gfx3WI.jpg",
+      "https://pack-yak.intomanga.com/thumbnails/manga/Mahouka-Koukou-no-Rettousei-Tsuioku-Hen/be5cd7f5-3307-4562-879a-ed60b3082c1a",
   },
   {
-    name: "Quiero Comerme tu Pancreas Latino",
-    link: "https://monoschinos2.com/anime/kimi-no-suizou-wo-tabetai-latino-sub-espanol",
+    name: "The Irregular at Magic High School",
+    link: "https://inmanga.com/ver/manga/Mahouka-Koukou-no-Rettousei-Nyuugaku-hen/4febd68e-1c51-4f7f-8141-f6067afeab05",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/7mEdttJoHCHjBUP4YvLXFs3Ddmi.jpg",
+      "https://pack-yak.intomanga.com/thumbnails/manga/Mahouka-Koukou-no-Rettousei-Nyuugaku-hen/4febd68e-1c51-4f7f-8141-f6067afeab05",
   },
   {
-    name: "Saenai Heroine no Sodatekata Fine",
-    link: "https://www1.otakustv.com/anime/saenai-heroine-no-sodatekata-fine-mhv2yrnb",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/n4mSs3hQ3mQZX6KKqeSRDLs062y.jpg",
+    name: "Mashle",
+    link: "https://lectortmo.com/library/manga/48025/mashle",
+    image: "../../img/mashle.jpg",
   },
   {
-    name: "Los Niños Lobo Latino",
-    link: "https://monoschinos2.com/anime/ookami-kodomo-no-ame-to-yuki-latino-sub-espanol",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/eNWjMbuhGxJdzaIY9ZZ2KvWx2sQ.jpg",
+    name: "Mieruko-Chan",
+    link: "https://lectortmo.com/library/manga/41746/mieruko-chan",
+    image: "https://m.media-amazon.com/images/I/51cWTdQTBrL.jpg",
   },
   {
-    name: "Héroes modestos: Teatro de cortometrajes de Ponoc",
-    link: "https://www1.otakustv.com/anime/chiisana-eiyuu-kani-to-tamago-to-toumei-ningen",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/o0v4FKQgxP345993HnznYImIiEC.jpg",
+    name: "Mieruko-Chan Official Anthology Comic",
+    link: "https://lectortmo.com/library/manga/65152/mieruko-chan-koushiki-anthology-comic",
+    image: "https://m.media-amazon.com/images/I/81FWczZ+IJL.jpg",
   },
   {
-    name: "Héroes modestos: Teatro de cortometrajes de Ponoc Latino",
-    link: "https://www1.animeonline.ninja/pelicula/chiisana-eiyuu-kani-to-tamago-to-toumei-ningen/",
+    name: "Miss Kobayashi-San Dragon Maid",
+    link: "https://es.novelcool.com/novel/Kobayashi-san-Chi-No-Maid-Dragon.html",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/o0v4FKQgxP345993HnznYImIiEC.jpg",
+      "https://www.themoviedb.org/t/p/w220_and_h330_face/3bTFNsVnEGk4h2S84fr1ncl8wKn.jpg",
   },
   {
-    name: "Mary y la Flor de la Bruja",
-    link: "https://henaojara.com/ver/mary-y-la-flor-de-la-bruja-latino-hd/",
+    name: "Mob Psycho 100",
+    link: "https://inmanga.com/ver/manga/Mob-Psycho-100/646ff44c-15dd-4838-b08d-a8d3f6f2ccc5",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/abILXCcNDLbxQNFSidHTaYROqGN.jpg",
+      "https://m.media-amazon.com/images/I/61Uyznt4MeL._SX351_BO1,204,203,200_.jpg",
   },
   {
-    name: "Natsu e no Tunnel, Sayonara no Deguchi",
-    link: "https://www1.otakustv.com/anime/natsu-e-no-tunnel-sayonara-no-deguchi",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/4Qtk6XMIaXl8ASgxXJU3uTLzTzH.jpg",
+    name: "Monster",
+    link: "https://inmanga.com/ver/manga/Monster/be792685-a03f-4ac6-94c3-d9149c12f808",
+    image: "https://m.media-amazon.com/images/I/51DKcL0JMVL.jpg",
   },
   {
-    name: "Naruto Movie 1 Latino",
-    link: "https://www1.animeonline.ninja/pelicula/naruto-the-movie-ninja-clash-in-the-land-of-snow/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/cGhW2jigeUUke682LdhzNGtyfA7.jpg",
+    name: "Mushoku Tensei Jobless Reincarnation",
+    link: "https://lectortmo.com/library/manga/8635/mushoku-tensei-isekai-ittara-honki-dasu",
+    image: "https://m.media-amazon.com/images/I/81vgliRXgRL.jpg",
   },
   {
-    name: "Naruto Movie 2 Latino",
-    link: "https://www1.animeonline.ninja/pelicula/naruto-the-movie-2-legend-of-the-stone-of-gelel/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/ldwWnaWoW8ziEFflimoraZouyvB.jpg",
+    name: "Mushoku Tensei Jobless Reincarnation Roxy Gets Serious",
+    link: "https://lectortmo.com/library/manga/38880/Mushoku-Tensei--Roxy-datt",
+    image: "https://m.media-amazon.com/images/I/51Ax571KWEL.jpg",
   },
   {
-    name: "Naruto Movie 3 Latino",
-    link: "https://www1.animeonline.ninja/pelicula/naruto-the-movie-3-guardians-of-the-crescent-moon-kingdom/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/w1JPid4Wx9awVpAxcgXFlNcCrUA.jpg",
+    name: "Mushoku Tensei Jobless Reincarnation 4-koma",
+    link: "https://lectortmo.com/library/manga/47498/mushoku-tensei-4-koma-ni-natte-mo-honki-dasu",
+    image: "https://somoskudasai.com/wp-content/uploads/2020/07/716pJIkhqL.jpg",
   },
   {
-    name: "Naruto Shippuden Movie 1 Latino",
-    link: "https://henaojara2.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x1/",
+    name: "Mushoku Tensei Jobless Reincarnation Depressed Magican Arc",
+    link: "https://lectortmo.com/library/manga/65568/mushoku-tensei-isekai-ittara-honki-dasu-shitsui-no-majutsushi-hen",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/cIp2F2KnPVnZ9Klw600uRkfLWu9.jpg",
+      "https://m.media-amazon.com/images/I/81vgliRXgRL._AC_UF894,1000_QL80_.jpg",
   },
   {
-    name: "Naruto Shippuden Movie 2 Latino",
-    link: "https://henaojara2.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x2/",
+    name: "Mushoku Tensei Jobless Reincarnation Eris Gaiden",
+    link: "https://lectortmo.com/library/manga/67784/mushoku-tensei-eris-wa-honki-de-kiba-wo-togu",
     image:
-      "https://www.themoviedb.org/t/p/original/fNseqlKRt7a1MHnPw8L2gGYgd1K.jpg",
+      "https://m.media-amazon.com/images/I/81+9230+OLL._AC_UF894,1000_QL80_.jpg",
   },
   {
-    name: "Naruto Shippuden Movie 3 Latino",
-    link: "https://henaojara2.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x3/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/c8iPAKL5nQqZOmSXVrcJvWNA9DQ.jpg",
+    name: "My Clueless First Friend",
+    link: "https://lectortmo.com/library/manga/42332/jijyou-wo-shiranai-tenkousei-ga-guigui-kuru",
+    image: "https://m.media-amazon.com/images/I/51EpK2wFI1L.jpg",
   },
   {
-    name: "Naruto Shippuden Movie 4 Latino",
-    link: "https://henaojara2.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x4/",
+    name: "My Dress-Up Darling",
+    link: "https://lectortmo.com/library/manga/38647/sono-bisque-doll-wa-koi-wo-suru",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/cRd7J9VS1Z7GeF7qE0V0F4glln2.jpg",
+      "https://m.media-amazon.com/images/I/71Qp3bjYWML._AC_UF894,1000_QL80_.jpg",
   },
   {
-    name: "Naruto Shippuden Movie 5 Latino",
-    link: "https://henaojara2.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x5/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/2LNoyJWFuBf3HoFQH19yyhxIL7v.jpg",
+    name: "My Hero Academia",
+    link: "https://mangaplus.shueisha.co.jp/titles/200019",
+    image: "../../img/myheroacademia.jpg",
   },
   {
-    name: "Road to Ninja: Naruto Latino",
-    link: "https://henaojara.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x6/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/euiQ3P7E6wPdETmzWQj7kyDiE3D.jpg",
+    name: "My Hero Academia Vigiliants",
+    link: "https://mangaplus.shueisha.co.jp/titles/200035",
+    image: "https://m.media-amazon.com/images/I/81+j6ZZFFML.jpg",
   },
   {
-    name: "Naruto Shippuden Movie 7 Latino",
-    link: "https://henaojara.com/ver/episode/naruto-shippuden-peliculas-espanol-latino-hd-1x7/",
+    name: "My Next Life as a Villainess: On the Verge of Doom!",
+    link: "https://lectortmo.com/library/manga/46698/otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shite-shimatta-zettai-zetsumei-hametsu-sunzen-hen",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/uOeaOJi83lKOpPSx4X5oOnUGyNQ.jpg",
+      "https://m.media-amazon.com/images/I/51zj9eGYmnL._SX349_BO1,204,203,200_.jpg",
   },
   {
-    name: "Boruto: Naruto The Movie Latino",
-    link: "https://www1.animeonline.ninja/pelicula/boruto-naruto-the-movie/",
+    name: "My Next Life as a Villainess: All Routes Lead to Doom!",
+    link: "https://lectortmo.com/library/manga/32788/otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shite-shimatta",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/lw4Semx1gAQHT7DHIYw8wm9M5fE.jpg",
+      "https://m.media-amazon.com/images/I/51aNuNYD3DL._SX349_BO1,204,203,200_.jpg",
   },
   {
-    name: "Una voz Silenciosa Latino",
-    link: "https://animebum.net/v/koe-no-katachi-audio-latino",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/d0Yld2HRTzJsemfjIxMbIqywbSD.jpg",
+    name: "My Next Life as a Villainess: Destruction Flag Otome",
+    link: "https://lectortmo.com/library/manga/49346/otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shite-shimatta-komikku-ansorojii",
+    image: "https://m.media-amazon.com/images/I/51ki4Kv+qsL.jpg",
   },
   {
-    name: "Coicent Latino",
-    link: "https://www.animeonegai.com/es/watch/5gJEL6EjLN6yLcdqV",
+    name: "My Next Life as a Villainess: All Routes Lead to Doom! x Arte",
+    link: "https://lectortmo.com/library/manga/50480/hamefura-x-arte",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/Aeyvtayt8ZxOuxWA1zf5MkoVNbn.jpg",
+      "https://somoskudasai.com/wp-content/uploads/2020/05/EYmetNdUEAAJjQz-724x1024.jpg",
   },
   {
-    name: "Sailor Moon Eternal Parte 1 Latino",
-    link: "https://www1.animeonline.ninja/pelicula/bishoujo-senshi-sailor-moon-eternal-1/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/3FvokGWH2yMz4CbjpcHPFYBP8qb.jpg",
+    name: "Naruto",
+    link: "https://mangaplus.shueisha.co.jp/titles/200001",
+    image: "https://m.media-amazon.com/images/I/61LVJN2aIoL.jpg",
   },
   {
-    name: "Sailor Moon Eternal Parte 2 Latino",
-    link: "https://www1.animeonline.ninja/pelicula/bishoujo-senshi-sailor-moon-eternal-2/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/4QA7pKpmNgeXkhN1FFIBelHwr6V.jpg",
+    name: "Neon Genesis Evangelion",
+    link: "https://inmanga.com/ver/manga/Neon-Genesis-Evangelion/7d6045aa-1cb9-46e7-89b9-19e50798d70a",
+    image: "https://m.media-amazon.com/images/I/71xYmFF2ElL.jpg",
   },
   {
-    name: "Date A Bullet: Dead or Bullet",
-    link: "https://www1.otakustv.com/anime/date-a-bullet-dead-or-bullet",
+    name: "Neon Genesis Evangelion: Shinji Ikari Raising Project",
+    link: "https://inmanga.com/ver/manga/Neon-Genesis-Evangelion-Ikari-Shinji-Ikusei-Keikaku/a5026f6f-77cb-4a65-bba9-d3f3fad65c5e",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/4EokCcm4N6BMp42oLgNOl6r7aoy.jpg",
+      "https://pack-yak.intomanga.com/thumbnails/manga/Neon-Genesis-Evangelion-Ikari-Shinji-Ikusei-Keikaku/a5026f6f-77cb-4a65-bba9-d3f3fad65c5e",
   },
   {
-    name: "Date A Live Movie: Mayuri Judgment",
-    link: "https://animebum.net/v-date-a-live-movie-mayuri-judgment",
+    name: "No Game No Life",
+    link: "https://inmanga.com/ver/manga/No-Game-No-Life/47d17e57-0f6e-469a-8707-f120965b9071",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/66F3PsT9JzE93WDgp5Ry8KIdM4n.jpg",
+      "https://pack-yak.intomanga.com/thumbnails/manga/No-Game-No-Life/47d17e57-0f6e-469a-8707-f120965b9071",
   },
   {
-    name: "Dragon Ball Super Broly Latino",
-    link: "https://www.animelatinohd.com/anime/dragon-ball-super-movie-broly",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/qdAdwnlkNogUATybTncHAG0MT3i.jpg",
+    name: "Noblesse",
+    link: "https://inmanga.com/ver/manga/Noblesse/b17f2ddb-d279-444e-bad4-cf62aac44bbe",
+    image: "https://m.media-amazon.com/images/I/4170SRz2AWL.jpg",
   },
   {
-    name: "Hulla Fulla Dance",
-    link: "https://animebum.net/v-hula-fulla-dance",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/8SYsf4yF0CmrdCVZSj43tZHGoG6.jpg",
+    name: "Noragami",
+    link: "https://inmanga.com/ver/manga/Noragami/c9eac783-2e3b-4efa-892e-8300e03c077f",
+    image: "https://m.media-amazon.com/images/I/81c15BmyXvL.jpg",
   },
   {
-    name: "BELLE Latino",
-    link: "https://peliculasflix.co/peliculas/belle",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/fE79agBNwNTZf28fGVs9wY2NkCS.jpg",
+    name: "Nisekoi",
+    link: "https://mangaplus.shueisha.co.jp/titles/200004",
+    image: "https://m.media-amazon.com/images/I/51iTzpttHgL.jpg",
   },
   {
-    name: "El Viaje de Chihiro Latino",
-    link: "https://www.animelatinohd.com/anime/sen-to-chihiro-no-kamikakushi",
+    name: "One Punch Man",
+    link: "https://inmanga.com/ver/manga/One-Punch-Man/030de05e-ef8f-4cfe-a349-89b4599f6bf5",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/sRDfWh1x7qVi9R6Y86XVCQzSjVH.jpg",
+      "https://m.media-amazon.com/images/I/81VAgJoB3BL._AC_UF894,1000_QL80_.jpg",
   },
   {
-    name: "Palabras que Burbujean Como un Refresco Latino",
-    link: "https://henaojara2.com/ver/episode/palabras-que-burbujean-como-un-refresco-espanol-latino-hd-1x1/",
+    name: "Oshi No Ko",
+    link: "https://lectortmo.com/library/manga/49490/oshi-no-ko",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/489F49miNdfDanV1buIPKLR6ym9.jpg",
+      "https://m.media-amazon.com/images/I/51jhRrffW5L._SX331_BO1,204,203,200_.jpg",
   },
   {
-    name: "Pokémon Mewtwo Contraataca: Evolución Latino",
-    link: "https://animebum.net/v-pokemon-mewtwo-contraataca-evolucion-audio-latino",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/6ufHj6uqyje1ogAlCvRB54hcGgn.jpg",
+    name: "Overlord",
+    link: "https://inmanga.com/ver/manga/Overlord/56019792-bc4b-4c9a-b463-a1077d69451c",
+    image: "https://m.media-amazon.com/images/I/51vzWfbGqpL.jpg",
   },
   {
-    name: "Pokémon: El poder de todos Latino",
-    link: "https://www.animelatinohd.com/anime/pokemon-movie-21-minna-no-monogatari",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/kgNLLBgKxUKViZ0NiBED6cN8KnK.jpg",
+    name: "Owari no Seraph",
+    link: "https://inmanga.com/ver/manga/Owari-no-Seraph/377313f9-2a94-454c-9552-ae836c906151",
+    image: "https://m.media-amazon.com/images/I/51bKwXVFlYL._AC_SY780_.jpg",
   },
   {
-    name: "Pokémon: Detective Pikachu Latino",
-    link: "https://pelispop.lat/pelicula/pokemon-detective-pikachu/",
+    name: "Platinum End",
+    link: "https://inmanga.com/ver/manga/Platinum-End/96495c7b-1c03-4b3e-b3ce-08859e6fd47e",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/99fKFSYYKadyJ8axbhuXDy4zpfO.jpg",
+      "https://m.media-amazon.com/images/I/51kTMAiNFAL._SX331_BO1,204,203,200_.jpg",
+  },
+  {
+    name: "Pretty Soldier Sailor Moon Material Collection",
+    link: "https://issuu.com/sailormoongerman/docs/smg",
+    image:
+      "https://www.themoviedb.org/t/p/w220_and_h330_face/aVjhC5Iv0VHq6RgSEo479ANxImG.jpg",
+  },
+  {
+    name: "Pretty Soldier Sailor Moon",
+    link: "https://inmanga.com/ver/manga/Sailor-Moon/a679025c-f5ec-438d-8747-b58142b07de0",
+    image: "https://m.media-amazon.com/images/I/61ddWZJCYwL.jpg",
+  },
+  {
+    name: "Re:Zero",
+    link: "https://inmanga.com/ver/manga/Re-Zero-kara-Hajimeru-Isekai-Seikatsu-Dai-2-Shou-Yashiki-no-Isshuukan-hen/834b0816-eee1-434a-8e55-ab98a0d84b13",
+    image: "https://m.media-amazon.com/images/I/51GmY8i7UML._AC_SY780_.jpg",
+  },
+  {
+    name: "Re:Zero Official Anthology",
+    link: "https://inmanga.com/ver/manga/Re-Zero-Kara-Hajimeru-Isekai-Seikatsu-Official-Anthology/f8d15aa7-2f3b-477f-a388-2304f8cfb0f7",
+    image:
+      "https://pack-yak.intomanga.com/thumbnails/manga/Re-Zero-Kara-Hajimeru-Isekai-Seikatsu-Official-Anthology/f8d15aa7-2f3b-477f-a388-2304f8cfb0f7",
+  },
+  {
+    name: "Re:Zero x Konosuba",
+    link: "https://inmanga.com/ver/manga/Re-Zero-x-Konosuba/e49e17d2-2d23-4b3f-8ad0-8f3f84b4b956",
+    image: "https://otakuteca.com/images/books/cover/6162193f50728.webp",
+  },
+  {
+    name: "Rurouni Kenshin",
+    link: "https://mangaplus.shueisha.co.jp/titles/200011",
+    image: "https://m.media-amazon.com/images/I/A1-NjP6ZNAL.jpg",
+  },
+  {
+    name: "Rokudenashi Majutsu Koushi to Akashic Records",
+    link: "https://inmanga.com/ver/manga/Rokudenashi-Majutsu-Koushi-to-Akashic-Records/aba78f85-0bda-4dd8-af5e-46937b092c59",
+    image:
+      "https://pack-yak.intomanga.com/thumbnails/manga/Rokudenashi-Majutsu-Koushi-to-Akashic-Records/aba78f85-0bda-4dd8-af5e-46937b092c59",
+  },
+  {
+    name: "Saekano",
+    link: "https://inmanga.com/ver/manga/Saenai-Heroine-no-Sodatekata-Koisuru-Metronome/f5103fbe-f626-4a92-ac84-3d63cf3d607f",
+    image:
+      "https://m.media-amazon.com/images/I/51sMSlE8V6L._AC_UF1000,1000_QL80_.jpg",
+  },
+  {
+    name: "Saint Seiya",
+    link: "https://inmanga.com/ver/manga/Saint-Seiya/f4262f21-9b93-49e7-967e-ffab96f19614",
+    image: "https://m.media-amazon.com/images/I/61n253zMiuL.jpg",
+  },
+  {
+    name: "Sakura Cardcaptor",
+    link: "https://inmanga.com/ver/manga/Cardcaptor-Sakura/5d36d77d-4e0f-4a38-858b-3ff07b5dfebd",
+    image: "https://m.media-amazon.com/images/I/91tVeROvtHL.jpg",
+  },
+  {
+    name: "School Days",
+    link: "https://inmanga.com/ver/manga/Shaman-King-Kanzenban-Edition/56deee0f-9367-4c25-b102-03f223dbc237",
+    image:
+      "https://pack-yak.intomanga.com/thumbnails/manga/School-Days/55c9106c-09ea-4b3d-b7e6-2841ce25d6a2",
+  },
+  {
+    name: "Shaman King",
+    link: "https://inmanga.com/ver/manga/Shaman-King-Kanzenban-Edition/56deee0f-9367-4c25-b102-03f223dbc237",
+    image:
+      "https://m.media-amazon.com/images/I/612g0+yjqqL._SX332_BO1,204,203,200_.jpg",
+  },
+  {
+    name: "Shigatsu Wa Kimi No Uso",
+    link: "https://inmanga.com/ver/manga/Shigatsu-wa-Kimi-no-Uso/3b5d688d-53e5-4b21-a3b3-5c297627904b",
+    image: "https://m.media-amazon.com/images/I/5131fgzv4IL._AC_SY780_.jpg",
+  },
+  {
+    name: "Shigatsu Wa Kimi No Uso: Coda",
+    link: "https://inmanga.com/ver/manga/Shigatsu-wa-Kimi-no-Uso-Coda/c8a17395-6112-4e98-9fc7-de650604c380r",
+    image: "https://cdn.myanimelist.net/images/manga/2/182483.jpg",
+  },
+  {
+    name: "Shikimori's Not Just a Cutie",
+    link: "https://lectortmo.com/library/manga/41757/kawaii-dake-ja-nai-shikimori-san",
+    image:
+      "https://m.media-amazon.com/images/I/81qx3FBCutL._AC_UF894,1000_QL80_.jpg",
+  },
+  {
+    name: "Shingeki No Kyojin",
+    link: "https://inmanga.com/ver/manga/Shingeki-no-Kyojin/f5abfdce-15e5-42ca-93f4-98f824cc1c42",
+    image: "https://m.media-amazon.com/images/I/91M9VaZWxOL.jpg",
+  },
+  {
+    name: "Shokugeki no Soma",
+    link: "https://inmanga.com/ver/manga/Shokugeki-no-Soma/6cbdc6ec-f4ba-4f4d-8054-d4ad2d04df0c",
+    image:
+      "https://m.media-amazon.com/images/I/51W8+BwjpNL._SX331_BO1,204,203,200_.jpg",
+  },
+  {
+    name: "Skip and Loafer",
+    link: "https://lectortmo.com/library/manga/43012/skip-to-loafer",
+    image:
+      "https://m.media-amazon.com/images/I/819xN25j8LL._AC_UF894,1000_QL80_.jpg",
+  },
+  {
+    name: "Soul Eater",
+    link: "https://inmanga.com/ver/manga/Soul-Eater/15a95686-7daf-4987-b700-a6ec024a9a58",
+    image:
+      "https://m.media-amazon.com/images/I/51lDdPwBMuL._SX331_BO1,204,203,200_.jpg",
+  },
+  {
+    name: "Soy una Diosa ¿Y ahora que?",
+    link: "https://inmanga.com/ver/manga/Kamisama-Hajimemashita/e2d29e94-29ec-4c5f-90ca-c485103817f3",
+    image: "https://m.media-amazon.com/images/I/81c4DLObIxL.jpg",
+  },
+  {
+    name: "La chica que me gusta olvidó sus lentes",
+    link: "https://lectortmo.com/library/manga/41962/sukinako-ga-megane-wo-wasuretaserie",
+    image:
+      "https://m.media-amazon.com/images/I/81l0mKjJ7dL._AC_UF1000,1000_QL80_.jpg",
+  },
+  {
+    name: "La chica que me gusta olvidó sus lentes Extras",
+    link: "https://visortmo.com/library/manga/65358/extras-de-sukinako-ga-megane-wo-wasureta-extras",
+    image:
+      "https://m.media-amazon.com/images/I/61PKylTUjFL._AC_UF894,1000_QL80_.jpg",
+  },
+  {
+    name: "Spy x Family",
+    link: "https://mangaplus.shueisha.co.jp/titles/200031",
+    image: "../../img/spy_x_family_manga.jpg",
+  },
+  {
+    name: "Strike The Blood",
+    link: "https://inmanga.com/ver/manga/Strike-The-Blood/578582c9-f45a-4f22-be42-59b7cc488395",
+    image: "https://m.media-amazon.com/images/I/510yR6ITHYL.jpg",
+  },
+  {
+    name: "Sword Art Online",
+    link: "https://inmanga.com/ver/manga/Sword-Art-Online/4c44cef6-956b-4a8b-a9e1-66420c58a935",
+    image: "https://m.media-amazon.com/images/I/518sI436VXL.jpg",
+  },
+  {
+    name: "Sword Art Online: Fairy Dance",
+    link: "https://lectortmo.com/library/manga/8603/sword-art-online-fairy-dance",
+    image:
+      "https://m.media-amazon.com/images/I/81iiUHsAKxL._AC_UF1000,1000_QL80_.jpg",
+  },
+  {
+    name: "Sword Art Online: Phantom Bullet",
+    link: "https://lectortmo.com/library/manga/8075/sword-art-online-phantom-bullet",
+    image: "https://m.media-amazon.com/images/I/51alGHOP0LL.jpg",
+  },
+  {
+    name: "Sword Art Online Alternative: Gun Gale Online",
+    link: "https://lectortmo.com/library/manga/18751/Sword-Art-Online-Alternat",
+    image:
+      "https://m.media-amazon.com/images/I/819XFqc6RsL._AC_UF894,1000_QL80_.jpg",
+  },
+  {
+    name: "Sword Art Online: Ordinal Scale",
+    link: "https://lectortmo.com/library/manga/42033/sword-art-online-ordinal-scale",
+    image:
+      "https://m.media-amazon.com/images/I/71Tssj-NouL._AC_UF894,1000_QL80_.jpg",
+  },
+  {
+    name: "Sword Art Online: Project Alicization",
+    link: "https://lectortmo.com/library/manga/19190/sword-art-online-project-alicization",
+    image: "https://m.media-amazon.com/images/I/514RdCcLhHL.jpg",
+  },
+  {
+    name: "Sword Art Online: 4-koma",
+    link: "https://lectortmo.com/library/manga/10765/sword-art-online-4-koma",
+    image:
+      "https://m.media-amazon.com/images/I/71AqkddWQmL._AC_UF894,1000_QL80_.jpg",
   },
   {
     name: "Sword Art Online: Progressive",
-    link: "https://www1.otakustv.com/anime/sword-art-online-progressive-movie-hoshi-naki-yoru-no-aria",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/2kvl6lcgoyAaf8cSRkzxE611u6T.jpg",
+    link: "https://lectortmo.com/library/manga/8156/sword-art-online-progressive",
+    image: "https://m.media-amazon.com/images/I/51e4EtbunRL.jpg",
   },
   {
-    name: "Sword Art Online: Progressive Latino",
-    link: "https://henaojara2.com/ver/sword-art-online-progressive-espanol-latino-hd/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/2kvl6lcgoyAaf8cSRkzxE611u6T.jpg",
+    name: "Sword Art Online: Girls Ops",
+    link: "https://lectortmo.com/library/manga/10095/Sword-Art-Online-Girls-Ops",
+    image: "https://m.media-amazon.com/images/I/515tvKUP7lL.jpg",
   },
   {
-    name: "Sword Art Online: Progressive Scherzo of Deep Night Latino",
-    link: "https://www.henaojara.com/ver/season/sword-art-online-progressive-scherzo-of-deep-night-espanol-latino-hd-1/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/a5alro35e0XUa21Hb9Wlci67U73.jpg",
+    name: "Sword Art Online Progressive Scherzo of Deep Night",
+    link: "https://lectortmo.com/library/manga/48240/sword-art-online-progressive-kuraki-yuuyami-no-scherzo",
+    image: "https://m.media-amazon.com/images/I/51OFJhN6FPL._SY445_SX342_.jpg",
   },
   {
-    name: "Teasing Master Takagi-san: Pelicula Latino",
-    link: "https://henaojara2.com/ver/season/pelicula-eiga-karakai-jouzu-no-takagi-san-espanol-latino-hd-1/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/14XlXF6t940NLEm8WCmPXmRDtnc.jpg",
+    name: "Sword Art Online Progressive Barcarolle of Froth",
+    link: "https://lectortmo.com/library/manga/48094/sword-art-online-progressive-houei-no-barcarole",
+    image: "https://m.media-amazon.com/images/I/61UEjTw6PvL._SY466_.jpg",
   },
   {
-    name: "Ai No Utagoe Wo Kikasete",
-    link: "https://www1.otakustv.com/anime/ai-no-utagoe-wo-kikasete",
+    name: "Sword Art Online Progressive Canon Of The Golden Rule",
+    link: "https://lectortmo.com/library/manga/61579/basado-en-la-novela-ligera-sword",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/4nswAImPQjLbyCpXkwHjFlXxAeG.jpg",
+      "https://www.nautiljon.com/images/manga/00/16/sword_art_online_-_progressive_-_kogane_ritsu_no_kanon_20361.webp",
   },
   {
-    name: "Canta Con Una Chispa De Armonía",
-    link: "https://henaojara2.com/ver/episode/ai-no-utagoe-wo-kikasete-espanol-latino-hd-1x1/",
+    name: "Sword Art Online Canon Of The Golden Rule",
+    link: "https://lectortmo.com/library/manga/65071/sword-art-online-canon-of-the-golden-rule",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/2hkyfxdJkBRR75msNs6V7Y9hd8k.jpg",
+      "https://www.nautiljon.com/images/manga/00/16/sword_art_online_-_progressive_-_kogane_ritsu_no_kanon_20361.webp",
   },
   {
-    name: "Fruit Basket Prelude",
-    link: "https://www1.otakustv.com/anime/fruits-basket-prelude",
+    name: "Sword Art Online Comic Anthology",
+    link: "https://lectortmo.com/library/manga/28591/Sword-Art-Online-Comic-An",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/dUgCPD69mBKpg41DVc9gEBHs3wY.jpg",
+      "https://m.media-amazon.com/images/I/71-g8jfFVcL._AC_UF894,1000_QL80_.jpg",
   },
   {
-    name: "Más Allá De Ti",
-    link: "https://www.henaojara.com/ver/kimi-wa-kanata-mas-alla-de-ti-espanol-latino-hd/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/zremTsDpnGNOBFOfcSzIQdk0WFU.jpg",
+    name: "Tonari no Seki-kun",
+    link: "https://lectortmo.com/library/manga/8704/tonari-no-seki-kun",
+    image: "https://m.media-amazon.com/images/I/61p-89ac-jL.jpg",
   },
   {
-    name: "Flavors of Youth Latino",
-    link: "https://henaojara2.com/ver/sabores-juventud-latino-hd/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/AmEvVC8H4v9ITSVgpG3HCTPaBo1.jpg",
+    name: "Tonari no Seki-kun Junior",
+    link: "https://lectortmo.com/library/manga/54368/tonari-no-seki-kun-junior",
+    image: "https://cdn.myanimelist.net/images/manga/3/247172.jpg",
   },
   {
-    name: "El Castillo Ambulante Latino",
-    link: "https://www.animelatinohd.com/anime/howl-no-ugoku-shiro",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/summupW5iJAbgStpAxSrZq0NiJu.jpg",
+    name: "That Time I Got Reincarnated as a Slime",
+    link: "https://es.novelcool.com/novel/Tensei-Shitara-Slime-Datta-Ken.html",
+    image: "https://m.media-amazon.com/images/I/91zgCwPjO8L.jpg",
   },
   {
-    name: "Jujutsu Kaisen 0 Latino",
-    link: "https://henaojara2.com/ver/season/pelicula-jujutsu-kaisen-0-espanol-latino-hd-1/",
+    name: "The Angel Next Door Spoils Me Rotten",
+    link: "https://lectortmo.com/library/manga/65931/otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/7Cqu1tJpptsoozc93vPiISgyhBm.jpg",
+      "https://m.media-amazon.com/images/I/81cXBPgRaPL._AC_UF894,1000_QL80_.jpg",
   },
   {
-    name: "El niño y la bestia Latino",
-    link: "https://henaojara2.com/ver/el-nino-y-la-bestia-latino-hd/",
+    name: "The Celebration of Haruhi Suzumiya",
+    link: "https://lectortmo.com/library/manga/70604/the-celebration-of-haruhi-suzumiya",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/iMfe0tPCOQJRkiqOyAWGMheky01.jpg",
+      "https://m.media-amazon.com/images/I/71k+ih9GLYL._AC_UF894,1000_QL80_.jpg",
   },
   {
-    name: "El Cuento De La Princesa Kaguya Latino",
-    link: "https://henaojara2.com/ver/el-cuento-de-la-princesa-kaguya-espanol-latino-hd/",
+    name: "The Dangers In My Heart",
+    link: "https://lectortmo.com/library/manga/36933/boku-no-kokoro-no-yabai-yatsu",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/3SPzYCeY1KNNIEKgK7GjV1Dwayz.jpg",
+      "https://m.media-amazon.com/images/I/815-50o7v5L._AC_UF894,1000_QL80_.jpg",
   },
   {
-    name: "El Viento Se Levanta Latino",
-    link: "https://henaojara2.com/ver/el-viento-se-levanta-espanol-latino-hd/",
+    name: "The Disapparence of Nagato Yuki-Chan",
+    link: "https://inmanga.com/ver/manga/Nagato-Yuki-chan-no-Shoushitsu/9956a35f-daee-419b-a161-778deb542672",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/qHNn6lQ4TLS6ClckCztMAvgsTIP.jpg",
+      "https://m.media-amazon.com/images/I/51PSNCYxWAL._SX331_BO1,204,203,200_.jpg",
   },
   {
-    name: "Shingeki no Kyojin: El arco y la flecha escarlata",
-    link: "https://www.animelatinohd.com/anime/shingeki-no-kyojin-movie-1-guren-no-yumiya",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/1tmIKXWWDAvMJbbo66HrpZtHCb6.jpg",
+    name: "The Future Diary",
+    link: "https://inmanga.com/ver/manga/Mirai-Nikki/60e47f02-5140-4830-bb09-9a9aee3d862f",
+    image: "https://m.media-amazon.com/images/I/51gknk-FO+S.jpg",
   },
   {
-    name: "Shingeki no Kyojin: Las alas de la libertad",
-    link: "https://www.animelatinohd.com/anime/shingeki-no-kyojin-movie-2-jiyuu-no-tsubasa",
+    name: "The Genius Prince's Guide To Raising A Narion Out Of Debt",
+    link: "https://lectortmo.com/library/manga/46592/souda-baikoku-shiyou-tensai-ouji-no-akaji-kokka-saisei-jutsu",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/tcVANUddqdRm2hOyrrISd89Lid2.jpg",
+      "https://m.media-amazon.com/images/I/91wtPMMBjZL._AC_UF894,1000_QL80_.jpg",
   },
   {
-    name: "Shingeki no Kyojin: El rugido del despertar",
-    link: "https://www.animelatinohd.com/anime/shingeki-no-kyojin-season-2-movie-kakusei-no-houkou",
+    name: "The God Of High School",
+    link: "https://www.webtoons.com/es/action/the-god-of-high-school/list?title_no=2163&page=40",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/juKWzBx4jgF8dhAV0qktMCeEfe6.jpg",
+      "https://www.themoviedb.org/t/p/w220_and_h330_face/vGA8nKXoE7houjoRWId0enAq4Vo.jpg",
   },
   {
-    name: "Kanna Y Los Dioses De Octubre Latino",
-    link: "https://drive.google.com/drive/u/0/folders/1O3g1RXAd-3j4-QEVBwABR3cZjZOIWjGy",
+    name: "The Melancholy Of Haruhi Suzumiya",
+    link: "https://lectortmo.com/library/manga/10130/Suzumiya-Haruhi-no-Yuuutsu",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/kfjgWuV5oRhzM3pTqvKU8DTDGEu.jpg",
+      "https://m.media-amazon.com/images/I/91a3OKU0mZL._AC_UF894,1000_QL80_.jpg",
   },
   {
-    name: "Koutetsujou no Kabaneri Movie 3",
-    link: "https://www1.otakustv.com/anime/koutetsujou-no-kabaneri-unato-kessen",
+    name: "The Melancholy of Haruhi-chan Suzumiya",
+    link: "https://lectortmo.com/library/manga/52040/suzumiya-haruhi-chan-no-yuuutsu",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/pJOYBevz1tMTtexr3KeSx8G6SCN.jpg",
+      "https://m.media-amazon.com/images/I/61mZQLpO4FL._AC_UF1000,1000_QL80_.jpg",
   },
   {
-    name: "Koutetsujou no Kabaneri Movie 3 Latino",
-    link: "https://animebum.net/v-koutetsujou-no-kabaneri-movie-3-unato-kessen-audio-latino",
+    name: "The Misfit Of Demon King Academy",
+    link: "https://lectortmo.com/library/manga/42144/maou-gakuin-no-futekigousha",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/pJOYBevz1tMTtexr3KeSx8G6SCN.jpg",
+      "https://m.media-amazon.com/images/I/91Q6r0D2GgL._AC_UF894,1000_QL80_.jpg",
   },
   {
-    name: "Yu-Gi-Oh! El Lado Obscuro De Las Dimensiones Latino",
-    link: "https://monoschinos2.com/anime/yu-gi-oh-el-lado-oscuro-de-dimensiones-latino-sub-espanol",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/gwHQsHSGdJD0xcru4JF6Xd99q3p.jpg",
+    name: "The Promised Neverland",
+    link: "https://inmanga.com/ver/manga/The-Promised-Neverland/df035c49-d49f-4f15-bd2d-4ae9ea94d72d",
+    image: "https://m.media-amazon.com/images/I/81GIb6GMhRL.jpg",
   },
   {
-    name: "Made in Abyss Movie 1 Latino",
-    link: "https://henaojara2.com/ver/season/pelicula-eiga-karakai-jouzu-no-takagi-san-espanol-latino-hd-1/",
+    name: "Tokyo Metropolitan Curse Technical School",
+    link: "https://es.novelcool.com/novel/Tokyo-Metropolitan-Magic-Technical-School.html",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/qFIW1hxWOSLMwUuI9MB3udqmFUU.jpg",
+      "https://m.media-amazon.com/images/I/51wBm2hLTSL._SX315_BO1,204,203,200_.jpg",
   },
   {
-    name: "Made in Abyss Movie 2 Latino",
-    link: "https://animebum.net/v-made-in-abyss-movie-2-hourou-suru-tasogare-audio-latino",
+    name: "Tomo-Chan Is A Girl!",
+    link: "https://lectortmo.com/library/manga/12299/tomo-chan-wa-onnanoko?orderDir=ASC",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/fUANpIoeKeK9mngo5wJz6bTNzt4.jpg",
+      "https://m.media-amazon.com/images/I/81OAl-FBUTL._AC_UF894,1000_QL80_.jpg",
   },
   {
-    name: "Mi Vecino Totoro Latino",
-    link: "https://henaojara2.com/ver/496/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/cajdWJfmvTqZJjbryygNNMe65GW.jpg",
+    name: "Torre de Dios",
+    link: "https://inmanga.com/ver/manga/Torre-de-Dios/3e589d2a-12b3-4144-bbc0-4c24d76582f6",
+    image: "https://m.media-amazon.com/images/I/51N704I+B2L._AC_SY780_.jpg",
   },
   {
-    name: "Okko y los fantasmas: la pelicula",
-    link: "https://henaojara2.com/ver/wakaokami-wa-shougakusei-espanol-latino-hd/",
+    name: "Urusei Yatsura",
+    link: "https://inmanga.com/ver/manga/Urusei-Yatsura/d83e736e-df6c-406c-a33a-ec98e13ab4eb",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/vYjzuMvI3Q4VUr7LYK4oJ2pJx9Y.jpg",
+      "https://www.themoviedb.org/t/p/w220_and_h330_face/u4qYP0Puxjw0rgCbq5cYMYIpyNR.jpg",
   },
   {
-    name: "Inazuma Eleven: La película Latino",
-    link: "https://vix.com/es-es/detail/video-4259665",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/g08t3r6oesgg2Js0bQgWY4ZnHY1.jpg",
+    name: "Uzaki-chan wa Asobitai!",
+    link: "https://lectortmo.com/library/manga/38888/uzaki-chan-wa-asobitai",
+    image: "https://somoskudasai.com/wp-content/uploads/2021/07/Vol-7.jpg",
   },
   {
-    name: "InuYasha Movie 1 Latino",
-    link: "https://vix.com/es-es/detail/video-4259681",
+    name: "Vinland Saga",
+    link: "https://lectortmo.com/library/manga/145/vinland-saga",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/xhfSdY68URA7iHXVmMjmWBJd07q.jpg",
+      "https://m.media-amazon.com/images/I/91nhuMimxjL._AC_UF1000,1000_QL80_.jpg",
   },
   {
-    name: "InuYasha Movie 2 Latino",
-    link: "https://vix.com/es-es/detail/video-4287298",
+    name: "WATAMOTE",
+    link: "https://lectortmo.com/library/manga/11075/watashi-ga-motenai-no-wa-dou-kangaete-mo-omaera-ga-warui",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/enYAtRF46XCm1qUHI2sDS7U2T5z.jpg",
+      "https://m.media-amazon.com/images/I/81-nGqXQbFL._AC_UF894,1000_QL80_.jpg",
   },
   {
-    name: "InuYasha Movie 3 Latino",
-    link: "https://vix.com/es-es/detail/video-4259692",
+    name: "WATAMOTE Spin-Off",
+    link: "https://lectortmo.com/library/manga/13214/watashi-no-tomodachi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/wuwnRFk8pmuyAPlBdWo1cW9C8Dx.jpg",
+      "https://m.media-amazon.com/images/I/81+0xlrfDNL._AC_UF894,1000_QL80_.jpg",
   },
   {
-    name: "InuYasha Movie 4 Latino",
-    link: "https://vix.com/es-es/detail/video-4287290",
+    name: "Wolf Children",
+    link: "https://inmanga.com/ver/manga/Ookami-Kodomo-No-Ame-To-Yuki/f5076b22-7017-416d-b1c9-9c450e74239e",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/i5IFMT8dgMBAL8W80GSOzqS8kXm.jpg",
+      "https://pack-yak.intomanga.com/thumbnails/manga/Ookami-Kodomo-No-Ame-To-Yuki/f5076b22-7017-416d-b1c9-9c450e74239e",
   },
   {
-    name: "La chica que saltaba a través del tiempo Latino",
-    link: "https://www.animelatinohd.com/anime/toki-wo-kakeru-shoujo",
+    name: "World Trigger",
+    link: "https://mangaplus.shueisha.co.jp/titles/200023",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/d2OqnQtOu31lImipTIcTTT9FaQI.jpg",
+      "https://m.media-amazon.com/images/I/51S8Pb57W4L._SX331_BO1,204,203,200_.jpg",
   },
   {
-    name: "Pompoko Latino",
-    link: "https://henaojara2.com/ver/pompoko-espanol-latino-hd/",
+    name: "Yamada-kun and the Seven Witches",
+    link: "https://inmanga.com/ver/manga/Yamada-kun-to-7-nin-no-majo/b3dab5aa-bab2-4d02-a48f-27bf174c3bbc",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/3YDaDwaB4XnRhYLLdW8qzS9VVoS.jpg",
+      "https://m.media-amazon.com/images/I/81yYpSLMAiL._AC_UF1000,1000_QL80_.jpg",
   },
   {
-    name: "Perfect Blue",
-    link: "https://www1.otakustv.com/anime/perfect-blue",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/t102ksBHM4P6t2AQZQ6zipGtYbr.jpg",
+    name: "Yu-Gi-Oh!",
+    link: "https://visortmo.com/library/manga/12282/yugioh",
+    image: "https://m.media-amazon.com/images/I/71Lc33eUICL.jpg",
   },
   {
-    name: "Ponyo y el secreto de la Sirenita Latino",
-    link: "https://henaojara2.com/ver/851/",
+    name: "Yu-Gi-Oh! 5D'S",
+    link: "https://inmanga.com/ver/manga/Yu-Gi-Oh-5ds/9a0964d2-5b1a-4a20-8f00-328f4195ea54",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/c4si8JOIVnN03fESnwngdkJxNj3.jpg",
+      "https://m.media-amazon.com/images/I/61LRJbxAkvL._SX331_BO1,204,203,200_.jpg",
   },
   {
-    name: "Psycho-Pass Movie 1 Latino",
-    link: "https://www1.animeonline.ninja/pelicula/psycho-pass-sinners-of-the-system-case-1/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/pieDnLArEw43kZxYejn3XbrNZdg.jpg",
+    name: "Yu-Gi-Oh! Gx",
+    link: "https://inmanga.com/ver/manga/Yu-Gi-Oh-Gx/a5f4c7ce-0920-47a5-9c85-47b5f976bc19",
+    image: "https://m.media-amazon.com/images/I/51CkXLCcePL.jpg",
   },
   {
-    name: "Psycho-Pass Movie 2 Latino",
-    link: "https://www1.animeonline.ninja/pelicula/psycho-pass-sinners-of-the-system-case-2-first-guardian/",
+    name: "Zom 100: The Bucket List of the Dead",
+    link: "https://lectortmo.com/library/manga/46447/zombie-100-zombie-ni-naru-made-ni-shitai-100-no-koto",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/pvPvg8k7tfER4xPFJ4edPcx7ImC.jpg",
+      "https://m.media-amazon.com/images/I/81Bd1IBzG3L._AC_UF1000,1000_QL80_.jpg",
   },
   {
-    name: "Psycho-Pass Movie 3 Latino",
-    link: "https://www1.animeonline.ninja/pelicula/psycho-pass-sinners-of-the-system-case-3/",
+    name: "ZOMBIE-LOAN",
+    link: "https://inmanga.com/ver/manga/Zombie-Loan/434e2549-df2e-4aaa-b2db-8155efcf6587",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/z58HUycqOWH38CK8R3Q03v0M8UC.jpg",
+      "https://m.media-amazon.com/images/I/61pUO3yjqFL._AC_UF350,350_QL50_.jpg",
   },
   {
-    name: "Psycho-Pass 3: FIRST INSPECTOR",
-    link: "https://www1.animeonline.ninja/pelicula/psycho-pass-3-first-inspector/",
+    name: "Tis Time for Torture, Princess",
+    link: "https://mangaplus.shueisha.co.jp/titles/200036",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/cojOMQvTwcPTSUc0BnRZqfKU34y.jpg",
+      "https://media.themoviedb.org/t/p/w220_and_h330_face/7vPpzw4goRUojCVFIsU3drIhu3B.jpg",
   },
   {
-    name: "The Secret World of Arrietty Latino",
-    link: "https://henaojara2.com/ver/mundo-de-los-diminutos-latino-hd/",
+    name: "UNDEAD + UNLUCK",
+    link: "https://mangaplus.shueisha.co.jp/titles/200038",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/dJIY15svyL5aCeGfd036uAB5x4D.jpg",
+      "https://m.media-amazon.com/images/I/81DAHnJa6PL._AC_UF1000,1000_QL80_.jpg",
   },
   {
-    name: "The King's Avatar: For the Glory Latino",
-    link: "https://tubitv.com/movies/581873/the-king-s-avatar-for-the-glory-espa-ol?start=true",
+    name: "La mision de la familia Yozakura",
+    link: "https://mangaplus.shueisha.co.jp/titles/200039",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/9CC0s1VbBHBUBWMWi5mueXHQYCK.jpg",
+      "https://m.media-amazon.com/images/I/81YtMz4osML._AC_UF1000,1000_QL80_.jpg",
   },
   {
-    name: "Towa no Quon: Movie 1 Latino",
-    link: "https://henaojara2.com/ver/episode/peliculas-towa-no-quon-espanol-latino-hd-1x1/",
+    name: "My Deer Friend Nokotan",
+    link: "https://visortmo.com/library/manga/71285/shikanoko-nokonoko-koshitantan",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/ylXRjwhPvN3hPtMfQ1kLHtP1Mfs.jpg",
+      "https://m.media-amazon.com/images/I/818zS7ES2DL._AC_UF894,1000_QL80_.jpg",
   },
   {
-    name: "Towa no Quon: Movie 2 Latino",
-    link: "https://henaojara2.com/ver/episode/peliculas-towa-no-quon-espanol-latino-hd-1x2/",
+    name: "Dandadan",
+    link: "https://mangaplus.shueisha.co.jp/titles/200084",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/83mzED0e2naR6ap8W74GelFM8cf.jpg",
+      "https://m.media-amazon.com/images/I/81kHWcb7n4L._AC_UF1000,1000_QL80_.jpg",
   },
   {
-    name: "Towa no Quon: Movie 3 Latino",
-    link: "https://henaojara2.com/ver/episode/peliculas-towa-no-quon-espanol-latino-hd-1x3/",
+    name: "Magilumiere Co. Ltd.",
+    link: "https://mangaplus.shueisha.co.jp/titles/200091",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/nOd53C825QEVQboCIh43iAxHxpy.jpg",
+      "https://m.media-amazon.com/images/I/81fGkLMnZbL._AC_UF1000,1000_QL80_.jpg",
   },
   {
-    name: "Towa no Quon: Movie 4 Latino",
-    link: "https://henaojara2.com/ver/episode/peliculas-towa-no-quon-espanol-latino-hd-1x4/",
+    name: "Hokkaido Gals Are Super Adorable!",
+    link: "https://mangaplus.shueisha.co.jp/titles/200056",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/oQheBkbGkMzvc57N2LZgY73Oj16.jpg",
+      "https://m.media-amazon.com/images/I/8163Ey4i0GL._AC_UF1000,1000_QL80_.jpg",
   },
   {
-    name: "Towa no Quon: Movie 5 Latino",
-    link: "https://henaojara2.com/ver/episode/peliculas-towa-no-quon-espanol-latino-hd-1x5/",
+    name: "SAKAMOTO DAYS",
+    link: "https://mangaplus.shueisha.co.jp/titles/200059",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/tiqvem84cpEJTVB0xhq3SP5ejuc.jpg",
+      "https://m.media-amazon.com/images/I/71VXV2meQJL._AC_UF1000,1000_QL80_.jpg",
   },
   {
-    name: "Towa no Quon: Movie 6 Latino",
-    link: "https://henaojara2.com/ver/episode/peliculas-towa-no-quon-espanol-latino-hd-1x6/",
+    name: "Kagurabachi",
+    link: "https://mangaplus.shueisha.co.jp/titles/200123",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/83mzED0e2naR6ap8W74GelFM8cf.jpg",
+      "https://m.media-amazon.com/images/I/912V2U+luQL._AC_UF1000,1000_QL80_.jpg",
   },
   {
-    name: "Un Estraño En La Orilla Del Mar",
-    link: "https://henaojara2.com/ver/umibe-no-etranger-sub-espanol-hd/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/oAWRp4jwuCFZshUlkYyJIXAvF99.jpg",
+    name: "Blue Box",
+    link: "https://mangaplus.shueisha.co.jp/titles/200083",
+    image: "https://m.media-amazon.com/images/I/81CkR4j6EzL.jpg",
   },
   {
-    name: "Ghost in the Shell Latino",
-    link: "https://www.animelatinohd.com/anime/koukaku-kidoutai-stand-alone-complex-2nd-gig-individual-eleven",
+    name: "Kindergarten Wars",
+    link: "https://mangaplus.shueisha.co.jp/titles/200135",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/9dcsUNdMVK6hEyD3CiVmBWG594s.jpg",
+      "https://m.media-amazon.com/images/I/71ru-lZw2oL._AC_UF1000,1000_QL80_.jpg",
   },
   {
-    name: "Mobile Suit Gundam",
-    link: "https://www1.otakustv.com/anime/kidou-senshi-gundam-cucuruz-doan-no-shima",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/sRUKTGQngY3XAJ0nxjvCO030Kby.jpg",
-  },
-  {
-    name: "Ni no Kuni Latino",
-    link: "https://www1.animeonline.ninja/pelicula/ni-no-kuni/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/rtmpBx8BBRyCjZwLu1x9Zg2VnMZ.jpg",
-  },
-  {
-    name: "Konosuba The Movie Legend of Crismon",
-    link: "https://www1.otakustv.com/anime/kono-subarashii-sekai-ni-shukufuku-wo-kurenai-densetsu-16o2iapv",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/wqpTrmGiqMJ6onAq3zrBhfomIJl.jpg",
-  },
-  {
-    name: "Konosuba The Movie Legend of Crismon Latino",
-    link: "https://ww3.animeonline.ninja/pelicula/konosuba-kurenai-densetsu-2/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/wqpTrmGiqMJ6onAq3zrBhfomIJl.jpg",
-  },
-  {
-    name: "La Colina De Las Amapolas Latino",
-    link: "https://henaojara2.com/ver/862/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/A70r0FeqeASmm8X5uqoTwXLiO4r.jpg",
-  },
-  {
-    name: "La Princesa Mononoke Latino",
-    link: "https://henaojara2.com/ver/la-princesa-mononoke-espanol-latino-hd/",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/9EXOVRt9j6Fy7RqhgU3CLtWkXPL.jpg",
-  },
-  {
-    name: "Odd Taxi Movie",
-    link: "https://www1.otakustv.com/anime/odd-taxi-movie-in-the-woods",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/hV0ORYPc3ImcfgK0ay3BuPgjg1G.jpg",
-  },
-  {
-    name: "WATATEN!",
-    link: "https://www1.otakustv.com/anime/watashi-ni-tenshi-ga-maiorita-precious-friends",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/A5IUpILPQufbCbjI62LXrYZTWhm.jpg",
-  },
-  {
-    name: "Youjo Senki Movie",
-    link: "https://www1.otakustv.com/anime/youjo-senki-movie",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/dMcaQp4XfPK11bDeUyj2JOqEY8I.jpg",
-  },
-  {
-    name: "Youjo Senki Movie Latino",
-    link: "https://www1.otakustv.com/anime/youjo-senki-movie-latino",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/dMcaQp4XfPK11bDeUyj2JOqEY8I.jpg",
-  },
-  {
-    name: "Yuru Camp Movie",
-    link: "https://www1.otakustv.com/anime/yuru-camp-movie",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/nBU9ZF7P397Xp7IlUfwbShigAcE.jpg",
+    name: "Look Back",
+    link: "https://zonatmo.com/library/one_shot/61622/look-back",
+    image: "https://m.media-amazon.com/images/I/81r9pMwJCoL.jpg",
   },
 ];
 const searchInput = document.getElementById("searchInput");

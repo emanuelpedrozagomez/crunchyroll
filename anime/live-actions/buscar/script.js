@@ -205,7 +205,7 @@ const data = [
   },
   {
     name: "Koinaka",
-    link: "https://www24.estrenosdoramas.net/2015/10/koinaka.html",
+    link: "https://www.viki.com/tv/28495c-koinaka#episodes",
     image:
       "https://3.bp.blogspot.com/-0tGfoqN58_s/VePC0w3of-I/AAAAAAAACWM/2HdHImPNAoQ/s1600/maxresdefault.jpg",
   },
@@ -354,6 +354,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/lJunoYq5iMFFjqcRP88vYk7XvS4.jpg",
   },
   {
+    name: "True Beauty Latino",
+    link: "https://vix.com/es-es/detail/series-5010",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/lJunoYq5iMFFjqcRP88vYk7XvS4.jpg",
+  },
+  {
     name: "Tú eres mi destino",
     link: "https://www.viki.com/tv/36951c-you-are-my-destiny?qId=d84cc0b930d2a20bd3fd534ba78079bd#episodes",
     image:
@@ -466,6 +472,174 @@ const data = [
     link: "https://pandrama.tv/detalle/suena-sin-limites-t2/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/farxfrH7D7D3TpybCs1AzXooICK.jpg",
+  },
+  {
+    name: "!Doona¡",
+    link: "https://doramasflix.in/doramas-online/doona",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/bQJ4jNRukeXzYr53RPVImq61p5l.jpg",
+  },
+  {
+    name: "Amor y Deseo",
+    link: "https://www.viki.com/tv/38259c-love-wish",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/lVnppVtW8a5DZvxxIUTLTRZDbSP.jpg",
+  },
+  {
+    name: "Amor y Deseo Pelicula",
+    link: "https://www.viki.com/movies/38458c-love-wish-movie",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/g1cIqW6wc6R57a0cibnGno1JdzX.jpg",
+  },
+  {
+    name: "Barbie",
+    link: "https://www.viki.com/movies/39693c-barbie",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/uhv9ktRUEVL0V6LsPGcCrJx90BP.jpg",
+  },
+  {
+    name: "Chica de secundaria reprobada y profesor irresponsable",
+    link: "https://www.viki.com/tv/39862c-falling-high-school-girl-and-irresponsible-teacher#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/leWJPydcOpdqV1R9yobSaNgqIXn.jpg",
+  },
+  {
+    name: "El mejor error",
+    link: "https://www.viki.com/tv/37010c-best-mistake",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/hHVAIvnL5rHqUViwXDyt20AbSiJ.jpg",
+  },
+  {
+    name: "El mejor error: Pelicula",
+    link: "https://www.viki.com/movies/38974c-best-mistake-1-the-movie",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/1YDoLpQ3VUmPI4BuDrgzCMXoNAo.jpg",
+  },
+  {
+    name: "El mejor error Season 2",
+    link: "https://www.viki.com/tv/37460c-best-mistake-2",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/efl38qiTbaQKKXh0J6KiHcXsz3h.jpg",
+  },
+  {
+    name: "El mejor error Season 2 Pelicula",
+    link: "https://www.viki.com/movies/38975c-best-mistake-2-the-movie",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/jUAhEPIIsKSoLcAbooUXUht1iPA.jpg",
+  },
+  {
+    name: "El sellador",
+    link: "https://www.viki.com/tv/38949c-the-sealer#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/vPXVNlrDG4a9JqICDO8YQjX7WK0.jpg",
+  },
+  {
+    name: "Felices Juntos",
+    link: "https://www.viki.com/movies/38591c-happy-together",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/arC5VnxkaLgtgRXgFmzIgybZXLh.jpg",
+  },
+  {
+    name: "Goodbye Summer",
+    link: "https://www.viki.com/movies/36712c-goodbye-summer#about",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/lJzpEfNbaxuhFVp7C9VRrEGD9Xg.jpg",
+  },
+  {
+    name: "Lanzándote un hechizo",
+    link: "https://www.viki.com/tv/39612c-casting-a-spell-to-you#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/vSsMzlTVChNsRbEG8JqdKqfQhEs.jpg",
+  },
+  {
+    name: "Romance a romance",
+    link: "https://www.viki.com/tv/39813c-romance-by-romance#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/oMqfDRD9zcqlkWi1LFNv1PIjVNj.jpg",
+  },
+  {
+    name: "Yu Yu Hakusho Live Action",
+    link: "https://ww3.animeonline.ninja/online/yu-yu-hakusho-netflix/",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/lV51aaGIlLpYtzZhw8sNMqZyKAe.jpg",
+  },
+  {
+    name: "Diario Gourmet para Conquistar",
+    link: "https://www.viki.com/tv/39741c-one-sided-love-gourmet-diary#episodes",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/ygrZxTIMzIET8UALPkZsSAuH6HC.jpg",
+  },
+  {
+    name: "My Demon",
+    link: "https://doramasflix.in/doramas-online/my-demon",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/j1CqeaHMBBcRYDWHmeLZpVmS6le.jpg",
+  },
+  {
+    name: "El momento de los dieciocho",
+    link: "https://www.viki.com/tv/36633c-moment-of-eighteen#episodes",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/pCg4xhu8zH5d8gDvj7aeXq96nq0.jpg",
+  },
+  {
+    name: "Nota de Venganza",
+    link: "https://www.viki.com/tv/36316c-revenge-note-1#episodes",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/fo3ZHfGfd7JfT4hVimd5Pgq6KkD.jpg",
+  },
+  {
+    name: "Nota de Venganza 2",
+    link: "https://www.viki.com/tv/36317c-revenge-note-2?qId=9508c20e133340dda496b0fab4c61127#episodes",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/mZ1PiZMIvdM2rv2vT4z0AIiK0BO.jpg",
+  },
+  {
+    name: "Marry my husband",
+    link: "https://doramasflix.in/doramas-online/marry-my-husband",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/7BoRhg8zXP0ca9Zql4p8llCFR2P.jpg",
+  },
+  {
+    name: "She Was Pretty",
+    link: "https://vix.com/es-es/detail/series-3134",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/xneAHh06sCs48SPvnKfiyxL6pqn.jpg",
+  },
+  {
+    name: "Queen Of Tears",
+    link: "https://doramasflix.in/doramas-online/queen-of-tears",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/gnkSyB7OYvFAF6oUN726nGSvgpL.jpg",
+  },
+  {
+    name: "Lovely Runner",
+    link: "https://doramasflix.in/doramas-online/lovely-runner",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/xLvIQrrjM7DlZBSAtvROQk1XtqY.jpg",
+  },
+  {
+    name: "The Best Hit",
+    link: "https://www.viki.com/tv/35431c-the-best-hit#episodes",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/eaibOV0VXlHR5zHruThezTTwksI.jpg",
+  },
+  {
+    name: "No Gain No Love Latino",
+    link: "https://pandrama.app/detalle/el-que-no-gana-no-ama-2024/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/2tMeSoqZZOvssRVd30XvVAhiNaU.jpg",
+  },
+  {
+    name: "Go Ahead",
+    link: "https://www.viki.com/tv/36770c-go-ahead?qId=52e076c09dc0bad7c744b1838310730b#episodes",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/5tulkIFh4wqb5a9Vu2CIqwxp0aY.jpg",
+  },
+  {
+    name: "Oshi No Ko Live Action",
+    link: "https://ww3.animeonline.ninja/online/oshi-no-ko-live-action/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/fkYX0fGTg2ankAIyy0epHo7OuQG.jpg",
   },
 ];
 const searchInput = document.getElementById("searchInput");

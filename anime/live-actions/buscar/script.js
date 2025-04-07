@@ -641,6 +641,66 @@ const data = [
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/fkYX0fGTg2ankAIyy0epHo7OuQG.jpg",
   },
+  {
+    name: "Shin-Ultraman Latino",
+    link: "https://pluto.tv/latam/on-demand/movies/67376a6e091e24001382ecc8/details?utm_source=googleads&utm_medium=cpc&utm_campaign=MexicoNon-BrandServicios",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/tLkW6RX5Tx8xxJLiJMEfCcBJyA8.jpg",
+  },
+  {
+    name: "No Soy un Robot Latino",
+    link: "https://vix.com/es-es/detail/video-3562189",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/yJuNdF2lvSw2setvUdXDYZNRSSZ.jpg",
+  },
+  {
+    name: "Callejero Novato",
+    link: "https://www.freetv.com/es/shows/callejero-novato",
+    image:
+      "https://img3.static-ottera.com/prod/oly/show/thumbnails/widescreen/960x540/callejeronovato_app_16_9.jpg",
+  },
+  {
+    name: "Descubrimiento del Amor",
+    link: "https://pluto.tv/latam/on-demand/series/66e8739673aa510013467cff/season/1?utm_source=googleads&utm_medium=cpc&utm_campaign=MexicoNon-BrandServicios",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/ipEK62f4lJFztUBjvpEr1x83MC3.jpg",
+  },
+  {
+    name: "El comienzo del mar",
+    link: "https://www.viki.com/tv/40778c-where-does-the-sea-begin#episodes",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/dHkWgdFwLSxbHSEUwM4KrWugfNt.jpg",
+  },
+  {
+    name: "Amor en el Laboratorio",
+    link: "https://www.pandra.ma/detalle/the-potato-lab-2025/",
+    image:
+      "https://occ-0-116-114.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdwQABCn9v_uSvIwzTm_kODbn3I3bDh7F7YW6sgTU3MRdaGP31odZgLyRlBI-ULzdUrfU8VIOLu_RBUoK4k76-esifk2nZAAXCGUlAvIQGfOh7SeJKkfcAWlUz_JZvoBujKK8QnYBhkS5BXIkAe5rrhi5xHHJN9ao6Wvw_KJU1vbkOqVf6Y_SW5joYTXCZsp3yhV7-A_VdzHgbn9nEEModUUjd_1UX-jtlfb-Ny3eDPtXxVrVwVDwOSZ-yU_DdIA5hQmBC8S-Mgw6TzVKuO4Vd24M4Y0cA15l9qG9QA4j61_X3T3wu9lpzrQPxlg7hWGMzlTEShPU9FbkFk5pma1UMkhAxweemxoXqgn-vjIq--obV744hYvv3BE7caHIlThJfxtKfIr7k7uLX8sHqiQRGEwFkR468o-1e3dC7Ca_3k3e2YT6LDQfx-ynFVTwhPVceRJ1ljddJCx.jpg?r=f17",
+  },
+  {
+    name: "Amor en el Laboratorio Latino",
+    link: "https://www.pandra.ma/detalle/the-potato-lab-lat-2025/",
+    image:
+      "https://occ-0-116-114.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdwQABCn9v_uSvIwzTm_kODbn3I3bDh7F7YW6sgTU3MRdaGP31odZgLyRlBI-ULzdUrfU8VIOLu_RBUoK4k76-esifk2nZAAXCGUlAvIQGfOh7SeJKkfcAWlUz_JZvoBujKK8QnYBhkS5BXIkAe5rrhi5xHHJN9ao6Wvw_KJU1vbkOqVf6Y_SW5joYTXCZsp3yhV7-A_VdzHgbn9nEEModUUjd_1UX-jtlfb-Ny3eDPtXxVrVwVDwOSZ-yU_DdIA5hQmBC8S-Mgw6TzVKuO4Vd24M4Y0cA15l9qG9QA4j61_X3T3wu9lpzrQPxlg7hWGMzlTEShPU9FbkFk5pma1UMkhAxweemxoXqgn-vjIq--obV744hYvv3BE7caHIlThJfxtKfIr7k7uLX8sHqiQRGEwFkR468o-1e3dC7Ca_3k3e2YT6LDQfx-ynFVTwhPVceRJ1ljddJCx.jpg?r=f17",
+  },
+  {
+    name: "Si la vida te da mandarinas...",
+    link: "https://www.pandra.ma/detalle/when-life-gives-you-tangerines-2025/",
+    image:
+      "https://occ-0-1079-116.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY9vpbO8cCM0O5iZILevbl0IPIg0xKisBHPW2Hq38lcvLxOdGyZyAmaNcW_FrsfJgJieU9ZqHXlk-tEA1ijzsBncygJSh2GtFGdPU1uPg5lecQyXLhyUjAHNBWCsaF6zAv9cVste7GHAgXIqKslbG2FfLpyfEHN6QIdYQX5n4Bj3RF8TgJCZe8rZ75vt3lxCAlVUXeboQeKwcRVpjEyD8f1U3sziL4EKv_0etxkTSGu1Y5fXWK1OOCVE7MwGSV9DcTABC6z6cnGf2Z2YiF437ud1cOLm3wcm9fGCR4wHZovHyuUgMaEnjYQw4uAWURhl47BqPMnDWPVfZeI37LuFF6o2UbMbcv947kXNE8yIlJ8IYb0XkvZN97FQrsk9R2KxDd8p9fnBzKfuyeDVhbQUNQO4g6QzI-od0TlwzUeL2KQHgQfArFeMUZJErfBFzb6s05sn5UtocDfO9DvyI3Z1eNrDF8Sp2GA0vU_aua_QGbmCM9Ove_S2PfczhkuNSc29YyKioiU.jpg?r=247",
+  },
+  {
+    name: "Si la vida te da mandarinas... Latino",
+    link: "https://www.pandra.ma/detalle/when-life-gives-you-tangerines-lat-2025/",
+    image:
+      "https://occ-0-1079-116.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY9vpbO8cCM0O5iZILevbl0IPIg0xKisBHPW2Hq38lcvLxOdGyZyAmaNcW_FrsfJgJieU9ZqHXlk-tEA1ijzsBncygJSh2GtFGdPU1uPg5lecQyXLhyUjAHNBWCsaF6zAv9cVste7GHAgXIqKslbG2FfLpyfEHN6QIdYQX5n4Bj3RF8TgJCZe8rZ75vt3lxCAlVUXeboQeKwcRVpjEyD8f1U3sziL4EKv_0etxkTSGu1Y5fXWK1OOCVE7MwGSV9DcTABC6z6cnGf2Z2YiF437ud1cOLm3wcm9fGCR4wHZovHyuUgMaEnjYQw4uAWURhl47BqPMnDWPVfZeI37LuFF6o2UbMbcv947kXNE8yIlJ8IYb0XkvZN97FQrsk9R2KxDd8p9fnBzKfuyeDVhbQUNQO4g6QzI-od0TlwzUeL2KQHgQfArFeMUZJErfBFzb6s05sn5UtocDfO9DvyI3Z1eNrDF8Sp2GA0vU_aua_QGbmCM9Ove_S2PfczhkuNSc29YyKioiU.jpg?r=247",
+  },
+  {
+    name: "My Name",
+    link: "https://doramasflix.in/doramas-online/my-name",
+    image:
+      "https://occ-0-1079-114.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdxF9b-VG-MYGtGB2STio1EUNNUs_Bm7dXXpJmI0IFpO479-bdMNQHiy9V8L-iybRlvU_PANTOY8nGhXLXW4FpqNROPpYRMf1k--Q1vTZ-j5fJ88nYcHxIEMVv5ADJTYr-vR.jpg?r=8f9",
+  },
 ];
 const searchInput = document.getElementById("searchInput");
 const resultsList = document.getElementById("results");
@@ -648,9 +708,32 @@ var ul = document.getElementById("series");
 var encontrado = false;
 function search() {
   const query = searchInput.value.toLowerCase().trim();
-  const filteredData = data.filter((item) => item.name.toLowerCase() === query);
+  const filteredData = data.filter((item) =>
+    item.name.toLowerCase().includes(query)
+  );
+
+  results.innerHTML = filteredData
+    .map(
+      (item) => ` <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href=${item.link}
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src=${item.image}
+                alt=${item.name}
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>${item.name}</span>
+            </a>
+          </li>`
+    )
+    .join("");
   // Mostrar los resultados
-  filteredData.forEach((item) => {
+  /*filteredData.forEach((item) => {
     const li = document.createElement("li");
     const link = document.createElement("a");
     link.href = item.link;
@@ -673,7 +756,7 @@ function search() {
     li.appendChild(link);
     resultsList.appendChild(li);
     ul.classList.add("filtro");
-  });
+  });*/
   if (filteredData.length === 0) {
     var mensaje = document.getElementById("mensaje");
     mensaje.style.display = "block";

@@ -1184,6 +1184,11 @@ const data = [
     link: "https://zonatmo.com/library/one_shot/61622/look-back",
     image: "https://m.media-amazon.com/images/I/81r9pMwJCoL.jpg",
   },
+  {
+    name: "The Marshal King",
+    link: "https://mangaplus.shueisha.co.jp/titles/200149",
+    image: "../../img/MarshalKing.jpg",
+  },
 ];
 const searchInput = document.getElementById("searchInput");
 const resultsList = document.getElementById("results");
@@ -1191,9 +1196,31 @@ var ul = document.getElementById("mangas");
 var encontrado = false;
 function search() {
   const query = searchInput.value.toLowerCase().trim();
-  const filteredData = data.filter((item) => item.name.toLowerCase() === query);
+  const filteredData = data.filter((item) =>
+    item.name.toLowerCase().includes(query)
+  );
+  results.innerHTML = filteredData
+    .map(
+      (item) => ` <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href=${item.link}
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src=${item.image}
+                alt=${item.name}
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>${item.name}</span>
+            </a>
+          </li>`
+    )
+    .join("");
   // Mostrar los resultados
-  filteredData.forEach((item) => {
+  /*filteredData.forEach((item) => {
     const li = document.createElement("li");
     const link = document.createElement("a");
     link.href = item.link;
@@ -1216,7 +1243,7 @@ function search() {
     li.appendChild(link);
     resultsList.appendChild(li);
     ul.classList.add("filtro");
-  });
+  });*/
   if (filteredData.length === 0) {
     var mensaje = document.getElementById("mensaje");
     mensaje.style.display = "block";

@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Noticias Crunchyroll</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background: linear-gradient(to right, #f9a825, #ff6f00);
+        color: #fff;
+        position: relative;
+        overflow: hidden;
+      }
+
+      .background-images {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+      }
+
+      .background-images img {
+        position: absolute;
+        opacity: 1;
+      }
+
+      .background-images img.character-left {
+        bottom: 0;
+        left: 10px;
+        height: 70%;
+      }
+
+      .background-images img.character-right {
+        bottom: -50px;
+        right: 10px;
+        height: 30%;
+      }
+
+      .container-news {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        padding: 25px;
+      }
+
+      .seccion-principal{
+        display: flex; 
+        flex-direction: column; 
+        gap: 10px;
+      }
+      .seccion-principal img{
+        height: 200px;
+        width: 18rem;
+      }
+
+      .left-section,
+      .right-section {
+        background-color: rgba(0, 0, 0, 0.8);
+        padding: 10px;
+        border-radius: 8px;
+        width: 630px;
+        height: 830px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+      }
+
+      .news-title-h1 {
+        font-size: 14px;
+        font-weight: bold;
+        padding-bottom: 768px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+      .news-title {
+        font-size: 14px;
+        font-weight: bold;
+        padding-bottom: 420px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .news-title img {
+        width: 40px;
+        margin-bottom: 10px;
+      }
+      .news-title img {
+            width: 24px;
+            margin-right: 10px;
+        }
+
+        .news-item {
+            margin-bottom: 20px;
+        }
+
+        .news-item img {
+            width: 100%;
+            border-radius: 8px;
+        }
+        .news-item a {
+            color: #ffffff;
+            text-decoration: none;
+            font-weight: bold;
+            display: block;
+            margin-top: 10px;
+        }
+
+        .news-item a:hover {
+            text-decoration: underline;
+        }
+      .recent-news ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .recent-news li {
+            margin-bottom: 15px;
+            display: flex;
+            gap: 10px;
+        }
+
+        .recent-news img {
+            width: 80px;
+            height: 60px;
+            border-radius: 4px;
+            object-fit: cover;
+        }
+
+        .recent-news a {
+            color: #ffffff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .recent-news a:hover {
+            text-decoration: underline;
+        }
+        
+    </style>
+  </head>
+  <body>
+    <div class="background-images">
+      <img
+        src="https://www.crunchyroll.com/build/assets/img/news/leaning_hime.png"
+        alt="Character Left"
+        class="character-left"
+      />
+      <img
+        src="https://www.crunchyroll.com/build/assets/img/news/news_yuzu.png"
+        alt="Character Right"
+        class="character-right"
+      />
+    </div>
+
+    <div class="container-news">
+      <!-- Sección izquierda -->
+      <div class="left-section">
+        <div class="news-title-h1">
+                <h1>Noticias de Crunchyroll</h1>
+            </div>
+            <div class="seccion-principal">
+            <div class="news-item">
+                <img src="https://a.storyblok.com/f/178900/960x536/4adf2835ae/sakamoto-days-creditless-ed.jpg/m/360x0" alt="Noticia 1">
+                <a href="https://crunchyroll.com/es/news/latest/2025/1/12/sakamoto-days-ending-video">El anime Sakamoto Days estrena ending sin créditos</a>
+                <p>Jan 21, 2025 6:03pm GMT-6 por Julio Vélez</p>
+            </div>
+            <div class="news-item col-sm-6">
+                <img src="https://a.storyblok.com/f/178900/960x540/79019531b8/mai-sf6-date.jpg/m/360x0" alt="Noticia 2">
+                <a href="https://crunchyroll.com/es/news/latest/2025/1/14/street-fighter-6-mai-shiranui-trailer">Mai Shiranui deslumbra en gameplay trailer de Street
+                          Fighter 6</a>
+                <p>Jan 24, 2025 7:00am GMT-6 por Julio Vélez</p>
+            </div>
+            </div>
+      </div>
+
+      <!-- Sección derecha -->
+      <div class="right-section recent-news">
+        <div class="news-title">
+                <span>Más recientes</span>
+            </div>
+            <ul>
+                <li>
+                    <img src="https://a.storyblok.com/f/178900/960x640/e0f07a12e7/cells-at-work-live-action.png/m/0x88" alt="Noticia reciente 1">
+                    <a href="#">Kunon the Sorcerer Can See tendrá anime</a>
+                </li>
+                <li>
+                    <img src="https://a.storyblok.com/f/178900/920x517/680cdf44e6/sk8-the-infinity-anime-ova.jpg/m/0x88" alt="Noticia reciente 2">
+                    <a href="#">El anime original Apocalypse Hotel se...</a>
+                </li>
+                <li>
+                    <img src="https://a.storyblok.com/f/178900/1920x1080/54b6e10ba7/i-may-be-a-guild-receptionist.png/m/0x88" alt="Noticia reciente 3">
+                    <a href="#">El live action de My Love Story with Yamada...</a>
+                </li>
+                <li>
+                    <img src="https://a.storyblok.com/f/178900/960x540/1398d83d9c/black-butler-sebastian.jpg/m/0x88" alt="Noticia reciente 4">
+                    <a href="#">Pass the Monster Meat, Milady! retrasa su...</a>
+                </li>
+                <li>
+                    <img src="https://a.storyblok.com/f/178900/1920x1080/a70533bf04/alma-chan-wants-to-have-a-family-logo.jpg/m/0x88" alt="Noticia reciente 5">
+                    <a href="#">ASTERISM lanza el video musical del openi...</a>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <img src="https://a.storyblok.com/f/178900/960x640/e0f07a12e7/cells-at-work-live-action.png/m/0x88" alt="Noticia reciente 1">
+                    <a href="#">Kunon the Sorcerer Can See tendrá anime</a>
+                </li>
+                <li>
+                    <img src="https://a.storyblok.com/f/178900/920x517/680cdf44e6/sk8-the-infinity-anime-ova.jpg/m/0x88" alt="Noticia reciente 2">
+                    <a href="#">El anime original Apocalypse Hotel se...</a>
+                </li>
+                <li>
+                    <img src="https://a.storyblok.com/f/178900/1920x1080/54b6e10ba7/i-may-be-a-guild-receptionist.png/m/0x88" alt="Noticia reciente 3">
+                    <a href="#">El live action de My Love Story with Yamada...</a>
+                </li>
+                <li>
+                    <img src="https://a.storyblok.com/f/178900/960x540/1398d83d9c/black-butler-sebastian.jpg/m/0x88" alt="Noticia reciente 4">
+                    <a href="#">Pass the Monster Meat, Milady! retrasa su...</a>
+                </li>
+                <li>
+                    <img src="https://a.storyblok.com/f/178900/1920x1080/a70533bf04/alma-chan-wants-to-have-a-family-logo.jpg/m/0x88" alt="Noticia reciente 5">
+                    <a href="#">ASTERISM lanza el video musical del openi...</a>
+                </li>
+            </ul>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

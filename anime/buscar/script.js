@@ -221,6 +221,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/nyhY3MtQNw36EiczpFu2TWmYIR0.jpg",
   },
   {
+    name: "Anne Shirley",
+    link: "https://www1.otakustv.com/anime/anne-shirley",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/sobdEtiJt41QOrGGNiGfXGrP7tc.jpg",
+  },
+  {
     name: "Anohana: The Flower We Saw That Day",
     link: "https://www1.otakustv.com/anime/ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai",
     image:
@@ -719,6 +725,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/ccfSWNBjieb6jRTHgO7MUmQMU0l.jpg",
   },
   {
+    name: "Blue Exorcist Latino",
+    link: "https://henaojara.com/animeonline/season/ao-no-exorcist-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/xLY4vKOUTU1m3ptaVUzzL9nEYjm.jpg",
+  },
+  {
     name: "Blue Exorcist: Kyoto Saga",
     link: "https://www1.otakustv.com/anime/ao-no-exorcist-kyoto-fujouou-hen-qt3wve5b",
     image:
@@ -939,6 +951,12 @@ const data = [
     link: "https://www1.otakustv.com/anime/yofukashi-no-uta",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/26wE1yRkO3k9qjFgMCGbgqdyoxO.jpg",
+  },
+  {
+    name: "Can a Boy-Girl Friendship Survive?",
+    link: "https://www1.otakustv.com/anime/danjo-no-yuujou-wa-seiritsu-suru-iya-shinai",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/8caPaxBbEuX1G4RUEkFTzSVh4nA.jpg",
   },
   {
     name: "Candy Candy",
@@ -1313,16 +1331,40 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/jMuXAEAcxIIvi08QkG9MD2o3mxG.jpg",
   },
   {
+    name: "Devil May Cry",
+    link: "https://www1.otakustv.com/anime/devil-may-cry-2025",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/3AXTaKtkYwCqtklTNgHLyeFoUyV.jpg",
+  },
+  {
+    name: "Devil May Cry Latino",
+    link: "https://henaojara.com/animeonline/season/devil-may-cry-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/3AXTaKtkYwCqtklTNgHLyeFoUyV.jpg",
+  },
+  {
     name: "Digimon Adventure Latino",
     link: "https://www.lacartoons.com/serie/53",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/4rDngDXMCJiOzcfQIw4GetY3wpN.jpg",
   },
   {
+    name: "Digimon Adventure 02 Latino",
+    link: "https://www.lacartoons.com/serie/54",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/25f2c88af1655151e4349e17741fbc19.jpg",
+  },
+  {
     name: "Digimon Tamers Latino",
     link: "hhttps://www.lacartoons.com/serie/55",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/71dyVj15t9POfVQQdmO5Rx1MiGP.jpg",
+  },
+  {
+    name: "Digimon Adventure Frontier Latino",
+    link: "https://www.lacartoons.com/serie/56",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/269c2753df802707051caaf306edc21b.jpg",
   },
   {
     name: "Digimon Adventure",
@@ -1433,6 +1475,18 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/zlLIF2Gg0E5ZnThMClltVNpqjF0.jpg",
   },
   {
+    name: "Dr. Stone: Science Future",
+    link: "https://www1.otakustv.com/anime/dr-stone-science-future",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/nEe13H2dzeMLZsKgxoZWtMLsN5y.jpg",
+  },
+  {
+    name: "Dr. Stone: Science Future Latino",
+    link: "https://www.henaojara.com/veronline/season/dr-stone-espanol-latino-hd-4/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/nEe13H2dzeMLZsKgxoZWtMLsN5y.jpg",
+  },
+  {
     name: "Dragon Ball Latino",
     link: "https://www.lacartoons.com/serie/40",
     image:
@@ -1443,6 +1497,12 @@ const data = [
     link: "https://www1.otakustv.com/anime/dragon-ball-daima",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/6f423341fca53fa2b82b1aa10ed9f55c.jpg",
+  },
+  {
+    name: "Dragon Ball DAIMA Latino",
+    link: "https://henaojara.com/animeonline/dragon-ball-daima-espanol-latino-hd/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/qYXmkGBzkaBXEkX5Yeepbsyh2bo.jpg",
   },
   {
     name: "Dragon Ball Super",
@@ -1523,8 +1583,14 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/7f68a1efa7f113e381b6cbad609b112e.jpe",
   },
   {
+    name: "Entrevistas con chicas monstruo",
+    link: "https://www1.otakustv.com/anime/demi-chan-wa-kataritai",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover,format=auto,quality=85,width=1350/keyart/G6Q43113R-backdrop_wide",
+  },
+  {
     name: "Entrevistas con chicas monstruo Latino",
-    link: "https://www.facebook.com/watch/101974755365056/490716208857478/",
+    link: "https://www1.animeonline.ninja/online/demi-chan-wa-kataritai-3/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/zTsGdqb8pbCJzf9bEFPSwjlPs5X.jpg",
   },
@@ -1635,6 +1701,12 @@ const data = [
     link: "https://www1.otakustv.com/anime/fate-kaleid-liner-prismaillya-3rei",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/uoFeRdv8109xLG8g7f0oosLYmer.jpg",
+  },
+  {
+    name: "Fate/strange Fake",
+    link: "https://www1.otakustv.com/anime/fate-strange-fake",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/3JK7iIywHhMq4G5UFGYz74IfDhS.jpg",
   },
   {
     name: "Fate/kaleid liner Prisma Illya Latino",
@@ -2136,7 +2208,7 @@ const data = [
   },
   {
     name: "Horimiya Latino",
-    link: "https://henaojara2.com/ver/horimiya-espanol-latino-hd/",
+    link: "https://henaojara.com/animeonline/horimiya-espanol-latino-hd/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/4u64tHtUkna1y4OkJcrXLEhhLLy.jpg",
   },
@@ -2333,10 +2405,22 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2902c5a7ca3303179afbcf7665bf41f4.jpe",
   },
   {
-    name: "I've Been Killing Slimes For 300 Years And Maxed Out My Level Latino",
-    link: "https://www.henaojara.com/ver/slime-taoshite-300-nen-espanol-latino-hd/",
+    name: "I've Been Killing Slimes For 300 Years And Maxed Out My Level 2nd Season",
+    link: "https://www1.otakustv.com/anime/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2902c5a7ca3303179afbcf7665bf41f4.jpe",
+  },
+  {
+    name: "I've Been Killing Slimes For 300 Years And Maxed Out My Level Latino",
+    link: "https://henaojara.com/animeonline/slime-taoshite-300-nen-espanol-latino-hd/",
+    image:
+      "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2902c5a7ca3303179afbcf7665bf41f4.jpe",
+  },
+  {
+    name: "I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time",
+    link: "https://www1.otakustv.com/anime/guild-no-uketsukejou-desu-ga-zangyou-wa-iya-nanode-boss-wo-solo-toubatsu-shiyou-to-omoimasu",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover,format=auto,quality=94,width=1920/keyart/G8DHV784M-backdrop_wide",
   },
   {
     name: "Jojos Bizarre Adventure",
@@ -2520,13 +2604,19 @@ const data = [
   },
   {
     name: "Kaguya-Sama: Love Is War - Ultra Romantic Latino",
-    link: "https://www.henaojara.com/ver/kaguya-sama-wa-kokurasetai-temporada-3-espanol-latino-hd/",
+    link: "https://henaojara.com/animeonline/kaguya-sama-wa-kokurasetai-temporada-3-espanol-latino-hd/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/c666ad3b91f3aca41e958b0c618cde77.jpe",
   },
   {
     name: "Kaguya-Sama: Love Is War -The First Kiss That Never Ends-",
     link: "https://www1.otakustv.com/anime/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/9VBkjaQZNWAW2eU4vmJguFTmvUV.jpg",
+  },
+  {
+    name: "Kaguya-Sama: Love Is War -The First Kiss That Never Ends- Latino",
+    link: "https://henaojara.com/animeonline/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai-espanol-latino-hd/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/9VBkjaQZNWAW2eU4vmJguFTmvUV.jpg",
   },
@@ -2568,13 +2658,13 @@ const data = [
   },
   {
     name: "Kanojo Okarishimasu Latino",
-    link: "https://www.henaojara.com/ver/kanojo-okarishimasu-temporada-1-espanol-latino-hd/",
+    link: "https://henaojara.com/animeonline/kanojo-okarishimasu-temporada-1-espanol-latino-hd/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/yozfbzwLhGe81YKTDoNDRdJrIuC.jpg",
   },
   {
     name: "Kanojo Okarishimasu Season 2 Latino",
-    link: "https://www.henaojara.com/ver/kanojo-okarishimasu-temporada-2-espanol-latino-hd/",
+    link: "https://henaojara.com/animeonline/kanojo-okarishimasu-temporada-1-espanol-latino-hd/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/e58b1061aca9b7b9abee301049b47581.jpe",
   },
@@ -2628,7 +2718,7 @@ const data = [
   },
   {
     name: "Kimetsu no Yaiba Latino",
-    link: "https://www.facebook.com/watch/101974755365056/744385529772546",
+    link: "https://henaojara.com/animeonline/kimetsu-no-yaiba-espanol-latino-hd/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/unhUWXYl8DFaIsaz6U59cDGSBgj.jpg",
   },
@@ -2640,7 +2730,7 @@ const data = [
   },
   {
     name: "Kimetsu no Yaiba Tren Infinito Arc Latino",
-    link: "https://www.facebook.com/watch/101974755365056/578278027280135/",
+    link: "https://henaojara.com/animeonline/kimetsu-no-yaiba-espanol-latino-hd/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/3u7lv1dDYv6koOc1R5LUA1lwVdK.jpg",
   },
@@ -2652,7 +2742,7 @@ const data = [
   },
   {
     name: "Kimetsu no Yaiba Distrito Rojo Arc Latino",
-    link: "https://www.facebook.com/watch/101974755365056/460157679361355/",
+    link: "https://henaojara.com/animeonline/kimetsu-no-yaiba-espanol-latino-hd/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/mvpW6oqUF8L9P665vsGiuq9j97b.jpg",
   },
@@ -2664,7 +2754,7 @@ const data = [
   },
   {
     name: "Kimetsu no Yaiba Aldea De Los Herreros Arc Latino",
-    link: "https://wvw.henaojara.com/veronline/season/kimetsu-no-yaiba-espanol-latino-hd-3/",
+    link: "https://henaojara.com/animeonline/kimetsu-no-yaiba-espanol-latino-hd/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/6b5f4fc8c0a7bb5012b9c0930a46570f.jpe",
   },
@@ -2676,7 +2766,7 @@ const data = [
   },
   {
     name: "Kimetsu no Yaiba Hashira Training Arc Latino",
-    link: "https://wvw.henaojara.com/veronline/season/kimetsu-no-yaiba-espanol-latino-hd-4/",
+    link: "https://henaojara.com/animeonline/kimetsu-no-yaiba-espanol-latino-hd/",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=1200,height=675,quality=85/catalog/crunchyroll/6b17182a3518d7406f0e69687f773f4f.jpe",
   },
@@ -2793,6 +2883,12 @@ const data = [
     link: "https://www1.otakustv.com/anime/kotarou-wa-hitorigurashi-latino",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/6UnCnLUNlKXQwg4FwsW88PHheRH.jpg",
+  },
+  {
+    name: "KOWLOON GENERIC ROMANCE",
+    link: "https://www1.otakustv.com/anime/kowloon-generic-romance",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/2WvIp7l8oA524lNihn5dD0jInKb.jpg",
   },
   {
     name: "Kuma Kuma Kuma Bear",
@@ -3210,7 +3306,7 @@ const data = [
   },
   {
     name: "More than a Married Couple, but Not Lovers Latino",
-    link: "https://henaojara2.com/ver/season/fuufu-ijou-koibito-miman-espanol-latino-hd-1/",
+    link: "https://henaojara.com/animeonline/fuufu-ijou-koibito-miman-espanol-latino-hd/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/8a9adc8fd5b4c946d6ee86f29da554c0.jpe",
   },
@@ -3505,6 +3601,12 @@ const data = [
   {
     name: "One Piece",
     link: "https://www.crunchyroll.com/es/series/GRMG8ZQZR/one-piece",
+    image:
+      "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/1ecde018e863e2aaee31f00a23378c35.jpe",
+  },
+  {
+    name: "One Piece: Fish-Man Saga",
+    link: "https://www1.otakustv.com/anime/one-piece-gyojin-tou-hen",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/1ecde018e863e2aaee31f00a23378c35.jpe",
   },
@@ -3941,10 +4043,22 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/nDDZ9yQoQpC9i3Q9W9EC7QdcPsX.jpg",
   },
   {
+    name: "Sailor Moon Crystal",
+    link: "https://www1.otakustv.com/anime/bishoujo-senshi-sailor-moon-crystal?page=2",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/oljGiVNTVpn0Daoc5mk7Er8rBaw.jpg",
+  },
+  {
     name: "Sailor Moon Crystal Latino",
     link: "https://www1.animeonline.ninja/online/sailor-moon-crystal-4/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/oljGiVNTVpn0Daoc5mk7Er8rBaw.jpg",
+  },
+  {
+    name: "Sailor Moon Crystal Season III",
+    link: "https://www1.otakustv.com/anime/bishoujo-senshi-sailor-moon-crystal-season-3",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/zfv50dkKrcK3lguncAvjvz5a8sO.jpg",
   },
   {
     name: "Saint Saiya",
@@ -4601,6 +4715,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/7yUOrBr2EwJYSEYOwJ0M7og8hJ2.jpg",
   },
   {
+    name: "Theatre of Darkness 14",
+    link: "https://www1.otakustv.com/anime/yami-shibai-14",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/mqOFyE4LxF7PsvXfOSQwwPGkXz0.jpg",
+  },
+  {
     name: "Theatre of Darkness Latino",
     link: "https://www1.animeonline.ninja/online/yami-shibai/",
     image:
@@ -4749,6 +4869,18 @@ const data = [
     link: "https://www.animelatinohd.com/anime/tantei-wa-mou-shindeiru",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2102fb31e3fd1d15e3f17ebbd7df41ae.jpe",
+  },
+  {
+    name: "The Dinner Table Detective",
+    link: "https://www1.otakustv.com/anime/nazotoki-wa-dinner-no-ato-de",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/pmARZuOtVF9vKkP02Jbar0PhFan.jpg",
+  },
+  {
+    name: "The Dinner Table Detective Latino",
+    link: "https://henaojara.com/animeonline/season/nazotoki-wa-dinner-no-ato-de-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/pmARZuOtVF9vKkP02Jbar0PhFan.jpg",
   },
   {
     name: "The Duke of Death and His Maid",
@@ -4992,13 +5124,13 @@ const data = [
   },
   {
     name: "The Quintessential Quintuplets Latino",
-    link: "https://www.facebook.com/watch/101974755365056/469863884990046/",
+    link: "https://henaojara.com/animeonline/las-quintillizas-gotoubun-no-hanayome-espanol-latino-hd/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/dwEkNoGFZJWqiwJrnzVfmtmVhfU.jpg",
   },
   {
     name: "The Quintessential Quintuplets II Latino",
-    link: "https://www.facebook.com/watch/101974755365056/417511500473074/",
+    link: "https://henaojara.com/animeonline/las-quintillizas-temporada-2-gotoubun-no-hanayome-espanol-latino-hd/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/010634e9d1c76f0596248c1091e4586c.jpe",
   },
@@ -5019,6 +5151,12 @@ const data = [
     link: "https://mega.nz/folder/7Ag2BZJA#Ode4Cn5_eEXcGM6QTVki4Q",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/wLZNHQKJ0BwQfZjt9RqQ6wgei9M.jpg",
+  },
+  {
+    name: "The Red Ranger Becomes an Adventurer in Another World",
+    link: "https://www1.otakustv.com/anime/sentai-red-isekai-de-boukensha-ni-naru",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/50235f7ea62db8d5271070aac4d457b2.jpg",
   },
   {
     name: "The Reincarnation Of The Strongest Exorcist In Another World",
@@ -5199,6 +5337,12 @@ const data = [
     link: "https://drive.google.com/drive/u/0/folders/1iDXQgxjg14nMIN4UwFmZ8wcVbrtkqfrn",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a05c09b4ed1b17f559bdfd0fcdeb63e7.jpe",
+  },
+  {
+    name: "Toilet-Bound Hanako-kun Season 2",
+    link: "https://www1.otakustv.com/anime/jibaku-shounen-hanako-kun-2",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/vntZlfDuS8RXabeDLHnopnAeBKz.jpg",
   },
   {
     name: "Tokyo Revengers",
@@ -5657,6 +5801,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/589632aedf2ed936e2c7ba95ed6ed5d4.jpe",
   },
   {
+    name: "Your Forma",
+    link: "https://www1.otakustv.com/anime/your-forma",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/9lyiykRCPdU6UZiW53LGQReNk4O.jpg",
+  },
+  {
     name: "Yowamushi Pedal Latino",
     link: "https://www.henaojara.com/ver/season/yowamushi-pedal-espanol-latino-hd-1/",
     image:
@@ -5880,7 +6030,7 @@ const data = [
   },
   {
     name: "Horimiya: Piece Latino",
-    link: "https://www.henaojara.com/ver/season/horimiya-piece-espanol-latino-hd-1/",
+    link: "https://henaojara.com/animeonline/horimiya-piece/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/3a1254f863bf0c9315086d37911c66df.jpe",
   },
@@ -5910,7 +6060,7 @@ const data = [
   },
   {
     name: "Kanojo Okarishimasu Season 3 Latino",
-    link: "https://www.henaojara.com/ver/season/kanojo-okarishimasu-espanol-latino-hd-3/",
+    link: "https://henaojara.com/animeonline/kanojo-okarishimasu-temporada-1-espanol-latino-hd/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/1d2082f46f5c4964f5c11ad3fcba4fd1.jpe",
   },
@@ -5973,6 +6123,18 @@ const data = [
     link: "https://www.henaojara.com/ver/season/watashi-no-shiawase-na-kekkon-espanol-latino-hd-1/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/rRu2yhxhPxywgWADU19ZeDu0pzK.jpg",
+  },
+  {
+    name: "My Happy Marriage Season II",
+    link: "https://www1.otakustv.com/anime/watashi-no-shiawase-na-kekkon-2nd-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/IW6WAymLgJIzMDeppvlH0LJGHm.jpg",
+  },
+  {
+    name: "My Happy Marriage Season II Latino",
+    link: "https://www.henaojara.com/veronline/season/watashi-no-shiawase-na-kekkon-espanol-latino-hd-2/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/IW6WAymLgJIzMDeppvlH0LJGHm.jpg",
   },
   {
     name: "My Tiny Senpai",
@@ -6197,6 +6359,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/941b79574788d50e6d9513a407b0df0d.jpe",
   },
   {
+    name: "Shangri-La Frontier Season 2",
+    link: "https://www1.otakustv.com/anime/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/a5f4f7ffb7e57e2e1409f123f6498c1a.jpg",
+  },
+  {
     name: "I'm in Love with the Villainess",
     link: "https://www1.otakustv.com/anime/watashi-no-oshi-wa-akuyaku-reijou",
     image:
@@ -6275,6 +6443,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/530b81ea91a57829a9851e68b96db82c.jpe",
   },
   {
+    name: "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2",
+    link: "https://www1.otakustv.com/anime/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-2nd-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/2EiJ7kOcuGef855BDBVkO3vufZP.jpg",
+  },
+  {
     name: "After-school Hanako-kun",
     link: "https://www1.otakustv.com/anime/houkago-shounen-hanako-kun",
     image:
@@ -6326,7 +6500,7 @@ const data = [
     name: "Shangri-La Frontier Latino",
     link: "https://www.henaojara.com/ver/season/shangri-la-frontier-espanol-latino-hd-1/",
     image:
-      "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/941b79574788d50e6d9513a407b0df0d.jpe",
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/a5f4f7ffb7e57e2e1409f123f6498c1a.jpg",
   },
   {
     name: "The Saint's Magic Power is Omnipotent Season 2 Latino",
@@ -6485,6 +6659,18 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/880a9a293ef5b71e1122e85543f8e86d.jpe",
   },
   {
+    name: "The Apothecary Diaries Season 2",
+    link: "https://www1.otakustv.com/anime/kusuriya-no-hitorigoto-2nd-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/urKVIVAwGX7cpNfsGi4AdPn22Kh.jpg",
+  },
+  {
+    name: "The Apothecary Diaries Season 2 Latino",
+    link: "https://henaojara.com/animeonline/season/kusuriya-no-hitorigoto-espanol-latino-hd-2/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/h4tYrFlKXhemuE0YF0ar0EUvroO.jpg",
+  },
+  {
     name: "Akuma-kun",
     link: "https://www1.otakustv.com/anime/akuma-kun-ona",
     image:
@@ -6641,6 +6827,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/4305090653ee4239dd0d797f1a4a6bdf.jpe",
   },
   {
+    name: "Solo Leveling Season 2",
+    link: "https://www1.otakustv.com/anime/ore-dake-level-up-na-ken-season-2-arise-from-the-shadow",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/6J8Ps6ma4TMsGtbjRsRM18myueQ.jpg",
+  },
+  {
     name: "Blue Exorcist: Shimane Illuminati Saga",
     link: "https://www1.otakustv.com/anime/ao-no-exorcist-shimane-illuminati-hen",
     image:
@@ -6651,6 +6843,12 @@ const data = [
     link: "https://www1.otakustv.com/anime/ao-no-exorcist-yuki-no-hate-hen",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/d172ce6deaf012f5e45863d3478854dd.jpg",
+  },
+  {
+    name: "Blue Exorcist: The Blue Night Saga",
+    link: "https://www1.otakustv.com/anime/ao-no-exorcist-yosuga-hen",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/aEHvJE5aiLcmiqYPoMyr6I9cv5V.jpg",
   },
   {
     name: "The Dangers In My Heart Season 2",
@@ -7164,7 +7362,7 @@ const data = [
   },
   {
     name: "Alya Sometimes Hides Her Feelings in Russian Latino",
-    link: "https://wvw.henaojara.com/veronline/season/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-espanol-latino-hd-1/",
+    link: "https://henaojara.com/animeonline/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-espanol-latino-hd/",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/b0bdcf73a7e00f9bc75131088970288d.jpg",
   },
@@ -7217,6 +7415,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/dZ59yKdutsyPK8SdQUhqMiPAyHf.jpg",
   },
   {
+    name: "Kinnikuman: Perfect Origin Arc Season 2",
+    link: "https://www1.otakustv.com/anime/kinnikuman-kanpeki-chujin-shiso-hen-season-2",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/gpnLvTvRLAxC21rvwy63bBbLTa8.jpg",
+  },
+  {
     name: "Kids on the Slope Latino",
     link: "https://ww3.animeonline.ninja/online/sakamichi-no-apollon/",
     image:
@@ -7263,6 +7467,12 @@ const data = [
     link: "https://www1.otakustv.com/anime/bye-bye-earth",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/be826d5bce7c1589a04d69cdb112c1c4.jpg",
+  },
+  {
+    name: "Bye Bye Earth 2nd Season",
+    link: "https://www1.otakustv.com/anime/bye-bye-earth-2nd-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/dbmZAmHabh39YRVtDtknjR6Ro0B.jpg",
   },
   {
     name: "Bye Bye Earth Latino",
@@ -7355,6 +7565,12 @@ const data = [
       "https://m.media-amazon.com/images/S/pv-target-images/5903ea7e5f4db5c97b5a1c978622e1fcddf46c32de7cc6ed1552d3141d86dc8e._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,808,263,156_SX480_FMwebp_.jpg",
   },
   {
+    name: "Magilumiere Magical Girls S. A. Latino",
+    link: "https://henaojara.com/animeonline/season/kabushiki-gaisha-magi-lumiere-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/pUyN568pVATUiwCou0Z1EHOM7ff.jpg",
+  },
+  {
     name: "Orb: On the Movements of the Earth",
     link: "https://www1.otakustv.com/anime/chi-chikyuu-no-undou-ni-tsuite",
     image:
@@ -7363,6 +7579,18 @@ const data = [
   {
     name: "YuruYuri",
     link: "https://www1.otakustv.com/anime/yuru-yuri",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/9jJzeIRcJdiU32KtQk4l5r7NUIM.jpg",
+  },
+  {
+    name: "YuruYuri Season 2",
+    link: "https://www1.otakustv.com/anime/yuru-yuri-2",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/txOTZvoj8VmVucYuZpBzpveDlmT.jpg",
+  },
+  {
+    name: "YuruYuri Season 3",
+    link: "https://www1.otakustv.com/anime/yuru-yuri-san-hai",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/b6d5b2c989a1769cde3094d1a31ff4a3.jpe",
   },
@@ -7588,6 +7816,138 @@ const data = [
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/kvIitUZR9t1kJsA4rrTLFa9SFNG.jpg",
   },
+  {
+    name: "Medalist",
+    link: "https://www1.otakustv.com/anime/medalist",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/vxfl4KY3WsENBT4UkWmNPQBypeQ.jpg",
+  },
+  {
+    name: "Medalist Latino",
+    link: "https://ww3.animeonline.ninja/online/medalist/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/vxfl4KY3WsENBT4UkWmNPQBypeQ.jpg",
+  },
+  {
+    name: "Sorairo Utility",
+    link: "https://www1.otakustv.com/anime/sorairo-utility-tv",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/b18WePt0yLE0a2KcvY93oo4MXl1.jpg",
+  },
+  {
+    name: "OKITSURA",
+    link: "https://www1.otakustv.com/anime/okinawa-de-suki-ni-natta-ko-ga-hougen-sugite-tsurasugiru",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/2d70de2f5ecf212e280e0696ce89730c.jpg",
+  },
+  {
+    name: "I'm Getting Married to a Girl I Hate in My Class",
+    link: "https://www1.otakustv.com/anime/class-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/b4f8ea935ad8608ec9f75c7c4a43f096.jpg",
+  },
+  {
+    name: "Ameku M.D.: Doctor Detective",
+    link: "https://www1.otakustv.com/anime/ameku-takao-no-suiri-karte",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/c8d9ace86bc0c3080a3d6cac2f2dac00.jpg",
+  },
+  {
+    name: "Magic Maker",
+    link: "https://www1.otakustv.com/anime/magic-maker-isekai-mahou-no-tsukurikata",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/0e82e62354dbee4806b60a76ce3f0978.jpg",
+  },
+  {
+    name: "Magic Maker Latino",
+    link: "https://www.henaojara.com/veronline/season/magic-maker-isekai-mahou-no-tsukurikata-espanol-latino-hd-1/",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/0e82e62354dbee4806b60a76ce3f0978.jpg",
+  },
+  {
+    name: "Medaka Kuroiwa is Impervious to My Charms",
+    link: "https://www1.otakustv.com/anime/kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/936133874e79f633123c7749a30d7204.jpg",
+  },
+  {
+    name: "Honey Lemon Soda",
+    link: "https://www1.otakustv.com/anime/honey-lemon-soda",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/0985dd22a11042e71fc218340e2a86b6.jpg",
+  },
+  {
+    name: "Sakamoto Days",
+    link: "https://www1.otakustv.com/anime/sakamoto-days",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/2BEocOFPIc1nniZ3l1YVMce91Jd.jpg",
+  },
+  {
+    name: "Sakamoto Days Latino",
+    link: "https://www.henaojara.com/veronline/season/sakamoto-days-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/2BEocOFPIc1nniZ3l1YVMce91Jd.jpg",
+  },
+  {
+    name: "Grisaia Phantom Trigger",
+    link: "https://www1.otakustv.com/anime/grisaia-phantom-trigger",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/51049d7b26753d4c2584740c704b13ac.jpg",
+  },
+  {
+    name: "ZENSHU",
+    link: "https://www1.otakustv.com/anime/zenshuu",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/33e6a8e90a15d3f7d1b619a03d663b31.jpg",
+  },
+  {
+    name: "ZENSHU Latino",
+    link: "https://www.henaojara.com/veronline/zenshuu-espanol-latino-hd/",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/33e6a8e90a15d3f7d1b619a03d663b31.jpg",
+  },
+  {
+    name: "HOTEL TASOKARE",
+    link: "https://watch.plex.tv/es/show/tasokare-hotel-1/season/1",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/mXFJSGhNQCbLabcX6P4T4iLfqeo.jpg",
+  },
+  {
+    name: "From Bureaucrat to Villainess: Dad's Been Reincarnated!",
+    link: "https://www1.otakustv.com/anime/akuyaku-reijou-tensei-ojisan",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/y1WSefWrSOsCOcbgvzonfdmR3no.jpg",
+  },
+  {
+    name: "Juliet en el internado",
+    link: "https://www1.otakustv.com/anime/kishuku-gakkou-no-juliet",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/kIbLLdsmrw3RFCbKrHCoIPEDPFK.jpg",
+  },
+  {
+    name: "Puniru is Kawaii Slime",
+    link: "https://www1.otakustv.com/anime/puniru-wa-kawaii-slime",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/snYpfZXwhwUKN8S2wtPBY9dLsef.jpg",
+  },
+  {
+    name: "LAZARUS",
+    link: "https://www1.otakustv.com/anime/lazarus",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/msD8CqPajMRo3VtRGuh85ZNIPfc.jpg",
+  },
+  {
+    name: "LAZARUS Latino",
+    link: "https://henaojara.com/animeonline/season/lazarus-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/msD8CqPajMRo3VtRGuh85ZNIPfc.jpg",
+  },
+  {
+    name: "Umamusume: Cinderella Gray",
+    link: "https://www1.otakustv.com/anime/uma-musume-cinderella-gray",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/eU5baQyKBYC3Fxz7r3Iqv5MikVQ.jpg",
+  },
 ];
 const searchInput = document.getElementById("searchInput");
 const resultsList = document.getElementById("results");
@@ -7595,9 +7955,31 @@ var ul = document.getElementById("animes");
 var encontrado = false;
 function search() {
   const query = searchInput.value.toLowerCase().trim();
-  const filteredData = data.filter((item) => item.name.toLowerCase() === query);
+  const filteredData = data.filter((item) =>
+    item.name.toLowerCase().includes(query)
+  );
+  results.innerHTML = filteredData
+    .map(
+      (item) => ` <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href=${item.link}
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src=${item.image}
+                alt=${item.name}
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>${item.name}</span>
+            </a>
+          </li>`
+    )
+    .join("");
   // Mostrar los resultados
-  filteredData.forEach((item) => {
+  /* filteredData.forEach((item) => {
     const li = document.createElement("li");
     const link = document.createElement("a");
     link.href = item.link;
@@ -7620,7 +8002,7 @@ function search() {
     li.appendChild(link);
     resultsList.appendChild(li);
     ul.classList.add("filtro");
-  });
+  });*/
   if (filteredData.length === 0) {
     var mensaje = document.getElementById("mensaje");
     mensaje.style.display = "block";

@@ -390,8 +390,7 @@ const data = [
   {
     name: "Classroom of the Elite 2nd Year Vol 8",
     link: "https://mega.nz/file/WF5i3DJD#CiY8dTibaOfnNJ9ggihL5HnPkyz79X-3j21aXLoNoQI",
-    image:
-      "https://i1.wp.com/animecenterbr.com/wp-content/uploads/2022/10/pic_001-2.jpg?fit=1000%2C1417&ssl=1",
+    image: "https://m.media-amazon.com/images/I/81xZqAhvRrL.jpg",
   },
   {
     name: "Danmachi Light Novel Vol 1",
@@ -2592,8 +2591,7 @@ const data = [
   {
     name: "Alya Sometimes Hides Her Feelings in Russian Light Novel Behind The Scenes",
     link: "https://mega.nz/folder/XsYTlYhS#V1ij2kBoyhQIPMKit0WWNQ",
-    image:
-      "https://scontent.fbjx4-1.fna.fbcdn.net/v/t39.30808-6/468321958_972832768203802_1469251421479455221_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_gMppeUL4OYQ7kNvgECMJLU&_nc_oc=AdgRBA7eucFi4o_H0fKTbSGFLFY0Y17v35fKV_THkbD9KD2du-Y8QtDoqr7MUE0ZOiIgg855NoHkoswtFuqesd7h&_nc_zt=23&_nc_ht=scontent.fbjx4-1.fna&_nc_gid=AzZ6KfmuXp9Y29UR57-AVdW&oh=00_AYAuZm9uTsnu34NNv5aSLUFYh8FQGh8CaAotpA0Vjvlasg&oe=6775162A",
+    image: "../../img/roshidare.jpg",
   },
 ];
 const searchInput = document.getElementById("searchInput");
@@ -2603,11 +2601,32 @@ var ul = document.getElementById("novelas");
 var encontrado = false;
 function search() {
   const query = searchInput.value.toLowerCase().trim();
-  const filteredData = data.filter((item) => item.name.toLowerCase() === query);
-  const sortnovelas = data.slice().sort((a, b) => a.name.localeCompare(b.name));
+  const filteredData = data.filter((item) =>
+    item.name.toLowerCase().includes(query)
+  );
 
+  results.innerHTML = filteredData
+    .map(
+      (item) => ` <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href=${item.link}
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src=${item.image}
+                alt=${item.name}
+                width="50"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>${item.name}</span>
+            </a>
+          </li>`
+    )
+    .join("");
   // Mostrar los resultados
-  filteredData.forEach((item) => {
+  /* filteredData.forEach((item) => {
     const li = document.createElement("li");
     const link = document.createElement("a");
     link.href = item.link;
@@ -2630,7 +2649,7 @@ function search() {
     li.appendChild(link);
     resultsList.appendChild(li);
     ul.classList.add("filtro");
-  });
+  });*/
   if (filteredData.length === 0) {
     var mensaje = document.getElementById("mensaje");
     mensaje.style.display = "block";

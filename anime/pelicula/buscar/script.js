@@ -84,6 +84,18 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/xSHcwcsn50Qpb9nR0BrOF4J4qNW.jpg",
   },
   {
+    name: "Batman Ninja vs. Yakuza League",
+    link: "https://www1.otakustv.com/anime/ninja-batman-tai-yakuza-league",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/UDK15MmwVGvcUWogE6kPlUmLNF.jpg",
+  },
+  {
+    name: "Batman Ninja vs. Yakuza League Latino",
+    link: "https://ww3.animeonline.ninja/pelicula/batman-ninja-vs-yakuza-league-040425/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/UDK15MmwVGvcUWogE6kPlUmLNF.jpg",
+  },
+  {
     name: "Berserk La edad de oro I",
     link: "https://www1.otakustv.com/anime/berserk-ougon-jidai-hen-i-haou-no-tamago",
     image:
@@ -1481,6 +1493,18 @@ const data = [
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/4scvBHAxMLXb6c4RLCtnCzbx4Mf.jpg",
   },
+  {
+    name: "Trapezium",
+    link: "https://www1.otakustv.com/anime/trapezium",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/d11a62944ecc0c1426e5466ef550739e.jpg",
+  },
+  {
+    name: "El señor de los anillos: La guerra de los Rohirrim Latino",
+    link: "https://ww3.animeonline.ninja/pelicula/el-senor-de-los-anillos-la-guerra-de-los-rohirrim/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/yjW4P2hhMgIYmGuLcLs2IvhNgsF.jpg",
+  },
 ];
 const searchInput = document.getElementById("searchInput");
 const resultsList = document.getElementById("results");
@@ -1488,9 +1512,32 @@ var ul = document.getElementById("peliculas");
 var encontrado = false;
 function search() {
   const query = searchInput.value.toLowerCase().trim();
-  const filteredData = data.filter((item) => item.name.toLowerCase() === query);
+  const filteredData = data.filter((item) =>
+    item.name.toLowerCase().includes(query)
+  );
+
+  results.innerHTML = filteredData
+    .map(
+      (item) => ` <li style="padding: 10px; margin-bottom: 5px">
+            <a
+              href=${item.link}
+              target="_blank"
+              style="text-decoration: none; color: white"
+            >
+              <img
+                src=${item.image}
+                alt=${item.name}
+                width="80"
+                height="50"
+                style="padding-right: 5px"
+              />
+              <span>${item.name}</span>
+            </a>
+          </li>`
+    )
+    .join("");
   // Mostrar los resultados
-  filteredData.forEach((item) => {
+  /*filteredData.forEach((item) => {
     const li = document.createElement("li");
     const link = document.createElement("a");
     link.href = item.link;
@@ -1513,7 +1560,7 @@ function search() {
     li.appendChild(link);
     resultsList.appendChild(li);
     ul.classList.add("filtro");
-  });
+  });*/
   if (filteredData.length === 0) {
     var mensaje = document.getElementById("mensaje");
     mensaje.style.display = "block";

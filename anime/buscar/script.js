@@ -173,6 +173,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/umSMlEN5RIYzlLvSFI2nfme1W02.jpg",
   },
   {
+    name: "Aharen-san wa Hakarenai Season 2",
+    link: "https://www1.otakustv.com/anime/aharen-san-wa-hakarenai-season-2",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/eNz7GNvfUzlxGbd3y6mIgXx32eY.jpg",
+  },
+  {
     name: "Aho-Girl",
     link: "https://www1.otakustv.com/anime/aho-girl",
     image:
@@ -801,6 +807,12 @@ const data = [
     link: "https://www1.otakustv.com/anime/itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-2",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/wdZvnW7nelzGf8yYrUZqrLlhGfU.jpg",
+  },
+  {
+    name: "Boku No Hero Academia: Vigilantes",
+    link: "https://www1.otakustv.com/anime/vigilante-boku-no-hero-academia-illegals",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/ldm8gcA1sQIzytIJug2msQTfko.jpg",
   },
   {
     name: "Boku No Hero Academia",
@@ -1743,6 +1755,12 @@ const data = [
     link: "https://drive.google.com/drive/u/0/folders/1g7UraRmWA4KN8euRh5H7ngHZz8keJdhf",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/fi4xwaQj2XRFpuuuRhV8XmOGMIW.jpg",
+  },
+  {
+    name: "Fire Force Season 3",
+    link: "https://www1.otakustv.com/anime/enen-no-shouboutai-san-no-shou",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/kbzFeLiV0qeXpd81XeG4P8RNXnZ.jpg",
   },
   {
     name: "Fire x Fire",
@@ -2771,6 +2789,12 @@ const data = [
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=1200,height=675,quality=85/catalog/crunchyroll/6b17182a3518d7406f0e69687f773f4f.jpe",
   },
   {
+    name: "Kimetsu no Yaiba TV Especial",
+    link: "https://henaojara.com/animeonline/season/kimetsu-no-yaiba-tv-especial-sub-espanol-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/adAURIlyNNqqXgC5P1KWliHCZpS.jpg",
+  },
+  {
     name: "Kimi ni Todoke: Llegando a Ti",
     link: "https://www1.otakustv.com/anime/kimi-ni-todoke",
     image:
@@ -3077,8 +3101,14 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/0b6e8bd4de40b260b3ccf0c700ce6710.jpe",
   },
   {
+    name: "Lycoris Recoil: Friends are thieves of time",
+    link: "https://www.crunchyroll.com/es/series/G1XHJV2X9/lycoris-recoil",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/i65FZhvttMDad7prVZwGDto6CqE.jpg",
+  },
+  {
     name: "Lycoris Recoil Latino",
-    link: "https://www.facebook.com/watch/101974755365056/5858002197578734",
+    link: "https://www.crunchyroll.com/es/series/G1XHJV2X9/lycoris-recoil",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/0b6e8bd4de40b260b3ccf0c700ce6710.jpe",
   },
@@ -3255,6 +3285,18 @@ const data = [
     link: "https://www.animelatinohd.com/anime/mob-psycho-100-iii",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/c0e2440d3f27196ba37abaed8b824df5.jpe",
+  },
+  {
+    name: "Mobile Suit Gundam GQuuuuuuX",
+    link: "https://www1.otakustv.com/anime/kidou-senshi-gundam-gquuuuuux",
+    image:
+      "https://m.media-amazon.com/images/S/pv-target-images/cd557cbaa168f746bb5a6cc3954e7d87a7befe9fd54b181736e4ce4688257653._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_SX500_FMwebp_.jpg",
+  },
+  {
+    name: "Mobile Suit Gundam GQuuuuuuX Latino",
+    link: "https://henaojara.com/animeonline/season/kidou-senshi-gundam-gquuuuuux-espanol-latino-hd-1/",
+    image:
+      "https://m.media-amazon.com/images/S/pv-target-images/cd557cbaa168f746bb5a6cc3954e7d87a7befe9fd54b181736e4ce4688257653._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_SX500_FMwebp_.jpg",
   },
   {
     name: "Mobile Suit Gundam: The Witch from Mercury",
@@ -5441,6 +5483,18 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/1e5af6bba8e2ce272fc6095dbc481cda.jpe",
   },
   {
+    name: "To Be Hero X",
+    link: "https://www1.otakustv.com/anime/to-be-hero-x",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/4yMSPxUoF2Tm7rdFqhtEwZaEVVx.jpg",
+  },
+  {
+    name: "To Be Hero X Latino",
+    link: "https://henaojara.com/animeonline/season/to-be-hero-x-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/4yMSPxUoF2Tm7rdFqhtEwZaEVVx.jpg",
+  },
+  {
     name: "To Your Eternity",
     link: "https://www1.otakustv.com/anime/fumetsu-no-anata-e",
     image:
@@ -6377,6 +6431,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d6f19951f2ccd8842379956bfd3ae8cf.jpe",
   },
   {
+    name: "The Shiunji Family Children",
+    link: "https://www1.otakustv.com/anime/shiunji-ke-no-kodomotachi",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/q2nJhG2ndDi2LcZwFOKdFR86KOE.jpg",
+  },
+  {
     name: "The Saint's Magic Power is Omnipotent",
     link: "https://www1.otakustv.com/anime/seijo-no-maryoku-wa-bannou-desu",
     image:
@@ -6439,6 +6499,12 @@ const data = [
   {
     name: "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
     link: "https://www1.otakustv.com/anime/kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-nin-no-kanojo",
+    image:
+      "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/530b81ea91a57829a9851e68b96db82c.jpe",
+  },
+  {
+    name: "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Latino",
+    link: "https://henaojara.com/animeonline/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-espanol-latino-hd/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/530b81ea91a57829a9851e68b96db82c.jpe",
   },
@@ -7185,6 +7251,12 @@ const data = [
     link: "https://www1.otakustv.com/anime/kuroshitsuji-kishuku-gakkou-hen",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=1200,height=675,quality=85/catalog/crunchyroll/5d0203598f2ae27dc2dc2601112646e7.jpe",
+  },
+  {
+    name: "Black Butler: Emerald Witch Arc",
+    link: "https://www1.otakustv.com/anime/kuroshitsuji-midori-no-majo-hen",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/yDQV1yOwVOVj8HXIFbfuhFdoOzw.jpg",
   },
   {
     name: "Blue Archive The Animation",

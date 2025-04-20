@@ -706,13 +706,13 @@ const data = [
       "https://1.bp.blogspot.com/-bbiv5mRlZNQ/XopNbEa6uyI/AAAAAAAAT7c/Mi-jqaMhs-o46qrbtSHsxOXLt6sdvVDIACLcBGAsYHQ/s1600/Goblin%2BSlayer%2BSide%2BStory%2BYear%2BOne%2BVol%2B2%2Bespanol.jpg",
   },
   {
-    name: "Goblin Slayer Gaiden 2 Vol 1",
+    name: "Goblin Slayer Side Story II: Dai Katana Vol 1",
     link: "https://drive.google.com/file/d/19zD21ru_9zZUQyC_nYIvNqqYPHL6eBbK/view",
     image:
       "https://static.wixstatic.com/media/46079e_2baff4d5c8ec49e7a1d48a01d0d0e4ce~mv2.jpg/v1/fill/w_227,h_341,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9781975318246.jpg",
   },
   {
-    name: "Goblin Slayer Gaiden 2 Vol 2",
+    name: "Goblin Slayer Side Story II: Dai Katana Vol 2",
     link: "https://drive.google.com/file/d/12PeI84IHrcjVYSrohLIT-an1FctBVXKY/view",
     image:
       "https://static.wixstatic.com/media/46079e_27cae559dc48413688d49d3f4bcb1f3a~mv2.jpg/v1/fill/w_227,h_341,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9781975333546.jpg",
@@ -784,7 +784,7 @@ const data = [
       "https://elmundodeshirohome.files.wordpress.com/2020/07/el-volumen-11-de-hensuki-serc3a1-lanzado-en-septiembre.jpg?w=84",
   },
   {
-    name: "Hensekai Afterword",
+    name: "Hensuki - Are you willing to fall in love with a pervert, as long as she’s a cutie? Afterword",
     link: "https://mega.nz/file/fUwWACjZ#ImMW3cH-kW9N378QwfcsowIZKV-OkorfUh_AH-s-wzo",
     image:
       "https://1.bp.blogspot.com/-Q2KkEEqE8pU/XxsKxmSGf6I/AAAAAAAAWBw/cznlJitKBbwH_kJ3pnNJyiW-8Fz_GQagQCLcBGAsYHQ/w274-h400/Hensekai%2Ben%2Bespanol.jpg",
@@ -1033,85 +1033,85 @@ const data = [
     image: "https://m.media-amazon.com/images/I/51otj-GfPrL.jpg",
   },
   {
-    name: "Como No Invocar A Un Rey Demonio Vol 1",
+    name: "How Not to Summon a Demon Lord Vol 1",
     link: "https://mega.nz/file/DAhgBLKI#RF2svYgy7oax20K-qpaV020htS3ojFwU5vwuyChAMQo",
     image:
       "https://universonl.files.wordpress.com/2017/12/isekaitoshoukan.jpg?w=273&h=396",
   },
   {
-    name: "Como No Invocar A Un Rey Demonio Vol 2",
+    name: "How Not to Summon a Demon Lord Vol 2",
     link: "https://mega.nz/file/qBA0zBTS#SqTyDWkCpFlFiXLVLP3csC65ewczSvFiqVScfVCTqnw",
     image:
       "https://universonl.files.wordpress.com/2016/10/isekaimao2.jpg?w=277&h=403",
   },
   {
-    name: "Como No Invocar A Un Rey Demonio Vol 3",
+    name: "How Not to Summon a Demon Lord Vol 3",
     link: "https://mega.nz/file/TZBkGIpK#C1uRyeqGv0rH54dHYoglhbEaeD1zmKYDV9Mt98VSrlU",
     image:
       "https://2.bp.blogspot.com/-j4gJX2R8F_0/WqGm8EslvCI/AAAAAAAAOPE/5QimC6rOu_MCwqyvFC3_hxdbF1XO3eEOgCLcBGAs/s1600/Isekai%2BMaou%2Bto%2BShoukan%2BShoujo%2Bno%2BDorei%2BMajutsu%2Bvolumen%2B3.png",
   },
   {
-    name: "Como No Invocar A Un Rey Demonio Vol 4",
+    name: "How Not to Summon a Demon Lord Vol 4",
     link: "https://mega.nz/file/PF4ykDBS#eGbFk3BVH7HT8t0kYNELCze8YfvsdmQjBHv9fIlWt8E",
     image:
       "https://1.bp.blogspot.com/-1LJc0GFyPj0/WtfQNoIQy2I/AAAAAAAAPDM/okWLfWRMh3sbDVfn0woqwOYFk60oL0YKACLcBGAs/s400/Isekai%2BMaou%2Bto%2BShoukan%2BShoujo%2Bno%2BDorei%2BMajutsu%2BVolumen%2B4%2Bespanol.jpg",
   },
   {
-    name: "Como No Invocar A Un Rey Demonio Vol 5",
+    name: "How Not to Summon a Demon Lord Vol 5",
     link: "https://mega.nz/file/OQBAGIKY#ZMQl5uiEVpa47x339u2JpVIVdMm69aKou9P64Enr3TE",
     image:
       "https://3.bp.blogspot.com/-EgMcOlCt-Co/WzLRNSGgEWI/AAAAAAAAP7M/bFnl2PaDUPEAj_t31qKTbkOJuN3Qh1mYgCLcBGAs/s400/Isekai%2BMaou%2Bto%2BShoukan%2BShoujo%2Bno%2BDorei%2BMajutsu%2Bvolumen%2B5.jpg",
   },
   {
-    name: "Como No Invocar A Un Rey Demonio Vol 6",
+    name: "How Not to Summon a Demon Lord Vol 6",
     link: "https://mega.nz/file/iEgHmYLA#lPn1KbUNL0DSiA3VX89HCQ4tBFCpnlnuCg3wqSIdPlQ",
     image:
       "https://1.bp.blogspot.com/-SPjDWuk8p0o/W1z7z6YkzYI/AAAAAAAAQD4/tn0kaEcAJnsnmUZFA9Xw1EJgHHESo4EEQCLcBGAs/s400/Isekai%2BMaou%2Bto%2BShoukan%2BShoujo%2Bno%2BDorei%2BMajutsu%2Bvolumen%2B6.jpg",
   },
   {
-    name: "Como No Invocar A Un Rey Demonio Vol 7",
+    name: "How Not to Summon a Demon Lord Vol 7",
     link: "https://mega.nz/file/CVwhyYrB#lYuorktms1yZQXoMZiEAR_V2jEgPr7mCKd6Lx6T1TA4",
     image:
       "https://3.bp.blogspot.com/-dVyUBzHiYWM/W7FhXNIZNZI/AAAAAAAAQXo/KMwjZe-ztvss3K3F-o92xtGVh9dSe1YKgCLcBGAs/s400/maou.jpg",
   },
   {
-    name: "Como No Invocar A Un Rey Demonio Vol 8",
+    name: "How Not to Summon a Demon Lord Vol 8",
     link: "https://mega.nz/file/jMIiQQTK#z72PTZePSoUWYLwNZaacTp0-nB52v_yxsG4bNVoaevU",
     image:
       "https://2.bp.blogspot.com/-p2EVMOZcWU8/W7KSFe6U_OI/AAAAAAAAQYU/XCdejnuCiDso0F6BnQYmGJfoSOz0rurDwCLcBGAs/s400/Isekai%2BMaou%2Bto%2BShoukan%2BShoujo%2Bno%2BDorei%2BMajutsu%2Bvolumen%2B8.jpg",
   },
   {
-    name: "Como No Invocar A Un Rey Demonio Vol 9",
+    name: "How Not to Summon a Demon Lord Vol 9",
     link: "https://mega.nz/file/fJ5HzQhB#xOFYPdJ7Tu3Zp6jjzKaoBmq66FZGSHZvHAMae3WUSeY",
     image:
       "https://3.bp.blogspot.com/-BknLTBDWvCE/XJgS5j_rhiI/AAAAAAAARD0/LNjdEUFb-mUyGcePsyeR_57MPFpdCMc7ACLcBGAs/s400/Isekai%2Bmaou%2Bvolumen%2B9.jpg",
   },
   {
-    name: "Como No Invocar A Un Rey Demonio Vol 10",
+    name: "How Not to Summon a Demon Lord Vol 10",
     link: "https://mega.nz/file/eQx1AYRA#HuPEIJTCR4_yoFLjc2Bb7lKVJyz4qBtnlHMFR4VaEac",
     image:
       "https://4.bp.blogspot.com/-LvRiMsCfAR0/XJgTRTAdxCI/AAAAAAAARD8/TULBAQSQVL0ZcCneolifg5V0jA5z9OeQACLcBGAs/s400/Isekai%2Bmaou%2Bvolumen%2B10.jpg",
   },
   {
-    name: "Como No Invocar A Un Rey Demonio Vol 11",
+    name: "How Not to Summon a Demon Lord Vol 11",
     link: "https://mega.nz/file/vU5n1Aab#__ANBlNheRB1UcUw6ycGe6hnNoFWzyVgjoSA-QlQitE",
     image:
       "https://3.bp.blogspot.com/-XazYNklHHcQ/XJgTXcw_JjI/AAAAAAAAREA/npfQfr1CflMjuYEpwQVPrF7DUgR7rj_WwCLcBGAs/s400/Isekai%2Bmaou%2Bvolumen%2B11.jpg",
   },
   {
-    name: "Como No Invocar A Un Rey Demonio Vol 12",
+    name: "How Not to Summon a Demon Lord Vol 12",
     link: "https://mega.nz/file/mIwVHQCD#HH550a84sos8LEwi5t4Pp1bx8i452ZGmrl63bzxy3kw",
     image:
       "https://1.bp.blogspot.com/-j1F6jdPbEFw/XgU84rHspnI/AAAAAAAATDg/6FWYOmMYLLsjGHBGqpCosnVrut0zKPcxQCLcBGAsYHQ/s400/Isekai%2BMaou%2Bto%2BShoukan%2BShoujo%2Bno%2BDorei%2BMajutsu%2BVolumen%2B12%2Bespanol.jpg",
   },
   {
-    name: "Como No Invocar A Un Rey Demonio Vol 13",
+    name: "How Not to Summon a Demon Lord Vol 13",
     link: "https://mega.nz/file/HNASjLSD#dup6g9bxYv0BC4iTComJCY5couRO0ZqbHxftkPqtlZk",
     image:
       "https://1.bp.blogspot.com/-MSsInTNK7kg/YGd6nMjeveI/AAAAAAAAXqs/mj5TKkuFMUgO-3Vo9jYWlMoxrS4HS953wCLcBGAsYHQ/w284-h400/Isekai%2BMaou%2Bto%2BShoukan%2BShoujo%2Bno%2BDorei%2BMajutsu%2BVolumen%2B13%2Bespanol.jpg",
   },
   {
-    name: "Como No Invocar A Un Rey Demonio Vol 14",
+    name: "How Not to Summon a Demon Lord Vol 14",
     link: "https://mega.nz/file/mRRm3DjL#em2iI4JencMXwU8pR9hXPRp27VyJUR9BQnNkBjMNE3A",
     image:
       "https://m.media-amazon.com/images/I/716RtPTXPPL._AC_UF894,1000_QL80_.jpg",
@@ -1153,162 +1153,162 @@ const data = [
       "https://1.bp.blogspot.com/-CLJ8-QcbKDk/Xgp71R6dOOI/AAAAAAAATJ8/dqxN_UpzM8UMeG2W9IaqMiWAPj6pDVHFgCLcBGAsYHQ/s640/Kaguya-sama%2Bwa%2BKokurasetai%257E%252C%2Blos%2Bsiete%2Bmisterios%2Bde%2Bla%2Bacademia%2BShuchin%257E.jpg",
   },
   {
-    name: "Kimetsu no Yaiba: The Flower of Happiness Light Novel",
+    name: "Demon Slayer: The Flower of Happiness Light Novel",
     link: "https://lectortmo.com/library/novel/52875/demon-slayer-kimetsu-no-yaiba-shiawase-no-hana",
     image:
       "https://m.media-amazon.com/images/I/51FA85W75tL._SY264_BO1,204,203,200_QL40_ML2_.jpg",
   },
   {
-    name: "Kimetsu no Yaiba: One-Winged Butterfly Light Novel",
+    name: "Demon Slayer: One-Winged Butterfly Light Novel",
     link: "https://lectortmo.com/library/novel/52876/demon-slayer-kimetsu-no-yaiba-katahane-no-chou",
     image: "https://m.media-amazon.com/images/I/51PKbX3eguL.jpg",
   },
   {
-    name: "Konosuba Light Novel Vol 1",
+    name: "KONOSUBA God's blessing on this wonderful world! Light Novel Vol 1",
     link: "https://drive.google.com/file/d/1uMa_rhuoTLsaqltY1pQnoGGY0fxYJSNw/view",
     image:
       "https://universonl.files.wordpress.com/2016/01/konosub1.jpg?w=380&h=552",
   },
   {
-    name: "Konosuba Light Novel Vol 2",
+    name: "KONOSUBA God's blessing on this wonderful world! Light Novel Vol 2",
     link: "https://drive.google.com/file/d/1_sCOubkZGwdjg4G7WitCRZ8drHr_Sd6Q/view",
     image:
       "https://universonl.files.wordpress.com/2015/06/konosub2.jpg?w=380&h=552",
   },
   {
-    name: "Konosuba Light Novel Vol 3",
+    name: "KONOSUBA God's blessing on this wonderful world! Light Novel Vol 3",
     link: "https://drive.google.com/file/d/18pdq5OYBCzAzyRaauZHpSg9xzFoTc-jU/view",
     image:
       "https://universonl.files.wordpress.com/2015/06/konosub3.jpg?w=380&h=552",
   },
   {
-    name: "Konosuba Light Novel Vol 4",
+    name: "KONOSUBA God's blessing on this wonderful world! Light Novel Vol 4",
     link: "https://drive.google.com/file/d/1IFJV63zm640GfxE0I7BLTmQXeq3BFAJA/view",
     image:
       "https://universonl.files.wordpress.com/2016/05/kono4.jpg?w=380&h=552",
   },
   {
-    name: "Konosuba Light Novel Vol 5",
+    name: "KONOSUBA God's blessing on this wonderful world! Light Novel Vol 5",
     link: "https://drive.google.com/file/d/1H4LhpRocV9dqMADJWB0S9gZW_RLYuxPX/view",
     image: "../../img/konosuba5.webp",
   },
   {
-    name: "Konosuba Light Novel Vol 6",
+    name: "KONOSUBA God's blessing on this wonderful world! Light Novel Vol 6",
     link: "https://drive.google.com/file/d/1tTH1b5aQVmXXAVsvNJSJDoA-XPM9jEII/view",
     image:
       "https://universonl.files.wordpress.com/2017/12/konosuba6.jpg?w=190&h=276",
   },
   {
-    name: "Konosuba Light Novel Vol 7",
+    name: "KONOSUBA God's blessing on this wonderful world! Light Novel Vol 7",
     link: "https://drive.google.com/file/d/1Zyhd8uHWvi26Xc4UFjwFs3XAXOeu2jcq/view",
     image:
       "https://universonl.files.wordpress.com/2017/12/konosuba7.jpg?w=190&h=276",
   },
   {
-    name: "Konosuba Light Novel Vol 8",
+    name: "KONOSUBA God's blessing on this wonderful world! Light Novel Vol 8",
     link: "https://drive.google.com/file/d/1UhXki8N67MtAZ6ajhL6Ld6eG6C58vPtL/view",
     image:
       "https://universonl.files.wordpress.com/2017/12/konosuba8.jpg?w=190&h=276",
   },
   {
-    name: "Konosuba Light Novel Vol 9",
+    name: "KONOSUBA God's blessing on this wonderful world! Light Novel Vol 9",
     link: "https://drive.google.com/file/d/1RsoX2M-iaA8eKJh234DCgZExKKG5cn7o/view",
     image:
       "https://universonl.files.wordpress.com/2017/12/konosuba9.jpg?w=190&h=276",
   },
   {
-    name: "Konosuba Light Novel Vol 10",
+    name: "KONOSUBA God's blessing on this wonderful world! Light Novel Vol 10",
     link: "https://drive.google.com/file/d/1wh0T0EPvqXRzFK9Ok9-S275JRPNR3Eyp/view",
     image:
       "https://universonl.files.wordpress.com/2017/12/konosub10.jpg?w=190&h=276",
   },
   {
-    name: "Konosuba Light Novel Vol 11",
+    name: "KONOSUBA God's blessing on this wonderful world! Light Novel Vol 11",
     link: "https://drive.google.com/file/d/183DAZBfKBWwOAJO_6omGOShVLju4Rw_p/view",
     image:
       "https://universonl.files.wordpress.com/2017/12/konosub11.jpg?w=190&h=276",
   },
   {
-    name: "Konosuba Light Novel Vol 12",
+    name: "KONOSUBA God's blessing on this wonderful world! Light Novel Vol 12",
     link: "https://drive.google.com/file/d/1h6zv8-4KS27X9N4sI9flLEm5sqz81YAx/view",
     image: "https://m.media-amazon.com/images/I/51UrgW8jSjL.jpg",
   },
   {
-    name: "Konosuba Light Novel Vol 13",
+    name: "KONOSUBA God's blessing on this wonderful world! Light Novel Vol 13",
     link: "https://drive.google.com/file/d/12ZX_NLRN5ccDjbr0FIX5Y6ce0RANnOaN/view",
     image:
       "https://1.bp.blogspot.com/-vbBixxq1L94/WiB8hXt5gPI/AAAAAAAAMw0/JNKeBy8fxXYVoZLrOPDPwZ6RBiP9Y8xEwCLcBGAs/s640/Ilustraciones%2Bde%2BKono%2BSubarashii%2BSekai%2Bni%2BShukufuku%2Bo%2521%2BVolumen%2B13-1.jpg",
   },
   {
-    name: "Konosuba Light Novel Vol 14",
+    name: "KONOSUBA God's blessing on this wonderful world! Light Novel Vol 14",
     link: "https://drive.google.com/file/d/1rQUvOHFkL60HM8rJWw9QXInE7R_MCmA3/view",
     image: "https://m.media-amazon.com/images/I/51syztyt3iL.jpg",
   },
   {
-    name: "Konosuba Light Novel Vol 15",
+    name: "KONOSUBA God's blessing on this wonderful world! Light Novel Vol 15",
     link: "https://drive.google.com/file/d/1cHco13JF_RIXpP-KBVfEXOScfE7k00pp/view",
     image: "https://m.media-amazon.com/images/I/51f-NvoMG1L.jpg",
   },
   {
-    name: "Konosuba Light Novel Vol 16",
+    name: "KONOSUBA God's blessing on this wonderful world! Light Novel Vol 16",
     link: "https://drive.google.com/file/d/1LS044K38uFGJILlSAz14szOvdaMnzSt0/view",
     image: "https://m.media-amazon.com/images/I/515hx0HKhrL.jpg",
   },
   {
-    name: "Konosuba Light Novel Vol 17",
+    name: "KONOSUBA God's blessing on this wonderful world! Light Novel Vol 17",
     link: "https://drive.google.com/file/d/1oOiLCVgrUwSQ9vSfLjCO6KsBb7Kq8U0m/view",
     image:
-      "https://1.bp.blogspot.com/-NFXKV1RmFGk/Xqx7mJAuv_I/AAAAAAAAUPo/MSRWz87AmiwEMRQRvHCoKqvAFGP0ohBSQCK4BGAsYHg/w451-h640/Konosuba%2BVolumen%2B17%2BIlustraciones%2B1.jpg",
+      "https://1.bp.blogspot.com/-NFXKV1RmFGk/Xqx7mJAuv_I/AAAAAAAAUPo/MSRWz87AmiwEMRQRvHCoKqvAFGP0ohBSQCK4BGAsYHg/w451-h640/KONOSUBA God's blessing on this wonderful world!%2BVolumen%2B17%2BIlustraciones%2B1.jpg",
   },
   {
-    name: "Konosuba Spin-Off Megumi Light Novel Vol 1",
+    name: "KONOSUBA God's blessing on this wonderful world! Spin-Off Megumi Light Novel Vol 1",
     link: "https://mega.nz/file/QExFGQJK#LjgMU5XWnSr-wEyV27FVpiiS6JaAYee70vJimFv-lKI",
     image:
       "https://universonl.files.wordpress.com/2016/10/konospin.jpg?w=190&h=276",
   },
   {
-    name: "Konosuba Spin-Off Megumi Light Novel Vol 2",
+    name: "KONOSUBA God's blessing on this wonderful world! Spin-Off Megumi Light Novel Vol 2",
     link: "https://mega.nz/folder/0dx03R4a#CrXz2c531S78U-5IzvHWnQ/file/AYJ31YoZ",
     image:
       "https://universonl.files.wordpress.com/2015/06/konosubarashi2.jpg?w=190&h=276",
   },
   {
-    name: "Konosuba Spin-Off Megumi Light Novel Vol 3",
+    name: "KONOSUBA God's blessing on this wonderful world! Spin-Off Megumi Light Novel Vol 3",
     link: "https://mega.nz/folder/0dx03R4a#CrXz2c531S78U-5IzvHWnQ/file/8YxnlBCZ",
     image:
       "https://universonl.files.wordpress.com/2017/03/konosuspin3.jpg?w=190&h=276",
   },
   {
-    name: "Konosuba Spin-Off Megumi Light Novel Vol 4",
+    name: "KONOSUBA God's blessing on this wonderful world! Spin-Off Megumi Light Novel Vol 4",
     link: "https://mega.nz/file/QExFGQJK#LjgMU5XWnSr-wEyV27FVpiiS6JaAYee70vJimFv-lKI",
     image:
       "https://universonl.files.wordpress.com/2018/01/zokukonosub.jpg?w=190&h=276",
   },
   {
-    name: "Konosuba Spin-Off Megumi Light Novel Vol 5",
+    name: "KONOSUBA God's blessing on this wonderful world! Spin-Off Megumi Light Novel Vol 5",
     link: "https://mega.nz/folder/5N8AUTDb#RG_rqRxP02oFLilAe2rXkQ/file/EUdT3K7L",
     image: "https://m.media-amazon.com/images/I/51uApPHV7jS.jpg",
   },
   {
-    name: "Kamen Konosuba Spin-Off Light Novel Vol 1",
+    name: "Consultation With This Masked Devil Spin-Off Light Novel Vol 1",
     link: "https://mega.nz/folder/AZYCXJDD#6I7EuGaQVEuibVlyVLzTlA/file/9V5VDYiY",
     image:
       "https://universonl.files.wordpress.com/2017/07/konosubaspin.jpg?w=190&h=276",
   },
   {
-    name: "Konosuba Dust Spin-Off Light Novel",
+    name: "KONOSUBA God's blessing on this wonderful world! Dust Spin-Off Light Novel",
     link: "https://mega.nz/folder/OZQXyAoI#q4IqTS20qXSnFby5v_MioQ",
     image:
       "https://cgtranslations.me/wp-content/uploads/2018/11/front_redraw_text.png",
   },
   {
-    name: "Konosuba Dust Spin-Off Light Novel Vol 6",
+    name: "KONOSUBA God's blessing on this wonderful world! Dust Spin-Off Light Novel Vol 6",
     link: "https://mega.nz/folder/5N8AUTDb#RG_rqRxP02oFLilAe2rXkQ/file/pJdlTAJC",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRg28A9ZsMzaovuoMPNVwsOBctipYBtWlodGZITEJSBR1eIf6hLTkISl7NW4w-LAYPh0U&usqp=CAU",
   },
   {
-    name: "Konosuba Dust Spin-Off Light Novel Vol 7",
+    name: "KONOSUBA God's blessing on this wonderful world! Dust Spin-Off Light Novel Vol 7",
     link: "https://mega.nz/folder/5N8AUTDb#RG_rqRxP02oFLilAe2rXkQ/file/tINUBbzZ",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZgZsMpMrP664tUMeoUcAznmz7odaRzFVn-Q9SClQ-1CpdYf2HXIy-cBBfcgP2LyQS1DM&usqp=CAU",
@@ -1694,67 +1694,67 @@ const data = [
       "https://universonl.files.wordpress.com/2016/01/diferent.jpg?w=318&h=462",
   },
   {
-    name: "Re:Zero Light Novel Vol 1",
+    name: "Re:ZERO Starting Life in Another World Light Novel Vol 1",
     link: "https://mega.nz/file/ucwywYRY#vHte2K-P7K9gS0zzbjToNPYOrYclJs-q9wDPq8LZrng",
     image:
       "https://universonl.files.wordpress.com/2016/01/rezero.jpg?w=190&h=276",
   },
   {
-    name: "Re:Zero Light Novel Vol 2",
+    name: "Re:ZERO Starting Life in Another World Light Novel Vol 2",
     link: "https://mega.nz/file/WQZkzBBL#t7IekV7c0YvRIDomBbwjp2_-LrxN7-wzVOzgS9AFU48",
     image:
       "https://universonl.files.wordpress.com/2017/01/rezero2.jpg?w=190&h=276",
   },
   {
-    name: "Re:Zero Light Novel Vol 3",
+    name: "Re:ZERO Starting Life in Another World Light Novel Vol 3",
     link: "https://mega.nz/file/HMw3GIRI#u4-MhAwNVtZuWASC_qC1Mk7PHeJPbiMAgo3M3VNF6Vc",
     image:
       "https://universonl.files.wordpress.com/2017/12/rezero3.jpg?w=190&h=276",
   },
   {
-    name: "Re:Zero Light Novel Vol 4",
+    name: "Re:ZERO Starting Life in Another World Light Novel Vol 4",
     link: "https://mega.nz/file/KEYHVKTD#m7qdK65pivDOcdu81N3G15Tro6u65Cs9xx5r0GFJKQc",
     image:
       "https://3.bp.blogspot.com/-jw_K-etkhYM/W9vOliYMYlI/AAAAAAAAQgA/Y-okljAWALs04GoNklnoZ8kNS4PRWqpKQCLcBGAs/s400/re%2Bzero%2Bvolumen%2B4.jpg",
   },
   {
-    name: "Re:Zero Light Novel Vol 5",
+    name: "Re:ZERO Starting Life in Another World Light Novel Vol 5",
     link: "https://mega.nz/file/LdgxwB5J#WGcX7Mhwc_2JtOXNkkF70IuoHeqvmTNIdinUaw5uZg0",
     image:
       "https://1.bp.blogspot.com/-5RQtjIgv8G8/Xo4LJEwulTI/AAAAAAAAT9U/OT9Cttq4CwwbayhbZi-ZSrNo05Wv-kLMwCLcBGAsYHQ/s400/Re%2BZero%2Bkara%2BHajimeru%2BIsekai%2BSeikatsu%2Bvolumen%2B5%2Bespanol.png",
   },
   {
-    name: "Re:Zero Light Novel Vol 6",
+    name: "Re:ZERO Starting Life in Another World Light Novel Vol 6",
     link: "https://mega.nz/file/rN53XYDQ#ghDivHNsejqoYQfHgVhy6wwhj6bZBQfOvEc7sMsQtBg",
     image:
       "https://1.bp.blogspot.com/-rLYqAUe2rgM/Xo4LdSfViPI/AAAAAAAAT9c/HOiWAly6ySAWsAhVRx01p7CSTi6Mn_wkgCLcBGAsYHQ/s400/Re%2BZero%2Bkara%2BHajimeru%2BIsekai%2BSeikatsu%2Bvolumen%2B6%2Bespanol.png",
   },
   {
-    name: "Re:Zero Light Novel Vol 7",
+    name: "Re:ZERO Starting Life in Another World Light Novel Vol 7",
     link: "https://mega.nz/file/SUBwVKib#jpNlMQuJjJ0lZeppKL8Fp0_DnG-oSPgMzDLTBn82iB4",
     image:
       "https://1.bp.blogspot.com/-SwLiU4-jHBs/Xo4Lr3FqbQI/AAAAAAAAT9g/RDsdfDcPjMI2FVpMdxGbXaakxIICTkPSQCLcBGAsYHQ/s400/Re%2BZero%2Bkara%2BHajimeru%2BIsekai%2BSeikatsu%2Bvolumen%2B7%2Bespanol.png",
   },
   {
-    name: "Re:Zero Light Novel Vol 8",
+    name: "Re:ZERO Starting Life in Another World Light Novel Vol 8",
     link: "https://mega.nz/file/mAY1VAII#r3kMwb-EL7ltpAVhZvzXJH7G-YT-Ve7tol6eJtqg4n4",
     image:
       "https://1.bp.blogspot.com/-F99jBw9Yezg/Xo4MHj8seKI/AAAAAAAAT9s/6bjZmAsvx7YoIjYHTR75ibjDClj7pjVCQCLcBGAsYHQ/s400/Re%2BZero%2Bkara%2BHajimeru%2BIsekai%2BSeikatsu%2Bvolumen%2B8%2Bespanol.png",
   },
   {
-    name: "Re:Zero Ex Light Novel Vol 1",
+    name: "Re:ZERO Starting Life in Another World Ex Light Novel Vol 1",
     link: "https://mega.nz/file/LdgxwB5J#WGcX7Mhwc_2JtOXNkkF70IuoHeqvmTNIdinUaw5uZg0",
     image:
       "https://1.bp.blogspot.com/-LmyGMfcMRGA/XpDgncTtS_I/AAAAAAAAT-k/ROyU8P3DTmw-yu0w_QSmdY6msADYk2QLwCLcBGAsYHQ/s1600/Re%2BZero%2BEX%2BVolumen%2B1%2Bespanol",
   },
   {
-    name: "Re:Zero Ex Light Novel Vol 2",
+    name: "Re:ZERO Starting Life in Another World Ex Light Novel Vol 2",
     link: "https://mega.nz/file/iZAEVS4Q#8Kwggpss2j4Q1yv40sh56Z-8Bpf5tlIxttZ398YaICM",
     image:
       "https://1.bp.blogspot.com/-GLp9myLJiXA/XpDgndyAD-I/AAAAAAAAT-g/7zFVlmaZ7AkojMtq0MBQya8o1x2H7umOgCLcBGAsYHQ/s1600/Re%2BZero%2BEX%2BVolumen%2B2%2Bespanol.jpg",
   },
   {
-    name: "Re:Zero Ex Light Novel Vol 3",
+    name: "Re:ZERO Starting Life in Another World Ex Light Novel Vol 3",
     link: "https://mega.nz/file/aMZSUaIL#NVTUdIXEBs4TqdCVpzPRa36Q2eTQWQZmAip3QhTgRG8",
     image:
       "https://1.bp.blogspot.com/-ctFGW7KUSL8/XpDgnb6AwcI/AAAAAAAAT-c/bs9zOl1FTvErrtxs2SnTlbmPcMnR6nDVACLcBGAsYHQ/s1600/Re%2BZero%2BEX%2BVolumen%2B3%2Bespanol.jpg",

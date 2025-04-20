@@ -912,6 +912,18 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/juKWzBx4jgF8dhAV0qktMCeEfe6.jpg",
   },
   {
+    name: "Attack on Titan: THE LAST ATTACK",
+    link: "https://www1.otakustv.com/anime/shingeki-no-kyojin-movie-kanketsu-hen-the-last-attack",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/sl5rXSyMTzK5WkpRO9oVIkqr6DE.jpg",
+  },
+  {
+    name: "Attack on Titan: THE LAST ATTACK Latino",
+    link: "https://ww3.animeonline.ninja/pelicula/shingeki-no-kyojin-movie-kanketsu-hen-the-last-attack/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/sl5rXSyMTzK5WkpRO9oVIkqr6DE.jpg",
+  },
+  {
     name: "Kanna Y Los Dioses De Octubre Latino",
     link: "https://drive.google.com/drive/u/0/folders/1O3g1RXAd-3j4-QEVBwABR3cZjZOIWjGy",
     image:

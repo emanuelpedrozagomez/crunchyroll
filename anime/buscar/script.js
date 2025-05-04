@@ -233,6 +233,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/sobdEtiJt41QOrGGNiGfXGrP7tc.jpg",
   },
   {
+    name: "Anne Shirley Latino",
+    link: "https://henaojara.com/animeonline/season/anne-shirley-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/sobdEtiJt41QOrGGNiGfXGrP7tc.jpg",
+  },
+  {
     name: "Anohana: The Flower We Saw That Day",
     link: "https://www1.otakustv.com/anime/ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai",
     image:
@@ -1763,6 +1769,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/kbzFeLiV0qeXpd81XeG4P8RNXnZ.jpg",
   },
   {
+    name: "Fire Force Season 3 Latino",
+    link: "https://henaojara.com/animeonline/season/fire-force-espanol-latino-hd-3/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/kbzFeLiV0qeXpd81XeG4P8RNXnZ.jpg",
+  },
+  {
     name: "Fire x Fire",
     link: "https://www1.otakustv.com/anime/rang-wo-men-shao-ba-fire-x-fire",
     image:
@@ -3285,6 +3297,12 @@ const data = [
     link: "https://www.animelatinohd.com/anime/mob-psycho-100-iii",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/c0e2440d3f27196ba37abaed8b824df5.jpe",
+  },
+  {
+    name: "Mobile Suit Gundam 00",
+    link: "https://www1.otakustv.com/anime/kidou-senshi-gundam-00",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/f6d36a814c6573190a7717d42eda2ec4.jpe",
   },
   {
     name: "Mobile Suit Gundam GQuuuuuuX",
@@ -5771,6 +5789,18 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/78e83f2e06d1cf48224997b02880d6b8.jpe",
   },
   {
+    name: "WITCH WATCH",
+    link: "https://www1.otakustv.com/anime/witch-watch",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/9vZSj134qTv3xnP4ZiTAVNDCh8V.jpg",
+  },
+  {
+    name: "WITCH WATCH Latino",
+    link: "https://henaojara.com/animeonline/season/witch-watch-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/9vZSj134qTv3xnP4ZiTAVNDCh8V.jpg",
+  },
+  {
     name: "Wonder Egg Priority",
     link: "https://www1.otakustv.com/anime/wonder-egg-priority-k9hwtjyr",
     image:
@@ -7230,7 +7260,7 @@ const data = [
   },
   {
     name: "Black Butler Latino",
-    link: "https://wvw.henaojara.com/veronline/black-butler-kuroshitsuji-espanol-latino-hd/",
+    link: "https://henaojara.com/animeonline/season/black-butler-kuroshitsuji-espanol-latino-hd-1/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/6V9FLEgDKpBke3Yg43ANAxPkbO2.jpg",
   },
@@ -7293,6 +7323,12 @@ const data = [
     link: "https://wvw.henaojara.com/veronline/season/kono-subarashii-espanol-latino-hd-3/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/tzgKji4nXiRgYvnqobpBkPaIQBp.jpg",
+  },
+  {
+    name: "Konosuba Season 3 Bonus Stage",
+    link: "https://www1.otakustv.com/anime/kono-subarashii-sekai-ni-shukufuku-wo-3-bonus-stage",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/o3Ilp4SkCEZUltK8rbrII8Le1AV.jpg",
   },
   {
     name: "My Happy Marriage: The Shape of Happiness",
@@ -7548,7 +7584,7 @@ const data = [
   },
   {
     name: "Bye Bye Earth Latino",
-    link: "https://ww3.animeonline.ninja/online/bye-bye-earth/",
+    link: "https://henaojara.com/animeonline/season/bye-bye-earth-espanol-latino-hd-1/",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/be826d5bce7c1589a04d69cdb112c1c4.jpg",
   },

@@ -151,27 +151,39 @@ const data = [
   },
   {
     name: "Boku No Hero Academia Two Heroes Latino",
-    link: "https://henaojara2.com/ver/365/",
+    link: "https://henaojara.com/animeonline/boku-no-hero-academia-futari-no-hero-espanol-latino-hd/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/zdqmiNBBnyJ5635s1JVPBjIwQC2.jpg",
   },
   {
     name: "Boku No Hero Academia El despertar de los héroes Latino",
-    link: "https://henaojara2.com/ver/my-hero-academia-heroes-rising-latino-hd/",
+    link: "https://henaojara.com/animeonline/boku-no-hero-academia-heroes-rising-espanol-latino-hd/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/6xiWzVUUbxlIHcunlB7atDbN3aJ.jpg",
   },
   {
     name: "Boku no hero academia Mision Mundial de Heroes",
-    link: "https://www.henaojara.com/ver/boku-no-hero-academia-world-heroes-mission-sub-espanol-hd/",
+    link: "https://henaojara.com/animeonline/boku-no-hero-academia-world-heroes-mission-sub-espanol-hd/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/cugmVwK0N4aAcLibelKN5jWDXSx.jpg",
   },
   {
     name: "Boku no hero academia Mision Mundial de Heroes Latino",
-    link: "https://henaojara2.com/ver/boku-no-hero-academia-world-heroes-mission-espanol-latino-hd/",
+    link: "https://henaojara.com/animeonline/boku-no-hero-academia-world-heroes-mission-espanol-latino-hd/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/cugmVwK0N4aAcLibelKN5jWDXSx.jpg",
+  },
+  {
+    name: "Boku no hero academia You're Next",
+    link: "https://www1.otakustv.com/anime/boku-no-hero-academia-the-movie-4-youre-next",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/8b9KeFccoBVrP5StpT3ACqjK0XD.jpg",
+  },
+  {
+    name: "Boku no hero academia You're Next Latino",
+    link: "https://henaojara.com/animeonline/boku-no-hero-academia-youre-next-hd/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/8b9KeFccoBVrP5StpT3ACqjK0XD.jpg",
   },
   {
     name: "Bungou Stray Dogs: Dead Apple",
@@ -400,6 +412,18 @@ const data = [
     link: "https://drive.google.com/file/d/1gaUi61dQShlonGcXbdSgZ56ECel3JtTy/view",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/qg0P94wHVrrozZkxfcXx0w5fHl.jpg",
+  },
+  {
+    name: "La Rosa de Versalles",
+    link: "https://www1.otakustv.com/anime/versailles-no-bara-movie",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/bVHhTDBmhnZ0wKyUgPdSkO5ZH2w.jpg",
+  },
+  {
+    name: "La Rosa de Versalles Latino",
+    link: "https://henaojara.com/animeonline/season/versailles-no-bara-movie-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/bVHhTDBmhnZ0wKyUgPdSkO5ZH2w.jpg",
   },
   {
     name: "Maquia Latino",
@@ -1480,6 +1504,12 @@ const data = [
     link: "https://ww3.animeonline.ninja/pelicula/mononoke-movie-karakasa/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/jIJhDofDxf7TCHZSg99YbOLqIsZ.jpg",
+  },
+  {
+    name: "Overlord: El reino sagrado",
+    link: "https://www1.otakustv.com/anime/overlord-movie-3-sei-oukoku-hen",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
   },
   {
     name: "Overlord: El reino sagrado Latino",

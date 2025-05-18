@@ -7254,7 +7254,7 @@ const data = [
   },
   {
     name: "Go! Go! Loser Ranger! Latino",
-    link: "https://ww3.animeonline.ninja/online/sentai-daishikkaku/",
+    link: "https://henaojara.com/animeonline/season/sentai-daishikkaku-espanol-latino-hd-1/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/9rXuNgVSsmLOWeIqiVDSkVZGVnf.jpg",
   },

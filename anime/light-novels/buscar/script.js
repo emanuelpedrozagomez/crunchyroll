@@ -385,7 +385,7 @@ const data = [
     name: "Classroom of the Elite 2nd Year Vol 7",
     link: "https://mega.nz/file/LRpkhIxb#vNZoLAS2QW6VNZSzj7mohMthNck8ETce84WCXk2dbus",
     image:
-      "https://i1.wp.com/animecenterbr.com/wp-content/uploads/2022/06/pic_001.jpg?fit=1000%2C1420&ssl=1",
+      "https://m.media-amazon.com/images/I/818ZEmRcTKL._AC_UF894,1000_QL80_.jpg",
   },
   {
     name: "Classroom of the Elite 2nd Year Vol 8",

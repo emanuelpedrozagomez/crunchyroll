@@ -237,7 +237,7 @@ const data = [
     name: "Komi-San no puede comunicarse Live Action",
     link: "https://www1.animeonline.ninja/online/komi-san-wa-comyushou-desu-live-action/",
     image:
-      "https://1.bp.blogspot.com/-wt3U3cwO2W0/YSL5003zPnI/AAAAAAAAU0E/I4tlCsWEBHAQz0TQBF4421wE6U5GJKnQwCLcBGAsYHQ/s700/komi-san-no-puede-comunicarse-live-action-dorama-poster.jpg",
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/jLU47Vzxqr06BYwVaWmOwQxWJ5I.jpg",
   },
   {
     name: "La Gloria",
@@ -700,6 +700,24 @@ const data = [
     link: "https://doramasflix.in/doramas-online/my-name",
     image:
       "https://occ-0-1079-114.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdxF9b-VG-MYGtGB2STio1EUNNUs_Bm7dXXpJmI0IFpO479-bdMNQHiy9V8L-iybRlvU_PANTOY8nGhXLXW4FpqNROPpYRMf1k--Q1vTZ-j5fJ88nYcHxIEMVv5ADJTYr-vR.jpg?r=8f9",
+  },
+  {
+    name: "Go Ahead Latino",
+    link: "https://www.freetv.com/es/shows/sigue-adelante",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/5tulkIFh4wqb5a9Vu2CIqwxp0aY.jpg",
+  },
+  {
+    name: "Hush: Callate Latino",
+    link: "https://www.freetv.com/es/shows/hush-callate",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/mvExQnOOF8YOITPnnBpbG2ROH3z.jpg",
+  },
+  {
+    name: "Encuéntrame a las 10 con 6 Latino",
+    link: "https://www.freetv.com/es/shows/hush-callate",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/1JUPybLd8E7UiuN1WRcDJQ7Aiu2.jpg",
   },
 ];
 const searchInput = document.getElementById("searchInput");

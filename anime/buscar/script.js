@@ -1223,10 +1223,22 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/foKcfF1QgTZdaMRM1JN1orIDCpw.jpg",
   },
   {
+    name: "Date a Live II",
+    link: "https://www1.otakustv.com/anime/date-a-live-ii",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/pebUVrdxDa5OAcelyWypidPaRjP.jpg",
+  },
+  {
     name: "Date a Live II Latino",
     link: "https://www1.animeonline.ninja/online/date-a-live-3/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/pebUVrdxDa5OAcelyWypidPaRjP.jpg",
+  },
+  {
+    name: "Date a Live III",
+    link: "https://www1.otakustv.com/anime/date-a-live-iii",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/6wvmGAbbQljlM8GDFBLjq8Thr3R.jpg",
   },
   {
     name: "Date a Live III Latino",
@@ -2441,6 +2453,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2902c5a7ca3303179afbcf7665bf41f4.jpe",
   },
   {
+    name: "I've Been Killing Slimes For 300 Years And Maxed Out My Level 2nd Season Latino",
+    link: "https://henaojara.com/animeonline/season/slime-taoshite-300-nen-espanol-latino-hd-2/",
+    image:
+      "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2902c5a7ca3303179afbcf7665bf41f4.jpe",
+  },
+  {
     name: "I've Been Killing Slimes For 300 Years And Maxed Out My Level Latino",
     link: "https://henaojara.com/animeonline/slime-taoshite-300-nen-espanol-latino-hd/",
     image:
@@ -3305,6 +3323,12 @@ const data = [
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/f6d36a814c6573190a7717d42eda2ec4.jpe",
   },
   {
+    name: "Mobile Suit Gundam 00 Season 2",
+    link: "https://www1.otakustv.com/anime/kidou-senshi-gundam-00-2nd-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/dKrmlUQ3EXTweePRPoM7IsI3vxC.jpg",
+  },
+  {
     name: "Mobile Suit Gundam GQuuuuuuX",
     link: "https://www1.otakustv.com/anime/kidou-senshi-gundam-gquuuuuux",
     image:
@@ -3801,6 +3825,12 @@ const data = [
     link: "https://www1.otakustv.com/anime/isekai-yakkyoku",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/8f95fe013a6d6fb461b9cfcb57cc25c6.jpe",
+  },
+  {
+    name: "Paranoia Agent",
+    link: "https://www1.otakustv.com/anime/mousou-dairinin",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/kCEymZlfSUkJL03KQnQjBSokXJU.jpg",
   },
   {
     name: "Pokémon",
@@ -6463,6 +6493,12 @@ const data = [
   {
     name: "The Shiunji Family Children",
     link: "https://www1.otakustv.com/anime/shiunji-ke-no-kodomotachi",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/q2nJhG2ndDi2LcZwFOKdFR86KOE.jpg",
+  },
+  {
+    name: "The Shiunji Family Children Latino",
+    link: "https://henaojara.com/animeonline/season/shiunji-ke-no-kodomotachi-espanol-latino-hd-1/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/q2nJhG2ndDi2LcZwFOKdFR86KOE.jpg",
   },

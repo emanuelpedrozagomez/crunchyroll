@@ -552,6 +552,18 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/vSsMzlTVChNsRbEG8JqdKqfQhEs.jpg",
   },
   {
+    name: "Link: come, ama, mata",
+    link: "https://ww1.pandra.ma/detalle/link-eat-love-kill/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/fks4aBXRg2VfW2SDPpOcJfMOBgv.jpg",
+  },
+  {
+    name: "Link: come, ama, mata Latino",
+    link: "https://ww1.pandra.ma/detalle/link-come-ama-mata-lat/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/fks4aBXRg2VfW2SDPpOcJfMOBgv.jpg",
+  },
+  {
     name: "Romance a romance",
     link: "https://www.viki.com/tv/39813c-romance-by-romance#episodes",
     image:
@@ -592,6 +604,18 @@ const data = [
     link: "https://www.viki.com/tv/36317c-revenge-note-2?qId=9508c20e133340dda496b0fab4c61127#episodes",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/mZ1PiZMIvdM2rv2vT4z0AIiK0BO.jpg",
+  },
+  {
+    name: "Manual para Residentes",
+    link: "https://ww1.pandra.ma/detalle/resident-playbook-2025/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/qNQmn66YwyvZ7Fu95gMIf4Ifc4y.jpg",
+  },
+  {
+    name: "Manual para Residentes Latino",
+    link: "https://doramasflix.in/doramas-online/resident-playbook",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/qNQmn66YwyvZ7Fu95gMIf4Ifc4y.jpg",
   },
   {
     name: "Marry my husband",
@@ -715,7 +739,7 @@ const data = [
   },
   {
     name: "Encuéntrame a las 10 con 6 Latino",
-    link: "https://www.freetv.com/es/shows/hush-callate",
+    link: "https://www.freetv.com/es/shows/encuentrame-las-10-con-6",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/1JUPybLd8E7UiuN1WRcDJQ7Aiu2.jpg",
   },

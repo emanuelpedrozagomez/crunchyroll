@@ -743,6 +743,12 @@ const data = [
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/1JUPybLd8E7UiuN1WRcDJQ7Aiu2.jpg",
   },
+  {
+    name: "The Comic Bang",
+    link: "https://www.youtube.com/playlist?list=PLK_bdxobz0cL4koyA_XxOK812fZDmKgGo",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/cYDRuFhHy19o2lKnhpYttDXXnxL.jpg",
+  },
 ];
 const searchInput = document.getElementById("searchInput");
 const resultsList = document.getElementById("results");

@@ -749,6 +749,42 @@ const data = [
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/cYDRuFhHy19o2lKnhpYttDXXnxL.jpg",
   },
+  {
+    name: "Porque esta es mi primera vida",
+    link: "https://www.viki.com/tv/35630c-because-this-is-my-first-life#episodes",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/gF5T9ElejDTmZGYmXlBUYsH21zC.jpg",
+  },
+  {
+    name: "Porque esta es mi primera vida Latino",
+    link: "https://vix.com/es-es/detail/series-3196",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/gF5T9ElejDTmZGYmXlBUYsH21zC.jpg",
+  },
+  {
+    name: "Amor imperfecto Latino",
+    link: "https://vix.com/es-es/detail/series-4981",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/9CUgyUnNu1Wli4kqlC9rwc2zCtm.jpg",
+  },
+  {
+    name: "Doom at your Service latino",
+    link: "https://vix.com/es-es/detail/series-5009",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/6fd6Cb1DMwb4eW1cRLT98FmSDDY.jpg",
+  },
+  {
+    name: "Live Stage BOOCHI THE ROCK!",
+    link: "https://ww3.animeonline.ninja/pelicula/live-stage-bocchi-the-rock/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/sCgh2bx7oEFCXjGVBIspxEQsmee.jpg",
+  },
+  {
+    name: "Karakai Jouzu no Takagi-san Live Action",
+    link: "https://ww3.animeonline.ninja/online/karakai-jouzu-no-takagi-san-netflix-live-action-090224/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/AaR7SKJrs6F5JElYV6hpPxUwxWf.jpg",
+  },
 ];
 const searchInput = document.getElementById("searchInput");
 const resultsList = document.getElementById("results");

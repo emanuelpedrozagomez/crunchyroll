@@ -1739,6 +1739,18 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/3JK7iIywHhMq4G5UFGYz74IfDhS.jpg",
   },
   {
+    name: "Fate Zero",
+    link: "https://www1.otakustv.com/anime/fate-zero",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/lMdfZ1mvpgdqjPBmnsh1VqfOFqU.jpg",
+  },
+  {
+    name: "Fate Zero Season 2",
+    link: "https://www1.otakustv.com/anime/fate-zero-2",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/b1DzBJ3LLkeZuEnSdF1g2ncj5F5.jpg",
+  },
+  {
     name: "Fate/kaleid liner Prisma Illya Latino",
     link: "https://www1.animeonline.ninja/online/fate-kaleid-liner-prisma-illya-4/",
     image:
@@ -4817,6 +4829,18 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2da652c121a8a09b04978e7acc11bc76.jpe",
   },
   {
+    name: "The Adventures of a Demon King's Daughter",
+    link: "https://www.viki.com/tv/41026c-the-adventures-of-a-demon-kings-daughter#episodes",
+    image:
+      "https://images.ottclouds.com/9999/o4bBWtTE3Aen1Vhu3Gwq__20250424-094934_1745513374622.jpg?Expires=1746122751&Signature=TeyHHz4RTtTiy6mYqYGCMNZCGrIWtVKeEJYSxNPrzempTx0vqXgl3-xc4O-EpWOI03g-nHdRj9b4rEps9VhL4Sx0zh40HYxNFnxHUWI3kf0SI2oeUHpYPsOh-icRK3CTNH4A0TOpj-a-Ywc1S9lkE32n8ISFM9h84C8R4Qn2ycMZgR8-WBMYwXtZwUAaHI2XQOZpDdhQV1VAdhk46lcBPY-UM0VlGhiz1gYrX4WWe5ETcVGnJa5SRgI~4HR3kVbrvo4oPWiiwYMWkn8q2a3VtQ8EpwPAl8dUmjDC8qT3ElZtnjESpoh3EGuio60x~a5PKcXu1vS-Xku6eHNuJrIhig__&Key-Pair-Id=K1SLA0235QRQQG",
+  },
+  {
+    name: "The Adventures of a Demon King's Daughter Latino",
+    link: "https://panea.tv/vod/category/91",
+    image:
+      "https://images.ottclouds.com/9999/o4bBWtTE3Aen1Vhu3Gwq__20250424-094934_1745513374622.jpg?Expires=1746122751&Signature=TeyHHz4RTtTiy6mYqYGCMNZCGrIWtVKeEJYSxNPrzempTx0vqXgl3-xc4O-EpWOI03g-nHdRj9b4rEps9VhL4Sx0zh40HYxNFnxHUWI3kf0SI2oeUHpYPsOh-icRK3CTNH4A0TOpj-a-Ywc1S9lkE32n8ISFM9h84C8R4Qn2ycMZgR8-WBMYwXtZwUAaHI2XQOZpDdhQV1VAdhk46lcBPY-UM0VlGhiz1gYrX4WWe5ETcVGnJa5SRgI~4HR3kVbrvo4oPWiiwYMWkn8q2a3VtQ8EpwPAl8dUmjDC8qT3ElZtnjESpoh3EGuio60x~a5PKcXu1vS-Xku6eHNuJrIhig__&Key-Pair-Id=K1SLA0235QRQQG",
+  },
+  {
     name: "The Ancient Magus Bridge",
     link: "https://www1.otakustv.com/anime/mahoutsukai-no-yome",
     image:
@@ -6795,6 +6819,12 @@ const data = [
     link: "https://www1.otakustv.com/anime/kusuriya-no-hitorigoto-2nd-season",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/urKVIVAwGX7cpNfsGi4AdPn22Kh.jpg",
+  },
+  {
+    name: "The Maomao Diaries Season 2",
+    link: "https://www1.otakustv.com/anime/maomao-no-hitorigoto-2nd-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/p5L6AMEFLsNn9bFqwdcJuCgspsQ.jpg",
   },
   {
     name: "The Apothecary Diaries Season 2 Latino",

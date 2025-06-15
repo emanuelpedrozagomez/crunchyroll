@@ -1459,7 +1459,7 @@ const data = [
   },
   {
     name: "Hunter X Hunter: Phantom Rouge Latino",
-    link: "https://ww3.animeonline.ninja/pelicula/hunter-x-hunter-phantom-rouge-072424/",
+    link: "https://pluto.tv/latam/on-demand/movies/68370601a9356a3062644ec6/details",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/ptSWHamfPL4hPBd6n3IskMfyBwd.jpg",
   },
@@ -1471,7 +1471,7 @@ const data = [
   },
   {
     name: "Hunter X Hunter: The Last Mission Latino",
-    link: "https://ww3.animeonline.ninja/pelicula/hunter-x-hunter-the-last-mission-052224/",
+    link: "https://pluto.tv/latam/on-demand/movies/68370605a9356a306264beee/details",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/vUPS0GDkfWMGD34niNFtkBBezOY.jpg",
   },
@@ -1546,6 +1546,60 @@ const data = [
     link: "https://ww3.animeonline.ninja/pelicula/el-senor-de-los-anillos-la-guerra-de-los-rohirrim/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/yjW4P2hhMgIYmGuLcLs2IvhNgsF.jpg",
+  },
+  {
+    name: "Fate/kaleid liner Prisma☆Illya: Licht Nameless Girl",
+    link: "https://www1.otakustv.com/anime/fate-kaleid-liner-prismaillya-movie-licht-namae-no-nai-shoujo",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/vW0uViK6fCqMJMl6Crtp8wbu8VD.jpg",
+  },
+  {
+    name: "Fate/kaleid liner Prisma☆Illya: Vow In The Snow",
+    link: "https://www1.otakustv.com/anime/fate-kaleid-liner-prismaillya-movie-sekka-no-chikai",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/o9ygSOkl5z0vMCaViDYW19YitoB.jpg",
+  },
+  {
+    name: "BLEACH The Movie: Memories of Nobody Latino",
+    link: "https://pluto.tv/latam/on-demand/movies/683719c0a9356a30626c06ac/details",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/edxEkjGZGlMqEVimdZ5d5rUYyuK.jpg",
+  },
+  {
+    name: "BLEACH: The DiamondDust Rebellion Latino",
+    link: "https://pluto.tv/latam/on-demand/movies/68371de912cab50db674bc7f/details",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/zjmQ2pjNCrrCySSQJyxNjLQL6WB.jpg",
+  },
+  {
+    name: "BLEACH The Movie 3: Fade to Black Latino",
+    link: "https://pluto.tv/latam/on-demand/movies/6837252300cabfe6fef06909/details",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/2ukqN9Ca6OeHxmuO1uwEi1bblsv.jpg",
+  },
+  {
+    name: "BLEACH The Movie 4: Hell Verse Latino",
+    link: "https://pluto.tv/latam/on-demand/movies/6837265909261e2706a85384/details",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/lgIImIwP46bx0WVnNUGuoVuV3zz.jpg",
+  },
+  {
+    name: "Lo que le falta a esta estrella",
+    link: "https://www1.otakustv.com/anime/i-byeol-e-pil-yohan",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/17kb3gpFeTB3P3phswsGKkYqxdd.jpg",
+  },
+  {
+    name: "Lo que le falta a esta estrella Latino",
+    link: "https://ww3.animeonline.ninja/pelicula/i-byeol-e-pil-yohan-lost-in-starlight/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/17kb3gpFeTB3P3phswsGKkYqxdd.jpg",
+  },
+  {
+    name: "Otaku No Video",
+    link: "https://watch.plex.tv/es/movie/otaku-no-video",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/oRGhAio0G7x4uMO1JXgNv43h0kL.jpg",
   },
 ];
 const searchInput = document.getElementById("searchInput");

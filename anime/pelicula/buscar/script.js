@@ -1601,6 +1601,30 @@ const data = [
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/oRGhAio0G7x4uMO1JXgNv43h0kL.jpg",
   },
+  {
+    name: "Given The Movie: To the Sea",
+    link: "https://www1.otakustv.com/anime/given-movie-3-umi-e",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/52LNB5OfxLwO5v6MIFR3FUYrM0Y.jpg",
+  },
+  {
+    name: "Given The Movie: To the Sea",
+    link: "https://www1.otakustv.com/anime/given-movie-3-umi-e",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/52LNB5OfxLwO5v6MIFR3FUYrM0Y.jpg",
+  },
+  {
+    name: "K-POP Demon Hunters",
+    link: "https://pandrama.com/detalle/kpop-demon-hunters-en-2025/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/3aZHMVeLb5z7iHIGyF0tbA1yZJZ.jpg",
+  },
+  {
+    name: "K-POP Demon Hunters Latino",
+    link: "https://pandrama.com/detalle/kpop-demon-hunters-lat-2025/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/3aZHMVeLb5z7iHIGyF0tbA1yZJZ.jpg",
+  },
 ];
 const searchInput = document.getElementById("searchInput");
 const resultsList = document.getElementById("results");

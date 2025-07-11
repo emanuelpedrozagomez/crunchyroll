@@ -59,6 +59,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/mjo8yMQ2hv6e4jSDAGtDka89WoZ.jpg",
   },
   {
+    name: "A Couple of Cuckoos Season 2",
+    link: "https://www1.otakustv.com/anime/kakkou-no-iinazuke-season-2",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/a4jhcumr0tQgOFcqwJc2Oky76Mv.jpg",
+  },
+  {
     name: "A Couple of Cuckoos Latino",
     link: "https://henaojara2.com/ver/kakkou-no-iinazuke-espanol-latino-hd/",
     image:
@@ -713,6 +719,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/bOQjusoWyW8CPfFqvp0UwYZT8Dc.jpg",
   },
   {
+    name: "Blood Blockade Battlefront & Beyond OVA",
+    link: "https://www1.otakustv.com/anime/kekkai-sensen-beyond-ova",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/eecFFyBijv6O0cbM8fQmW7EtWs.jpg",
+  },
+  {
     name: "Blood Blockade Battlefront Latino",
     link: "https://www.animelatinohd.com/anime/kekkai-sensen",
     image:
@@ -971,6 +983,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/26wE1yRkO3k9qjFgMCGbgqdyoxO.jpg",
   },
   {
+    name: "Call of the Night Season 2",
+    link: "https://www1.otakustv.com/anime/yofukashi-no-uta-season-2",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/fO4vWZbcO6xOWnQ7crVpHMYcG68.jpg",
+  },
+  {
     name: "Can a Boy-Girl Friendship Survive?",
     link: "https://www1.otakustv.com/anime/danjo-no-yuujou-wa-seiritsu-suru-iya-shinai",
     image:
@@ -1017,6 +1035,18 @@ const data = [
     link: "https://pluto.tv/es/on-demand/series/cats-eye-las-ptv1/details/season/1",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/zqr5VjcFfG7Kpjb2QtOxfzVxKao.jpg",
+  },
+  {
+    name: "City The Animation",
+    link: "https://www1.otakustv.com/anime/city-the-animation",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/pS9W3qRtnPQMtj2sk84eMz4Puxh.jpg",
+  },
+  {
+    name: "City The Animation Latino",
+    link: "https://henaojara.com/animeonline/season/city-the-animation-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/pS9W3qRtnPQMtj2sk84eMz4Puxh.jpg",
   },
   {
     name: "Cells at Work",
@@ -1299,6 +1329,12 @@ const data = [
     link: "https://henaojara2.com/ver/season/de-yakuza-a-amo-de-casa-gokushufudo-espanol-latino-hd-2/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/wNRNGzfWeDuCkTkk5U5uIKHjE5p.jpg",
+  },
+  {
+    name: "Dealing with Mikadono Sisters Is a Breeze",
+    link: "https://www1.otakustv.com/anime/mikadono-sanshimai-wa-angai-choroi",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/kWWIcJmWhMsEHzdSpul9UJVt6QV.jpg",
   },
   {
     name: "Death Note",
@@ -1923,6 +1959,18 @@ const data = [
     link: "https://www.animelatinohd.com/anime/fullmetal-alchemist-brotherhood",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/bBDHtJnMpEpBFvGPKNInDa8KgjN.jpg",
+  },
+  {
+    name: "Gachiakuta",
+    link: "https://www1.otakustv.com/anime/gachiakuta",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/kUYCWZKjJHgvv5ZvC30x5wcbyj8.jpg",
+  },
+  {
+    name: "Gachiakuta Latino",
+    link: "https://henaojara.com/animeonline/season/gachiakuta-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/kUYCWZKjJHgvv5ZvC30x5wcbyj8.jpg",
   },
   {
     name: "Gekkan Shoujo Nozaki-kun",
@@ -3209,6 +3257,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/7ce6bedc77c1c73383d404e7c1de2e4e.jpe",
   },
   {
+    name: "Marvel Future Avengers",
+    link: "https://www1.otakustv.com/anime/marvel-future-avengers",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/fy3Rrj04vunfgGLxo5V9jSo1Mrj.jpg",
+  },
+  {
     name: "Mieruko-Chan",
     link: "https://www1.otakustv.com/anime/mieruko-chan",
     image:
@@ -3473,6 +3527,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/55106611f3f44e55cb25b4da172baf2a.jpe",
   },
   {
+    name: "My Dress-Up Darling Season 2",
+    link: "https://www1.otakustv.com/anime/sono-bisque-doll-wa-koi-wo-suru-season-2",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/3Ja1VRrKLUYZCF5HOkHlAfZVnow.jpg",
+  },
+  {
     name: "My Home Hero",
     link: "https://www1.otakustv.com/anime/my-home-hero",
     image:
@@ -3609,6 +3669,18 @@ const data = [
     link: "https://www1.otakustv.com/anime/new-game-2",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2d2c3381c9aabc3acb9551199f383ca3.jpe",
+  },
+  {
+    name: "New Panty & Stocking with Garterbelt",
+    link: "https://www1.otakustv.com/anime/new-panty-stocking-with-garterbelt",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/j5Mj8QAhLEo5lCypRT4NTNFqfJh.jpg",
+  },
+  {
+    name: "New Panty & Stocking with Garterbelt Latino",
+    link: "https://ww3.animeonline.ninja/online/new-panty-and-stocking-with-garterbelt/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/j5Mj8QAhLEo5lCypRT4NTNFqfJh.jpg",
   },
   {
     name: "Nisekoi",
@@ -4115,6 +4187,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/5f6f3cee84c31c0eed461956db23d682.jpe",
   },
   {
+    name: "Ruri Rocks",
+    link: "https://www1.otakustv.com/anime/ruri-no-houseki",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/hpsyvmRkqDXDFZVdAcNBYeceySw.jpg",
+  },
+  {
     name: "RWBY Volumen 8",
     link: "https://www1.otakustv.com/anime/rwby-volume-8",
     image:
@@ -4305,6 +4383,12 @@ const data = [
     link: "https://www.crunchyroll.com/es/series/GYW4MG9G6/rascal-does-not-dream-of-bunny-girl-senpai",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/298403eab66728ac995f64c7d92fd154.jpe",
+  },
+  {
+    name: "Rascal Does Not Dream of Santa Claus",
+    link: "https://www1.otakustv.com/anime/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/3fjZCOrpA3YHFYymSHvMxH4WiZA.jpg",
   },
   {
     name: "Seraph In The End",
@@ -5045,6 +5129,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/x8adVt7IMslxgz7iC0Tw5WN9Iua.jpg",
   },
   {
+    name: "The Fragrant Flower Blooms with Dignity",
+    link: "https://www1.otakustv.com/anime/kaoru-hana-wa-rin-to-saku",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/1B9wNKfBEoPsUTaEWxgtsbzYEfC.jpg",
+  },
+  {
     name: "The Fruit of Evolution",
     link: "https://www1.otakustv.com/anime/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei",
     image:
@@ -5303,6 +5393,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a05f3e4b27485d33c5bf2b0e80c6d3c6.jpe",
   },
   {
+    name: "The Rising of the Shield Hero Season 4",
+    link: "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-4",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/ty1K4TbPB6VG3DXmxgvePRcrk0J.jpg",
+  },
+  {
     name: "The Slime Diaries",
     link: "https://www1.otakustv.com/anime/tensura-nikki-tensei-shitara-slime-datta-ken-avgxncny",
     image:
@@ -5403,6 +5499,12 @@ const data = [
     link: "https://drive.google.com/drive/u/0/folders/1vgwUYWI7u_K12G33k1PmFkJEShKoHIEJ",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/0774ee81c127face1b288ef788bb51c8.jpe",
+  },
+  {
+    name: "There's No Freaking Way I'll Be Your Lover! Unless..",
+    link: "https://www1.otakustv.com/anime/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/oqvJfqBLNZR7BJAPkLfN5HioJQ6.jpg",
   },
   {
     name: "Tiger & Bunny",
@@ -6203,6 +6305,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/1d2082f46f5c4964f5c11ad3fcba4fd1.jpe",
   },
   {
+    name: "Kanojo Okarishimasu Season 4",
+    link: "https://www1.otakustv.com/anime/kanojo-okarishimasu-4th-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/66eQn2RTINivDMR6R5Sn9g5pIjL.jpg",
+  },
+  {
     name: "La chica que me gusta olvidó sus lentes",
     link: "https://www1.otakustv.com/anime/suki-na-ko-ga-megane-wo-wasureta",
     image:
@@ -6327,6 +6435,12 @@ const data = [
     link: "https://www.henaojara.com/ver/season/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-espanol-latino-hd-1/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/4e6d92a8a40b7028011b9692c974aa65.jpe",
+  },
+  {
+    name: "Reborn as a Vending Machine Season 2",
+    link: "https://www1.otakustv.com/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/oTHetLGwDKgfgdxhcIso1ebQ2Dp.jpg",
   },
   {
     name: "Rurouni Kenshin",
@@ -7779,6 +7893,18 @@ const data = [
     link: "https://www1.otakustv.com/anime/dandadan",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/fa62dd1fc7a9bc0b587f36f53bf572c1.jpg",
+  },
+  {
+    name: "DAN DA DAN Season 2",
+    link: "https://www1.otakustv.com/anime/dandadan-2nd-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/6hl2i85aDspX3YHed6zFKL0uJQa.jpg",
+  },
+  {
+    name: "DAN DA DAN Season 2 Latino",
+    link: "https://henaojara.com/animeonline/season/dandadan-espanol-latino-hd-2/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/6hl2i85aDspX3YHed6zFKL0uJQa.jpg",
   },
   {
     name: "Blue Box Latino",

@@ -582,7 +582,7 @@ const data = [
     name: "Date A Live Encore Light Novel",
     link: "https://mega.nz/folder/aY4jTSLD#88pNvO7BAVoQkkCI1qmz2Q",
     image:
-      "https://somoskudasai.com/wp-content/uploads/2020/07/Eb0V5LmWkAUms5--726x1024.jpg",
+      "https://m.media-amazon.com/images/I/81M-m15RyzL._UF894,1000_QL80_.jpg",
   },
   {
     name: "Death Note: Another Note Light Novel",
@@ -1311,7 +1311,7 @@ const data = [
     name: "KONOSUBA God's blessing on this wonderful world! Dust Spin-Off Light Novel Vol 7",
     link: "https://mega.nz/folder/5N8AUTDb#RG_rqRxP02oFLilAe2rXkQ/file/tINUBbzZ",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZgZsMpMrP664tUMeoUcAznmz7odaRzFVn-Q9SClQ-1CpdYf2HXIy-cBBfcgP2LyQS1DM&usqp=CAU",
+      "https://m.media-amazon.com/images/I/81WITzxV1ZL._UF1000,1000_QL80_.jpg",
   },
   {
     name: "Kuma Kuma Kuma Bear Light Novel",
@@ -2574,7 +2574,7 @@ const data = [
   {
     name: "Alya Sometimes Hides Her Feelings in Russian Light Novel Vol 7",
     link: "https://mega.nz/folder/zpAXDIBR#vj6WCnoCd9fHyIyqDuZoPA",
-    image: "https://pbs.twimg.com/media/F0_t15uWwAA1_vK.jpg",
+    image: "https://m.media-amazon.com/images/I/81C4ZbDI-eL.jpg",
   },
   {
     name: "Alya Sometimes Hides Her Feelings in Russian Light Novel Vol 8",
@@ -2592,6 +2592,12 @@ const data = [
     name: "Alya Sometimes Hides Her Feelings in Russian Light Novel Behind The Scenes",
     link: "https://mega.nz/folder/XsYTlYhS#V1ij2kBoyhQIPMKit0WWNQ",
     image: "../../img/roshidare.jpg",
+  },
+  {
+    name: "Los Diarios de la Boticaria Light Novel",
+    link: "https://zonatmo.com/library/novel/35683/kusuriya-no-hitorigoto-novela",
+    image:
+      "https://m.media-amazon.com/images/I/91yTsBLvNOS._UF1000,1000_QL80_.jpg",
   },
 ];
 const searchInput = document.getElementById("searchInput");

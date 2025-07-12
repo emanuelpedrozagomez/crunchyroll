@@ -469,7 +469,7 @@ const data = [
   {
     name: "Kanojo Okarishimasu Antologia",
     link: "https://lectortmo.com/library/manga/52414/kanojo-okarishimasu-antologia",
-    image: "https://pbs.twimg.com/media/EeFL1wiXsAEYobd.jpg:large",
+    image: "https://cdn.anisearch.it/images/manga/cover/56/56565_600.webp",
   },
   {
     name: "Karakai Jouzu no Takagi-san",
@@ -535,7 +535,7 @@ const data = [
     name: "Kuma Kuma Kuma Bear Spin-Off",
     link: "https://lectortmo.com/library/manga/58570/kuma-kuma-kuma-bear-kyou-mo-kuma-kuma-biyori",
     image:
-      "https://somoskudasai.com/wp-content/uploads/2020/09/EhjkGqAU4AMr_SU.jpg",
+      "https://m.media-amazon.com/images/I/81KDJrikBHS._UF1000,1000_QL80_.jpg",
   },
   {
     name: "Kuroko no Basket",
@@ -611,7 +611,7 @@ const data = [
   {
     name: "Mushoku Tensei Jobless Reincarnation 4-koma",
     link: "https://lectortmo.com/library/manga/47498/mushoku-tensei-4-koma-ni-natte-mo-honki-dasu",
-    image: "https://somoskudasai.com/wp-content/uploads/2020/07/716pJIkhqL.jpg",
+    image: "https://m.media-amazon.com/images/I/81P-7spT7HL.jpg",
   },
   {
     name: "Mushoku Tensei Jobless Reincarnation Depressed Magican Arc",
@@ -667,7 +667,7 @@ const data = [
     name: "My Next Life as a Villainess: All Routes Lead to Doom! x Arte",
     link: "https://lectortmo.com/library/manga/50480/hamefura-x-arte",
     image:
-      "https://somoskudasai.com/wp-content/uploads/2020/05/EYmetNdUEAAJjQz-724x1024.jpg",
+      "https://media.themoviedb.org/t/p/w220_and_h330_face/lecDLCk9WzB9HhGiLFBs4UoRhO2.jpg",
   },
   {
     name: "Naruto",
@@ -929,13 +929,13 @@ const data = [
     name: "Sword Art Online Progressive Canon Of The Golden Rule",
     link: "https://lectortmo.com/library/manga/61579/basado-en-la-novela-ligera-sword",
     image:
-      "https://www.nautiljon.com/images/manga/00/16/sword_art_online_-_progressive_-_kogane_ritsu_no_kanon_20361.webp",
+      "https://m.media-amazon.com/images/I/81F6F+r8CoL._UF894,1000_QL80_.jpg",
   },
   {
     name: "Sword Art Online Canon Of The Golden Rule",
     link: "https://lectortmo.com/library/manga/65071/sword-art-online-canon-of-the-golden-rule",
     image:
-      "https://www.nautiljon.com/images/manga/00/16/sword_art_online_-_progressive_-_kogane_ritsu_no_kanon_20361.webp",
+      "https://m.media-amazon.com/images/I/81ybPl+iz2L._UF894,1000_QL80_.jpg",
   },
   {
     name: "Sword Art Online Comic Anthology",
@@ -1048,7 +1048,8 @@ const data = [
   {
     name: "Uzaki-chan wa Asobitai!",
     link: "https://lectortmo.com/library/manga/38888/uzaki-chan-wa-asobitai",
-    image: "https://somoskudasai.com/wp-content/uploads/2021/07/Vol-7.jpg",
+    image:
+      "https://m.media-amazon.com/images/I/81RxsHyRajL._UF894,1000_QL80_.jpg",
   },
   {
     name: "Vinland Saga",
@@ -1188,6 +1189,17 @@ const data = [
     name: "The Marshal King",
     link: "https://mangaplus.shueisha.co.jp/titles/200149",
     image: "../../img/MarshalKing.jpg",
+  },
+  {
+    name: "Los Diarios de La Boticaria",
+    link: "https://zonatmo.com/library/manga/3906/kusuriyanohitorigoto",
+    image:
+      "https://m.media-amazon.com/images/I/81tAdiyqYYL._UF894,1000_QL80_.jpg",
+  },
+  {
+    name: "Los Diarios de La Boticaria: notas de Maomao desde el interior del palacio",
+    link: "https://zonatmo.com/library/manga/81683/kusuriyanohitorigotomaomaonokoukyuunazotokitechou",
+    image: "https://m.media-amazon.com/images/I/71ZGM6B0UhL.jpg",
   },
 ];
 const searchInput = document.getElementById("searchInput");

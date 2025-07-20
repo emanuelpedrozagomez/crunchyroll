@@ -785,6 +785,12 @@ const data = [
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/AaR7SKJrs6F5JElYV6hpPxUwxWf.jpg",
   },
+  {
+    name: "S-LINE",
+    link: "https://pandrama.com/detalle/s-line-2025/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/aptfOkVieXQLePhG5QsDhW9mu8E.jpg",
+  },
 ];
 const searchInput = document.getElementById("searchInput");
 const resultsList = document.getElementById("results");

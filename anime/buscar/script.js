@@ -7368,7 +7368,7 @@ const data = [
   },
   {
     name: "The Apothecary Diaries Latino",
-    link: "https://ww3.animeonline.ninja/online/kusuriya-no-hitorigoto/",
+    link: "https://otakuverso.net/anime/kusuriya-no-hitorigoto-latino",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/880a9a293ef5b71e1122e85543f8e86d.jpe",
   },

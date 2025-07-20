@@ -185,6 +185,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/eNz7GNvfUzlxGbd3y6mIgXx32eY.jpg",
   },
   {
+    name: "Aharen-san wa Hakarenai Season 2 Latino",
+    link: "https://otakuverso.net/anime/aharen-san-wa-hakarenai-season-2-latino",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/eNz7GNvfUzlxGbd3y6mIgXx32eY.jpg",
+  },
+  {
     name: "Aho-Girl",
     link: "https://www1.otakustv.com/anime/aho-girl",
     image:
@@ -3678,7 +3684,7 @@ const data = [
   },
   {
     name: "New Panty & Stocking with Garterbelt Latino",
-    link: "https://ww3.animeonline.ninja/online/new-panty-and-stocking-with-garterbelt/",
+    link: "https://otakuverso.net/anime/new-panty-stocking-with-garterbelt-latino",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/j5Mj8QAhLEo5lCypRT4NTNFqfJh.jpg",
   },
@@ -4907,6 +4913,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/mqOFyE4LxF7PsvXfOSQwwPGkXz0.jpg",
   },
   {
+    name: "Theatre of Darkness 15",
+    link: "https://www1.otakustv.com/anime/yami-shibai-15",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/7yUOrBr2EwJYSEYOwJ0M7og8hJ2.jpg",
+  },
+  {
     name: "Theatre of Darkness Latino",
     link: "https://www1.animeonline.ninja/online/yami-shibai/",
     image:
@@ -5399,6 +5411,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/ty1K4TbPB6VG3DXmxgvePRcrk0J.jpg",
   },
   {
+    name: "The Rising of the Shield Hero Season 4 Latino",
+    link: "https://otakuverso.net/anime/tate-no-yuusha-no-nariagari-season-4-latino",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/ty1K4TbPB6VG3DXmxgvePRcrk0J.jpg",
+  },
+  {
     name: "The Slime Diaries",
     link: "https://www1.otakustv.com/anime/tensura-nikki-tensei-shitara-slime-datta-ken-avgxncny",
     image:
@@ -5877,6 +5895,12 @@ const data = [
     link: "https://drive.google.com/drive/u/0/folders/18pH7jnYjzMVf4Z36RZwBn8O6PefR4C8Z",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/841e4a40b6df5b49d7231357988d7f96.jpe",
+  },
+  {
+    name: "Watari-kun's ****** Is about to Collapse",
+    link: "https://www1.otakustv.com/anime/watari-kun-no-xx-ga-houkai-sunzen",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/eAg55nJ2dpqxBHVs1c26KrD33ud.jpg",
   },
   {
     name: "WATAMOTE",
@@ -7488,9 +7512,27 @@ const data = [
   },
   {
     name: "Kaiju No. 8 Latino",
-    link: "https://wvw.henaojara.com/veronline/season/kaiju-no-8-espanol-latino-hd-1/",
+    link: "https://henaojara.com/animeonline/kaiju-no-8-espanol-latino-hd/",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=1200,height=675,quality=85/catalog/crunchyroll/e66d5a8f5167c8bc7a7fd5baa52961c5.jpe",
+  },
+  {
+    name: "Kaiju No. 8 Season 2",
+    link: "https://www1.otakustv.com/anime/kaijuu-8-gou-2nd-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/hYVFF9GiJjJlwKmKux9PrN7ZC6b.jpg",
+  },
+  {
+    name: "Kaiju No. 8 OVA",
+    link: "https://www1.otakustv.com/anime/kaijuu-8-gou-hoshina-no-kyuujitsu",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/2SJ61Tu6psPdlsEcdhDhCUnSn2l.jpg",
+  },
+  {
+    name: "Kaiju No. 8 OVA Latino",
+    link: "https://otakuverso.net/anime/kaiju-no-8-el-dia-libre-de-hoshina-latino",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/2SJ61Tu6psPdlsEcdhDhCUnSn2l.jpg",
   },
   {
     name: "Konosuba Season 3",

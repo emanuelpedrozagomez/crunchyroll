@@ -1625,6 +1625,18 @@ const data = [
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/3aZHMVeLb5z7iHIGyF0tbA1yZJZ.jpg",
   },
+  {
+    name: "Kaiju No. 8: Mision de Reconocimiento",
+    link: "https://www1.otakustv.com/anime/kaijuu-8-gou-movie",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/wtErtV3SYrVF0tH1XWu13EE6aMs.jpg",
+  },
+  {
+    name: "Kaiju No. 8: Mision de Reconocimiento Latino",
+    link: "https://otakuverso.net/anime/kaiju-no-8-mision-de-reconocimiento-latino",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/wtErtV3SYrVF0tH1XWu13EE6aMs.jpg",
+  },
 ];
 const searchInput = document.getElementById("searchInput");
 const resultsList = document.getElementById("results");

@@ -6335,6 +6335,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/66eQn2RTINivDMR6R5Sn9g5pIjL.jpg",
   },
   {
+    name: "Kanojo Okarishimasu Season 4 Latino",
+    link: "https://otakuverso.net/anime/rent-a-girlfriend-season-4-latino",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/66eQn2RTINivDMR6R5Sn9g5pIjL.jpg",
+  },
+  {
     name: "La chica que me gusta olvidó sus lentes",
     link: "https://www1.otakustv.com/anime/suki-na-ko-ga-megane-wo-wasureta",
     image:
@@ -6463,6 +6469,12 @@ const data = [
   {
     name: "Reborn as a Vending Machine Season 2",
     link: "https://www1.otakustv.com/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/oTHetLGwDKgfgdxhcIso1ebQ2Dp.jpg",
+  },
+  {
+    name: "Reborn as a Vending Machine Season 2 Latino",
+    link: "https://otakuverso.net/anime/reborn-as-a-vending-machine-i-now-wander-the-dungeon-season-2-latino",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/oTHetLGwDKgfgdxhcIso1ebQ2Dp.jpg",
   },
@@ -7421,10 +7433,22 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/9rXuNgVSsmLOWeIqiVDSkVZGVnf.jpg",
   },
   {
+    name: "Go! Go! Loser Ranger! Season 2",
+    link: "https://www1.otakustv.com/anime/sentai-daishikkaku-2nd-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/aW8pwnFbHKNjxmhWSY4dO0Cx6F2.jpg",
+  },
+  {
     name: "Go! Go! Loser Ranger! Latino",
     link: "https://henaojara.com/animeonline/season/sentai-daishikkaku-espanol-latino-hd-1/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/9rXuNgVSsmLOWeIqiVDSkVZGVnf.jpg",
+  },
+  {
+    name: "Go! Go! Loser Ranger! Season 2 Latino",
+    link: "https://otakuverso.net/anime/go-go-loser-ranger-season-2-latino",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/aW8pwnFbHKNjxmhWSY4dO0Cx6F2.jpg",
   },
   {
     name: "Nijiyon Animation",
@@ -7519,6 +7543,12 @@ const data = [
   {
     name: "Kaiju No. 8 Season 2",
     link: "https://www1.otakustv.com/anime/kaijuu-8-gou-2nd-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/hYVFF9GiJjJlwKmKux9PrN7ZC6b.jpg",
+  },
+  {
+    name: "Kaiju No. 8 Season 2 Latino",
+    link: "https://otakuverso.net/anime/kaiju-no-8-season-2-latino",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/hYVFF9GiJjJlwKmKux9PrN7ZC6b.jpg",
   },

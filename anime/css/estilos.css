@@ -223,7 +223,7 @@ footer a {
 
 footer a:hover {
   text-decoration: underline;
-  color: #f9a825;
+  color: #ffffff;
 }
 
 .footer-title {
@@ -263,6 +263,10 @@ footer a:hover {
     gap: 10px;
   }
 }
+.list-unstyled ul li a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
 .img-sony {
   margin-inline-end: 0.5rem;
   color: #ffff;
@@ -274,6 +278,22 @@ footer a:hover {
 }
 .filtro {
   display: none;
+}
+.enlace-footer {
+  text-decoration: none;
+  color: #c0c0c0;
+}
+.enlace-footer:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+.enlace-footer-crunchyroll {
+  text-decoration: none;
+  color: #f47521;
+}
+.enlace-footer-crunchyroll:hover {
+  text-decoration: underline;
+  color: #f47521;
 }
 .enlace-noticias {
   color: grey;

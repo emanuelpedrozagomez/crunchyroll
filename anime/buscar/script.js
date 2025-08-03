@@ -749,6 +749,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/piCUSuiSWHT6Uzi8CQbt1syThc3.jpg",
   },
   {
+    name: "Blue Dragon Latino",
+    link: "https://otakuverso.net/anime/blue-dragon-latino",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/piCUSuiSWHT6Uzi8CQbt1syThc3.jpg",
+  },
+  {
     name: "Blue Exorcist",
     link: "https://www1.otakustv.com/anime/ao-no-exorcist-n4i5eab0",
     image:
@@ -993,6 +999,12 @@ const data = [
     link: "https://www1.otakustv.com/anime/yofukashi-no-uta-season-2",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/fO4vWZbcO6xOWnQ7crVpHMYcG68.jpg",
+  },
+  {
+    name: "Campana de bendición",
+    link: "https://otakuverso.net/anime/shukufuku-no-campanella-latino",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/skLVtHCrnkkJmsoHFOFhzv9hd9p.jpg",
   },
   {
     name: "Can a Boy-Girl Friendship Survive?",
@@ -3173,6 +3185,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/aB7yvZdtFJYXyoiUSym7gWaVGxG.jpg",
   },
   {
+    name: "Lucky Star",
+    link: "https://www1.otakustv.com/anime/lucky-star",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/f3nizt9mIY2bDvGIV5NceXOS6bk.jpg",
+  },
+  {
     name: "Lupin III Parte I Latino",
     link: "https://pluto.tv/es/on-demand/series/lupin-the-3rd-part-1-las-ptv1/details/season/1",
     image:
@@ -3539,6 +3557,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/3Ja1VRrKLUYZCF5HOkHlAfZVnow.jpg",
   },
   {
+    name: "My Dress-Up Darling Season 2 Latino",
+    link: "https://otakuverso.net/anime/my-dress-up-darling-season-2-latino",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/3Ja1VRrKLUYZCF5HOkHlAfZVnow.jpg",
+  },
+  {
     name: "My Home Hero",
     link: "https://www1.otakustv.com/anime/my-home-hero",
     image:
@@ -3861,6 +3885,12 @@ const data = [
     link: "https://www.henaojara.com/ver/kimi-to-boku-no-saigo-no-senjou-espanol-latino-hd/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a81b995a86a1c2f4840db4643b6313d4.jpe",
+  },
+  {
+    name: "Ouran High School Host Club Latino",
+    link: "https://otakuverso.net/anime/ouran-koukou-host-club-latino",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/uOoiCQl8UdhwpTe7ToMzwSTbINT.jpg",
   },
   {
     name: "Overlord",
@@ -6959,6 +6989,18 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/lBHjDHBTDkyTTtK4wXIeGMprt1Z.jpg",
   },
   {
+    name: "Akaneiro ni Somaru Saka Latino",
+    link: "https://otakuverso.net/anime/akaneiro-ni-somaru-saka-latino",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/gSGeehBdgMftcKbN3ujekOgl9Pd.jpg",
+  },
+  {
+    name: "Akaneiro ni Somaru Saka OVA Latino",
+    link: "https://otakuverso.net/anime/akaneiro-ni-somaru-saka-hardcore-latino",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/iNDAEHE9VJr8re7ki7dmMhHir5e.jpg",
+  },
+  {
     name: "The Apothecary Diaries",
     link: "https://www1.otakustv.com/anime/kusuriya-no-hitorigoto",
     image:
@@ -7896,9 +7938,21 @@ const data = [
   },
   {
     name: "LOCODOL Latino",
-    link: "https://ww3.animeonline.ninja/online/futsuu-no-joshikousei-ga-locodol-yatte-mita/",
+    link: "https://otakuverso.net/anime/futsuu-no-joshikousei-ga-locodol-yattemita-latino",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/3060c2731caa5f53576838a2fd04e0d4.jpe",
+  },
+  {
+    name: "LOCODOL OVA Latino",
+    link: "https://otakuverso.net/anime/futsuu-no-joshikousei-ga-locodol-yattemita-ova-latino",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/bgBjY9YCqbmEp9XR7506vFbIC4s.jpg",
+  },
+  {
+    name: "LOCODOL: We Tried Giving a Tour of Nagarekawa OVA Latino",
+    link: "https://otakuverso.net/anime/futsuu-no-joshikousei-ga-locodol-yattemita-nagarekawa-annai-shitemita-latino",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/nqHDBrW6MjVUFQPvSsTpEDj9VJH.jpg",
   },
   {
     name: "Princess Principal",

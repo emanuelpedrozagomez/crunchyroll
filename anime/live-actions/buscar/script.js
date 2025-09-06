@@ -791,6 +791,42 @@ const data = [
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/aptfOkVieXQLePhG5QsDhW9mu8E.jpg",
   },
+  {
+    name: "Ameku M.D.: Doctor Detective",
+    link: "https://www.viki.com/tv/41107c-ameku-takaos-detective-karte?qId=6ed8fd51ed9949ab0188fedc5b1e3856#episodes",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/jV3kPCoyMU5S9Dpf1VbGXV3FoiO.jpg",
+  },
+  {
+    name: "Love Next Door",
+    link: "https://pandrama.com/detalle/love-next-door-2024/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/lygWzI87b3tweRfUJlOgMcow6De.jpg",
+  },
+  {
+    name: "Love Next Door Latino",
+    link: "https://pandrama.com/detalle/love-next-door-lat-2024/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/lygWzI87b3tweRfUJlOgMcow6De.jpg",
+  },
+  {
+    name: "Glory of the Special Forces",
+    link: "https://pluto.tv/latam/on-demand/series/6888f438baa646038dc4219f/season/1",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/aIY7eSnAg3QCYWIDKDWtOf7ogVE.jpg",
+  },
+  {
+    name: "The Third Charm",
+    link: "https://www.viki.com/tv/36422c-the-third-charm?utm_source=global_search_or_media_action&utm_campaign=36422c#episodes",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/pFXLSgQyV3jGKvSQOPhn5jlYoEK.jpg",
+  },
+  {
+    name: "The Third Charm Latino",
+    link: "https://pluto.tv/latam/on-demand/series/68765940655e1e0578ee9fb0/season/1",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/pFXLSgQyV3jGKvSQOPhn5jlYoEK.jpg",
+  },
 ];
 const searchInput = document.getElementById("searchInput");
 const resultsList = document.getElementById("results");

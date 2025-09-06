@@ -817,19 +817,19 @@ const data = [
   },
   {
     name: "Call of the Night",
-    link: "https://www1.otakustv.com/anime/yofukashi-no-uta",
+    link: "https://tioanime.com/anime/yofukashi-no-uta",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/26wE1yRkO3k9qjFgMCGbgqdyoxO.jpg",
   },
   {
     name: "Call of the Night Season 2",
-    link: "https://www1.otakustv.com/anime/yofukashi-no-uta-season-2",
+    link: "https://tioanime.com/anime/yofukashi-no-uta-season-2",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/fO4vWZbcO6xOWnQ7crVpHMYcG68.jpg",
   },
   {
     name: "Can a Boy-Girl Friendship Survive?",
-    link: "https://www1.otakustv.com/anime/danjo-no-yuujou-wa-seiritsu-suru-iya-shinai",
+    link: "https://tioanime.com/anime/danjo-no-yuujou-wa-seiritsu-suru-iya-shinai",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/8caPaxBbEuX1G4RUEkFTzSVh4nA.jpg",
   },
@@ -847,7 +847,7 @@ const data = [
   },
   {
     name: "Cardcaptor Sakura",
-    link: "https://www1.otakustv.com/anime/cardcaptor-sakura",
+    link: "https://tioanime.com/anime/sakura-card-captor",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/7rtT4nV388Q7Q34vJWrWyCq25Or.jpg",
   },
@@ -859,13 +859,13 @@ const data = [
   },
   {
     name: "Carole & Tuesday",
-    link: "https://www1.otakustv.com/anime/carole-tuesday",
+    link: "https://ww3.animeonline.ninja/online/carole-and-tuesday/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/yTN4jtL2NjhHJQtmI67AYOceotw.jpg",
   },
   {
     name: "Carole & Tuesday Latino",
-    link: "https://www1.otakustv.com/anime/carole-y-tuesday-latino",
+    link: "https://ww3.animeonline.ninja/online/carole-and-tuesday/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/yTN4jtL2NjhHJQtmI67AYOceotw.jpg",
   },
@@ -889,25 +889,25 @@ const data = [
   },
   {
     name: "Cells at Work",
-    link: "https://www1.otakustv.com/anime/hataraku-saibou",
+    link: "https://tioanime.com/anime/hataraku-saibou-tv",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/wbpxpn4OQu3zDo9Ik35i9iuOPLE.jpg",
   },
   {
     name: "Cells at Work Season 2",
-    link: "https://www1.otakustv.com/anime/hataraku-saibou-2nd-season-rqeuhdgw",
+    link: "https://tioanime.com/anime/hataraku-saibou",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/mtgSgx8dsg0Q26omV8xL21VOKna.jpg",
   },
   {
     name: "Cells at Work! CODE BLACK",
-    link: "https://www1.otakustv.com/anime/hataraku-saibou-black-tv-cd15jnw6",
+    link: "https://tioanime.com/anime/hataraku-saibou-black-tv",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/x5mWE8ZxkjNlUqa6EmeWedSVtL5.jpg",
   },
   {
     name: "Chainsaw Man",
-    link: "https://henaojara2.com/ver/chainsaw-man-sub-espanol-hd/",
+    link: "https://www.crunchyroll.com/es/series/GVDHX8QNW/chainsaw-man",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/xT1gZalkF6i7ieF0C5hOMeEspes.jpg",
   },
@@ -919,25 +919,31 @@ const data = [
   },
   {
     name: "Charlotte",
-    link: "https://www1.otakustv.com/anime/charlotte",
+    link: "https://tioanime.com/anime/charlotte",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/nqd36m68bHNJyzV6EuJzl3CB5J4.jpg",
   },
   {
     name: "Cinderella Chef",
-    link: "https://www1.otakustv.com/anime/meng-qi-shi-shen-huanxi-zhui-hun",
+    link: "https://www.viki.com/tv/39839c-cinderella-chef#episodes",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/rDKecwxN7tYAQFvxz3YRNFyQJar.jpg",
   },
   {
+    name: "Cinderella Chef Season 2",
+    link: "https://www.viki.com/tv/39840c-cinderella-chef-2#episodes",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/nVQKEFnI52T2UzCijgKPGa58hxy.jpg",
+  },
+  {
     name: "Classroom of Elite",
-    link: "https://www1.otakustv.com/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv",
+    link: "https://www.crunchyroll.com/es/series/GRVN8MNQY/classroom-of-the-elite",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/c2sl2dLlyFFeb18pJtOpBD8cidr.jpg",
   },
   {
     name: "Classroom of Elite Season 2",
-    link: "https://henaojara2.com/ver/classroom-of-the-elite-temporada-2-sub-espanol-hd/",
+    link: "https://tioanime.com/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-2nd-season",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/5AF4hhHYRB9lQiluH5SwgkeXq8K.jpg",
   },
@@ -955,7 +961,7 @@ const data = [
   },
   {
     name: "Combatants Will Be Dispatched",
-    link: "https://www1.otakustv.com/anime/sentouin-hakenshimasu-ehahs8zmum",
+    link: "https://tioanime.com/anime/sentouin-hakenshimasu",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/knIHqqoNsDZn2tZrDM3iw3xH9oe.jpg",
   },
@@ -985,13 +991,13 @@ const data = [
   },
   {
     name: "Cue!",
-    link: "https://www1.otakustv.com/anime/cue",
+    link: "https://tioanime.com/anime/cue",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/hK4AmFEO5JBbvYxrreCpPiAxKg1.jpg",
   },
   {
     name: "Cyberpunk Edgerunners",
-    link: "https://www1.otakustv.com/anime/cyberpunk-edgerunners",
+    link: "https://tioanime.com/anime/cyberpunk-edgerunners",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/obzl1uYiC8gevu2YZIifw42hRt5.jpg",
   },
@@ -1003,19 +1009,19 @@ const data = [
   },
   {
     name: "D4DJ First Mix",
-    link: "https://www.youtube.com/playlist?list=PL58brFgdVYkoV2KdHeekae7OSKmIexFAX",
+    link: "https://tioanime.com/anime/d4dj-first-mix",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/eW4yX0fCMoKdgslnUVl9i5Z9jDA.jpg",
   },
   {
     name: "D4DJ First Mix Latino",
-    link: "https://henaojara2.com/ver/cyberpunk-edgerunners-espanol-latino-hd/",
+    link: "https://ww3.animeonline.ninja/online/d4dj-first-mix-083024/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/kmFr6oAUsjX07ALrsUUcolfUars.jpg",
   },
   {
     name: "D4DJ All Mix",
-    link: "https://www1.otakustv.com/anime/d4dj-all-mix",
+    link: "https://tioanime.com/anime/d4dj-all-mix",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/783bbba68e2e7d2b2b67e0477abd6854.jpe",
   },
@@ -6091,7 +6097,7 @@ const data = [
   },
   {
     name: "Classroom For Heroes",
-    link: "https://www1.otakustv.com/anime/eiyuu-kyoushitsu",
+    link: "https://tioanime.com/anime/eiyuu-kyoushitsu",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/1975ce3c493fa8de8b5072c2af26e0df.jpe",
   },
@@ -6403,7 +6409,7 @@ const data = [
   },
   {
     name: "Cardcaptor Sakura: Clear Card",
-    link: "https://www1.otakustv.com/anime/cardcaptor-sakura-clear-card-hen",
+    link: "https://tioanime.com/anime/cardcaptor-sakura-clear-cardhen",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/4de0725c2a3a2114019439cabcc40656.jpe",
   },
@@ -6955,7 +6961,7 @@ const data = [
   },
   {
     name: "Classroom of Elite Season 3",
-    link: "https://www1.otakustv.com/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season",
+    link: "https://tioanime.com/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season",
     image:
       "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/heLMHX0Ra0fpll9a4DG9dygr7Mj.jpg",
   },
@@ -7543,7 +7549,7 @@ const data = [
   },
   {
     name: "Code Geass: Dakkan no Rozé",
-    link: "https://www1.otakustv.com/anime/code-geass-dakkan-no-roze",
+    link: "https://tioanime.com/anime/code-geass-dakkan-no-roze",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/zMeZe9QVl4ggXM868oFZVGKCa9e.jpg",
   },

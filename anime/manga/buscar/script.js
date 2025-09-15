@@ -427,6 +427,12 @@ const data = [
     image: "../../img/jujutsu_kaisen_manga.jpg",
   },
   {
+    name: "Jujutsu Kaisen Modulo",
+    link: "https://zonatmo.com/library/manga/90149/jujutsukaisenmodulo",
+    image:
+      "https://mangashop.mx/wp-content/uploads/2025/09/weekly-shonen-jump-modulo-jujutsu-kaisen-spin-offf.jpeg",
+  },
+  {
     name: "K-ON!",
     link: "https://inmanga.com/ver/manga/K-ON/53978dbf-6629-42ae-965c-f3e9de12ca03",
     image:

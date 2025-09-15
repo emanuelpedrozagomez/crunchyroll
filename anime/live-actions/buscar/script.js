@@ -827,6 +827,12 @@ const data = [
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/pFXLSgQyV3jGKvSQOPhn5jlYoEK.jpg",
   },
+  {
+    name: "My Frosty Coworker Is Only Sweet to Me",
+    link: "https://www.viki.com/tv/41169c-my-frosty-coworker-is-only-sweet-to-me#episodes",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/sWfWzoTIy2kF0mTXHPaNbrT3azn.jpg",
+  },
 ];
 const searchInput = document.getElementById("searchInput");
 const resultsList = document.getElementById("results");

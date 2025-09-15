@@ -1027,7 +1027,7 @@ const data = [
   },
   {
     name: "Dance Dance Danseur",
-    link: "https://www1.otakustv.com/anime/dance-dance-danseur",
+    link: "https://tioanime.com/anime/dance-dance-danseur",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/zTaq7CzEo2I5v3L3TuYIEs5lPZ0.jpg",
   },
@@ -1039,7 +1039,7 @@ const data = [
   },
   {
     name: "Danmachi",
-    link: "https://www1.otakustv.com/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka",
+    link: "https://tioanime.com/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/tlxcIrzFPtLHhUjSSv0dsd0UV9x.jpg",
   },
@@ -1051,21 +1051,15 @@ const data = [
   },
   {
     name: "Danmachi II",
-    link: "https://www1.otakustv.com/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii",
+    link: "https://tioanime.com/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/nCQ0XFU6LUtEWVnB73HSD3MkJyd.jpg",
   },
   {
     name: "Danmachi III",
-    link: "https://www1.otakustv.com/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iii",
+    link: "https://tioanime.com/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iii",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/d03055945dfa943ce2fdb3cbbb050699.jpg",
-  },
-  {
-    name: "Danmachi III OVA",
-    link: "https://www.crunchyroll.com/es/series/G6DQN9KGR/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/bM0qUaJPis7ropSMK630ZYrNb0W.jpg",
   },
   {
     name: "Danmachi IV",
@@ -1075,7 +1069,7 @@ const data = [
   },
   {
     name: "Danmachi V",
-    link: "https://www1.otakustv.com/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v",
+    link: "https://tioanime.com/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/f6Yi5rZpkxZYbLVEmwn1XZ6NCA0.jpg",
   },
@@ -1087,7 +1081,7 @@ const data = [
   },
   {
     name: "DARLING In The Franxx",
-    link: "https://www1.otakustv.com/anime/darling-in-the-franxx",
+    link: "https://www.crunchyroll.com/es/series/GY8VEQ95Y/darling-in-the-franxx",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/7Xk9jEeXZdzqKK9MmE6dR8QiRSI.jpg",
   },
@@ -1098,8 +1092,14 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/foKcfF1QgTZdaMRM1JN1orIDCpw.jpg",
   },
   {
+    name: "Date a Live",
+    link: "https://tioanime.com/anime/date-a-live",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/rVrMdWlVNJpdNgdSpuJMEMQxi8R.jpg",
+  },
+  {
     name: "Date a Live II",
-    link: "https://www1.otakustv.com/anime/date-a-live-ii",
+    link: "https://tioanime.com/anime/date-a-live-2",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/pebUVrdxDa5OAcelyWypidPaRjP.jpg",
   },
@@ -1111,7 +1111,7 @@ const data = [
   },
   {
     name: "Date a Live III",
-    link: "https://www1.otakustv.com/anime/date-a-live-iii",
+    link: "https://tioanime.com/anime/date-a-live-iii",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/6wvmGAbbQljlM8GDFBLjq8Thr3R.jpg",
   },
@@ -1123,13 +1123,13 @@ const data = [
   },
   {
     name: "Date A Bullet: Nightmare or Queen",
-    link: "https://www1.otakustv.com/anime/date-a-bullet-nightmare-or-queen",
+    link: "https://ww3.animeonline.ninja/pelicula/date-a-bullet-nightmare-or-queen/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/jIaf7hEoLzPSgl41mW2ZNVpghcz.jpg",
   },
   {
     name: "Date a Live IV",
-    link: "https://www1.otakustv.com/anime/date-a-live-iv-gun4prvu",
+    link: "https://tioanime.com/anime/date-a-live-iv",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/3831353540b0f1547c202f2df446cf2c.jpe",
   },
@@ -1141,7 +1141,7 @@ const data = [
   },
   {
     name: "Date a Live V",
-    link: "https://www1.otakustv.com/anime/date-a-live-v",
+    link: "https://tioanime.com/anime/date-a-live-v",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/25iu5XcfnVQXDK6z1JYpvhJ3GEn.jpg",
   },
@@ -1153,7 +1153,7 @@ const data = [
   },
   {
     name: "De Yakuza A Amo De Casa",
-    link: "https://www1.otakustv.com/anime/gokushufudou",
+    link: "https://tioanime.com/anime/gokushufudou",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/3bC5QIJ3P1ebC7PKwzUVfgub8I.jpg",
   },
@@ -1165,7 +1165,7 @@ const data = [
   },
   {
     name: "De Yakuza A Amo De Casa Season 2",
-    link: "https://www1.otakustv.com/anime/gokushufudou-season-2",
+    link: "https://tioanime.com/anime/gokushufudou",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/wNRNGzfWeDuCkTkk5U5uIKHjE5p.jpg",
   },
@@ -1183,7 +1183,7 @@ const data = [
   },
   {
     name: "Death Note",
-    link: "https://www1.otakustv.com/anime/death-note-ccnws9op",
+    link: "https://tioanime.com/anime/death-note",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/mRwV4W2BAEpte7xlawJP4fsBpmS.jpg",
   },
@@ -1195,7 +1195,7 @@ const data = [
   },
   {
     name: "DECA-DENCE",
-    link: "https://www1.otakustv.com/anime/deca-dence-7umnumvh",
+    link: "https://tioanime.com/anime/decadence",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/3VPPB2VGmp0l3XkUE3Pde2tZ4gi.jpg",
   },
@@ -1243,7 +1243,7 @@ const data = [
   },
   {
     name: "Devil May Cry",
-    link: "https://www1.otakustv.com/anime/devil-may-cry-2025",
+    link: "https://ww3.animeonline.ninja/online/devil-may-cry-netflix-052125/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/3AXTaKtkYwCqtklTNgHLyeFoUyV.jpg",
   },
@@ -1285,13 +1285,13 @@ const data = [
   },
   {
     name: "Digimon Ghost Game",
-    link: "https://www1.otakustv.com/anime/digimon-ghost-game",
+    link: "https://ww3.animeonline.ninja/online/digimon-ghost-game/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/m9FDZBqkyRhBVWDldkpaNq6zZxQ.jpg",
   },
   {
     name: "Do It Yourself",
-    link: "https://www1.otakustv.com/anime/do-it-yourself",
+    link: "https://tioanime.com/anime/do-it-yourself",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/jIFcbqR3NpisNP3ExV2MeNPDbU4.jpg",
   },
@@ -1303,7 +1303,7 @@ const data = [
   },
   {
     name: "Domestic Girlfriend",
-    link: "https://www.crunchyroll.com/es/series/G679D84KY/domestic-girlfriend",
+    link: "https://tioanime.com/anime/domestic-na-kanojo",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/e3f6c36d65ba484f80e778a2c12105be.jpe",
   },
@@ -1315,13 +1315,13 @@ const data = [
   },
   {
     name: "Don't Toy With Me, Miss Nagatoro Latino",
-    link: "https://www.henaojara.com/ver/ijiranaide-nagatoro-san-espanol-latino-hd/",
+    link: "https://tioanime.com/anime/ijiranaide-nagatorosan",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/8Mw64mPC7mVi9q9j7xvl85gXfZK.jpg",
   },
   {
     name: "Don't Toy With Me, Miss Nagatoro 2nd Attack",
-    link: "https://www1.otakustv.com/anime/ijiranaide-nagatoro-san-2nd-attack",
+    link: "https://tioanime.com/anime/ijiranaide-nagatorosan-2nd-attack",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/33MAjiFJXWBmI0w5lbl34wOCRiu.jpg",
   },
@@ -1417,7 +1417,7 @@ const data = [
   },
   {
     name: "Dragon Ball Super",
-    link: "https://www1.otakustv.com/anime/dragon-ball-super-wpzv2lao",
+    link: "https://tioanime.com/anime/dragon-ball-super",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/3PTiPaysswwacE9uDtJorZ7MCKs.jpg",
   },
@@ -1441,19 +1441,19 @@ const data = [
   },
   {
     name: "Dropkick on My Devil!",
-    link: "https://www1.otakustv.com/anime/jashin-chan-dropkick",
+    link: "https://www1.animeonline.ninja/online/jashin-chan-dropkick/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/1smdUIqamSJVafo6GJcYHNfE4uI.jpg",
   },
   {
     name: "Dropkick on My Devil!! Dash",
-    link: "https://www1.animeonline.ninja/online/jashin-chan-dropkick/",
+    link: "https://tioanime.com/anime/jashinchan-dropkick",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/5ImnNKi5qAbQv9ypXyHEuD0FMrP.jpg",
   },
   {
     name: "Dropkick on My Devil!!! X",
-    link: "https://www1.otakustv.com/anime/jashin-chan-dropkick-x",
+    link: "https://tioanime.com/anime/jashinchan-dropkick-x",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/ceab3c2f89727e7ce42b25f41652cc2e.jpe",
   },
@@ -3313,7 +3313,7 @@ const data = [
   },
   {
     name: "Mother Of The Goddess' Dormitory",
-    link: "https://www1.otakustv.com/anime/megami-ryou-no-ryoubo-kun",
+    link: "https://tioanime.com/anime/megami-no-cafe-terrace",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/9olOGz8yWESPMQFJx0xDLo9nQZM.jpg",
   },
@@ -4999,7 +4999,7 @@ const data = [
   },
   {
     name: "The Fragrant Flower Blooms with Dignity",
-    link: "https://www1.otakustv.com/anime/kaoru-hana-wa-rin-to-saku",
+    link: "https://ww3.animeonline.ninja/online/kaoru-hana-wa-rin-to-saku/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/1B9wNKfBEoPsUTaEWxgtsbzYEfC.jpg",
   },
@@ -6109,7 +6109,7 @@ const data = [
   },
   {
     name: "Dark Gathering",
-    link: "https://www1.otakustv.com/anime/dark-gathering",
+    link: "https://tioanime.com/anime/dark-gathering",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/u7HIbeq4YA5hnzJoE2o300XWRvD.jpg",
   },
@@ -6955,7 +6955,7 @@ const data = [
   },
   {
     name: "Dropkick on My Devil!! Apocalypse Day",
-    link: "https://ww3.animeonline.ninja/online/oniichan-no-koto-nanka-zenzen-suki-ja-nai-n-da-kara-ne/",
+    link: "https://tioanime.com/anime/jashinchan-dropkick-x",
     image:
       "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5F2AmliOTximYz4I4mleESK5LFy.jpg",
   },
@@ -6973,7 +6973,7 @@ const data = [
   },
   {
     name: "Tragones y Mazmorras",
-    link: "https://www1.otakustv.com/anime/dungeon-meshi",
+    link: "https://tioanime.com/anime/dungeon-meshi",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/xbUGar8nes8nFN8R8znFILqGwz6.jpg",
   },
@@ -6985,7 +6985,7 @@ const data = [
   },
   {
     name: "Danmachi: Sword Oratoria",
-    link: "https://www1.otakustv.com/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-gaiden-sword-oratoria",
+    link: "https://tioanime.com/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/5mndmQwsq0rw7pbMiXEDlagNeQP.jpg",
   },
@@ -7531,7 +7531,7 @@ const data = [
   },
   {
     name: "Dead Dead Demons Dededede Destruction",
-    link: "https://www1.otakustv.com/anime/dead-dead-demons-dededede-destruction",
+    link: "https://ww3.animeonline.ninja/online/dead-dead-demons-dededededestruction/",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/e9ade25e6a390df8c833ee7ea7c675e3.jpe",
   },
@@ -7570,6 +7570,12 @@ const data = [
     link: "https://ww3.animeonline.ninja/online/ai-tenchi-muyo/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/sWRP7tYngmuH80dAVlAh8D0cAw7.jpg",
+  },
+  {
+    name: "Ameku M.D.: Doctor Detective",
+    link: "https://tioanime.com/anime/ameku-takao-no-suiri-karte",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/pLPE5og7wC1Hs0ZrH84gTWKQhir.jpg",
   },
   {
     name: "Alya Sometimes Hides Her Feelings in Russian",
@@ -7804,6 +7810,12 @@ const data = [
     link: "https://www1.otakustv.com/anime/chi-chikyuu-no-undou-ni-tsuite",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/lFJuqrNitetH9MibNFR0I9CvJwh.jpg",
+  },
+  {
+    name: "ORANGE",
+    link: "https://www.viki.com/tv/41045c-orange#episodes",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/15w34xI3zONjRiZonXCQp7zFEEc.jpg",
   },
   {
     name: "YuruYuri",
@@ -8047,7 +8059,7 @@ const data = [
   },
   {
     name: "Mononoke",
-    link: "https://www1.otakustv.com/anime/mononoke",
+    link: "https://www.viki.com/tv/41059c-mononoke#episodes",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/yD4L8eOIKrY7EqBeJgaSRsndeje.jpg",
   },

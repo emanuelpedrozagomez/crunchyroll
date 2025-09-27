@@ -1465,7 +1465,7 @@ const data = [
   },
   {
     name: "Edens Zero",
-    link: "https://www1.otakustv.com/anime/edens-zero",
+    link: "https://tioanime.com/anime/edens-zero",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/fPEozMHi64rDQUMJFtojBcCvbrm.jpg",
   },
@@ -1483,7 +1483,7 @@ const data = [
   },
   {
     name: "Edens Zero Season 2",
-    link: "https://www1.otakustv.com/anime/edens-zero-2nd-season",
+    link: "https://tioanime.com/anime/edens-zero-2nd-season",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/7f68a1efa7f113e381b6cbad609b112e.jpe",
   },
@@ -1495,7 +1495,7 @@ const data = [
   },
   {
     name: "Entrevistas con chicas monstruo",
-    link: "https://www1.otakustv.com/anime/demi-chan-wa-kataritai",
+    link: "https://tioanime.com/anime/demi-chan-wa-kataritai",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover,format=auto,quality=85,width=1350/keyart/G6Q43113R-backdrop_wide",
   },
@@ -1513,19 +1513,19 @@ const data = [
   },
   {
     name: "Erased",
-    link: "https://www1.otakustv.com/anime/boku-dake-ga-inai-machi-qcgvmoex",
+    link: "https://tioanime.com/anime/boku-dake-ga-inai-machi",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/Z5Ffxs3jKQEgEkSYt7g1nmxiOW.jpg",
   },
   {
     name: "Eromanga Sensei",
-    link: "https://www1.otakustv.com/anime/eromanga-sensei",
+    link: "https://tioanime.com/anime/eromangasensei",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/5os5kCjE1WcUNXyQiXgK0ieDai3.jpg",
   },
   {
     name: "Espíritu de lucha",
-    link: "https://www1.otakustv.com/anime/hajime-no-ippo",
+    link: "https://tioanime.com/anime/hajime-no-ippo",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/48SnEDnIs0kkGb3p4rUYUc3lSXw.jpg",
   },
@@ -1537,7 +1537,7 @@ const data = [
   },
   {
     name: "Estab-Life: Great Escape",
-    link: "https://www1.otakustv.com/anime/estab-life-great-escape",
+    link: "https://ww3.animeonline.ninja/online/estab-life-great-escape/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/7wKEIfF62WllJavkkSGRGEuYCR3.jpg",
   },
@@ -1555,25 +1555,25 @@ const data = [
   },
   {
     name: "Fairies Album",
-    link: "https://www1.otakustv.com/anime/bai-yao-pu-3rd-season",
+    link: "https://www.viki.com/tv/39835c-fairies-albums?utm_source=global_search_or_media_action&utm_campaign=39835c#episodes",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/nxXAtdlbtWfBIEw3R2scW2qYfu.jpg",
   },
   {
     name: "Fairy Tail 100 Years Quest",
-    link: "https://www1.otakustv.com/anime/fairy-tail-100-nen-quest",
+    link: "https://tioanime.com/anime/fairy-tail-100nen-quest",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/8321a5945ab77607f014d5d7a77065e6.jpg",
   },
   {
     name: "Fairy Tail The Final Series",
-    link: "https://www1.otakustv.com/anime/fairy-tail-final-series-5otz0if1?page=1",
+    link: "https://tioanime.com/anime/fairy-tail-final-series",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/oMzQrIwhNNZ0NFVJnFdbkCfZnDT.jpg",
   },
   {
     name: "Fairy Tail",
-    link: "https://www1.otakustv.com/anime/fairy-tail",
+    link: "https://tioanime.com/anime/fairy-tail",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/dmbMIxPQlS5cuygg8iOrvkPvxwb.jpg",
   },
@@ -1585,49 +1585,49 @@ const data = [
   },
   {
     name: "Farming In Another World Life",
-    link: "https://www1.otakustv.com/anime/isekai-nonbiri-nouka",
+    link: "https://tioanime.com/anime/isekai-nonbiri-nouka",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/6XJ0XJbL14YkThOe1iU5TJKU5l3.jpg",
   },
   {
     name: "Fate/kaleid liner Prisma Illya",
-    link: "https://www1.otakustv.com/anime/fate-kaleid-liner-prismaillya",
+    link: "https://tioanime.com/anime/fatekaleid-liner-prisma-illya",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/1ff2NU0JtKp31l7Br2943n7t9V.jpg",
   },
   {
     name: "Fate/kaleid liner Prisma Illya 2wei!",
-    link: "https://www1.otakustv.com/anime/fate-kaleid-liner-prismaillya-2wei",
+    link: "https://tioanime.com/anime/fate-kaleid-liner-prisma-illya-zwei",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/ttCZGc3UkkDjzwaP7X2MHIykpC4.jpg",
   },
   {
     name: "Fate/kaleid liner Prisma Illya 2wei Herz!",
-    link: "https://www1.otakustv.com/anime/fate-kaleid-liner-prismaillya-2wei-herz",
+    link: "https://tioanime.com/anime/fate-kaleid-liner-prisma-illya-2wei-herz",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/o7BGbqWIuxlGaAuC4gdZKXdlcXV.jpg",
   },
   {
     name: "Fate/kaleid liner Prisma Illya 3rei!",
-    link: "https://www1.otakustv.com/anime/fate-kaleid-liner-prismaillya-3rei",
+    link: "https://tioanime.com/anime/fatekaleid-liner-prismaillya-3rei",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/uoFeRdv8109xLG8g7f0oosLYmer.jpg",
   },
   {
     name: "Fate/strange Fake",
-    link: "https://www1.otakustv.com/anime/fate-strange-fake",
+    link: "https://tioanime.com/anime/fatestrange-fake",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/3JK7iIywHhMq4G5UFGYz74IfDhS.jpg",
   },
   {
     name: "Fate Zero",
-    link: "https://www1.otakustv.com/anime/fate-zero",
+    link: "https://tioanime.com/anime/fate-zero",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/lMdfZ1mvpgdqjPBmnsh1VqfOFqU.jpg",
   },
   {
     name: "Fate Zero Season 2",
-    link: "https://www1.otakustv.com/anime/fate-zero-2",
+    link: "https://tioanime.com/anime/fate-zero-ii",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/b1DzBJ3LLkeZuEnSdF1g2ncj5F5.jpg",
   },
@@ -1639,13 +1639,13 @@ const data = [
   },
   {
     name: "Fena: Pirate Princess",
-    link: "https://www.crunchyroll.com/es/series/GZJH3DPM1/fena-pirate-princess",
+    link: "https://ww3.animeonline.ninja/online/kaizoku-oujo-fena-pirate-princess-5/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/ipo1CILL9yOa8Zkd0INpvwTpgjG.jpg",
   },
   {
     name: "Fire Force",
-    link: "https://www1.otakustv.com/anime/enen-no-shouboutai",
+    link: "https://tioanime.com/anime/enen-no-shouboutai",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/vsMd0ahftutedFILwz5CxM3LI47.jpg",
   },
@@ -1657,7 +1657,7 @@ const data = [
   },
   {
     name: "Fire Force Season 2",
-    link: "https://www1.otakustv.com/anime/enen-no-shouboutai-ni-no-shou",
+    link: "https://tioanime.com/anime/enen-no-shouboutai-ni-no-shou",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/fi4xwaQj2XRFpuuuRhV8XmOGMIW.jpg",
   },
@@ -1669,7 +1669,7 @@ const data = [
   },
   {
     name: "Fire Force Season 3",
-    link: "https://www1.otakustv.com/anime/enen-no-shouboutai-san-no-shou",
+    link: "https://tioanime.com/anime/enen-no-shouboutai-san-no-shou",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/kbzFeLiV0qeXpd81XeG4P8RNXnZ.jpg",
   },
@@ -1680,20 +1680,14 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/kbzFeLiV0qeXpd81XeG4P8RNXnZ.jpg",
   },
   {
-    name: "Fire x Fire",
-    link: "https://www1.otakustv.com/anime/rang-wo-men-shao-ba-fire-x-fire",
-    image:
-      "https://www.themoviedb.org/t/p/w220_and_h330_face/k0DTLebKYRRL4x6hEvyop5kVwl.jpg",
-  },
-  {
     name: "FLCL Progressive",
-    link: "https://www1.otakustv.com/anime/flcl-progressive-uvdmszjp",
+    link: "https://tioanime.com/anime/flcl-progressive",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/dyhEUQH6DJ7we78og2QTgfAWsWN.jpg",
   },
   {
     name: "FLCL Alternative",
-    link: "https://www1.otakustv.com/anime/flcl-alternative-1tysmcd9",
+    link: "https://tioanime.com/anime/flcl-alternative",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/wabMsxpyVFytQoo670APbpkaBYe.jpg",
   },
@@ -1705,37 +1699,43 @@ const data = [
   },
   {
     name: "Food Wars: The First Plate",
-    link: "https://www1.otakustv.com/anime/shokugeki-no-souma",
+    link: "https://tioanime.com/anime/shokugeki-no-souma",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/z4z2zBLSvF6vFbbW7GKqlmKxKA4.jpg",
   },
   {
     name: "Food Wars: The Second Plate",
-    link: "https://www1.otakustv.com/anime/shokugeki-no-souma-2nd-season",
+    link: "https://tioanime.com/anime/shokugeki-no-souma-ni-no-sara",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/mr2TcYGEotfrUTrCMyh5vFGLZqy.jpg",
   },
   {
     name: "Food Wars: The Third Plate",
-    link: "https://www1.otakustv.com/anime/shokugeki-no-souma-san-no-sara",
+    link: "https://tioanime.com/anime/shokugeki-no-souma-san-no-sara",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/4cdJ1ECliDnjsdvBJ1ZbYaZAtwx.jpg",
   },
   {
+    name: "Food Wars: The Third Plate Parte 2",
+    link: "https://tioanime.com/anime/shokugeki-no-souma-san-no-sara-toutsuki-resshahen",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/vxLfMzyVbnLlDLGNUcGpSubj75j.jpg",
+  },
+  {
     name: "Food Wars: The Fourth Plate",
-    link: "https://www1.otakustv.com/anime/shokugeki-no-souma-shin-no-sara",
+    link: "https://tioanime.com/anime/shokugeki-no-souma-shin-no-sara",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/5rGFigy2wWLpqY7o4BdbJJbeeju.jpg",
   },
   {
     name: "Food Wars: The Fifth Plate",
-    link: "https://www1.otakustv.com/anime/shokugeki-no-souma-gou-no-sara",
+    link: "https://tioanime.com/anime/shokugeki-no-souma-gou-no-sara",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/ipA24MISNolyLpfUcCKjQn5aUEZ.jpg",
   },
   {
     name: "Food Wars OVA'S",
-    link: "https://www1.otakustv.com/anime/shokugeki-no-souma-ovas",
+    link: "https://tioanime.com/anime/shokugeki-no-souma-ova",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/bx5aQGsWOYfvNhVGmuLD0ztGqX3.jpg",
   },
@@ -1759,7 +1759,7 @@ const data = [
   },
   {
     name: "Fruit Basket 2019",
-    link: "https://www1.otakustv.com/anime/fruits-basket-2019-0fexb74v",
+    link: "https://tioanime.com/anime/fruits-basket-2019",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/3ehpfreGv9ekYjwdIayJEetM4mp.jpg",
   },
@@ -1771,7 +1771,7 @@ const data = [
   },
   {
     name: "Fruit Basket 2nd Season",
-    link: "https://www1.otakustv.com/anime/fruits-basket-2nd-season-oqbsajfr",
+    link: "https://tioanime.com/anime/fruits-basket-2nd-season",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/1LGbfTq0iR3XhMnDOviJz92sTdZ.jpg",
   },
@@ -1783,7 +1783,7 @@ const data = [
   },
   {
     name: "Fruit Basket The Final",
-    link: "https://www1.otakustv.com/anime/fruits-basket-the-final-jwojripd",
+    link: "https://tioanime.com/anime/fruits-basket-the-final",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/c991780212f588bb40431529a2fc1e5f.jpe",
   },
@@ -1795,7 +1795,7 @@ const data = [
   },
   {
     name: "Fullmetal Alchemist: Brotherhood",
-    link: "https://www1.otakustv.com/anime/fullmetal-alchemist-brotherhood-ck5rvszk?page=1",
+    link: "https://tioanime.com/anime/fullmetal-alchemist-brotherhood",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/bBDHtJnMpEpBFvGPKNInDa8KgjN.jpg",
   },
@@ -6126,8 +6126,8 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/ce45059db5bdb9a829b841180dfebfba.jpe",
   },
   {
-    name: "Fate/strange Fake",
-    link: "https://www1.otakustv.com/anime/fate-strange-fake-whispers-of-dawn",
+    name: "Fate/strange Fake Whisper Of Dawn",
+    link: "https://tioanime.com/anime/fatestrange-fake-whispers-of-dawn",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/891b0f53ea2958c6911636bd3c2d6b7d.jpe",
   },
@@ -6415,7 +6415,7 @@ const data = [
   },
   {
     name: "Futakoi Latino",
-    link: "https://ww3.animeonline.ninja/online/futakoi/",
+    link: "https://play.mercadolibre.com.mx/ver/futakoi/726f870da39e4edcbe422ed1ce1a1a8c?origin=mplay_search&origin_position=0&origin_query=futakoi&origin_exact_result=true",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/iRkCFPbJBqrqOEigrZmi0McfKPx.jpg",
   },
@@ -6493,7 +6493,7 @@ const data = [
   },
   {
     name: "Frieren: Más allá del final del viaje",
-    link: "https://www1.otakustv.com/anime/sousou-no-frieren",
+    link: "https://tioanime.com/anime/sousou-no-frieren",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/9egkYIBkJiI2jajspkEmneXaLSh.jpg",
   },
@@ -7207,7 +7207,7 @@ const data = [
   },
   {
     name: "Fairies Album Season 4",
-    link: "https://www1.otakustv.com/anime/bai-yao-pu-4th-season",
+    link: "https://www.viki.com/tv/39836c-fairies-albums-2#episodes",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/4W3GYjyDuTQbXIOvcw0YZmBTWHN.jpg",
   },
@@ -8161,7 +8161,7 @@ const data = [
   },
   {
     name: "From Bureaucrat to Villainess: Dad's Been Reincarnated!",
-    link: "https://www1.otakustv.com/anime/akuyaku-reijou-tensei-ojisan",
+    link: "https://tioanime.com/anime/akuyaku-reijou-tensei-ojisan",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/y1WSefWrSOsCOcbgvzonfdmR3no.jpg",
   },

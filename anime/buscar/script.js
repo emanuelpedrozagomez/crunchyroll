@@ -1807,7 +1807,7 @@ const data = [
   },
   {
     name: "Gachiakuta",
-    link: "https://www1.otakustv.com/anime/gachiakuta",
+    link: "https://tioanime.com/anime/gachiakuta",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/kUYCWZKjJHgvv5ZvC30x5wcbyj8.jpg",
   },
@@ -1819,7 +1819,7 @@ const data = [
   },
   {
     name: "Gekkan Shoujo Nozaki-kun",
-    link: "https://www1.otakustv.com/anime/gekkan-shoujo-nozaki-kun",
+    link: "https://tioanime.com/anime/gekkan-shoujo-nozaki-kun",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/lJgtWF2dKovgKd1m8mKHl6iPliz.jpg",
   },
@@ -1831,7 +1831,7 @@ const data = [
   },
   {
     name: "Ghost in the Shell: SAC_2045",
-    link: "https://www1.otakustv.com/anime/ghost-in-the-shell-sac-2045",
+    link: "https://ww3.animeonline.ninja/online/ghost-in-the-shell-sac_2045/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/n5Kepbjj2UKZkhC5kQ4AW15nXnj.jpg",
   },
@@ -1843,7 +1843,7 @@ const data = [
   },
   {
     name: "Girlfriend, Girlfriend",
-    link: "https://www.crunchyroll.com/es/series/GEXH3WP97/girlfriend-girlfriend",
+    link: "https://tioanime.com/anime/kanojo-mo-kanojo-season-2",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/sLhcCXGLIYKki6QHjN8Bwvkt1v0.jpg",
   },
@@ -1855,13 +1855,13 @@ const data = [
   },
   {
     name: "Given",
-    link: "https://www1.otakustv.com/anime/given",
+    link: "https://tioanime.com/anime/given",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/zdvLmUrNLxFZu84FSeW8wbfi9TW.jpg",
   },
   {
     name: "Given: The One on the Flip-Side",
-    link: "https://www1.otakustv.com/anime/given-uragawa-no-sonzai",
+    link: "https://tioanime.com/anime/given-uragawa-no-sonzai",
     image:
       "https://image.tmdb.org/t/p/w500_and_h282_bestv2/jqu8QWLHgezhTzlfGNk7nugCIXM.jpg",
   },
@@ -1873,7 +1873,7 @@ const data = [
   },
   {
     name: "Goblin Slayer",
-    link: "https://www1.otakustv.com/anime/goblin-slayer",
+    link: "https://tioanime.com/anime/goblin-slayer",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/ehVAWYSy0NMlf0hAOw23PF1V8nS.jpg",
   },
@@ -1885,7 +1885,7 @@ const data = [
   },
   {
     name: "Gochuumon wa Usagi Desu ka?: Bloom",
-    link: "https://www1.otakustv.com/anime/gochuumon-wa-usagi-desu-ka-bloom",
+    link: "https://tioanime.com/anime/gochuumon-wa-usagi-desu-ka-bloom",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/xOqCFWYbCOD3mtvPJPADvMYkLpc.jpg",
   },
@@ -1915,13 +1915,13 @@ const data = [
   },
   {
     name: "Golden Time",
-    link: "https://www1.otakustv.com/anime/golden-time",
+    link: "https://tioanime.com/anime/golden-time",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/eKu4zq639EeSVGu5xWPPHKzju66.jpg",
   },
   {
     name: "Great Pretender",
-    link: "https://www1.otakustv.com/anime/great-pretender",
+    link: "https://ww3.animeonline.ninja/online/great-pretender/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/gcE7YfaQUlScq1gLtexLuC63PHY.jpg",
   },
@@ -3871,7 +3871,7 @@ const data = [
   },
   {
     name: "Ranma 1/2 (2024)",
-    link: "https://www1.otakustv.com/anime/ranma-2024",
+    link: "https://tioanime.com/anime/ranma-12-2024",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/q0rCSD5PDuSU8Bu5CGf6VQDiZfn.jpg",
   },
@@ -4488,14 +4488,8 @@ const data = [
       "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/x3DdriGJDn5eS3GzdoITxFmoVSH.jpg",
   },
   {
-    name: "Spy x Family Part 1",
-    link: "https://www1.otakustv.com/anime/spy-x-family",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/tQixvBva5NUCGuxWYgMOF1pJKp.jpg",
-  },
-  {
-    name: "Spy x Family Part 2",
-    link: "https://www1.otakustv.com/anime/spy-x-family-part-2",
+    name: "Spy x Family",
+    link: "https://tioanime.com/anime/spy-x-family",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/tfA0tgppeeXMxuHzKpD5ju5qpL0.jpg",
   },
@@ -6583,9 +6577,15 @@ const data = [
   },
   {
     name: "Spy x Family Season 2",
-    link: "https://www1.otakustv.com/anime/spy-x-family-season-2",
+    link: "https://tioanime.com/anime/spy-x-family-season-2",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d45157163f2cfa6c1ce3ae32c30a96f4.jpe",
+  },
+  {
+    name: "Spy x Family Season 3",
+    link: "https://tioanime.com/anime/spy-x-family-season-3",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/ufRYJh8au24vSF1qgd8v0xJkro3.jpg",
   },
   {
     name: "Butareba",
@@ -7213,7 +7213,7 @@ const data = [
   },
   {
     name: "Great Pretender Razbliuto",
-    link: "https://www1.otakustv.com/anime/great-pretender-razbliuto",
+    link: "https://ww3.animeonline.ninja/pelicula/great-pretender-razbliuto/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/fd8e0ef07e008a91aeb3a0fce79dede5.jpe",
   },
@@ -7291,13 +7291,13 @@ const data = [
   },
   {
     name: "Go! Go! Loser Ranger!",
-    link: "https://www1.otakustv.com/anime/sentai-daishikkaku",
+    link: "https://tioanime.com/anime/sentai-daishikkaku",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/9rXuNgVSsmLOWeIqiVDSkVZGVnf.jpg",
   },
   {
     name: "Go! Go! Loser Ranger! Season 2",
-    link: "https://www1.otakustv.com/anime/sentai-daishikkaku-2nd-season",
+    link: "https://tioanime.com/anime/sentai-daishikkaku",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/aW8pwnFbHKNjxmhWSY4dO0Cx6F2.jpg",
   },
@@ -7309,7 +7309,7 @@ const data = [
   },
   {
     name: "Go! Go! Loser Ranger! Season 2 Latino",
-    link: "https://otakuverso.net/anime/go-go-loser-ranger-season-2-latino",
+    link: "https://ww3.animeonline.ninja/online/sentai-daishikkaku/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/aW8pwnFbHKNjxmhWSY4dO0Cx6F2.jpg",
   },
@@ -7486,6 +7486,12 @@ const data = [
     link: "https://tioanime.com/anime/boku-no-hero-academia-7th-season",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/9ca680632ac63f44c7220f61ace9a81b.jpg",
+  },
+  {
+    name: "Boku No Hero Academia Season 8",
+    link: "https://tioanime.com/anime/boku-no-hero-academia-final-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/6xNWQYf06P88eaaI3EVMKl4ONEe.jpg",
   },
   {
     name: "Mission: Yozakura Family",
@@ -8194,6 +8200,36 @@ const data = [
     link: "https://www1.otakustv.com/anime/uma-musume-cinderella-gray",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/eU5baQyKBYC3Fxz7r3Iqv5MikVQ.jpg",
+  },
+  {
+    name: "Sanda",
+    link: "https://tioanime.com/anime/sanda",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/8AaURIdmsHJtarD0kJXb5rZ4MGE.jpg",
+  },
+  {
+    name: "Sanda Latino",
+    link: "https://ww3.animeonline.ninja/online/sanda/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/8AaURIdmsHJtarD0kJXb5rZ4MGE.jpg",
+  },
+  {
+    name: "May I Ask For One Final Thing?",
+    link: "https://tioanime.com/anime/saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/6qVmZOaq3JP7a5w6557y58FfOQd.jpg",
+  },
+  {
+    name: "May I Ask For One Final Thing? Latino",
+    link: "https://henaojara.com/ver/season/saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/6qVmZOaq3JP7a5w6557y58FfOQd.jpg",
+  },
+  {
+    name: "Cat's Eye (2025) Latino",
+    link: "https://henaojara.com/ver/season/cats-eye-espanol-latino-hd-1/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/2SJCtw7FoG1Eslo3rfbBX7Y51uW.jpg",
   },
 ];
 const searchInput = document.getElementById("searchInput");

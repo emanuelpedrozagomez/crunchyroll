@@ -833,6 +833,36 @@ const data = [
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/sWfWzoTIy2kF0mTXHPaNbrT3azn.jpg",
   },
+  {
+    name: "The Light In Your Eyes Latino",
+    link: "https://tubitv.com/es-mx/series/300016974/la-luz-en-tus-ojos",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/nT1SwX4u34ygUu9TCdh87A2HQa.jpg",
+  },
+  {
+    name: "The City Of Chaos Latino",
+    link: "https://www.freetv.com/es/shows/la-ciudad-del-caos",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/nQnklh6Ae06sBVTn4gsD2axKXfp.jpg",
+  },
+  {
+    name: "Un Matrimonio Para Siempre Latino",
+    link: "https://www.freetv.com/es/shows/un-matrimonio-por-siempre",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/591WFhRw7x6fatXuRb6NDEASLAy.jpg",
+  },
+  {
+    name: "Cuando Vea Tu Rostro Latino",
+    link: "https://www.freetv.com/es/shows/cuando-vea-tu-rostro",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/tNKbMTJVWnJ000joXEHdpzg4vUi.jpg",
+  },
+  {
+    name: "Eren la Zurda Latino",
+    link: "https://video.freetv.com/es/shows/eren-la-zurda",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/tmjMU4vGjlMwleftyHCu631ArkT.jpg",
+  },
 ];
 const searchInput = document.getElementById("searchInput");
 const resultsList = document.getElementById("results");

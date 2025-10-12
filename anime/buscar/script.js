@@ -1951,7 +1951,7 @@ const data = [
   },
   {
     name: "Haikyu!! Season 2",
-    link: "https://www1.otakustv.com/anime/haikyuu-segunda-temporada-h7xskvlu",
+    link: "https://tioanime.com/anime/haikyuu-second-season",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/2nx97imEpc9Cts46rh5J0aTQQNS.jpg",
   },
@@ -1963,13 +1963,13 @@ const data = [
   },
   {
     name: "Haikyu!! Season 3",
-    link: "https://www1.otakustv.com/anime/haikyuu-tercera-temporada-a2hnkuzl",
+    link: "https://tioanime.com/anime/haikyuu-third-season",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/qI2O6WusL0PVHxb8DneKMynX22J.jpg",
   },
   {
     name: "Haikyu!! To the top",
-    link: "https://www1.otakustv.com/anime/haikyuu-to-the-top-uyxr2peq9kwz",
+    link: "https://tioanime.com/anime/haikyuu-to-the-top",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a39c98af004dd546714bbc041cf36026.jpe",
   },
@@ -1981,19 +1981,19 @@ const data = [
   },
   {
     name: "Haikyu!! Aire VS. Lluvia",
-    link: "https://www1.otakustv.com/anime/haikyuu-riku-vs-kuu-l64zbu0l",
+    link: "https://tioanime.com/anime/haikyuu-riku-vs-kuu",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/zotzm1IzazadBQOSocTQ8Ta1bCb.jpg",
   },
   {
     name: "Haikyu!! OVA's",
-    link: "https://www1.otakustv.com/anime/haikyuu-ovas",
+    link: "https://ww3.animeonline.ninja/online/haikyuu-1-083025/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/12mYMPE7Jy7rhDv0rn95GEtF94V.jpg",
   },
   {
     name: "Hell's Paradise",
-    link: "https://www1.otakustv.com/anime/jigokuraku",
+    link: "https://www.crunchyroll.com/es-es/series/GJ0H7Q5ZJ/hells-paradise",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/qvSTpPSuvJgqwzHeJjEB7SjaKOh.jpg",
   },
@@ -2005,7 +2005,7 @@ const data = [
   },
   {
     name: "Hell Girl: Fourth Twilight",
-    link: "https://www1.otakustv.com/anime/jigoku-shoujo-yoi-no-togi-507uxszr",
+    link: "https://tioanime.com/anime/hell-girl",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/7TaJCZnBj0UKQ8Tx2f2kaWpzvj2.jpg",
   },
@@ -2035,7 +2035,7 @@ const data = [
   },
   {
     name: "Hensuki",
-    link: "https://www1.otakustv.com/anime/kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka",
+    link: "https://tioanime.com/anime/kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2d7fd16a5351d260339e874800747c4b.jpe",
   },
@@ -2047,25 +2047,25 @@ const data = [
   },
   {
     name: "Hentai Ouji to Warawanai Neko",
-    link: "https://drive.google.com/drive/u/0/folders/1IXP9pgkiUfBj5opNojzlLmzyMiFTvgX-",
+    link: "https://tioanime.com/anime/hentai-ouji-to-warawanai-neko",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/pkCo0kHiqP5TXFAkbTmBEGcQgtL.jpg",
   },
   {
     name: "Higehiro",
-    link: "https://www1.otakustv.com/anime/hige-wo-soru-soshite-joshikousei-wo-hirou",
+    link: "https://tioanime.com/anime/hige-wo-soru-soshite-joshikousei-wo-hirou",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/k8nH8KHY9si8d2hiaJ5B0dkQbQs.jpg",
   },
   {
     name: "High Score Girl",
-    link: "https://www1.otakustv.com/anime/high-score-girl",
+    link: "https://tioanime.com/anime/high-score-girl",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/7hqQU3PDMwUaRlnNNeYY8DjIqIR.jpg",
   },
   {
     name: "High Score Girl II",
-    link: "https://www1.otakustv.com/anime/high-score-girl-2",
+    link: "https://tioanime.com/anime/high-score-girl-ii",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/xwyrAaVbgCGHB13cAKN8UN7Ky2v.jpg",
   },
@@ -2077,19 +2077,19 @@ const data = [
   },
   {
     name: "Higurashi",
-    link: "https://www1.otakustv.com/anime/higurashi-no-naku-koro-ni-djtmz5oq",
+    link: "https://tioanime.com/anime/higurashi-no-naku-koro-ni",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/eZQls8vvs4vgTHDzKwBezGyaJDE.jpg",
   },
   {
     name: "Higurashi GOU",
-    link: "https://www1.otakustv.com/anime/higurashi-no-naku-koro-ni-2020-dftpzrrq",
+    link: "https://tioanime.com/anime/higurashi-no-naku-koro-ni-2020",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/8fsV0aqSHQlbyvZlWyynruat0MP.jpg",
   },
   {
     name: "Higurashi SOTSU",
-    link: "https://www1.otakustv.com/anime/higurashi-no-naku-koro-ni-sotsu-uzy3hxxm",
+    link: "https://tioanime.com/anime/higurashi-no-naku-koro-ni-sotsu",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/maoTMBLdSQ4QB5NUdu7lJDDjuL5.jpg",
   },
@@ -2113,19 +2113,19 @@ const data = [
   },
   {
     name: "Himouto! Umaru-chan",
-    link: "https://www1.otakustv.com/anime/himouto-umaru-chan",
+    link: "https://tioanime.com/anime/himouto-umaru-chan",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/q97moc1CCJvUJ34qHuMTU6NftoW.jpg",
   },
   {
     name: "Himouto! Umaru-chan OVA",
-    link: "https://www1.otakustv.com/anime/himouto-umaru-chan-ova",
+    link: "https://tioanime.com/anime/himouto-umaru-chan",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/ykYNKwkjsBmmEFqTtQNjYc0J7u3.jpg",
   },
   {
     name: "Himouto! Umaru-chan R",
-    link: "https://www1.otakustv.com/anime/himouto-umaru-chan-r",
+    link: "https://tioanime.com/anime/himouto-umaruchan-r",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/lKpChYB2n3cw1ZvSw1nrWxnhHj7.jpg",
   },
@@ -2137,19 +2137,19 @@ const data = [
   },
   {
     name: "Historias de Fantasmas",
-    link: "https://www1.otakustv.com/anime/gakkou-no-kaidan",
+    link: "https://tioanime.com/anime/gakkou-no-kaidan",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/wO7HLYiKqUBz2hUs9i88iaNCzAr.jpg",
   },
   {
     name: "Hitoribocchi",
-    link: "https://www1.otakustv.com/anime/hitoribocchi-no-marumaru-seikatsu-kgxeql0i",
+    link: "https://tioanime.com/anime/hitoribocchi-no-seikatsu",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/lteiIjL87MEPMUTshkOuk7z13gF.jpg",
   },
   {
     name: "Horimiya",
-    link: "https://www1.otakustv.com/anime/horimiya",
+    link: "https://tioanime.com/anime/horimiya",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/4u64tHtUkna1y4OkJcrXLEhhLLy.jpg",
   },
@@ -2167,13 +2167,13 @@ const data = [
   },
   {
     name: "How A Realist Hero Rebuilt The Kingdom",
-    link: "https://www1.otakustv.com/anime/genjitsu-shugi-yuusha-no-oukoku-saikenki",
+    link: "https://tioanime.com/anime/genjitsu-shugi-yuusha-no-oukoku-saikenki",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/e0b488ba27c9c8842ff816ac04cfe2c7.jpe",
   },
   {
     name: "How A Realist Hero Rebuilt The Kingdom II",
-    link: "https://www1.otakustv.com/anime/genjitsu-shugi-yuusha-no-oukoku-saikenki-part-2",
+    link: "https://tioanime.com/anime/genjitsu-shugi-yuusha-no-oukoku-saikenki",
     image:
       "https://image.tmdb.org/t/p/w500_and_h282_bestv2/1wIk6xN3v9dkKMqzoABaqFc7wng.jpg",
   },
@@ -2185,7 +2185,7 @@ const data = [
   },
   {
     name: "Hunter x Hunter",
-    link: "https://www1.otakustv.com/anime/hunter-x-hunter-2011",
+    link: "https://tioanime.com/anime/hunter-x-hunter-2011",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/1ouyB8tWAZlPpM4BM7I7ozimly4.jpg",
   },
@@ -2197,7 +2197,7 @@ const data = [
   },
   {
     name: "Hyouka",
-    link: "https://www1.otakustv.com/anime/hyouka",
+    link: "https://tioanime.com/anime/hyouka",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/hgu56PjfawkpE0anCLfl2b8Uqmr.jpg",
   },
@@ -4974,6 +4974,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/dc114bcbb0160e9ba70065fd5c7ba1b2.jpe",
   },
   {
+    name: "The Fated Magical Princess: Who Made Me a Princess",
+    link: "https://ww3.animeonline.ninja/online/mofa-gongzhu-de-xiao-fannao/",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/0e2a12ec617ca526accb82fdd578ec1a.png",
+  },
+  {
     name: "The Forest Of Piano",
     link: "https://www1.otakustv.com/anime/piano-no-mori-tv",
     image:
@@ -6133,13 +6139,13 @@ const data = [
   },
   {
     name: "Hechiceros: Barra de abogados Latino",
-    link: "https://ww3.animeonline.ninja/online/wizard-barristers-benmashi-cecil/",
+    link: "https://play.mercadolibre.com.mx/ver/hechiceros-barra-de-abogados/d10fd1fdd44a485f85f981d474b5cf3e",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/tgx4RvTFc4T8NDjrb9LiXHE8XTM.jpg",
   },
   {
     name: "Horimiya: Piece",
-    link: "https://www1.otakustv.com/anime/horimiya-piece",
+    link: "https://tioanime.com/anime/horimiya-piece",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/3a1254f863bf0c9315086d37911c66df.jpe",
   },
@@ -6238,6 +6244,12 @@ const data = [
     link: "https://www.henaojara.com/ver/season/mushoku-tensei-isekai-ittara-honki-dasu-espanol-latino-hd-2/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/7fafdb10010de70d08cc58c1dad4e5d1.jpe",
+  },
+  {
+    name: "My Friend's Little Sister Has It In for Me!",
+    link: "https://tioanime.com/anime/tomodachi-no-imouto-ga-ore-ni-dake-uzai",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/321acd832ea31628686e90f4f75ae3f0.png",
   },
   {
     name: "My Happy Marriage",
@@ -7099,7 +7111,7 @@ const data = [
   },
   {
     name: "Hokkaido Gals Are Super Adorable!",
-    link: "https://www1.otakustv.com/anime/dosanko-gal-wa-namara-menkoi",
+    link: "https://tioanime.com/anime/dosanko-gal-wa-namara-menkoi",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/0e6f62f854c95d8b1b7b6fa164808e75.jpe",
   },
@@ -7582,6 +7594,12 @@ const data = [
     link: "https://tioanime.com/anime/ameku-takao-no-suiri-karte",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/pLPE5og7wC1Hs0ZrH84gTWKQhir.jpg",
+  },
+  {
+    name: "Alma-chan Wants to Be a Family!",
+    link: "https://tioanime.com/anime/almachan-wa-kazoku-ni-naritai",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/c7573be1ab7b758be766f24cd2522ae1.png",
   },
   {
     name: "Alya Sometimes Hides Her Feelings in Russian",
@@ -8125,7 +8143,7 @@ const data = [
   },
   {
     name: "Honey Lemon Soda",
-    link: "https://www1.otakustv.com/anime/honey-lemon-soda",
+    link: "https://tioanime.com/anime/honey-lemon-soda",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/0985dd22a11042e71fc218340e2a86b6.jpg",
   },

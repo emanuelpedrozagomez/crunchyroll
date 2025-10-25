@@ -863,6 +863,18 @@ const data = [
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/tmjMU4vGjlMwleftyHCu631ArkT.jpg",
   },
+  {
+    name: "Would You Marry Me?",
+    link: "https://pandrama.tv/detalle/would-you-marry-me-2025/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/fnQ4ZB1ypo3BTNq1kY4pNA8wD5J.jpg",
+  },
+  {
+    name: "Confidente",
+    link: "https://www.freetv.com/es/shows/confidente",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/n7WxU4aoLAvJtDelLz7ct3J6ty1.jpg",
+  },
 ];
 const searchInput = document.getElementById("searchInput");
 const resultsList = document.getElementById("results");

@@ -3876,6 +3876,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/q0rCSD5PDuSU8Bu5CGf6VQDiZfn.jpg",
   },
   {
+    name: "Ranma 1/2 (2024) 2nd Season",
+    link: "https://tioanime.com/anime/ranma-12-2024-2nd-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/tCniZ5p6lqgeG9BflTBh6phgeZb.jpg",
+  },
+  {
     name: "Ranma 1/2 (2024) Latino",
     link: "https://www.henaojara.com/veronline/season/ranma-1-2-2024-espanol-latino-hd-1/",
     image:

@@ -2203,7 +2203,7 @@ const data = [
   },
   {
     name: "I Got a Cheat Skill in Another World",
-    link: "https://www1.otakustv.com/anime/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta",
+    link: "https://ww3.animeonline.ninja/online/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta-100524/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/7hmXo36PI7C50d7ROJmOUMAkTKB.jpg",
   },
@@ -2215,13 +2215,13 @@ const data = [
   },
   {
     name: "In/Spectre",
-    link: "https://www1.otakustv.com/anime/kyokou-suiri-3epw2apv",
+    link: "https://tioanime.com/anime/kyokou-suiri",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/8VcCWUrPMmFCAoIJkM3pdYvFWGl.jpg",
   },
   {
     name: "In/Spectre Season 2",
-    link: "https://www1.otakustv.com/anime/kyokou-suiri-season-2",
+    link: "https://tioanime.com/anime/kyokou-suiri-season-2",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/20b2db3d2cb42081732d388fec727c6f.jpe",
   },
@@ -2233,7 +2233,7 @@ const data = [
   },
   {
     name: "In Another World With My Smartphone Season 2",
-    link: "https://www1.otakustv.com/anime/isekai-wa-smartphone-to-tomo-ni-2",
+    link: "https://tioanime.com/anime/isekai-wa-smartphone-to-tomo-ni-2",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/bae3a0a145c57bbb282359390ea1f992.jpe",
   },
@@ -2251,13 +2251,13 @@ const data = [
   },
   {
     name: "In the Heart of Kunoichi Tsubaki",
-    link: "https://www1.otakustv.com/anime/kunoichi-tsubaki-no-mune-no-uchi",
+    link: "https://tioanime.com/anime/kunoichi-tsubaki-no-mune-no-uchi",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/AqWLL9p1HbXR3B6TNoW5WHdBBG8.jpg",
   },
   {
     name: "In the Land of Leadale",
-    link: "https://www1.otakustv.com/anime/leadale-no-daichi-nite",
+    link: "https://tioanime.com/anime/leadale-no-daichi-nite",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/wkIfzxpCvQK3MV1SeSPFevoSFkc.jpg",
   },
@@ -2293,7 +2293,7 @@ const data = [
   },
   {
     name: "Inuyasha",
-    link: "https://www1.otakustv.com/anime/inuyasha",
+    link: "https://tioanime.com/anime/inuyasha",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/f71mQJuG8oDiDTMGKKWWeW9iHWU.jpg",
   },
@@ -2311,21 +2311,27 @@ const data = [
   },
   {
     name: "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Omega",
-    link: "https://www1.otakustv.com/anime/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-o",
+    link: "https://tioanime.com/anime/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-o",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d3d43fab18a7461c24433ec5a42c6f03.jpe",
   },
   {
     name: "ISEKAI QUARTET",
-    link: "https://www1.otakustv.com/anime/isekai-quartet",
+    link: "https://tioanime.com/anime/isekai-quartet",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/nLDxVvCnQaRRqWjvER9j5bsrre9.jpg",
   },
   {
     name: "ISEKAI QUARTET Season 2",
-    link: "https://www1.otakustv.com/anime/isekai-quartet-2nd-season",
+    link: "https://tioanime.com/anime/isekai-quartet-2nd-season",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/bL5GY35xaOMQNpFDpg7LK9MFhwv.jpg",
+  },
+  {
+    name: "ISEKAI QUARTET Season 3",
+    link: "https://tioanime.com/anime/isekai-quartet-3",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/rOI8DRkfV2gwdUhYUBSyCxoux42.jpg",
   },
   {
     name: "ItaKiss Latino",
@@ -2335,7 +2341,7 @@ const data = [
   },
   {
     name: "I'm the Villainess, So I'm Taming the Final Boss",
-    link: "https://www1.otakustv.com/anime/akuyaku-reijou-nanode-last-boss-wo-kattemimashita",
+    link: "https://ww3.animeonline.ninja/online/akuyaku-reijou-nanode-last-boss-wo-kattemimashita/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/qICqXFxS7rkSMXxO1E1f0enjpWw.jpg",
   },
@@ -2347,13 +2353,13 @@ const data = [
   },
   {
     name: "I've Been Killing Slimes For 300 Years And Maxed Out My Level",
-    link: "https://www1.otakustv.com/anime/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita",
+    link: "https://tioanime.com/anime/slime-taoshite-300nen-shiranai-uchi-ni-level-max-ni-nattemashita",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2902c5a7ca3303179afbcf7665bf41f4.jpe",
   },
   {
     name: "I've Been Killing Slimes For 300 Years And Maxed Out My Level 2nd Season",
-    link: "https://www1.otakustv.com/anime/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
+    link: "https://tioanime.com/anime/slime-taoshite-300nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2902c5a7ca3303179afbcf7665bf41f4.jpe",
   },
@@ -2371,7 +2377,7 @@ const data = [
   },
   {
     name: "I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time",
-    link: "https://www1.otakustv.com/anime/guild-no-uketsukejou-desu-ga-zangyou-wa-iya-nanode-boss-wo-solo-toubatsu-shiyou-to-omoimasu",
+    link: "https://ww3.animeonline.ninja/online/guild-no-uketsukejou-desu-ga-zangyou-wa-iya-nanode-boss-wo-solo-tobatsu-shiyou-to-omoimasu/",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover,format=auto,quality=94,width=1920/keyart/G8DHV784M-backdrop_wide",
   },
@@ -3643,15 +3649,21 @@ const data = [
   },
   {
     name: "One Punch Man",
-    link: "https://www1.otakustv.com/anime/one-punch-man-iiteyvzm",
+    link: "https://tioanime.com/anime/one-punch-man",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/iiGtoYxmKFq85i0C196veQJtyVB.jpg",
   },
   {
     name: "One Punch Man Season 2",
-    link: "https://www1.otakustv.com/anime/one-punch-man-2nd-season-gyiqn6ef",
+    link: "https://tioanime.com/anime/one-punch-man-2nd-season",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/s0w8JbuNNxL1YgaHeDWih12C3jG.jpg",
+  },
+  {
+    name: "One Punch Man Season 3",
+    link: "https://tioanime.com/anime/one-punch-man-3",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/vcyxcIh8GeQBFaFlyDxhbEMB2Ta.jpg",
   },
   {
     name: "One Punch Man Latino",
@@ -6523,7 +6535,7 @@ const data = [
   },
   {
     name: "I'm in Love with the Villainess",
-    link: "https://www1.otakustv.com/anime/watashi-no-oshi-wa-akuyaku-reijou",
+    link: "https://tioanime.com/anime/watashi-no-oshi-wa-akuyaku-reijou",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d6f19951f2ccd8842379956bfd3ae8cf.jpe",
   },
@@ -6602,6 +6614,12 @@ const data = [
   {
     name: "Spy x Family Season 3",
     link: "https://tioanime.com/anime/spy-x-family-season-3",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/ufRYJh8au24vSF1qgd8v0xJkro3.jpg",
+  },
+  {
+    name: "Spy x Family Season 3 Latino",
+    link: "https://henaojara.com/ver/season/spy-x-family-espanol-latino-hd-3/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/ufRYJh8au24vSF1qgd8v0xJkro3.jpg",
   },
@@ -7099,7 +7117,7 @@ const data = [
   },
   {
     name: "Isekai Onsen Paradise",
-    link: "https://www1.otakustv.com/anime/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-o",
+    link: "https://ww3.animeonline.ninja/online/isekai-onsen-paradise/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/f9mq6Kns61qDeKi0UaFVD1dWO1k.jpg",
   },
@@ -7945,7 +7963,7 @@ const data = [
   },
   {
     name: "I'll Become a Villainess Who Goes Down in History",
-    link: "https://www1.otakustv.com/anime/rekishi-ni-nokoru-akujo-ni-naru-zo",
+    link: "https://tioanime.com/anime/rekishi-ni-nokoru-akujo-ni-naru-zo",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/229277f27250bcb8a2b9516e54d0f965.jpg",
   },

@@ -169,7 +169,7 @@ const data = [
   },
   {
     name: "Given Live Action",
-    link: "https://www1.otakustv.com/anime/given-live-action",
+    link: "https://ww3.animeonline.ninja/online/given-live-action/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/bjSvFFmLtB4luDBdh4amXCO0qUL.jpg",
   },

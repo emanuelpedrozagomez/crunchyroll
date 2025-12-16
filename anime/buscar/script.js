@@ -577,7 +577,7 @@ const data = [
   },
   {
     name: "Blue Dragon",
-    link: "https://www1.otakustv.com/anime/blue-dragon",
+    link: "https://tioanime.com/anime/blue-dragon",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/piCUSuiSWHT6Uzi8CQbt1syThc3.jpg",
   },
@@ -922,6 +922,12 @@ const data = [
     link: "https://tioanime.com/anime/charlotte",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/nqd36m68bHNJyzV6EuJzl3CB5J4.jpg",
+  },
+  {
+    name: "Chitose Is in the Ramune Bottle",
+    link: "https://tioanime.com/anime/chitosekun-wa-ramune-bin-no-naka",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/lm0Nb9N4KENmHbogK5ZGqfVQt9V.jpg",
   },
   {
     name: "Cinderella Chef",
@@ -1309,7 +1315,7 @@ const data = [
   },
   {
     name: "Don't Toy With Me, Miss Nagatoro",
-    link: "https://www1.otakustv.com/anime/ijiranaide-nagatoro-san",
+    link: "https://tioanime.com/anime/ijiranaide-nagatorosan",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/8Mw64mPC7mVi9q9j7xvl85gXfZK.jpg",
   },
@@ -1903,13 +1909,13 @@ const data = [
   },
   {
     name: "Golden Kamuy Season 3",
-    link: "https://www1.otakustv.com/anime/golden-kamuy-3rd-season",
+    link: "https://tioanime.com/anime/golden-kamuy-3rd-season",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/6qwbib8digp121qA9xj3STeq2KC.jpg",
   },
   {
     name: "Golden Kamuy Season 4",
-    link: "https://www1.otakustv.com/anime/golden-kamuy-4th-season",
+    link: "https://tioanime.com/anime/golden-kamuy-4th-season",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/x49DdtEJOluXWV5hF0aGMrFZeOR.jpg",
   },
@@ -1975,7 +1981,7 @@ const data = [
   },
   {
     name: "Haikyu!! To the top Season 2",
-    link: "https://www1.otakustv.com/anime/haikyuu-to-the-top-2nd-season-mmup2ecq6poo",
+    link: "https://tioanime.com/anime/haikyuu-to-the-top",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a39c98af004dd546714bbc041cf36026.jpe",
   },
@@ -2274,12 +2280,6 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/jA7B9uVjDSwfcX12503GhMNkr8F.jpg",
   },
   {
-    name: "Inazuma Eleven Ares & Orion",
-    link: "https://www1.otakustv.com/anime/inazuma-eleven-orion-no-kokuin",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/zKSkXu5ZteoN7ro15xRHVdTKqcs.jpg",
-  },
-  {
     name: "Inazuma Eleven Ares & Orion Latino",
     link: "https://pluto.tv/es/on-demand/series/inazuma-eleven-ares-lt/details/season/1",
     image:
@@ -2287,7 +2287,7 @@ const data = [
   },
   {
     name: "Insomniacs After School",
-    link: "https://www1.otakustv.com/anime/kimi-wa-houkago-insomnia",
+    link: "https://tioanime.com/anime/kimi-wa-houkago-insomnia",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/8I1F0AqrK7YexfvyK8IkgjEdEgN.jpg",
   },
@@ -2383,37 +2383,37 @@ const data = [
   },
   {
     name: "Jojos Bizarre Adventure",
-    link: "https://www1.otakustv.com/anime/jojos-bizarre-adventure-the-animation-fhkoeutq",
+    link: "https://tioanime.com/anime/jojos-bizarre-adventure-the-animation",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
   },
   {
     name: "JoJos Bizarre Adventure: Stardust Crusaders",
-    link: "https://www1.otakustv.com/anime/jojos-bizarre-adventure-stardust-crusaders",
+    link: "https://tioanime.com/anime/jojos-bizarre-adventure-stardust-crusaders",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/iZwAxspYlszZBBBGHu05EvUZNem.jpg",
   },
   {
     name: "JoJos Bizarre Adventure: Stardust Crusaders II",
-    link: "https://www1.otakustv.com/anime/jojos-bizarre-adventure-stardust-crusaders-2nd-season-fotgrqer",
+    link: "https://tioanime.com/anime/jojos-bizarre-adventure-stardust-crusaders-2",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/wZ2hh2l9F4YYYnCaYAe5HsY90bY.jpg",
   },
   {
     name: "JoJos Bizarre Adventure: Diamond Is Unbreakable",
-    link: "https://www1.otakustv.com/anime/jojo-no-kimyou-na-bouken-diamond-wa-kudakenai",
+    link: "https://tioanime.com/anime/jojo-no-kimyou-na-bouken-diamond-wa-kudakenai",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/3fU68HROXn03dj8mBQyYSwiefq2.jpg",
   },
   {
     name: "JoJos Bizarre Adventure: Golden Wind",
-    link: "https://www1.otakustv.com/anime/jojo-no-kimyou-na-bouken-ougon-no-kaze-dol6i4p3",
+    link: "https://tioanime.com/anime/jojo-no-kimyou-na-bouken-ougon-no-kaze",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/3FYkR2L4aTauQ7bbRFsxKGt8uj6.jpg",
   },
   {
     name: "JoJos Bizarre Adventure: Stone Ocean",
-    link: "https://www1.otakustv.com/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean",
+    link: "https://tioanime.com/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
   },
@@ -2431,7 +2431,7 @@ const data = [
   },
   {
     name: "JoJos Bizarre Adventure: Así Hablo Kishibe Rohan",
-    link: "https://www1.otakustv.com/anime/kishibe-rohan-wa-ugokanai",
+    link: "https://ww3.animeonline.ninja/pelicula/kishibe-rohan-wa-ugokanai/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/2JQUmvVgb3bz80TkC7FhSsW5f7g.jpg",
   },
@@ -2443,13 +2443,13 @@ const data = [
   },
   {
     name: "Joshi Kausei",
-    link: "https://www1.otakustv.com/anime/joshi-kausei",
+    link: "https://tioanime.com/anime/joshikausei",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/78pA8Pwar1IOJTEBl9z4s4uJRmH.jpg",
   },
   {
     name: "Joshiraku",
-    link: "https://www1.otakustv.com/anime/joshiraku-ed2fraof",
+    link: "https://tioanime.com/anime/joshiraku",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/8m67b9vFBWcEJs00MTBV5kKCD7S.jpg",
   },
@@ -2461,7 +2461,7 @@ const data = [
   },
   {
     name: "Jujutsu Kaisen",
-    link: "https://www1.otakustv.com/anime/jujutsu-kaisen-ktj92lomy",
+    link: "https://tioanime.com/anime/jujutsu-kaisen-tv",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/98662d1c546c4e74de58fbc52679ac6c.jpe",
   },
@@ -2473,19 +2473,19 @@ const data = [
   },
   {
     name: "Junior High and High School!! Kimetsu Academy Story",
-    link: "https://www1.otakustv.com/anime/chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsu-hen",
+    link: "https://www.youtube.com/playlist?list=PL4y-7fdaLDMNW-DMF7xFCWtYcbKN4NOC8",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/e0813951d6c536948ce8131033a84f46.jpe",
   },
   {
     name: "Junior High and High School!! Kimetsu Academy Story St. Valentine",
-    link: "https://www1.otakustv.com/anime/chuukou-ikkan-kimetsu-gakuen-monogatari-valentine-hen",
+    link: "https://ww3.animeonline.ninja/pelicula/kimetsu-gakuen-valentine-hen/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/e0813951d6c536948ce8131033a84f46.jpe",
   },
   {
     name: "Junji Ito Maniac: Relatos japoneses de lo macabro",
-    link: "https://www1.otakustv.com/anime/itou-junji-maniac",
+    link: "https://ww3.animeonline.ninja/online/itou-junji-maniac/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/tI4A1Md9J5QHARl60TsMpekSsvg.jpg",
   },
@@ -4513,7 +4513,7 @@ const data = [
   },
   {
     name: "Spy x Family Latino",
-    link: "https://henaojara2.com/ver/spy-x-family-espanol-latino-hd/",
+    link: "https://ww3.animeonline.ninja/online/spyxfamily-022825/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/tfA0tgppeeXMxuHzKpD5ju5qpL0.jpg",
   },
@@ -6181,13 +6181,13 @@ const data = [
   },
   {
     name: "Jujutsu Kaisen Season 2",
-    link: "https://www1.otakustv.com/anime/jujutsu-kaisen-2nd-season",
+    link: "https://tioanime.com/anime/jujutsu-kaisen-2nd-season",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/8b7f5847f9b97f921e41d4ef59fd2d79.jpe",
   },
   {
     name: "Jujutsu Kaisen Season 2 Latino",
-    link: "https://www.henaojara.com/ver/season/jujutsu-kaisen-espanol-latino-hd-2/",
+    link: "https://drive.google.com/drive/folders/1aHTCURWhpf1MEzEr81tIfLfj3a_sNGKR?sort=13&direction=a",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/8b7f5847f9b97f921e41d4ef59fd2d79.jpe",
   },
@@ -6619,7 +6619,7 @@ const data = [
   },
   {
     name: "Spy x Family Season 3 Latino",
-    link: "https://henaojara.com/ver/season/spy-x-family-espanol-latino-hd-3/",
+    link: "https://drive.google.com/drive/folders/1P2CqJvhetJoCq_ON921uSZTjF74sA2cf",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/ufRYJh8au24vSF1qgd8v0xJkro3.jpg",
   },
@@ -7622,6 +7622,12 @@ const data = [
   {
     name: "Alma-chan Wants to Be a Family!",
     link: "https://tioanime.com/anime/almachan-wa-kazoku-ni-naritai",
+    image:
+      "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/c7573be1ab7b758be766f24cd2522ae1.png",
+  },
+  {
+    name: "Alma-chan Wants to Be a Family! Latino",
+    link: "https://ww3.animeonline.ninja/online/alma-chan-wa-kazoku-ni-naritai/",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/c7573be1ab7b758be766f24cd2522ae1.png",
   },

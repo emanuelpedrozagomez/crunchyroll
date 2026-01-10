@@ -210,6 +210,12 @@ const data = [
       "https://3.bp.blogspot.com/-0tGfoqN58_s/VePC0w3of-I/AAAAAAAACWM/2HdHImPNAoQ/s1600/maxresdefault.jpg",
   },
   {
+    name: "Kamen Rider Ryuki",
+    link: "https://pluto.tv/latam/on-demand/series/677e8210cb848d0013f0225c/season/1",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/oXmVdzLXgkPefUKFbFl6uoQ5aU7.jpg",
+  },
+  {
     name: "Kanojo Okarishimasu Live Action",
     link: "https://www.viki.com/tv/38941c-rental-a-girlfriend#episodes",
     image:

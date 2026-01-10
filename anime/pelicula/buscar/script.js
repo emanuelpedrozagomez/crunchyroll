@@ -1081,7 +1081,7 @@ const data = [
   },
   {
     name: "The King's Avatar: For the Glory Latino",
-    link: "https://tubitv.com/movies/581873/the-king-s-avatar-for-the-glory-espa-ol?start=true",
+    link: "https://pluto.tv/latam/on-demand/movies/6256d796bacbfb0013c1b090/details",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/9CC0s1VbBHBUBWMWi5mueXHQYCK.jpg",
   },
@@ -1192,6 +1192,18 @@ const data = [
     link: "https://www1.otakustv.com/anime/youjo-senki-movie-latino",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/dMcaQp4XfPK11bDeUyj2JOqEY8I.jpg",
+  },
+  {
+    name: "Yu-Gi-Oh! The Movie Latino",
+    link: "https://pluto.tv/latam/on-demand/movies/68823153baa646038de5f29c/details",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/zAuHsYGcsPMFb3tDH5eKRVVOTbh.jpg",
+  },
+  {
+    name: "Yu-Gi-Oh! Bonds Beyond Time Latino",
+    link: "https://pluto.tv/latam/on-demand/movies/689a10b98eef10068fd8b976/details",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/pHnIet79aRfGaukOyjB5asHlE3w.jpg",
   },
   {
     name: "Yuru Camp Movie",
@@ -1636,6 +1648,18 @@ const data = [
     link: "https://otakuverso.net/anime/kaiju-no-8-mision-de-reconocimiento-latino",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/wtErtV3SYrVF0tH1XWu13EE6aMs.jpg",
+  },
+  {
+    name: "Chainsaw Man The Movie: Raze Arc",
+    link: "https://tioanime.com/anime/chainsaw-man-movie-rezehen",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/jpZk9B8hfsiBOshcNPI7TN3w3Fi.jpg",
+  },
+  {
+    name: "Chainsaw Man The Movie: Raze Arc Latino",
+    link: "https://drive.google.com/file/d/1Qf7-R0CSSncNtcuZgbon4rFg_Nm87xvD/view",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/jpZk9B8hfsiBOshcNPI7TN3w3Fi.jpg",
   },
 ];
 const searchInput = document.getElementById("searchInput");

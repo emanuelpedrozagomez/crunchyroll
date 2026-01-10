@@ -2497,37 +2497,37 @@ const data = [
   },
   {
     name: "K-On!",
-    link: "https://www1.otakustv.com/anime/k-on",
+    link: "https://tioanime.com/anime/k-on",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/8UwpclMJMPbJV0FCgDd8R8XilRY.jpg",
   },
   {
     name: "K-On!!",
-    link: "https://www1.otakustv.com/anime/k-on-2",
+    link: "https://tioanime.com/anime/k-on-2",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/6BIJMWR7o0GjdV5NV0xdEUtvFFw.jpg",
   },
   {
     name: "K-On! OVA",
-    link: "https://www1.otakustv.com/anime/k-on-ura-on",
+    link: "https://tioanime.com/anime/k-on-pelicula",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/7PF4PTJ28WcKmt1gqEeASwYVzaY.jpg",
   },
   {
     name: "KAGINADO",
-    link: "https://www1.otakustv.com/anime/kaginado",
+    link: "https://tioanime.com/anime/kaginado",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/sW0WU6x17sKJKPwKB2N6213JUm1.jpg",
   },
   {
     name: "KAGINADO Season 2",
-    link: "https://www1.otakustv.com/anime/kaginado-season-2",
+    link: "https://tioanime.com/anime/kaginado-season-2",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/131d9e041e5f8e1595fef11398c410b1.jpe",
   },
   {
     name: "Kaguya-Sama: Love Is War",
-    link: "https://www1.otakustv.com/anime/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-p5ylv1jx",
+    link: "https://tioanime.com/anime/kaguyasama-wa-kokurasetai-tensaitachi-no-renai-zunousen",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/aTVDzcCpulobekDsVjT1dnG2pnx.jpg",
   },
@@ -2539,7 +2539,7 @@ const data = [
   },
   {
     name: "Kaguya-Sama: Love Is War?",
-    link: "https://www1.otakustv.com/anime/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-2nd-season-b6sv75dm",
+    link: "https://tioanime.com/anime/kaguyasama-wa-kokurasetai-tensaitachi-no-renai-zunousen-2nd-season",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
   },
@@ -2551,13 +2551,13 @@ const data = [
   },
   {
     name: "Kaguya-Sama: Love Is War? OVA",
-    link: "https://www1.otakustv.com/anime/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-ova",
+    link: "https://tioanime.com/anime/kaguyasama-wa-kokurasetai-tensaitachi-no-renai-zunousen-2nd-season",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/y1nea0aZ2W7weK6ij6cEpVPPpvX.jpg",
   },
   {
     name: "Kaguya-Sama: Love Is War - Ultra Romantic",
-    link: "https://www1.otakustv.com/anime/kaguya-sama-wa-kokurasetai-ultra-romantic-5hsv0udv",
+    link: "https://tioanime.com/anime/kaguyasama-wa-kokurasetai-ultra-romantic",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/c666ad3b91f3aca41e958b0c618cde77.jpe",
   },
@@ -2569,7 +2569,7 @@ const data = [
   },
   {
     name: "Kaguya-Sama: Love Is War -The First Kiss That Never Ends-",
-    link: "https://www1.otakustv.com/anime/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai",
+    link: "https://tioanime.com/anime/kaguyasama-wa-kokurasetai-first-kiss-wa-owaranai",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/9VBkjaQZNWAW2eU4vmJguFTmvUV.jpg",
   },
@@ -2580,20 +2580,26 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/9VBkjaQZNWAW2eU4vmJguFTmvUV.jpg",
   },
   {
+    name: "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+    link: "https://tioanime.com/anime/kaguyasama-wa-kokurasetai-otona-e-no-kaidan",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/qXvWMHvA5pnleR0nTaGjzBHbD2X.jpg",
+  },
+  {
     name: "Kaina of the Great Snow Sea",
-    link: "https://www1.otakustv.com/anime/ooyukiumi-no-kaina",
+    link: "https://tioanime.com/anime/ooyukiumi-no-kaina",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/fea2d3333ce2c2ffe042d2f381c45591.jpe",
   },
   {
     name: "Kakushigoto",
-    link: "https://www1.otakustv.com/anime/kakushigoto-tv",
+    link: "https://tioanime.com/anime/kakushigoto-tv",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d7bfbcb325dce09c38fad2e5b11f07ae.jpe",
   },
   {
     name: "KamiKatsu",
-    link: "https://www1.otakustv.com/anime/kaminaki-sekai-no-kamisama-katsudou",
+    link: "https://tioanime.com/anime/kaminaki-sekai-no-kamisama-katsudou",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/e79556e0efd3fe34cc8fa55eafe8275d.jpe",
   },
@@ -2605,13 +2611,13 @@ const data = [
   },
   {
     name: "Kanojo Okarishimasu",
-    link: "https://www.crunchyroll.com/es/rent-a-girlfriend",
+    link: "https://tioanime.com/anime/kanojo-okarishimasu",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/yozfbzwLhGe81YKTDoNDRdJrIuC.jpg",
   },
   {
     name: "Kanojo Okarishimasu Season 2",
-    link: "https://www.crunchyroll.com/es/series/G6QWV3976/rent-a-girlfriend",
+    link: "https://tioanime.com/anime/kanojo-okarishimasu-2nd-season",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/e58b1061aca9b7b9abee301049b47581.jpe",
   },
@@ -2629,19 +2635,19 @@ const data = [
   },
   {
     name: "Karakai Jouzu no Takagi-san",
-    link: "https://www1.otakustv.com/anime/karakai-jouzu-no-takagi-san",
+    link: "https://tioanime.com/anime/karakai-jouzu-no-takagisan",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/bemdl0D8a1nJR3VXZn9XTgp5wgH.jpg",
   },
   {
     name: "Karakai Jouzu no Takagi-san 2",
-    link: "https://www1.otakustv.com/anime/karakai-jouzu-no-takagi-san-2",
+    link: "https://tioanime.com/anime/karakai-jouzu-no-takagisan-2",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/2LK5xGOBZ8vh9iAlrqvzNiawQKJ.jpg",
   },
   {
     name: "Karakai Jouzu no Takagi-san 2 Latino",
-    link: "https://www1.otakustv.com/anime/karakai-jouzu-no-takagi-san-2-latino",
+    link: "https://ww3.animeonline.ninja/online/karakai-jouzu-no-takagi-san-090224/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/2LK5xGOBZ8vh9iAlrqvzNiawQKJ.jpg",
   },
@@ -2659,7 +2665,7 @@ const data = [
   },
   {
     name: "Keep Your Hands Off Eizouken!",
-    link: "https://www1.otakustv.com/anime/eizouken-ni-wa-te-wo-dasu-na",
+    link: "https://tioanime.com/anime/eizouken-ni-wa-te-wo-dasu-na",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/ed33a2c9c92e675be9acc30f04089f93.jpe",
   },
@@ -2671,7 +2677,7 @@ const data = [
   },
   {
     name: "Kimetsu no Yaiba",
-    link: "https://www1.otakustv.com/anime/kimetsu-no-yaiba",
+    link: "https://tioanime.com/anime/kimetsu-no-yaiba",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/unhUWXYl8DFaIsaz6U59cDGSBgj.jpg",
   },
@@ -2683,7 +2689,7 @@ const data = [
   },
   {
     name: "Kimetsu no Yaiba Tren Infinito Arc",
-    link: "https://www1.otakustv.com/anime/kimetsu-no-yaiba-mugen-ressha-hen-tv-ixlz2uhi",
+    link: "https://tioanime.com/anime/kimetsu-no-yaiba-mugen-resshahen-arc-tv",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/3u7lv1dDYv6koOc1R5LUA1lwVdK.jpg",
   },
@@ -2695,7 +2701,7 @@ const data = [
   },
   {
     name: "Kimetsu no Yaiba Distrito Rojo Arc",
-    link: "https://www1.otakustv.com/anime/kimetsu-no-yaiba-yuukaku-hen",
+    link: "https://tioanime.com/anime/kimetsu-no-yaiba-yuukakuhen",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/mvpW6oqUF8L9P665vsGiuq9j97b.jpg",
   },
@@ -2707,7 +2713,7 @@ const data = [
   },
   {
     name: "Kimetsu no Yaiba Aldea De Los Herreros Arc",
-    link: "https://www1.otakustv.com/anime/kimetsu-no-yaiba-katanakaji-no-sato-hen",
+    link: "https://tioanime.com/anime/kimetsu-no-yaiba-katanakaji-no-satohen",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/6b5f4fc8c0a7bb5012b9c0930a46570f.jpe",
   },
@@ -2719,7 +2725,7 @@ const data = [
   },
   {
     name: "Kimetsu no Yaiba Hashira Training Arc",
-    link: "https://www1.otakustv.com/anime/kimetsu-no-yaiba-hashira-geiko-hen",
+    link: "https://tioanime.com/anime/kimetsu-no-yaiba-hashira-geikohen",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=1200,height=675,quality=85/catalog/crunchyroll/6b17182a3518d7406f0e69687f773f4f.jpe",
   },
@@ -2737,13 +2743,13 @@ const data = [
   },
   {
     name: "Kimi ni Todoke: Llegando a Ti",
-    link: "https://www1.otakustv.com/anime/kimi-ni-todoke",
+    link: "https://tioanime.com/anime/kimi-ni-todoke",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/8nUD1zMrJhQOvA2AdRrVYHysgBw.jpg",
   },
   {
     name: "Kimi ni Todoke: Llegando a Ti Season 2",
-    link: "https://www1.otakustv.com/anime/kimi-ni-todoke-2nd-season",
+    link: "https://tioanime.com/anime/kimi-ni-todoke-2",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/8nUD1zMrJhQOvA2AdRrVYHysgBw.jpg",
   },
@@ -2755,13 +2761,13 @@ const data = [
   },
   {
     name: "Kiss Him, Not Me",
-    link: "https://www1.otakustv.com/anime/watashi-ga-motete-dousunda",
+    link: "https://tioanime.com/anime/watashi-ga-motete-dousunda",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/xbylY77fYyPjJN5TLYeawR7ault.jpg",
   },
   {
     name: "Kizuna no Allele",
-    link: "https://www1.otakustv.com/anime/kizuna-no-allele",
+    link: "https://tioanime.com/anime/kizuna-no-allele",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/95ff263d8bfa72aaf957fcff826dd766.jpe",
   },
@@ -2773,13 +2779,13 @@ const data = [
   },
   {
     name: "Kokkoku",
-    link: "https://www1.otakustv.com/anime/kokkoku",
+    link: "https://tioanime.com/anime/kokkoku",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/dWk9Ry2iSQ2nvvgc1DAgelfipEY.jpg",
   },
   {
     name: "Komi-San no puede comunicarse",
-    link: "https://www1.otakustv.com/anime/komi-san-wa-komyushou-desu",
+    link: "https://tioanime.com/anime/komisan-wa-comyushou-desu",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/2bHGk7j4OD21qeXRRDYrKVhxzRc.jpg",
   },
@@ -2791,7 +2797,7 @@ const data = [
   },
   {
     name: "Komi-San no puede comunicarse Season 2",
-    link: "https://www1.otakustv.com/anime/komi-san-wa-komyushou-desu-2nd-season",
+    link: "https://tioanime.com/anime/komisan-wa-comyushou-desu-2nd-season",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/lLLvmx0qBjX8W5AyOBBApsgUcix.jpg",
   },
@@ -2803,7 +2809,7 @@ const data = [
   },
   {
     name: "Konosuba - An Explosion on This Wonderful World!",
-    link: "https://www1.otakustv.com/anime/kono-subarashii-sekai-ni-bakuen-wo",
+    link: "https://tioanime.com/anime/kono-subarashii-sekai-ni-bakuen-wo",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/26f4a1d5cd1369fb15c7d52a7d7a3105.jpe",
   },
@@ -2815,7 +2821,7 @@ const data = [
   },
   {
     name: "Konosuba",
-    link: "https://www1.otakustv.com/anime/kono-subarashii-sekai-ni-shukufuku-wo-ml9i62ni",
+    link: "https://tioanime.com/anime/kono-subarashii-sekai-ni-shukufuku-wo",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/rS7x1T2ZO57T61nKKgLoRUT0bw2.jpg",
   },
@@ -2839,37 +2845,43 @@ const data = [
   },
   {
     name: "Kotaro Vive Solo",
-    link: "https://www1.otakustv.com/anime/kotarou-wa-hitorigurashi",
+    link: "https://ww3.animeonline.ninja/online/kotarou-wa-hitorigurashi/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/6UnCnLUNlKXQwg4FwsW88PHheRH.jpg",
   },
   {
     name: "Kotaro Vive Solo Latino",
-    link: "https://www1.otakustv.com/anime/kotarou-wa-hitorigurashi-latino",
+    link: "https://ww3.animeonline.ninja/online/kotarou-wa-hitorigurashi/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/6UnCnLUNlKXQwg4FwsW88PHheRH.jpg",
   },
   {
     name: "KOWLOON GENERIC ROMANCE",
-    link: "https://www1.otakustv.com/anime/kowloon-generic-romance",
+    link: "https://tioanime.com/anime/kowloon-generic-romance",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/2WvIp7l8oA524lNihn5dD0jInKb.jpg",
   },
   {
+    name: "Kubo-san wa Mob wo Yurusanai",
+    link: "https://tioanime.com/anime/kubosan-wa-mob-wo-yurusanai",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/lJPfgdWHkF6YCxshUO5o2yo2mh5.jpg",
+  },
+  {
     name: "Kuma Kuma Kuma Bear",
-    link: "https://www1.otakustv.com/anime/kuma-kuma-kuma-bear",
+    link: "https://tioanime.com/anime/kuma-kuma-kuma-bear",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/iCRvnz5jSRWz653vBfnzDOAFvGD.jpg",
   },
   {
     name: "Kuma Kuma Kuma Bear Punch!",
-    link: "https://www1.otakustv.com/anime/kuma-kuma-kuma-bear-punch",
+    link: "https://tioanime.com/anime/kuma-kuma-kuma-bear-punch",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/b64829ac8d97e9b7fb7b39646c4718b1.jpe",
   },
   {
     name: "Kuroko no Basket",
-    link: "https://www1.otakustv.com/anime/kuroko-no-basket",
+    link: "https://tioanime.com/anime/kuroko-no-basuke",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2aebbcb9bd40255732bd026ef54f7d3b.jpe",
   },
@@ -2881,7 +2893,7 @@ const data = [
   },
   {
     name: "Kuroko no Basket 2nd Season",
-    link: "https://www1.otakustv.com/anime/kuroko-no-basket-2nd-season?page=2",
+    link: "https://tioanime.com/anime/kuroko-no-basuke-2",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/l4b42IaNVU2ZbdzjlaPmfFjqosV.jpg",
   },
@@ -2890,6 +2902,12 @@ const data = [
     link: "https://www.henaojara.com/veronline/season/kuroko-no-basket-espanol-latino-hd-2/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/l4b42IaNVU2ZbdzjlaPmfFjqosV.jpg",
+  },
+  {
+    name: "Kuroko no Basket 3rd Season",
+    link: "https://tioanime.com/anime/kuroko-no-basket-3",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/2er7eSyKZfX2C64G7KTqhVp5OJi.jpg",
   },
   {
     name: "La chica rosca",
@@ -2905,25 +2923,25 @@ const data = [
   },
   {
     name: "Let's Make a Mug Too",
-    link: "https://www1.otakustv.com/anime/yakunara-mug-cup-mo",
+    link: "https://tioanime.com/anime/yakunara-mug-cup-mo",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/uIKgryoY2lEdmgy52rDESr2cyC4.jpg",
   },
   {
     name: "Let's Make a Mug Too Season 2",
-    link: "https://www1.otakustv.com/anime/yakunara-mug-cup-mo-niban-gama",
+    link: "https://tioanime.com/anime/yakunara-mug-cup-mo-niban-gama",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/509536f6e1d4757907762591182fd845.jpe",
   },
   {
     name: "Link Click",
-    link: "https://www1.otakustv.com/anime/shiguang-dailiren",
+    link: "https://www1.animeonline.ninja/online/shiguang-dailiren-link-click/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/4e2887f99eb5eff532182b77cf6d7acf.jpe",
   },
   {
     name: "Link Click OVA",
-    link: "https://www1.otakustv.com/anime/shiguang-zhaoxiangguan-de-richang",
+    link: "https://www1.animeonline.ninja/online/shiguang-dailiren-link-click/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/lIdL732U21MtaNA2SmzSgyQxV8s.jpg",
   },
@@ -2935,19 +2953,19 @@ const data = [
   },
   {
     name: "Little Witch Academia",
-    link: "https://www1.otakustv.com/anime/little-witch-academia-tv",
+    link: "https://tioanime.com/anime/little-witch-academia-tv",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/cHYLXFMPeg7O6IoaSNJMRujHjxk.jpg",
   },
   {
     name: "Little Witch Academia Latino",
-    link: "https://www1.otakustv.com/anime/little-witch-academia-tv-latino",
+    link: "https://ww3.animeonline.ninja/online/little-witch-academia/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/cHYLXFMPeg7O6IoaSNJMRujHjxk.jpg",
   },
   {
     name: "Log Horizon: Entaku Houkai",
-    link: "https://www1.otakustv.com/anime/log-horizon-entaku-houkai",
+    link: "https://tioanime.com/anime/log-horizon-entaku-houkai",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/8a657de6f20cbe2d2347153ec05d316f.jpe",
   },
@@ -2959,67 +2977,55 @@ const data = [
   },
   {
     name: "Love After World Domination",
-    link: "https://www1.otakustv.com/anime/koi-wa-sekai-seifuku-no-ato-de",
+    link: "https://tioanime.com/anime/koi-wa-sekai-seifuku-no-ato-de",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/5d34e606fd7971ac5b9b7bce716a71a0.jpe",
   },
   {
     name: "Love After World Domination Latino",
-    link: "https://www.facebook.com/watch/101974755365056/1353684491767673/",
+    link: "https://drive.google.com/drive/folders/1cCn6khsJ2bKsLLG12iE3mo0XrpaWftbg",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/5d34e606fd7971ac5b9b7bce716a71a0.jpe",
   },
   {
     name: "Love, Chunibyo and Other Delusions",
-    link: "https://www1.otakustv.com/anime/chuunibyou-demo-koi-ga-shitai",
+    link: "https://tioanime.com/anime/chuunibyou-demo-koi-ga-shitai",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/vxZ3DV05A7vuarYjneANzwVvdf0.jpg",
   },
   {
     name: "Love Live! Nijigasaki High School Idol Club",
-    link: "https://www1.otakustv.com/anime/love-live-nijigasaki-gakuen-school-idol-doukoukai-j4jc6mnf",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/i5Y71b720kelfOrOvGzXAKWzbI0.jpg",
-  },
-  {
-    name: "Love, Chunibyo and Other Delusions",
-    link: "https://www1.otakustv.com/anime/chuunibyou-demo-koi-ga-shitai",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/vxZ3DV05A7vuarYjneANzwVvdf0.jpg",
-  },
-  {
-    name: "Love Live! Nijigasaki High School Idol Club",
-    link: "https://www1.otakustv.com/anime/love-live-nijigasaki-gakuen-school-idol-doukoukai-j4jc6mnf",
+    link: "https://tioanime.com/anime/love-live-nijigasaki-gakuen-school-idol-doukoukai",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/i5Y71b720kelfOrOvGzXAKWzbI0.jpg",
   },
   {
     name: "Love Live! Nijigasaki High School Idol Club 2",
-    link: "https://www1.otakustv.com/anime/love-live-nijigasaki-gakuen-school-idol-doukoukai-2nd-season",
+    link: "https://tioanime.com/anime/love-live-nijigasaki-gakuen-school-idol-doukoukai-2nd-season",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/ff4af3894a9036db733c879c3ef4c059.jpe",
   },
   {
     name: "Love Live! Superstar!!",
-    link: "https://www1.otakustv.com/anime/love-live-superstar",
+    link: "https://tioanime.com/anime/love-live-superstar",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/4RNJAAVpU2bzDVumQMvR1W7jYxW.jpg",
   },
   {
     name: "Love Live! Superstar!! Season 2",
-    link: "https://www1.otakustv.com/anime/love-live-superstar-2nd-season",
+    link: "https://tioanime.com/anime/love-live-superstar-2nd-season",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/c653f61744da59decae06045ed1af197.jpe",
   },
   {
     name: "Love Live! Superstar!! Season 3",
-    link: "https://www1.otakustv.com/anime/love-live-superstar-3rd-season",
+    link: "https://tioanime.com/anime/love-live-superstar-3rd-season",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/aB7yvZdtFJYXyoiUSym7gWaVGxG.jpg",
   },
   {
     name: "Lucky Star",
-    link: "https://www1.otakustv.com/anime/lucky-star",
+    link: "https://tioanime.com/anime/lucky-star",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/f3nizt9mIY2bDvGIV5NceXOS6bk.jpg",
   },
@@ -3031,31 +3037,31 @@ const data = [
   },
   {
     name: "Lupin III Parte VI",
-    link: "https://www1.otakustv.com/anime/lupin-iii-part-6",
+    link: "https://tioanime.com/anime/lupin-iii-part-6",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/ubggJhb6QysnXVercF4ij9RLJJu.jpg",
   },
   {
     name: "Lupin Zero",
-    link: "https://www1.otakustv.com/anime/lupin-zero",
+    link: "https://ww3.animeonline.ninja/online/lupin-zero-042724/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/cEcjyE8UwVdnneTmbqDvRhlY6Np.jpg",
   },
   {
     name: "Lycoris Recoil",
-    link: "https://www1.otakustv.com/anime/lycoris-recoil",
+    link: "https://tioanime.com/anime/lycoris-recoil",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/0b6e8bd4de40b260b3ccf0c700ce6710.jpe",
   },
   {
     name: "Lycoris Recoil: Friends are thieves of time",
-    link: "https://www.crunchyroll.com/es/series/G1XHJV2X9/lycoris-recoil",
+    link: "https://ww3.animeonline.ninja/online/lycoris-recoil/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/i65FZhvttMDad7prVZwGDto6CqE.jpg",
   },
   {
     name: "Lycoris Recoil Latino",
-    link: "https://www.crunchyroll.com/es/series/G1XHJV2X9/lycoris-recoil",
+    link: "https://ww3.animeonline.ninja/online/lycoris-recoil/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/0b6e8bd4de40b260b3ccf0c700ce6710.jpe",
   },
@@ -3796,6 +3802,48 @@ const data = [
     link: "https://www1.otakustv.com/anime/pokemon",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/1bxAO1CmwLoQSrKt18aFmg5QQws.jpg",
+  },
+  {
+    name: "Pokémon Latino",
+    link: "https://www.lacartoons.com/serie/39",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/1bxAO1CmwLoQSrKt18aFmg5QQws.jpg",
+  },
+  {
+    name: "Pokémon: Diamante y Perla Latino",
+    link: "https://therokuchannel.roku.com/details/df752ce99950e7bc50b6aa6eb9fe6119/pokemon-diamante-y-perla",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/xe1B19QZrQLTWsOdXpQa0dG8HNw.jpg",
+  },
+  {
+    name: "Pokémon: XY Latino",
+    link: "https://therokuchannel.roku.com/details/5db20885824d5d50a7cb063ab9571a17/pokemon-temporada-xy",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/yMqTS3edy9iF0JbgOcc5A2yvpQo.jpg",
+  },
+  {
+    name: "Pokémon: XYZ Latino",
+    link: "https://therokuchannel.roku.com/details/182830c366d2534b9c0ba23c30afb415/pokemon-temporada-xy",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/hF3qEHz4xBZMnAJA7kGf8wkrvPt.jpg",
+  },
+  {
+    name: "Pokémon: Sol y Luna Latino",
+    link: "https://therokuchannel.roku.com/details/2eaac522f7775ee0855dc436d370d67b/pokemon",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/nlYj2IrOe6cE5wCy6ZpJU7Poafv.jpg",
+  },
+  {
+    name: "Pokémon: Sol y Luna Ultraventuras Latino",
+    link: "https://therokuchannel.roku.com/details/44a59aab1db158c993413daa87d79e50/pokemon-serie-sol-y-luna",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/d7rritwoQKUDJVWp6PspZWdoVuv.jpg",
+  },
+  {
+    name: "Pokémon: Sol y Luna Ultraleyendas Latino",
+    link: "https://therokuchannel.roku.com/details/6024572351be501aa7d8360a60080811/pokemon-serie-sol-y-luna",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/pCRfhOHyCyzbNpG6zYOLYUBgcEx.jpg",
   },
   {
     name: "Poputepipikku",
@@ -4540,6 +4588,12 @@ const data = [
     link: "https://www1.otakustv.com/anime/steins-gate",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/36Ech63X2KU8JUXIBAo167kIC2k.jpg",
+  },
+  {
+    name: "Street Fighters II V Latino",
+    link: "https://pluto.tv/latam/on-demand/series/67507412c814a90013977a6c/season/1",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/pQvNsSL2jB7NHevojSALmVXlJXv.jpg",
   },
   {
     name: "Strike The Blood Latino",
@@ -6030,6 +6084,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/31adc7359cc25ac08a358df4ff1567cf.jpe",
   },
   {
+    name: "Yu-Gi-Oh! SEVENS Latino",
+    link: "https://pluto.tv/latam/on-demand/series/687f844afd92ab53e8ae30cd/season/1",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/4ar32fAjLhLn47sZWxSrqABDDdJ.jpg",
+  },
+  {
     name: "Yuri Is My Job",
     link: "https://www1.otakustv.com/anime/watashi-no-yuri-wa-oshigoto-desu",
     image:
@@ -6186,6 +6246,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/8b7f5847f9b97f921e41d4ef59fd2d79.jpe",
   },
   {
+    name: "Jujutsu Kaisen Season 3",
+    link: "https://tioanime.com/anime/jujutsu-kaisen-shimetsu-kaiyuu-zenpen",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/w0Zk07fqo2bEKHmIreGk4KvN7ax.jpg",
+  },
+  {
     name: "Jujutsu Kaisen Season 2 Latino",
     link: "https://drive.google.com/drive/folders/1aHTCURWhpf1MEzEr81tIfLfj3a_sNGKR?sort=13&direction=a",
     image:
@@ -6193,7 +6259,7 @@ const data = [
   },
   {
     name: "Kanojo Okarishimasu Season 3",
-    link: "https://www1.otakustv.com/anime/kanojo-okarishimasu-3rd-season",
+    link: "https://tioanime.com/anime/kanojo-okarishimasu-3rd-season",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/1d2082f46f5c4964f5c11ad3fcba4fd1.jpe",
   },
@@ -6205,31 +6271,31 @@ const data = [
   },
   {
     name: "Kanojo Okarishimasu Season 4",
-    link: "https://www1.otakustv.com/anime/kanojo-okarishimasu-4th-season",
+    link: "https://tioanime.com/anime/kanojo-okarishimasu-4th-season",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/66eQn2RTINivDMR6R5Sn9g5pIjL.jpg",
   },
   {
     name: "Kanojo Okarishimasu Season 4 Latino",
-    link: "https://otakuverso.net/anime/rent-a-girlfriend-season-4-latino",
+    link: "https://ww3.animeonline.ninja/online/kanojo-okarishimasu-1/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/66eQn2RTINivDMR6R5Sn9g5pIjL.jpg",
   },
   {
     name: "La chica que me gusta olvidó sus lentes",
-    link: "https://www1.otakustv.com/anime/suki-na-ko-ga-megane-wo-wasureta",
+    link: "https://tioanime.com/anime/suki-na-ko-ga-megane-wo-wasureta",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/b5de387d9b810e125fd674589819aa16.jpe",
   },
   {
     name: "Liar Liar",
-    link: "https://www1.otakustv.com/anime/liar-liar",
+    link: "https://tioanime.com/anime/liar-liar",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/de6703a98eec2a45c800aea8eff09d1e.jpe",
   },
   {
     name: "Link Click II",
-    link: "https://www1.otakustv.com/anime/shiguang-dailiren-ii",
+    link: "https://www1.animeonline.ninja/online/shiguang-dailiren-link-click/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/e267dad3c1f27dc070f3ae2f1dc76da7.jpe",
   },
@@ -6415,7 +6481,7 @@ const data = [
   },
   {
     name: "Los Pecados de Casshern Latino",
-    link: "https://www.henaojara.com/ver/season/casshern-sins-espanol-latino-hd-1/",
+    link: "https://play.mercadolibre.com.mx/ver/los-pecados-de-casshern/5a1085eeee2c4ea592065ed154a0206e",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/ee32bb786c4ba7241a7203d8cbc66ae7.jpe",
   },
@@ -6811,7 +6877,7 @@ const data = [
   },
   {
     name: "Lady Vaca",
-    link: "https://www1.otakustv.com/anime/hyakushou-kizoku",
+    link: "https://ww3.animeonline.ninja/online/hyakushou-kizoku/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/6nCwJ7ITnOgQJTIvPIkVfyLRSzn.jpg",
   },
@@ -7195,7 +7261,7 @@ const data = [
   },
   {
     name: "La leyenda de luoxiaohei",
-    link: "https://www1.otakustv.com/anime/the-legend-of-luoxiaohei",
+    link: "https://youtube.com/playlist?list=PLnmoDhcUHNbk_4dYZgX0tq_S33ug_1iO3&si=WosNol8ombz0OUzG",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/dsKTSL7VvCIgfcKYvSDMXx3RMMk.jpg",
   },
@@ -7423,7 +7489,7 @@ const data = [
   },
   {
     name: "Kaiju No. 8",
-    link: "https://www1.otakustv.com/anime/kaijuu-8-gou",
+    link: "https://tioanime.com/anime/kaijuu-8gou",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=1200,height=675,quality=85/catalog/crunchyroll/e66d5a8f5167c8bc7a7fd5baa52961c5.jpe",
   },
@@ -7435,7 +7501,7 @@ const data = [
   },
   {
     name: "Kaiju No. 8 Season 2",
-    link: "https://www1.otakustv.com/anime/kaijuu-8-gou-2nd-season",
+    link: "https://tioanime.com/anime/kaijuu-8gou-2nd-season",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/hYVFF9GiJjJlwKmKux9PrN7ZC6b.jpg",
   },
@@ -7447,19 +7513,19 @@ const data = [
   },
   {
     name: "Kaiju No. 8 OVA",
-    link: "https://www1.otakustv.com/anime/kaijuu-8-gou-hoshina-no-kyuujitsu",
+    link: "https://ww3.animeonline.ninja/episodio/kaijuu-8-gou-hoshina-no-kyuujitsu/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/2SJ61Tu6psPdlsEcdhDhCUnSn2l.jpg",
   },
   {
     name: "Kaiju No. 8 OVA Latino",
-    link: "https://otakuverso.net/anime/kaiju-no-8-el-dia-libre-de-hoshina-latino",
+    link: "https://ww3.animeonline.ninja/episodio/kaijuu-8-gou-hoshina-no-kyuujitsu/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/2SJ61Tu6psPdlsEcdhDhCUnSn2l.jpg",
   },
   {
     name: "Konosuba Season 3",
-    link: "https://www1.otakustv.com/anime/kono-subarashii-sekai-ni-shukufuku-wo-3",
+    link: "https://tioanime.com/anime/kono-subarashii-sekai-ni-shukufuku-wo-3",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/tzgKji4nXiRgYvnqobpBkPaIQBp.jpg",
   },
@@ -7471,7 +7537,7 @@ const data = [
   },
   {
     name: "Konosuba Season 3 Bonus Stage",
-    link: "https://www1.otakustv.com/anime/kono-subarashii-sekai-ni-shukufuku-wo-3-bonus-stage",
+    link: "https://tioanime.com/anime/kono-subarashii-sekai-ni-shukufuku-wo-3",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/o3Ilp4SkCEZUltK8rbrII8Le1AV.jpg",
   },
@@ -7687,13 +7753,13 @@ const data = [
   },
   {
     name: "Kinnikuman: Perfect Origin Arc",
-    link: "https://www1.otakustv.com/anime/kinnikuman-kanpeki-choujin-shiso-hen",
+    link: "https://tioanime.com/anime/kinnikuman-kanpeki-choujin-shisohen",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/dZ59yKdutsyPK8SdQUhqMiPAyHf.jpg",
   },
   {
     name: "Kinnikuman: Perfect Origin Arc Season 2",
-    link: "https://www1.otakustv.com/anime/kinnikuman-kanpeki-chujin-shiso-hen-season-2",
+    link: "https://tioanime.com/anime/kinnikuman-kanpeki-choujin-shisohen",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/gpnLvTvRLAxC21rvwy63bBbLTa8.jpg",
   },
@@ -7705,7 +7771,7 @@ const data = [
   },
   {
     name: "Kids on the Slope",
-    link: "https://www1.otakustv.com/anime/sakamichi-no-apollon",
+    link: "https://tioanime.com/anime/sakamichi-no-apollon",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/veLDNOr8omsQN6hX3HWgq5PVD1P.jpg",
   },
@@ -7735,7 +7801,7 @@ const data = [
   },
   {
     name: "Kimi ni Todoke: Llegando a ti Season 3",
-    link: "https://www1.otakustv.com/anime/kimi-ni-todoke-3rd-season",
+    link: "https://tioanime.com/anime/kimi-ni-todoke-3rd-season",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/sZelNX4fehJVhV5GdY93WCMFsDA.jpg",
   },
@@ -7813,19 +7879,19 @@ const data = [
   },
   {
     name: "LOCODOL Latino",
-    link: "https://otakuverso.net/anime/futsuu-no-joshikousei-ga-locodol-yattemita-latino",
+    link: "https://ww3.animeonline.ninja/online/futsuu-no-joshikousei-ga-locodol-yatte-mita/",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/3060c2731caa5f53576838a2fd04e0d4.jpe",
   },
   {
     name: "LOCODOL OVA Latino",
-    link: "https://otakuverso.net/anime/futsuu-no-joshikousei-ga-locodol-yattemita-ova-latino",
+    link: "https://ww3.animeonline.ninja/online/futsuu-no-joshikousei-ga-locodol-yatte-mita/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/bgBjY9YCqbmEp9XR7506vFbIC4s.jpg",
   },
   {
     name: "LOCODOL: We Tried Giving a Tour of Nagarekawa OVA Latino",
-    link: "https://otakuverso.net/anime/futsuu-no-joshikousei-ga-locodol-yattemita-nagarekawa-annai-shitemita-latino",
+    link: "https://ww3.animeonline.ninja/online/futsuu-no-joshikousei-ga-locodol-yatte-mita/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/nqHDBrW6MjVUFQPvSsTpEDj9VJH.jpg",
   },
@@ -7843,7 +7909,7 @@ const data = [
   },
   {
     name: "Let This Grieving Soul Retire",
-    link: "https://www1.otakustv.com/anime/nageki-no-bourei-wa-intai-shitai",
+    link: "https://tioanime.com/anime/nageki-no-bourei-wa-intai-shitai",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/76b5c19217f461d349b6eec2e81c1931.jpg",
   },
@@ -8233,7 +8299,7 @@ const data = [
   },
   {
     name: "LAZARUS",
-    link: "https://www1.otakustv.com/anime/lazarus",
+    link: "https://tioanime.com/anime/lazarus",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/msD8CqPajMRo3VtRGuh85ZNIPfc.jpg",
   },

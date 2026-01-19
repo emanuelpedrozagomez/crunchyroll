@@ -1998,6 +1998,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/12mYMPE7Jy7rhDv0rn95GEtF94V.jpg",
   },
   {
+    name: "Hell Teacher: Jigoku Sensei Nube",
+    link: "https://watch.plex.tv/es/show/hell-teacher-jigoku-sensei-nube",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/bSbfeSCqd2NZxmgaPu6aHVVPmgn.jpg",
+  },
+  {
     name: "Hell's Paradise",
     link: "https://www.crunchyroll.com/es-es/series/GJ0H7Q5ZJ/hells-paradise",
     image:

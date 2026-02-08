@@ -672,6 +672,18 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/ldm8gcA1sQIzytIJug2msQTfko.jpg",
   },
   {
+    name: "Boku No Hero Academia: Vigilantes Season 2",
+    link: "https://tioanime.com/anime/vigilante-boku-no-hero-academia-illegals-2nd-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/rW6PZoyRU4hwiapU3Hnm6aVhBX2.jpg",
+  },
+  {
+    name: "Boku No Hero Academia: Vigilantes Latino",
+    link: "https://ww3.animeonline.ninja/online/vigilante-boku-no-hero-academia-illegals-071525/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/ldm8gcA1sQIzytIJug2msQTfko.jpg",
+  },
+  {
     name: "Boku No Hero Academia",
     link: "https://www.crunchyroll.com/es/series/G6NQ5DWZ6/my-hero-academia",
     image:
@@ -1849,13 +1861,13 @@ const data = [
   },
   {
     name: "Girlfriend, Girlfriend",
-    link: "https://tioanime.com/anime/kanojo-mo-kanojo-season-2",
+    link: "https://tioanime.com/anime/kanojo-mo-kanojo",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/sLhcCXGLIYKki6QHjN8Bwvkt1v0.jpg",
   },
   {
     name: "Girlfriend, Girlfriend Latino",
-    link: "https://henaojara2.com/ver/season/kanojo-mo-kanojo-espanol-latino-hd-1/",
+    link: "https://drive.google.com/drive/folders/1Ute6S9bPZ9c754-IWT92IWHnefjO-9Wq?sort=13&direction=a",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/258f49487120e5ac538faf6654121672.jpe",
   },
@@ -2005,13 +2017,19 @@ const data = [
   },
   {
     name: "Hell's Paradise",
-    link: "https://www.crunchyroll.com/es-es/series/GJ0H7Q5ZJ/hells-paradise",
+    link: "https://tioanime.com/anime/jigokuraku",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/qvSTpPSuvJgqwzHeJjEB7SjaKOh.jpg",
   },
   {
+    name: "Hell's Paradise Season 2",
+    link: "https://tioanime.com/anime/jigokuraku-2nd-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/u2WSG18Zs961JBaTOu5WMI0mKtz.jpg",
+  },
+  {
     name: "Hell's Paradise Latino",
-    link: "https://henaojara2.com/ver/season/hells-paradise-jigokuraku-espanol-latino-hd-1/",
+    link: "https://ww3.animeonline.ninja/online/jigokuraku-080624/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/cTvQ1cIqFvytOGlD65WV56jB4fQ.jpg",
   },
@@ -3199,85 +3217,73 @@ const data = [
   },
   {
     name: "Mob Psycho 100",
-    link: "https://www1.otakustv.com/anime/mob-psycho-100",
+    link: "https://tioanime.com/anime/mob-psycho-100",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/fsWldKnTlSfBcUS7i0z33mSPIyu.jpg",
-  },
-  {
-    name: "Mob Psycho 100: Reigen",
-    link: "https://www1.otakustv.com/anime/mob-psycho-100-reigen-shirarezaru-kiseki-no-reinouryokusha-dyqrrszi",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/y3CrxZkLvVLsatvW9sd720GKv7U.jpg",
   },
   {
     name: "Mob Psycho 100 Latino",
-    link: "https://www1.otakustv.com/anime/mob-psycho-100-latino-ze7y1hdc",
+    link: "https://ww3.animeonline.ninja/online/mob-psycho-100-6/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/fsWldKnTlSfBcUS7i0z33mSPIyu.jpg",
   },
   {
     name: "Mob Psycho 100 II",
-    link: "https://www1.otakustv.com/anime/mob-psycho-100-ii-p1trcaqi",
+    link: "https://tioanime.com/anime/mob-psycho-100-ii",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/kP5duNJEbTfXpBs6CITsaZ88pQi.jpg",
   },
   {
     name: "Mob Psycho 100 II OVA",
-    link: "https://www1.otakustv.com/anime/mob-psycho-100-ii-ova-2f9yycnt",
+    link: "hhttps://tioanime.com/anime/mob-psycho-100-ii",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/3kDn39s4lENS5ziq2l5u1tdoDkE.jpg",
   },
   {
     name: "Mob Psycho 100 II",
-    link: "https://www1.otakustv.com/anime/mob-psycho-100-ii-p1trcaqi",
+    link: "https://tioanime.com/anime/mob-psycho-100-ii",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/kP5duNJEbTfXpBs6CITsaZ88pQi.jpg",
   },
   {
-    name: "Mob Psycho 100 II OVA",
-    link: "https://www1.otakustv.com/anime/mob-psycho-100-ii-ova-2f9yycnt",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/3kDn39s4lENS5ziq2l5u1tdoDkE.jpg",
-  },
-  {
     name: "Mob Psycho 100 II Latino",
-    link: "https://henaojara2.com/ver/mob-psycho-100-temporada-2-espanol-latino-hd/",
+    link: "https://ww3.animeonline.ninja/online/mob-psycho-100-6/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/kP5duNJEbTfXpBs6CITsaZ88pQi.jpg",
   },
   {
     name: "Mob Psycho 100 III Latino",
-    link: "https://www.animelatinohd.com/anime/mob-psycho-100-iii",
+    link: "https://ww3.animeonline.ninja/online/mob-psycho-100-6/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/c0e2440d3f27196ba37abaed8b824df5.jpe",
   },
   {
     name: "Mobile Suit Gundam 00",
-    link: "https://www1.otakustv.com/anime/kidou-senshi-gundam-00",
+    link: "https://tioanime.com/anime/gundam-00",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/f6d36a814c6573190a7717d42eda2ec4.jpe",
   },
   {
     name: "Mobile Suit Gundam 00 Season 2",
-    link: "https://www1.otakustv.com/anime/kidou-senshi-gundam-00-2nd-season",
+    link: "https://tioanime.com/anime/gundam-00-2nd-season",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/dKrmlUQ3EXTweePRPoM7IsI3vxC.jpg",
   },
   {
     name: "Mobile Suit Gundam GQuuuuuuX",
-    link: "https://www1.otakustv.com/anime/kidou-senshi-gundam-gquuuuuux",
+    link: "https://tioanime.com/anime/kidou-senshi-gundam-gquuuuuux",
     image:
       "https://m.media-amazon.com/images/S/pv-target-images/cd557cbaa168f746bb5a6cc3954e7d87a7befe9fd54b181736e4ce4688257653._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_SX500_FMwebp_.jpg",
   },
   {
     name: "Mobile Suit Gundam GQuuuuuuX Latino",
-    link: "https://henaojara.com/animeonline/season/kidou-senshi-gundam-gquuuuuux-espanol-latino-hd-1/",
+    link: "https://ww3.animeonline.ninja/online/mobile-suit-gundam-gquuuuuux/",
     image:
       "https://m.media-amazon.com/images/S/pv-target-images/cd557cbaa168f746bb5a6cc3954e7d87a7befe9fd54b181736e4ce4688257653._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_SX500_FMwebp_.jpg",
   },
   {
     name: "Mobile Suit Gundam: The Witch from Mercury",
-    link: "https://www1.otakustv.com/anime/kidou-senshi-gundam-suisei-no-majo",
+    link: "https://ww3.animeonline.ninja/online/mobile-suit-gundam-the-witch-from-mercury-042724/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/6yUkYaULo6v1xOMEJ6TKorR0zDk.jpg",
   },
@@ -3289,19 +3295,19 @@ const data = [
   },
   {
     name: "Mobile Suit Gundam: The Witch from Mercury Season 2",
-    link: "https://www1.otakustv.com/anime/kidou-senshi-gundam-suisei-no-majo-season-2",
+    link: "https://ww3.animeonline.ninja/online/mobile-suit-gundam-the-witch-from-mercury-042724/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/auERLEcOb1R9X21c92E78pNDF9L.jpg",
   },
   {
     name: "Mobile Suit Gundam: The Witch from Mercury OVA",
-    link: "https://www1.otakustv.com/anime/mobile-suit-gundam-the-witch-from-mercury-prologue",
+    link: "https://ww3.animeonline.ninja/online/mobile-suit-gundam-the-witch-from-mercury-042724/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/07fda9ad4ae86df75320c1543a53719b.jpe",
   },
   {
     name: "Monster",
-    link: "https://www1.otakustv.com/anime/monster",
+    link: "https://tioanime.com/anime/monster",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/biIgHdk39UcIdMvtNEMiotFl86s.jpg",
   },
@@ -3313,103 +3319,109 @@ const data = [
   },
   {
     name: "Monster Girl Doctor",
-    link: "https://www1.otakustv.com/anime/monster-musume-no-oisha-san",
+    link: "https://tioanime.com/anime/monster-musume-no-oishasan",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/3e3fedee55c21bcb7f94585a7445c762.jpe",
   },
   {
     name: "More than a Married Couple, but Not Lovers",
-    link: "https://www1.otakustv.com/anime/fuufu-ijou-koibito-miman",
+    link: "https://tioanime.com/anime/fuufu-ijou-koibito-miman",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/8a9adc8fd5b4c946d6ee86f29da554c0.jpe",
   },
   {
     name: "More than a Married Couple, but Not Lovers Latino",
-    link: "https://henaojara.com/animeonline/fuufu-ijou-koibito-miman-espanol-latino-hd/",
+    link: "https://ww3.animeonline.ninja/online/fuufu-ijou-koibito-miman-040925/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/8a9adc8fd5b4c946d6ee86f29da554c0.jpe",
   },
   {
     name: "Mother Of The Goddess' Dormitory",
-    link: "https://tioanime.com/anime/megami-no-cafe-terrace",
+    link: "https://tioanime.com/anime/megamiryou-no-ryoubokun",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/9olOGz8yWESPMQFJx0xDLo9nQZM.jpg",
   },
   {
     name: "Mushikaburi-hime",
-    link: "https://www1.otakustv.com/anime/mushikaburi-hime",
+    link: "https://tioanime.com/anime/mushikaburihime",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/qo353ajwCnOo1o2rTIyaSD8dFwW.jpg",
   },
   {
     name: "Mushoku Tensei Jobless Reincarnation",
-    link: "https://www1.otakustv.com/anime/mushoku-tensei-isekai-ittara-honki-dasu",
+    link: "https://tioanime.com/anime/mushoku-tensei-isekai-ittara-honki-dasu",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
   },
   {
     name: "Mushoku Tensei Jobless Reincarnation Latino",
-    link: "https://www.facebook.com/watch/101974755365056/173391768156796",
+    link: "https://drive.google.com/drive/folders/1-2mDVtYSS1894IwV9oE6veErLVzq7VJU",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
   },
   {
     name: "Mushoku Tensei Jobless Reincarnation Parte 2",
-    link: "https://www1.otakustv.com/anime/mushoku-tensei-jobless-reincarnation-part-2",
+    link: "https://tioanime.com/anime/mushoku-tensei-isekai-ittara-honki-dasu-2nd-season",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/73a47af4e557a735137ef5972e427538.jpe",
   },
   {
     name: "Mushoku Tensei Jobless Reincarnation OVA",
-    link: "https://www1.otakustv.com/anime/mushoku-tensei-isekai-ittara-honki-dasu-special",
+    link: "https://tioanime.com/anime/mushoku-tensei-isekai-ittara-honki-dasu-2nd-season",
+    image:
+      "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/73a47af4e557a735137ef5972e427538.jpe",
+  },
+  {
+    name: "Mushoku Tensei Jobless Reincarnation OVA Latino",
+    link: "https://drive.google.com/file/d/1-EinC5uhTz_J7XCrAyvlw7LV-Chq7dd8/view",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/73a47af4e557a735137ef5972e427538.jpe",
   },
   {
     name: "Muv-Luv Alternative I",
-    link: "https://www1.otakustv.com/anime/muv-luv-alternative-rfjukyw8",
+    link: "https://tioanime.com/anime/muvluv-alternative",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/4a5604e1f8a68313df91a42bd653f412.jpe",
   },
   {
     name: "Muv-Luv Alternative: Total Eclipse Latino",
-    link: "https://www1.animeonline.ninja/online/muv-luv-alternative-total-eclipse-3/",
+    link: "https://ww3.animeonline.ninja/online/muv-luv-alternative-total-eclipse-3-091025/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/bYTz1u4hOzyOxYCnMGN7cHXwRGO.jpg",
   },
   {
     name: "My Clueless First Friend",
-    link: "https://www1.otakustv.com/anime/jijou-wo-shiranai-tenkousei-ga-guigui-kuru",
+    link: "https://tioanime.com/anime/jijou-wo-shiranai-tenkousei-ga-guigui-kuru",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/cd726bd35ac8591bf6ce1a7779770def.jpe",
   },
   {
     name: "My Dress-Up Darling",
-    link: "https://www1.otakustv.com/anime/sono-bisque-doll-wa-koi-wo-suru",
+    link: "https://tioanime.com/anime/sono-bisque-doll-wa-koi-wo-suru",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/55106611f3f44e55cb25b4da172baf2a.jpe",
   },
   {
     name: "My Dress-Up Darling Latino",
-    link: "https://henaojara2.com/ver/sono-bisque-doll-wa-koi-wo-suru-espanol-latino-hd/",
+    link: "https://drive.google.com/drive/folders/1KjgQlRkPhFC1Fz0s1a53jcOihPi-Pgcn",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/55106611f3f44e55cb25b4da172baf2a.jpe",
   },
   {
     name: "My Dress-Up Darling Season 2",
-    link: "https://www1.otakustv.com/anime/sono-bisque-doll-wa-koi-wo-suru-season-2",
+    link: "https://tioanime.com/anime/sono-bisque-doll-wa-koi-wo-suru",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/3Ja1VRrKLUYZCF5HOkHlAfZVnow.jpg",
   },
   {
     name: "My Dress-Up Darling Season 2 Latino",
-    link: "https://henaojara.com/ver/sono-bisque-doll-wa-koi-wo-suru-espanol-latino-hd/",
+    link: "https://ww3.animeonline.ninja/online/sono-bisque-doll-wa-koi-wo-suru-072925/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/3Ja1VRrKLUYZCF5HOkHlAfZVnow.jpg",
   },
   {
     name: "My Home Hero",
-    link: "https://www1.otakustv.com/anime/my-home-hero",
+    link: "https://tioanime.com/anime/my-home-hero",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/72e6af021b318d071eb2d9f4e6d952cb.jpe",
   },
@@ -3709,15 +3721,21 @@ const data = [
   },
   {
     name: "Oshi No Ko",
-    link: "https://www1.otakustv.com/anime/oshi-no-ko",
+    link: "https://tioanime.com/anime/oshi-no-ko",
     image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/j439R94OPPZQQRqjwlxdyGTOKXF.jpg",
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/rvy4W28wYkct3IFxU0RGF2uHppG.jpg",
   },
   {
     name: "Oshi No Ko 2nd Season",
-    link: "https://www1.otakustv.com/anime/oshi-no-ko-2nd-season",
+    link: "https://tioanime.com/anime/oshi-no-ko",
     image:
-      "https://media.themoviedb.org/t/p/w500_and_h282_face/hhRZcm6iWsfxmFB2GBggpoED9Gc.jpg",
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/z05lf0LjvKIFw4sX3TFvN97hAvF.jpg",
+  },
+  {
+    name: "Oshi No Ko 3rd Season",
+    link: "https://tioanime.com/anime/oshi-no-ko",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/A2o4cNRVeFNWdN227wKS2jYi6v7.jpg",
   },
   {
     name: "Otaku Elf",
@@ -5455,7 +5473,7 @@ const data = [
   },
   {
     name: "There's No Freaking Way I'll Be Your Lover! Unless..",
-    link: "https://henaojara.com/animeonline/watashi-ga-koibito-ni-nareru-wake-nai-jan-sub-espanol-hd/",
+    link: "https://watch.plex.tv/es/show/theres-no-freaking-way-ill-be-your-lover-unless/season/1",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/oqvJfqBLNZR7BJAPkLfN5HioJQ6.jpg",
   },
@@ -5623,7 +5641,7 @@ const data = [
   },
   {
     name: "To Your Eternity",
-    link: "https://www1.otakustv.com/anime/fumetsu-no-anata-e",
+    link: "https://tioanime.com/anime/fumetsu-no-anata-e",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/lLSaesumAlhdmmpdUPldH2Vk4kC.jpg",
   },
@@ -5635,15 +5653,21 @@ const data = [
   },
   {
     name: "To Your Eternity Season 2",
-    link: "https://www1.otakustv.com/anime/fumetsu-no-anata-e-2nd-season",
+    link: "https://tioanime.com/anime/fumetsu-no-anata-e-2nd-season",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/0ce768f96b6dfa3db33abfca5108919f.jpe",
   },
   {
     name: "To Your Eternity Season 2 Latino",
-    link: "https://henaojara2.com/ver/fumetsu-no-anata-e-temporada-2-espanol-latino-hd/",
+    link: "https://ww3.animeonline.ninja/online/fumetsu-no-anata-e/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/0ce768f96b6dfa3db33abfca5108919f.jpe",
+  },
+  {
+    name: "To Your Eternity Season 3",
+    link: "https://tioanime.com/anime/fumetsu-no-anata-e-season-3",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/2EDnxdkuBek59k2mq44R3234aCM.jpg",
   },
   {
     name: "Trapped in a Dating Sim",
@@ -6258,6 +6282,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/w0Zk07fqo2bEKHmIreGk4KvN7ax.jpg",
   },
   {
+    name: "Jujutsu Kaisen Season 3 Latino",
+    link: "https://ww3.animeonline.ninja/online/jujutsu-kaisen-010125/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/w0Zk07fqo2bEKHmIreGk4KvN7ax.jpg",
+  },
+  {
     name: "Jujutsu Kaisen Season 2 Latino",
     link: "https://drive.google.com/drive/folders/1aHTCURWhpf1MEzEr81tIfLfj3a_sNGKR?sort=13&direction=a",
     image:
@@ -6325,13 +6355,13 @@ const data = [
   },
   {
     name: "Mushoku Tensei Jobless Reincarnation Season 2",
-    link: "https://www1.otakustv.com/anime/mushoku-tensei-ii-isekai-ittara-honki-dasu",
+    link: "https://tioanime.com/anime/mushoku-tensei-ii-isekai-ittara-honki-dasu",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/7fafdb10010de70d08cc58c1dad4e5d1.jpe",
   },
   {
     name: "Mushoku Tensei Jobless Reincarnation Season 2 Latino",
-    link: "https://www.henaojara.com/ver/season/mushoku-tensei-isekai-ittara-honki-dasu-espanol-latino-hd-2/",
+    link: "https://drive.google.com/drive/folders/1-PnNQ3W2SF1o4t9HXfB8D5HsRBJFWjlz?sort=13&direction=a",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/7fafdb10010de70d08cc58c1dad4e5d1.jpe",
   },
@@ -6343,19 +6373,19 @@ const data = [
   },
   {
     name: "My Happy Marriage",
-    link: "https://www1.otakustv.com/anime/watashi-no-shiawase-na-kekkon",
+    link: "https://tioanime.com/anime/watashi-no-shiawase-na-kekkon",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/rRu2yhxhPxywgWADU19ZeDu0pzK.jpg",
   },
   {
     name: "My Happy Marriage Latino",
-    link: "https://www.henaojara.com/ver/season/watashi-no-shiawase-na-kekkon-espanol-latino-hd-1/",
+    link: "https://ww3.animeonline.ninja/online/watashi-no-shiawase-na-kekkon/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/rRu2yhxhPxywgWADU19ZeDu0pzK.jpg",
   },
   {
     name: "My Happy Marriage Season II",
-    link: "https://www1.otakustv.com/anime/watashi-no-shiawase-na-kekkon-2nd-season",
+    link: "https://tioanime.com/anime/watashi-no-shiawase-na-kekkon",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/IW6WAymLgJIzMDeppvlH0LJGHm.jpg",
   },
@@ -6588,10 +6618,16 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/qCuR8WS8DXs8h8sEpIx7JTwKq9T.jpg",
   },
   {
-    name: "Frieren: Más allá del final del viaje",
+    name: "Frieren: Tras Finalizar el Viaje",
     link: "https://tioanime.com/anime/sousou-no-frieren",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/9egkYIBkJiI2jajspkEmneXaLSh.jpg",
+  },
+  {
+    name: "Frieren: Tras Finalizar el Viaje Season 2",
+    link: "https://tioanime.com/anime/sousou-no-frieren-2nd-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/a47oBhPll8SzPJaef1VzG0Yft91.jpg",
   },
   {
     name: "Shangri-La Frontier",
@@ -6655,7 +6691,7 @@ const data = [
   },
   {
     name: "Girlfriend, Girlfriend Season 2",
-    link: "https://www1.otakustv.com/anime/kanojo-mo-kanojo-season-2",
+    link: "https://tioanime.com/anime/kanojo-mo-kanojo-season-2",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/qXhI8Z4b9IOKk2stKymGlqpQ0RX.jpg",
   },
@@ -6792,8 +6828,8 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/oz3LT9glLNWpSQACnWlIYoSZA5M.jpg",
   },
   {
-    name: "Frieren: Más allá del final del viaje Latino",
-    link: "https://www.henaojara.com/ver/season/sousou-no-frieren-espanol-latino-hd-1/",
+    name: "Frieren: Tras Finalizar el Viaje Latino",
+    link: "https://drive.google.com/drive/folders/1-Ie1eJZQ8aYXOikzwDjk68od-zEm50gf",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/bcc213e8825420a85790049366d409fd.jpe",
   },
@@ -6871,7 +6907,7 @@ const data = [
   },
   {
     name: "Girlfriend, Girlfriend Season 2 Latino",
-    link: "https://www.henaojara.com/ver/season/kanojo-mo-kanojo-espanol-latino-hd-2/",
+    link: "https://drive.google.com/drive/folders/1Uwhi2deEyppYWD9WruMgywanYMDqfEj9?sort=13&direction=a",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/qXhI8Z4b9IOKk2stKymGlqpQ0RX.jpg",
   },
@@ -7201,7 +7237,13 @@ const data = [
   },
   {
     name: "Monsters: El infierno del Dragon",
-    link: "https://www1.otakustv.com/anime/monsters-ippyaku-sanjou-hiryuu-jigoku",
+    link: "https://ww3.animeonline.ninja/pelicula/monsters-ippyaku-sanjou-hiryuu-jigoku-111124/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/VvRIlfsBCLLXoPty0hf21ek6b6.jpg",
+  },
+  {
+    name: "Monsters: El infierno del Dragon Latino",
+    link: "https://ww3.animeonline.ninja/pelicula/monsters-ippyaku-sanjou-hiryuu-jigoku-111124/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/VvRIlfsBCLLXoPty0hf21ek6b6.jpg",
   },
@@ -7873,7 +7915,7 @@ const data = [
   },
   {
     name: "Murai in Love",
-    link: "https://www1.otakustv.com/anime/murai-no-koi",
+    link: "https://ww3.animeonline.ninja/online/murai-in-love/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/FXghbAWMP3fgkszvODVzQ8nsh8.jpg",
   },
@@ -8050,6 +8092,18 @@ const data = [
     link: "https://www1.otakustv.com/anime/slow-start",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/605830fba20318b80a1a5e7dcd7fdd40.jpe",
+  },
+  {
+    name: "You and I Are Polar Opposites",
+    link: "https://tioanime.com/anime/seihantai-na-kimi-to-boku",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/lO9P2iA3yp9wTHtomrJBOSYU585.jpg",
+  },
+  {
+    name: "You and I Are Polar Opposites Latino",
+    link: "https://ww3.animeonline.ninja/online/seihantai-na-kimi-to-boku/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/lO9P2iA3yp9wTHtomrJBOSYU585.jpg",
   },
   {
     name: "You are Ms. Servant",

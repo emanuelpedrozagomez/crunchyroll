@@ -1123,7 +1123,7 @@ const data = [
   },
   {
     name: "Date a Live II Latino",
-    link: "https://www1.animeonline.ninja/online/date-a-live-3/",
+    link: "https://drive.google.com/drive/folders/1dE32IGwZr857BhEz_Pk-i9wx-xJKT2sj?sort=13&direction=a",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/pebUVrdxDa5OAcelyWypidPaRjP.jpg",
   },
@@ -1135,7 +1135,7 @@ const data = [
   },
   {
     name: "Date a Live III Latino",
-    link: "https://www1.animeonline.ninja/online/date-a-live-3/",
+    link: "https://drive.google.com/drive/folders/1dQnLV7RxoEMvhT3tbuHUXwLp_qU8_L5x?sort=13&direction=a",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/6wvmGAbbQljlM8GDFBLjq8Thr3R.jpg",
   },
@@ -1153,7 +1153,7 @@ const data = [
   },
   {
     name: "Date a Live IV Latino",
-    link: "https://www.animelatinohd.com/anime/date-a-live-iv",
+    link: "https://drive.google.com/drive/folders/1dX8rXb20RK8xnTtOzRsNQ2buSAg754GN?sort=13&direction=a",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/3831353540b0f1547c202f2df446cf2c.jpe",
   },
@@ -1165,7 +1165,7 @@ const data = [
   },
   {
     name: "Date a Live V Latino",
-    link: "https://wvw.henaojara.com/veronline/season/date-a-live-espanol-latino-hd-5/",
+    link: "https://drive.google.com/drive/folders/1frUKDEqrmSlFusGKTWvi7oLxWXNHMH3a?sort=13&direction=a",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/25iu5XcfnVQXDK6z1JYpvhJ3GEn.jpg",
   },
@@ -1693,7 +1693,7 @@ const data = [
   },
   {
     name: "Fire Force Season 3 Latino",
-    link: "https://henaojara.com/animeonline/season/fire-force-espanol-latino-hd-3/",
+    link: "https://ww3.animeonline.ninja/online/enen-no-shouboutai-082325/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/kbzFeLiV0qeXpd81XeG4P8RNXnZ.jpg",
   },
@@ -3433,67 +3433,67 @@ const data = [
   },
   {
     name: "My Love Story with Yamada-kun at Lv999",
-    link: "https://www1.otakustv.com/anime/yamada-kun-to-lv999-no-koi-wo-suru",
+    link: "https://tioanime.com/anime/yamadakun-to-lv999-no-koi-wo-suru",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/ffad1b93800580a55173288141b9a321.jpe",
   },
   {
     name: "My Next Life as a Villainess: All Routes Lead to Doom!",
-    link: "https://www1.otakustv.com/anime/otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta",
+    link: "https://tioanime.com/anime/otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/uWN2Ppbo7ULukCiKwkSwApX64kz.jpg",
   },
   {
     name: "My Next Life as a Villainess: All Routes Lead to Doom! Latino",
-    link: "https://henaojara2.com/ver/season/otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-espanol-latino-hd-1/",
+    link: "https://ww3.animeonline.ninja/online/otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/uWN2Ppbo7ULukCiKwkSwApX64kz.jpg",
   },
   {
     name: "My Next Life as a Villainess: All Routes Lead to Doom! X",
-    link: "https://www1.otakustv.com/anime/otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-x",
+    link: "https://tioanime.com/anime/otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-x",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/8251f7fea775d24c5f1f90403f8dbbdc.jpe",
   },
   {
     name: "My One-Hit Kill Sister",
-    link: "https://www1.otakustv.com/anime/isekai-one-turn-kill-neesan-ane-douhan-no-isekai-seikatsu-hajimemashita",
+    link: "https://tioanime.com/anime/isekai-one-turn-kill-neesan",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/059e96ab752246038e308868e3dc5b1c.jpe",
   },
   {
     name: "My One-Hit Kill Sister Latino",
-    link: "https://henaojara2.com/ver/season/isekai-one-turn-kill-neesan-ane-douhan-no-isekai-seikatsu-hajimemashita-espanol-latino-hd-1/",
+    link: "https://drive.google.com/drive/folders/1doP-cLB5hm_7O_rRHTZhFDlM-rjt53fd",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/059e96ab752246038e308868e3dc5b1c.jpe",
   },
   {
     name: "My Senpai Is Annoying",
-    link: "https://www1.otakustv.com/anime/senpai-ga-uzai-kouhai-no-hanashi",
+    link: "https://tioanime.com/anime/senpai-ga-uzai-kouhai-no-hanashi",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d2939ef074fb005b6b0ab43a02405a8b.jpe",
   },
   {
     name: "My Stepmom's daughter is my Ex",
-    link: "https://www1.otakustv.com/anime/mamahaha-no-tsurego-ga-motokano-datta",
+    link: "https://tioanime.com/anime/mamahaha-no-tsurego-ga-motokano-datta",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/c8a2cf25205400af268d297da1856b62.jpe",
   },
   {
     name: "My Teen Romantic Comedy SNAFU",
-    link: "https://www1.otakustv.com/anime/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan",
+    link: "https://tioanime.com/anime/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2692bdd1b4cc8e6be7d631618693effe.jpe",
   },
   {
     name: "My Teen Romantic Comedy SNAFU OVA",
-    link: "https://www1.otakustv.com/anime/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan-dakara-shishunki-wa-owarazu-ni-seishun-wa-tsuzuiteiku",
+    link: "https://tioanime.com/anime/yahari-ore-no-seishun-love-comedy-wa-machigatteir",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/5VL7HC4aeLhepAaGxaQBUBWgIGo.jpg",
   },
   {
     name: "Naruto",
-    link: "https://www1.otakustv.com/anime/naruto-qqkvdgzg?page=7",
+    link: "https://tioanime.com/anime/naruto",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/fHzEhl6YUfZ9UPVB8rLU8Ed0ws0.jpg",
   },
@@ -3505,7 +3505,7 @@ const data = [
   },
   {
     name: "Naruto Shippuden",
-    link: "https://www1.otakustv.com/anime/naruto-shippuden-juz6rrkb",
+    link: "https://tioanime.com/anime/naruto-shippuden-hd",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/3f283002b47c62b1e5d311c45f95c97e.jpg",
   },
@@ -3523,13 +3523,13 @@ const data = [
   },
   {
     name: "Natsume Yuujinchou Shichi",
-    link: "https://www1.otakustv.com/anime/natsume-yuujinchou-shichi",
+    link: "https://tioanime.com/anime/natsume-yuujin-chou",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/4052892c6a1a18883234c8a1518d4d1f.jpg",
   },
   {
     name: "Nekopara",
-    link: "https://www1.otakustv.com/anime/nekopara-tv",
+    link: "https://tioanime.com/anime/nekopara-tv",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/732a411b8e272d474e68ade51c8c5793.jpe",
   },
@@ -3967,9 +3967,15 @@ const data = [
   },
   {
     name: "Ranma 1/2 (2024) Latino",
-    link: "https://www.henaojara.com/veronline/season/ranma-1-2-2024-espanol-latino-hd-1/",
+    link: "https://drive.google.com/drive/folders/11WtIchGk9K5Zx1t2Ac_ccuUXFaSafykA",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/q0rCSD5PDuSU8Bu5CGf6VQDiZfn.jpg",
+  },
+  {
+    name: "Ranma 1/2 (2024) 2nd Season Latino",
+    link: "https://drive.google.com/drive/folders/1cWs1GeI2Dc29xFbJ9UpwGXnPvqil92mp",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/tCniZ5p6lqgeG9BflTBh6phgeZb.jpg",
   },
   {
     name: "Ranking of Kings",
@@ -5856,6 +5862,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/841e4a40b6df5b49d7231357988d7f96.jpe",
   },
   {
+    name: "Wash It All Away",
+    link: "https://tioanime.com/anime/kirei-ni-shitemoraemasu-ka",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/sar0cDDsW4QQlwajv3kbVNLC8Rf.jpg",
+  },
+  {
     name: "Watari-kun's ****** Is about to Collapse",
     link: "https://www1.otakustv.com/anime/watari-kun-no-xx-ga-houkai-sunzen",
     image:
@@ -6391,37 +6403,37 @@ const data = [
   },
   {
     name: "My Happy Marriage Season II Latino",
-    link: "https://www.henaojara.com/veronline/season/watashi-no-shiawase-na-kekkon-espanol-latino-hd-2/",
+    link: "https://ww3.animeonline.ninja/online/watashi-no-shiawase-na-kekkon/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/IW6WAymLgJIzMDeppvlH0LJGHm.jpg",
   },
   {
     name: "My Tiny Senpai",
-    link: "https://www1.otakustv.com/anime/uchi-no-kaisha-no-chiisai-senpai-no-hanashi",
+    link: "https://tioanime.com/anime/uchi-no-kaisha-no-chiisai-senpai-no-hanashi",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a9a1c5653ff8f4493b8f214ab98bb075.jpe",
   },
   {
     name: "My Tiny Senpai Latino",
-    link: "https://www.henaojara.com/ver/season/uchi-no-kaisha-no-chiisai-senpai-no-hanashi-espanol-latino-hd-1/",
+    link: "https://drive.google.com/drive/folders/12-ncuwbsDXPFIz7sujYuvOsAoLyZuiBR",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a9a1c5653ff8f4493b8f214ab98bb075.jpe",
   },
   {
     name: "My Unique Skill Makes Me OP Even at Level 1",
-    link: "https://www1.otakustv.com/anime/level-1-dakedo-unique-skill-de-saikyou-desu",
+    link: "https://tioanime.com/anime/level-1-dakedo-unique-skill-de-saikyou-desu",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/34961bcd3a3eec5e57f2f811799881ed.jpe",
   },
   {
     name: "My Unique Skill Makes Me OP Even at Level 1 Latino",
-    link: "https://www.henaojara.com/ver/level-1-dakedo-unique-skill-de-saikyou-desu-espanol-latino-hd/",
+    link: "https://drive.google.com/drive/folders/1-blMD2IU-72LCnBBwkOdpz_NCYYC4tiy",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/34961bcd3a3eec5e57f2f811799881ed.jpe",
   },
   {
     name: "NABARI Latino",
-    link: "https://www.henaojara.com/ver/season/nabari-no-ou-espanol-latino-hd-1/",
+    link: "https://play.mercadolibre.com.mx/ver/nabari-no-ou/b6318e0e721948d4beb5502d6f8bc480",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/4Bbdj3fFG1fng7Hlj7t19Mu5LM8.jpg",
   },
@@ -7219,7 +7231,7 @@ const data = [
   },
   {
     name: "Shaman King: Flowers Latino",
-    link: "https://ww3.animeonline.ninja/online/shaman-king-flowers/",
+    link: "https://play.mercadolibre.com.mx/ver/shaman-king-flowers/11e10aca977f438e99fec0ee94d19701",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/eD0eKzDkdvoThLvqaS0Z7RGtC8L.jpg",
   },
@@ -7261,7 +7273,7 @@ const data = [
   },
   {
     name: "My Instant Death Ability Is Overpowered",
-    link: "https://www1.otakustv.com/anime/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga",
+    link: "https://tioanime.com/anime/sokushi-cheat",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/zN6kspmbYSwR8nmNeKvD4efNnxj.jpg",
   },
@@ -7591,7 +7603,7 @@ const data = [
   },
   {
     name: "My Happy Marriage: The Shape of Happiness",
-    link: "https://www1.otakustv.com/anime/watashi-no-shiawase-na-kekkon-watashi-no-shiawase-na-katachi",
+    link: "https://tioanime.com/anime/watashi-no-shiawase-na-kekkon",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/47paVjrEB704gUaKc2Y93DoLver.jpg",
   },
@@ -7783,7 +7795,7 @@ const data = [
   },
   {
     name: "Narenare",
-    link: "https://www1.otakustv.com/anime/na-nare-hana-nare",
+    link: "https://tioanime.com/anime/na-nare-hana-nare",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/f42fb63267893b3a88eadf1da0158e8b.jpg",
   },
@@ -8233,7 +8245,7 @@ const data = [
   },
   {
     name: "My Love Story!!",
-    link: "https://www1.otakustv.com/anime/ore-monogatari",
+    link: "https://tioanime.com/anime/ore-monogatari",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/iJ8j4U5R2GKFtT1bwGJJxxjzoRJ.jpg",
   },

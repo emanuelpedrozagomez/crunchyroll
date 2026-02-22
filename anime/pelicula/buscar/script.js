@@ -1661,6 +1661,18 @@ const data = [
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/jpZk9B8hfsiBOshcNPI7TN3w3Fi.jpg",
   },
+  {
+    name: "Yowamushi Pedal Re:ROAD",
+    link: "https://pluto.tv/latam/on-demand/movies/616f01c90b4e8f001a976147/details",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/guTLPlGoKrMffhDgn1TCP2ocsvj.jpg",
+  },
+  {
+    name: "Yowamushi Pedal Re:RIDE",
+    link: "https://pluto.tv/latam/on-demand/movies/616f019f4f409e001a48881c/details",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/guTLPlGoKrMffhDgn1TCP2ocsvj.jpg",
+  },
 ];
 const searchInput = document.getElementById("searchInput");
 const resultsList = document.getElementById("results");

@@ -3535,7 +3535,7 @@ const data = [
   },
   {
     name: "Neo Genesis Evangelio",
-    link: "https://www1.otakustv.com/anime/neon-genesis-evangelion-uycb8ewtx2oq?page=1",
+    link: "https://tioanime.com/anime/neon-genesis-evangelion",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/7JIcAdO0mKxYTVbngJ2ejQLRcir.jpg",
   },
@@ -3547,55 +3547,55 @@ const data = [
   },
   {
     name: "New Game!",
-    link: "https://www1.otakustv.com/anime/new-game",
+    link: "https://tioanime.com/anime/new-game",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/cW4tnJEYlErmCqz0ZdFkABFnzox.jpg",
   },
   {
     name: "New Game!!",
-    link: "https://www1.otakustv.com/anime/new-game-2",
+    link: "https://tioanime.com/anime/new-game2",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2d2c3381c9aabc3acb9551199f383ca3.jpe",
   },
   {
     name: "New Panty & Stocking with Garterbelt",
-    link: "https://www1.otakustv.com/anime/new-panty-stocking-with-garterbelt",
+    link: "https://tioanime.com/anime/panty-and-stocking",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/j5Mj8QAhLEo5lCypRT4NTNFqfJh.jpg",
   },
   {
     name: "New Panty & Stocking with Garterbelt Latino",
-    link: "https://otakuverso.net/anime/new-panty-stocking-with-garterbelt-latino",
+    link: "https://ww3.animeonline.ninja/online/new-panty-and-stocking-with-garterbelt/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/j5Mj8QAhLEo5lCypRT4NTNFqfJh.jpg",
   },
   {
     name: "Nisekoi",
-    link: "https://www1.otakustv.com/anime/nisekoi",
+    link: "https://tioanime.com/anime/nisekoi",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/4eVULuSLgNzUW7ZSQ7Awk384scu.jpg",
   },
   {
     name: "Nisekoi Season 2",
-    link: "https://www1.otakustv.com/anime/nisekoi-2",
+    link: "https://tioanime.com/anime/nisekoi-2",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/1c349f82bf9c4229d52331e48a908d4e.jpe",
   },
   {
     name: "No Game No Life",
-    link: "https://www1.otakustv.com/anime/no-game-no-life-amljb749",
+    link: "https://tioanime.com/anime/no-game-no-life",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/7IF40JMThUS0qqSBuhrODS2EZHZ.jpg",
   },
   {
     name: "No Game No Life Latino",
-    link: "https://www1.otakustv.com/anime/no-game-no-life-latino-fvokkpru",
+    link: "https://drive.google.com/drive/folders/1cjYdq2pQ05U5EMWbHxfGV_OZeJLs1Pjv",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/7IF40JMThUS0qqSBuhrODS2EZHZ.jpg",
   },
   {
     name: "Noblesse",
-    link: "https://www1.otakustv.com/anime/noblesse-gtkyb64j",
+    link: "https://tioanime.com/anime/noblesse",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/4fc1e865c2b81f4a274be53e551eadd5.jpe",
   },
@@ -3607,7 +3607,7 @@ const data = [
   },
   {
     name: "Noragami",
-    link: "https://www1.otakustv.com/anime/noragami",
+    link: "https://tioanime.com/anime/noragami",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/b5dc286fb64f7bdc8eaa47e36f079c74.jpe",
   },
@@ -3618,20 +3618,20 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/b5dc286fb64f7bdc8eaa47e36f079c74.jpe",
   },
   {
-    name: "Noragami Season 2",
-    link: "https://www1.otakustv.com/anime/noragami-aragoto",
+    name: "Noragami Aragoto",
+    link: "https://tioanime.com/anime/noragami-aragoto",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/7PAZ9daP0SiYETNIKIgAftmfWZV.jpg",
   },
   {
-    name: "Noragami Season 2 Latino",
+    name: "Noragami Aragoto Latino",
     link: "https://drive.google.com/drive/u/0/folders/1UcYu53f5TiNGjaiC-OiA8SSnf7JZImRK",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/7PAZ9daP0SiYETNIKIgAftmfWZV.jpg",
   },
   {
     name: "Ningen Fushin",
-    link: "https://www1.otakustv.com/anime/ningen-fushin-no-boukensha-tachi-ga-sekai-wo-sukuu-you-desu",
+    link: "https://tioanime.com/anime/ningen-fushin-no-boukenshatachi-ga-sekai-wo-sukuu-you-desu",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/0c72418ea3b7ebb22c65964466a3ebaa.jpe",
   },
@@ -6439,7 +6439,7 @@ const data = [
   },
   {
     name: "Ningen Fushin Latino",
-    link: "https://www.henaojara.com/ver/season/ningen-fushin-no-boukensha-tachi-ga-sekai-wo-sukuu-you-desu-espanol-latino-hd-1/",
+    link: "https://drive.google.com/drive/folders/1LQ6b4l4zlY2w2CzzSRgOerLA7aa6wyEL",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/0c72418ea3b7ebb22c65964466a3ebaa.jpe",
   },
@@ -7279,7 +7279,7 @@ const data = [
   },
   {
     name: "Non Non Biyori",
-    link: "https://www1.otakustv.com/anime/non-non-biyori",
+    link: "https://tioanime.com/anime/non-non-biyori",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/05af416739a32a74acfa022d7b0401fa.jpe",
   },
@@ -7327,19 +7327,19 @@ const data = [
   },
   {
     name: "Ninja Kamui",
-    link: "https://www1.otakustv.com/anime/ninja-kamui",
+    link: "https://ww3.animeonline.ninja/online/ninja-kamui-040324/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/giCayJUQCFzcuWzKGpZiueHTV5B.jpg",
   },
   {
     name: "Ninja Kamui Latino",
-    link: "https://www.henaojara.com/veronline/season/ninja-kamui-espanol-latino-hd-1/",
+    link: "https://ww3.animeonline.ninja/online/ninja-kamui-040324/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/giCayJUQCFzcuWzKGpZiueHTV5B.jpg",
   },
   {
     name: "Made in Abyss",
-    link: "https://www1.otakustv.com/anime/made-in-abyss",
+    link: "https://tioanime.com/anime/made-in-abyss",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/7TE7ibBpydQEvRqQQIojX9NHR8r.jpg",
   },
@@ -7477,13 +7477,13 @@ const data = [
   },
   {
     name: "Nijiyon Animation",
-    link: "https://www1.otakustv.com/anime/nijiyon-animation",
+    link: "https://tioanime.com/anime/nijiyon-animation",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=1200,height=675,quality=85/catalog/crunchyroll/1e3cf604ac1d663ccf35402548c48a91.jpe",
   },
   {
     name: "Nijiyon Animation Season 2",
-    link: "https://www1.otakustv.com/anime/nijiyon-animation-2",
+    link: "https://tioanime.com/anime/nijiyon-animation",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/w4HRxqbrDanMTDTsZc9UHVQBhKp.jpg",
   },

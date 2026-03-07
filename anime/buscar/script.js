@@ -3649,19 +3649,19 @@ const data = [
   },
   {
     name: "Odd Taxi",
-    link: "https://www1.otakustv.com/anime/odd-taxi",
+    link: "https://ww3.animeonline.ninja/online/odd-taxi/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/144d9ff360e87f7bcc91e1984ed0b3f3.jpe",
   },
   {
     name: "One Piece",
-    link: "https://www.crunchyroll.com/es/series/GRMG8ZQZR/one-piece",
+    link: "https://pluto.tv/latam/on-demand/series/60116313813b2d001b696c9e/season/1",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/1ecde018e863e2aaee31f00a23378c35.jpe",
   },
   {
     name: "One Piece: Fish-Man Saga",
-    link: "https://www1.otakustv.com/anime/one-piece-gyojin-tou-hen",
+    link: "https://ww3.animeonline.ninja/online/one-piece-gyojin-tou-hen/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/1ecde018e863e2aaee31f00a23378c35.jpe",
   },
@@ -3709,13 +3709,13 @@ const data = [
   },
   {
     name: "ORESUKI",
-    link: "https://www1.otakustv.com/anime/ore-wo-suki-nano-wa-omae-dake-ka-yo-vjoqivtu",
+    link: "https://tioanime.com/anime/ore-wo-suki-nano-wa-omae-dake-ka-yo",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/610769dbe6bde8a93f8cdf9010cc7b61.jpe",
   },
   {
     name: "ORESUKI OVA",
-    link: "https://www1.otakustv.com/anime/ore-wo-suki-nano-wa-omae-dake-ka-yo-oretachi-no-game-set-jq2t50rx",
+    link: "https://tioanime.com/anime/ore-wo-suki-nano-wa-omae-dake-ka-yo-oretachi-no-game-set",
     image:
       "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/l3mPSJOhE5v5nNdCLGA5YwWg0MT.jpg",
   },
@@ -3739,43 +3739,37 @@ const data = [
   },
   {
     name: "Otaku Elf",
-    link: "https://www1.otakustv.com/anime/edomae-elf",
+    link: "https://tioanime.com/anime/edomae-elf",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/aOEVqHvf4pBSqeC6YO2jJBS1sAb.jpg",
   },
   {
     name: "Our Last Crusade Or The Rise Of A New World",
-    link: "https://www1.otakustv.com/anime/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-zrephmnw",
+    link: "https://tioanime.com/anime/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a81b995a86a1c2f4840db4643b6313d4.jpe",
   },
   {
     name: "Our Last Crusade Or The Rise Of A New World Latino",
-    link: "https://www.henaojara.com/ver/kimi-to-boku-no-saigo-no-senjou-espanol-latino-hd/",
+    link: "https://ww3.animeonline.ninja/online/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-3/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a81b995a86a1c2f4840db4643b6313d4.jpe",
   },
   {
-    name: "Ouran High School Host Club Latino",
-    link: "https://otakuverso.net/anime/ouran-koukou-host-club-latino",
-    image:
-      "https://media.themoviedb.org/t/p/w500_and_h282_face/uOoiCQl8UdhwpTe7ToMzwSTbINT.jpg",
-  },
-  {
     name: "Overlord",
-    link: "https://www1.otakustv.com/anime/overlord",
+    link: "https://tioanime.com/anime/overlord",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/9W7JRC7MLpjLSLZsUScHHFRkDPR.jpg",
   },
   {
     name: "Overlord Latino",
-    link: "https://www1.otakustv.com/anime/overlord",
+    link: "https://www.animelatinohd.com/anime/overlord",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/9W7JRC7MLpjLSLZsUScHHFRkDPR.jpg",
   },
   {
     name: "Overlord II",
-    link: "https://www1.otakustv.com/anime/overlord-ii",
+    link: "https://tioanime.com/anime/overlord-ii",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/jO67QvGtGs32L2wGBUUqf7QhY4i.jpg",
   },
@@ -3787,7 +3781,7 @@ const data = [
   },
   {
     name: "Overlord III",
-    link: "https://www1.otakustv.com/anime/overlord-iii",
+    link: "https://tioanime.com/anime/overlord-iii",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/55kbv2XhO5iSF2oZuZjczTjBBPv.jpg",
   },
@@ -3799,7 +3793,7 @@ const data = [
   },
   {
     name: "Overlord IV",
-    link: "https://www1.otakustv.com/anime/overlord-iv",
+    link: "https://tioanime.com/anime/overlord-iv",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/5b65797ccc7305b99cd8f1922d66d777.jpe",
   },
@@ -6445,7 +6439,7 @@ const data = [
   },
   {
     name: "Otome Youkai ZAKURO Latino",
-    link: "https://www.henaojara.com/ver/season/otome-youkai-zakuro-1/",
+    link: "https://play.mercadolibre.com.mx/ver/otome-yokai-zakuro/e0c402593cb942fe820adb11aef229d8?origin=mplay_search",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/fw6Fd4yYka49hdJs53ig7gGuw04.jpg",
   },
@@ -7740,6 +7734,18 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/sWRP7tYngmuH80dAVlAh8D0cAw7.jpg",
   },
   {
+    name: "Aoashi",
+    link: "https://tioanime.com/anime/ao-ashi",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/7bwfG5T96ViLo88xU8MVtcr9jCT.jpg",
+  },
+  {
+    name: "Aoashi Latino",
+    link: "https://ww3.animeonline.ninja/online/ao-ashi/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/7bwfG5T96ViLo88xU8MVtcr9jCT.jpg",
+  },
+  {
     name: "Ameku M.D.: Doctor Detective",
     link: "https://tioanime.com/anime/ameku-takao-no-suiri-karte",
     image:
@@ -7987,7 +7993,7 @@ const data = [
   },
   {
     name: "Orb: On the Movements of the Earth",
-    link: "https://www1.otakustv.com/anime/chi-chikyuu-no-undou-ni-tsuite",
+    link: "https://tioanime.com/anime/chi-chikyuu-no-undou-ni-tsuite",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/lFJuqrNitetH9MibNFR0I9CvJwh.jpg",
   },
@@ -8281,7 +8287,7 @@ const data = [
   },
   {
     name: "OKITSURA",
-    link: "https://www1.otakustv.com/anime/okinawa-de-suki-ni-natta-ko-ga-hougen-sugite-tsurasugiru",
+    link: "https://tioanime.com/anime/okinawa-de-suki-ni-natta-ko-ga-hougen-sugite-tsurasugiru",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/2d70de2f5ecf212e280e0696ce89730c.jpg",
   },

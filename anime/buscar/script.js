@@ -918,6 +918,18 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/x5mWE8ZxkjNlUqa6EmeWedSVtL5.jpg",
   },
   {
+    name: "Chained Soldier",
+    link: "https://tioanime.com/anime/mato-seihei-no-slave",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/ncKJRkANwkiv3NtCMWwbS6PJsqv.jpg",
+  },
+  {
+    name: "Chained Soldier Season 2",
+    link: "https://tioanime.com/anime/mato-seihei-no-slave-2",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/teB07cr1zO2y1kWtfqYvNeS0miU.jpg",
+  },
+  {
     name: "Chainsaw Man",
     link: "https://www.crunchyroll.com/es/series/GVDHX8QNW/chainsaw-man",
     image:
@@ -4138,6 +4150,18 @@ const data = [
     link: "https://www1.animeonline.ninja/online/gyakuten-sekai-no-denchi-shoujo/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/5f6f3cee84c31c0eed461956db23d682.jpe",
+  },
+  {
+    name: "Rooster Fighter",
+    link: "https://tioanime.com/anime/niwatori-fighter",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/rvLiZOzkpLglemPSv2LwAS7Fw7u.jpg",
+  },
+  {
+    name: "Rooster Fighter Latino",
+    link: "https://ww3.animeonline.ninja/online/niwatori-fighter-rooster-fighter/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/rvLiZOzkpLglemPSv2LwAS7Fw7u.jpg",
   },
   {
     name: "Ruri Rocks",

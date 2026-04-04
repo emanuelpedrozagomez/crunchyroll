@@ -1423,7 +1423,7 @@ const data = [
   },
   {
     name: "Dr. Stone: Science Future Latino",
-    link: "https://henaojara.com/ver/season/dr-stone-espanol-latino-hd-4/",
+    link: "https://ww3.animeonline.ninja/online/dr-stone-071725/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/nEe13H2dzeMLZsKgxoZWtMLsN5y.jpg",
   },
@@ -3817,19 +3817,19 @@ const data = [
   },
   {
     name: "Parallel World Pharmacy",
-    link: "https://www1.otakustv.com/anime/isekai-yakkyoku",
+    link: "https://tioanime.com/anime/isekai-yakkyoku",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/8f95fe013a6d6fb461b9cfcb57cc25c6.jpe",
   },
   {
     name: "Paranoia Agent",
-    link: "https://www1.otakustv.com/anime/mousou-dairinin",
+    link: "https://tioanime.com/anime/mousou-dairinin",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/kCEymZlfSUkJL03KQnQjBSokXJU.jpg",
   },
   {
     name: "Pokémon",
-    link: "https://www1.otakustv.com/anime/pokemon",
+    link: "https://tioanime.com/anime/pokemon",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/1bxAO1CmwLoQSrKt18aFmg5QQws.jpg",
   },
@@ -3877,13 +3877,13 @@ const data = [
   },
   {
     name: "Poputepipikku",
-    link: "https://www1.otakustv.com/anime/poputepipikku-t7vu5xeg",
+    link: "https://tioanime.com/anime/poputepipikku",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/jUgToSgj6dxVWrJOrFvZZfxsqSb.jpg",
   },
   {
     name: "Poputepipikku II",
-    link: "https://www1.otakustv.com/anime/poputepipikku-2nd-season",
+    link: "https://tioanime.com/anime/poputepipikku-2nd-season",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/e65301940022cc6366470b88b3fc2ea2.jpe",
   },
@@ -3895,37 +3895,37 @@ const data = [
   },
   {
     name: "Plastic Memories",
-    link: "https://www1.otakustv.com/anime/plastic-memories-jdutle8f",
+    link: "https://tioanime.com/anime/plastic-memories",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/3023b364b1a5a19708d0153519594143.jpe",
   },
   {
     name: "Platinum End",
-    link: "https://www1.otakustv.com/anime/platinum-end",
+    link: "https://tioanime.com/anime/platinum-end",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/f94fdc0422beed08e6e543eaf13868ce.jpe",
   },
   {
     name: "Platinum End Latino",
-    link: "https://www.henaojara.com/ver/platinum-end-espanol-latino-hd/",
+    link: "https://ww3.animeonline.ninja/online/platinum-end-041825/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/f94fdc0422beed08e6e543eaf13868ce.jpe",
   },
   {
     name: "Prima Doll",
-    link: "https://www1.otakustv.com/anime/prima-doll",
+    link: "https://tioanime.com/anime/prima-doll",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/zy0FC4w6if845Hoqbk0OUQws5Y4.jpg",
   },
   {
     name: "Psycho-Pass 2",
-    link: "https://www1.otakustv.com/anime/psycho-pass-2",
+    link: "https://tioanime.com/anime/psycho-pass-2",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/zrW7b4AQnX7KeZUYsmpdV3z5qlp.jpg",
   },
   {
     name: "Psycho-Pass 3",
-    link: "https://www1.otakustv.com/anime/psycho-pass-3",
+    link: "https://tioanime.com/anime/psychopass-3",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/hLWuBYxTXDhlDbTGpKbTSwupRHX.jpg",
   },
@@ -6847,13 +6847,13 @@ const data = [
   },
   {
     name: "PLUTO",
-    link: "https://www1.otakustv.com/anime/pluto",
+    link: "https://ww3.animeonline.ninja/online/pluto/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/u3qPu3QOsRVM5LR7QLCjIQRrwWc.jpg",
   },
   {
     name: "PLUTO Latino",
-    link: "https://www.henaojara.com/ver/season/pluto-espanol-latino-hd-1/",
+    link: "https://ww3.animeonline.ninja/online/pluto/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/oz3LT9glLNWpSQACnWlIYoSZA5M.jpg",
   },
@@ -6988,6 +6988,12 @@ const data = [
     link: "https://www.henaojara.com/ver/akame-ga-kill-espanol-latino-hd/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/lBHjDHBTDkyTTtK4wXIeGMprt1Z.jpg",
+  },
+  {
+    name: "Akane-banashi",
+    link: "https://www.youtube.com/watch?v=OEDAOyIjSNA&list=PLwfE82x42voAcBJrkmSQgNunnH9fBbp6b",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/nwcAJJ6QTxU7JfWwdRgJjtiYYXO.jpg",
   },
   {
     name: "Akaneiro ni Somaru Saka Latino",
@@ -7494,6 +7500,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/aW8pwnFbHKNjxmhWSY4dO0Cx6F2.jpg",
   },
   {
+    name: "Go For It, Nakamura-kun!!",
+    link: "https://tioanime.com/anime/ganbare-nakamurakun",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/5v0TUdUZOsrNv0ibi91HgwpMyL3.jpg",
+  },
+  {
     name: "Nijiyon Animation",
     link: "https://tioanime.com/anime/nijiyon-animation",
     image:
@@ -7867,13 +7879,13 @@ const data = [
   },
   {
     name: "Pseudo Harem",
-    link: "https://www1.otakustv.com/anime/giji-harem",
+    link: "https://tioanime.com/anime/giji-harem",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/0e3b03c17fd2214fbb11d0319bfe1447.jpg",
   },
   {
     name: "Pseudo Harem Latino",
-    link: "https://wvw.henaojara.com/veronline/season/giji-harem-espanol-latino-hd-1/",
+    link: "https://drive.google.com/drive/folders/1bXhEkFgYsg-qAy9bhxsSTsv4WlIHOGia",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/0e3b03c17fd2214fbb11d0319bfe1447.jpg",
   },
@@ -7987,7 +7999,7 @@ const data = [
   },
   {
     name: "Princess Principal",
-    link: "https://www1.otakustv.com/anime/princess-principal",
+    link: "https://tioanime.com/anime/princess-principal",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/jaTUs2eoaa8sdAEBklMXoYJN2b6.jpg",
   },
@@ -8269,7 +8281,7 @@ const data = [
   },
   {
     name: "Ririsa, una chica en 2.5D Latino",
-    link: "https://www.henaojara.com/veronline/season/2-5-jigen-no-ririsa-espanol-latino-hd-1/",
+    link: "https://drive.google.com/drive/folders/1JKljKSlE-b47K0OMCxl0hr3fvKP9pct1",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/kI0e1DQiL6Cy2ykPlw5BpEtCayO.jpg",
   },
@@ -8395,7 +8407,7 @@ const data = [
   },
   {
     name: "Puniru is Kawaii Slime",
-    link: "https://www1.otakustv.com/anime/puniru-wa-kawaii-slime",
+    link: "https://tioanime.com/anime/puniru-wa-kawaii-slime",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/snYpfZXwhwUKN8S2wtPBY9dLsef.jpg",
   },

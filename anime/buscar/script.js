@@ -1848,6 +1848,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/kUYCWZKjJHgvv5ZvC30x5wcbyj8.jpg",
   },
   {
+    name: "Gals Can't be Kind of Otaku!?",
+    link: "https://tioanime.com/anime/otaku-ni-yasashii-gal-wa-inai",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/99lQDI1BvQSuCsZnBs319aF5vy8.jpg",
+  },
+  {
     name: "Gekkan Shoujo Nozaki-kun",
     link: "https://tioanime.com/anime/gekkan-shoujo-nozaki-kun",
     image:
@@ -3072,6 +3078,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/tYIziQGo1qzSx1ebXyWNMU7croy.jpg",
   },
   {
+    name: "Lupin III Parte IV",
+    link: "https://play.mercadolibre.com.ar/ver/lupin-the-3rd-parte-4/46fe284f9bb542f7bd88f0a6d04b5722?origin=mplay_search",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/sO76bV6PqiFhmNtbvo3s0yKM1l4.jpg",
+  },
+  {
     name: "Lupin III Parte VI",
     link: "https://tioanime.com/anime/lupin-iii-part-6",
     image:
@@ -3664,6 +3676,12 @@ const data = [
     link: "https://ww3.animeonline.ninja/online/odd-taxi/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/144d9ff360e87f7bcc91e1984ed0b3f3.jpe",
+  },
+  {
+    name: "Ouran High School Host Club",
+    link: "https://play.mercadolibre.com.ar/ver/ouran-high-school-host-club/46e8a2e9b2af4fad88bd3bfe4db4522e?origin=mplay_search",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/uT2wQXK84eSweQpKHpZiOZm4ExH.jpg",
   },
   {
     name: "One Piece",
@@ -5646,6 +5664,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/3e426b92e0f4d9d1fff29cad8e268773.jpe",
   },
   {
+    name: "Tougen Anki",
+    link: "https://play.mercadolibre.com.ar/ver/tougen-anki/37cb326360614809b47896de6d18c519/player?origin=mplay_search",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/2GzS012iY43EIijGpk7vMQx8qd4.jpg",
+  },
+  {
     name: "Toradora!",
     link: "https://www1.otakustv.com/anime/toradora",
     image:
@@ -5956,6 +5980,18 @@ const data = [
     link: "https://henaojara2.com/ver/season/kanojo-ga-koushaku-tei-ni-itta-riyuu-espanol-latino-hd-1/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/78e83f2e06d1cf48224997b02880d6b8.jpe",
+  },
+  {
+    name: "Witch Hat Atelier",
+    link: "https://tioanime.com/anime/tongari-boushi-no-atelier",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/cac5OY1meq4yOjd9lGIhZRXNKCK.jpg",
+  },
+  {
+    name: "Witch Hat Atelier Latino",
+    link: "https://ww3.animeonline.ninja/online/atelier-of-witch-hat/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/cac5OY1meq4yOjd9lGIhZRXNKCK.jpg",
   },
   {
     name: "WITCH WATCH",
@@ -7723,7 +7759,7 @@ const data = [
   },
   {
     name: "Usagi Drop Latino",
-    link: "https://ww3.animeonline.ninja/online/usagi-drop/",
+    link: "https://play.mercadolibre.com.ar/ver/usagi-drop/86719ae9097e43d6953c6f92ce231ebb?origin=mplay_search",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/m9jpcr4vUCbBs9kSPmpsiUDCKUI.jpg",
   },
@@ -7876,6 +7912,12 @@ const data = [
     link: "https://tioanime.com/anime/sakamichi-no-apollon",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/veLDNOr8omsQN6hX3HWgq5PVD1P.jpg",
+  },
+  {
+    name: "Kill Blue",
+    link: "https://youtube.com/playlist?list=PLhGamQZtJ7K-rS4G9zn-Bsb93kgFIphCM&si=S7pB9cfTGaHAD5Lm",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/foXvhDu0iRMyAMxUWoZ7FVvnlR9.jpg",
   },
   {
     name: "Pseudo Harem",

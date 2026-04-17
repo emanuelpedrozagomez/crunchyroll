@@ -2982,6 +2982,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/4e2887f99eb5eff532182b77cf6d7acf.jpe",
   },
   {
+    name: "Link Click: The Daily Life in Lightime",
+    link: "https://www.youtube.com/watch?v=5Tr9GCwUKN4&list=PLVX2lDIJ498bnSl0S4JSYkwLfX_f0UH3b",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/wIn55fW075cYtfMyQ0pB3KUbJZH.jpg",
+  },
+  {
     name: "Link Click OVA",
     link: "https://www1.animeonline.ninja/online/shiguang-dailiren-link-click/",
     image:
@@ -7916,6 +7922,12 @@ const data = [
   {
     name: "Kill Blue",
     link: "https://youtube.com/playlist?list=PLhGamQZtJ7K-rS4G9zn-Bsb93kgFIphCM&si=S7pB9cfTGaHAD5Lm",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/foXvhDu0iRMyAMxUWoZ7FVvnlR9.jpg",
+  },
+  {
+    name: "Kill Blue Latino",
+    link: "https://watch.plex.tv/es/show/kill-blue",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/foXvhDu0iRMyAMxUWoZ7FVvnlR9.jpg",
   },

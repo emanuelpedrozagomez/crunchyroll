@@ -414,6 +414,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/51aXVcTF52dPYm8XLOYZnfOn0OR.jpg",
   },
   {
+    name: "Bartender",
+    link: "https://play.mercadolibre.com.mx/ver/bartender/000a7a3f7ee4451bacf045b8f94b0814?origin=mplay_search",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/tcRafOhVLiydYaZsUWDgUcburzK.jpg",
+  },
+  {
     name: "Bastard!!",
     link: "https://ww3.animeonline.ninja/online/bastard%e2%80%bc-heavy-metal-dark-fantasy-071525/",
     image:
@@ -1621,7 +1627,7 @@ const data = [
   },
   {
     name: "Fate/kaleid liner Prisma Illya",
-    link: "https://tioanime.com/anime/fatekaleid-liner-prisma-illya",
+    link: "https://play.mercadolibre.com.mx/ver/nace-una-chica-magica/0a947a643c784956838bbc0f139be3c7?origin=mplay_player",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/1ff2NU0JtKp31l7Br2943n7t9V.jpg",
   },
@@ -1660,12 +1666,6 @@ const data = [
     link: "https://tioanime.com/anime/fate-zero-ii",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/b1DzBJ3LLkeZuEnSdF1g2ncj5F5.jpg",
-  },
-  {
-    name: "Fate/kaleid liner Prisma Illya Latino",
-    link: "https://www1.animeonline.ninja/online/fate-kaleid-liner-prisma-illya-4/",
-    image:
-      "https://media.themoviedb.org/t/p/w500_and_h282_face/1ff2NU0JtKp31l7Br2943n7t9V.jpg",
   },
   {
     name: "Fena: Pirate Princess",
@@ -2088,14 +2088,8 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2d7fd16a5351d260339e874800747c4b.jpe",
   },
   {
-    name: "Hentai Ouji to Warawanai Neko Latino",
-    link: "https://drive.google.com/drive/u/0/folders/1IXP9pgkiUfBj5opNojzlLmzyMiFTvgX-",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/pkCo0kHiqP5TXFAkbTmBEGcQgtL.jpg",
-  },
-  {
     name: "Hentai Ouji to Warawanai Neko",
-    link: "https://tioanime.com/anime/hentai-ouji-to-warawanai-neko",
+    link: "https://play.mercadolibre.com.mx/ver/el-principe-del-hentai-y-el-gato-de-piedra/0610fb12662d47bbbc2be71d29d4f272?origin=mplay_search",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/pkCo0kHiqP5TXFAkbTmBEGcQgtL.jpg",
   },
@@ -7459,7 +7453,7 @@ const data = [
   },
   {
     name: "Bienvenido a la oficina de Irabu",
-    link: "https://ww3.animeonline.ninja/online/kuuchuu-buranko/",
+    link: "https://play.mercadolibre.com.mx/ver/bienvenido-a-la-oficina-de-irabu/7625f0f3cd0f43ce9d60609bfde8be8c?origin=mplay_search",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/6kI6qQZkO7ler4zjLKVlBYwtSSj.jpg",
   },
@@ -7822,6 +7816,12 @@ const data = [
     link: "https://ww3.animeonline.ninja/online/ao-ashi/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/7bwfG5T96ViLo88xU8MVtcr9jCT.jpg",
+  },
+  {
+    name: "Aoharu × Machinegun",
+    link: "https://play.mercadolibre.com.mx/ver/aoharu-x-machinegun/d50bbe845571466c960d356ee0252889?origin=mplay_search",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/ezduDBbI1QUWEPiEpwOomVYT2ym.jpg",
   },
   {
     name: "Ameku M.D.: Doctor Detective",
@@ -8226,6 +8226,12 @@ const data = [
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/ff503d8b939e73ed62f126b4ae5c7909.jpg",
   },
   {
+    name: "El Gran Pasaje",
+    link: "https://play.mercadolibre.com.mx/ver/el-gran-pasaje/8da277e4e2e6404782d5bde09c2a6963?origin=mplay_search",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/wwMmqDL6eHphTu22cUNgfVk93Mb.jpg",
+  },
+  {
     name: "El gran rey demonio",
     link: "https://www1.otakustv.com/anime/ichiban-ushiro-no-daimaou",
     image:
@@ -8242,6 +8248,12 @@ const data = [
     link: "https://ww3.animeonline.ninja/online/great-teacher-onizuka/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/aPkVPHHHFqiiWn3JaCehCiK428x.jpg",
+  },
+  {
+    name: "Pandora Hearts",
+    link: "https://play.mercadolibre.com.mx/ver/pandora-hearts/d941916e838d4db79a1380fa6923dc37?origin=mplay_search",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/wpBCmTGjbSJZ0UJQe3InPwZOHP.jpg",
   },
   {
     name: "Panteón Latino",
@@ -8347,7 +8359,7 @@ const data = [
   },
   {
     name: "Mononoke",
-    link: "https://www.viki.com/tv/41059c-mononoke#episodes",
+    link: "https://play.mercadolibre.com.mx/ver/mononoke/139dc6eb3d774e2d82c44598bb19a2aa?origin=mplay_search",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/yD4L8eOIKrY7EqBeJgaSRsndeje.jpg",
   },
@@ -8430,6 +8442,12 @@ const data = [
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/51049d7b26753d4c2584740c704b13ac.jpg",
   },
   {
+    name: "Ground Control: Phsicoelectry Girl",
+    link: "https://play.mercadolibre.com.mx/ver/la-ciudad-de-los-alienigenas/93e5cf359be041c995b7757b075f7e83?origin=mplay_player",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/gNGYyccFWA30mFV3iaZMIK6SWvN.jpg",
+  },
+  {
     name: "ZENSHU",
     link: "https://www1.otakustv.com/anime/zenshuu",
     image:
@@ -8479,7 +8497,7 @@ const data = [
   },
   {
     name: "Umamusume: Cinderella Gray",
-    link: "https://www1.otakustv.com/anime/uma-musume-cinderella-gray",
+    link: "https://play.mercadolibre.com.mx/ver/umamusume-cinderella-gray/7535225c33974aadb4d34e7122a65b82?origin=mplay_search",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/eU5baQyKBYC3Fxz7r3Iqv5MikVQ.jpg",
   },

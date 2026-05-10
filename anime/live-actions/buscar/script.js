@@ -60,6 +60,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/674355dd0d327d84e878ee80a9ef76d7.jpe",
   },
   {
+    name: "Black Butler",
+    link: "https://play.mercadolibre.com.mx/ver/el-mayordomo-de-negro/e1b1a65d31f1406fab1d4989bc1a0212?origin=mplay_search",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/8LwAEcvpljRYYoTV5l4LCRdTHdr.jpg",
+  },
+  {
     name: "Blackpink: Light Up the Sky",
     link: "https://doramasflix.in/peliculas-online/blackpink-light-up-the-sky",
     image:

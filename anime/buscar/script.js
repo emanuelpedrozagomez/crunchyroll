@@ -457,7 +457,7 @@ const data = [
   },
   {
     name: "Berserk (1997)",
-    link: "https://henaojara.com/animeonline/berserk-1997-sub-espanol-hd/",
+    link: "https://play.mercadolibre.com.mx/ver/berserk/12e107ea26664535935858bfd649f93e?origin=mplay_search",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
   },
@@ -954,6 +954,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/nqd36m68bHNJyzV6EuJzl3CB5J4.jpg",
   },
   {
+    name: "Chihayafuru ",
+    link: "https://play.mercadolibre.com.mx/ver/chihayafuru/1c2b30cdd10f4cd68811ad1c02daa1ce?origin=mplay_search",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/g7Grem5RKCCWsLOEbnagP1dKkEG.jpg",
+  },
+  {
     name: "Chitose Is in the Ramune Bottle",
     link: "https://tioanime.com/anime/chitosekun-wa-ramune-bin-no-naka",
     image:
@@ -1315,7 +1321,7 @@ const data = [
   },
   {
     name: "Digimon Adventure",
-    link: "https://www.crunchyroll.com/es/digimon-adventure-2020",
+    link: "https://youtube.com/playlist?list=PLrx8BnXgzlaiSr0mth9ocQraHOGeyZos2&si=upDgys6w_u5vMYDC",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/GlIBVyoQ5RrMwFWMz7nHI1MU7w.jpg",
   },
@@ -2173,13 +2179,13 @@ const data = [
   },
   {
     name: "Historias de Fantasmas Latino",
-    link: "https://ww3.animeonline.ninja/online/gakkou-no-kaidan-historias-de-fantasmas/",
+    link: "https://play.mercadolibre.com.mx/ver/historias-de-fantasmas/7ab5d2e9b98540c484e63e6b39749db8?origin=mplay_search",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/wO7HLYiKqUBz2hUs9i88iaNCzAr.jpg",
   },
   {
     name: "Historias de Fantasmas",
-    link: "https://tioanime.com/anime/gakkou-no-kaidan",
+    link: "https://play.mercadolibre.com.mx/ver/historias-de-fantasmas/7ab5d2e9b98540c484e63e6b39749db8?origin=mplay_search",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/wO7HLYiKqUBz2hUs9i88iaNCzAr.jpg",
   },
@@ -3226,6 +3232,12 @@ const data = [
     link: "https://henaojara2.com/ver/kobayashi-san-chi-no-maid-dragon-temporada-2-espanol-latino-hd/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/9af6719d7998089e7fe249c1c60986e2.jpe",
+  },
+  {
+    name: "MIRU: Paths to My Future",
+    link: "https://play.mercadolibre.com.mx/ver/miru-paths-to-my-future/e3ae29eef4cc46eb8014ef3409e4be41?origin=mplay_search",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/3pnXLYvEIfH8j52qYvChBS3j0iO.jpg",
   },
   {
     name: "MIX Meisei Story",

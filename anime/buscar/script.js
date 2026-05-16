@@ -2262,6 +2262,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/c50b67d24907e808da01be92d7523504.jpe",
   },
   {
+    name: "Ichijyoma Mankitsu Gurashi!",
+    link: "https://youtube.com/playlist?list=PLhGamQZtJ7K8OWPQvBPauPeJeiG4tQpPl&si=c5YBRN1q4A91y9UN",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/1p6Ijk6ubxbJUyN6cNoEJ02e39l.jpg",
+  },
+  {
     name: "In/Spectre",
     link: "https://tioanime.com/anime/kyokou-suiri",
     image:
@@ -7159,7 +7165,13 @@ const data = [
   },
   {
     name: "Calma en el Mar Latino",
-    link: "https://www.henaojara.com/ver/season/nagi-no-asukara-espanol-latino-hd-1/",
+    link: "https://drive.google.com/drive/folders/1--2Jx9MiKgWhQwNcMV8nSTS8dopQ7JnB",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/nJnmMeRhTMqxZqCJ5wIydxGpk7.jpg",
+  },
+  {
+    name: "Calma en el Mar",
+    link: "https://play.mercadolibre.com.mx/ver/a-lull-in-the-sea/3ee1c60586b54384bf5e2e7a4c261330?origin=mplay_search",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/nJnmMeRhTMqxZqCJ5wIydxGpk7.jpg",
   },
@@ -7794,6 +7806,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/2EzcsNHA2wEdIymnSyUSvKvLLfq.jpg",
   },
   {
+    name: "Whistle!",
+    link: "https://play.mercadolibre.com.mx/ver/whistle/ac0ecf59677048b38558611eacfd0cfb?origin=mplay_search",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/2EzcsNHA2wEdIymnSyUSvKvLLfq.jpg",
+  },
+  {
     name: "Code Geass: Dakkan no Rozé",
     link: "https://tioanime.com/anime/code-geass-dakkan-no-roze",
     image:
@@ -8254,6 +8272,12 @@ const data = [
     link: "https://ww3.animeonline.ninja/online/ichiban-ushiro-no-daimaou-4/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/eHApMoOgly4IIPpYYo2NjlwsLSd.jpg",
+  },
+  {
+    name: "El mundo sigue siendo hermoso",
+    link: "https://play.mercadolibre.com.mx/ver/el-mundo-sigue-siendo-hermoso/a9f5d21cf4e0429ebb22534cf81df2d9?origin=mplay_search",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/76PTZzdsRMUe3h8nFAx8BVeJTUw.jpg",
   },
   {
     name: "G.T.O Latino",

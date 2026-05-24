@@ -1974,6 +1974,18 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/gcE7YfaQUlScq1gLtexLuC63PHY.jpg",
   },
   {
+    name: "GTO",
+    link: "https://play.mercadolibre.com.mx/ver/gto/0f78b6c3e2684889ac3c568c3d14af7d?origin=mplay_search",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/9bU7ivyXQZd0iACLEdJIuY3kdvP.jpg",
+  },
+  {
+    name: "GTO Latino",
+    link: "https://ww3.animeonline.ninja/online/great-teacher-onizuka/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/9bU7ivyXQZd0iACLEdJIuY3kdvP.jpg",
+  },
+  {
     name: "Ha renacido como un microfono en forma de cabeza Latino",
     link: "https://www1.animeonline.ninja/online/aru-asa-dummy-head-mic-ni-natteita-ore-kun-no-jinsei/",
     image:
@@ -3910,6 +3922,12 @@ const data = [
     link: "https://therokuchannel.roku.com/details/6024572351be501aa7d8360a60080811/pokemon-serie-sol-y-luna",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/pCRfhOHyCyzbNpG6zYOLYUBgcEx.jpg",
+  },
+  {
+    name: "Pokémon: El Cartero Dragonite",
+    link: "https://youtu.be/r-JYoSmPKbE?si=nap6Eb8VoMgBsRCB",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/bz1oDOrxaBH1pAer8TtmxA1V8FA.jpg",
   },
   {
     name: "Poputepipikku",
@@ -7408,6 +7426,12 @@ const data = [
     link: "https://youtube.com/playlist?list=PLnmoDhcUHNbk_4dYZgX0tq_S33ug_1iO3&si=WosNol8ombz0OUzG",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/dsKTSL7VvCIgfcKYvSDMXx3RMMk.jpg",
+  },
+  {
+    name: "Ninja Hattori",
+    link: "https://youtube.com/playlist?list=PLs14L_mtbw0dtbYFEK1pNLN3GcpamOMao&si=AAauuTgxg6DDJEhr",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/1fyOeZydoFVpLYhF7u1rZXjCkjY.jpg",
   },
   {
     name: "Ninja Kamui",

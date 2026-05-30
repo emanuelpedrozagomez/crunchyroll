@@ -3108,8 +3108,20 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/sO76bV6PqiFhmNtbvo3s0yKM1l4.jpg",
   },
   {
+    name: "Lupin III Parte V",
+    link: "https://play.mercadolibre.com.mx/ver/lupin-the-3rd-part-5/f272c10ff55d498f87052fb2f8f020a3?origin=mplay_search",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/firXV2WzUSh1vxlv3T0ATPQuxB6.jpg",
+  },
+  {
     name: "Lupin III Parte VI",
     link: "https://tioanime.com/anime/lupin-iii-part-6",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/ubggJhb6QysnXVercF4ij9RLJJu.jpg",
+  },
+  {
+    name: "Lupin III Parte VI Latino",
+    link: "https://play.mercadolibre.com.mx/ver/lupin-the-3rd-part-6/96492f4d223d4cd3ba6f61dd751d0c53?origin=mplay_search",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/ubggJhb6QysnXVercF4ij9RLJJu.jpg",
   },
@@ -3985,7 +3997,7 @@ const data = [
   },
   {
     name: "Radiant",
-    link: "https://www1.otakustv.com/anime/radiant",
+    link: "https://tioanime.com/anime/radiant",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/t8qocyaZeXpW1uH6po0EcpFacW4.jpg",
   },
@@ -3997,7 +4009,7 @@ const data = [
   },
   {
     name: "Radiant 2",
-    link: "https://www1.otakustv.com/anime/radiant-2nd-season",
+    link: "https://tioanime.com/anime/radiant-2nd-season",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/dc47687baa10e36c7c4702ae1a9b86e5.jpe",
   },
@@ -4039,13 +4051,13 @@ const data = [
   },
   {
     name: "Ranking of Kings",
-    link: "https://www1.otakustv.com/anime/ousama-ranking",
+    link: "https://tioanime.com/anime/ousama-ranking",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/vKWw2EiJfnw2jOcXPbMJ2n1nl4S.jpg",
   },
   {
     name: "Ranking of Kings: Treasure Chest of Courage",
-    link: "https://www1.otakustv.com/anime/ousama-ranking-yuuki-no-takarabako",
+    link: "https://tioanime.com/anime/ousama-ranking-yuuki-no-takarabako",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/0373e7213a475abe3c6951e70b6ca02e.jpe",
   },
@@ -4063,19 +4075,19 @@ const data = [
   },
   {
     name: "Re:LIFE",
-    link: "https://www1.otakustv.com/anime/relife-8o5qgvvx",
+    link: "https://tioanime.com/anime/relife",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/4af61e9ed7354fe8d856567cfc4431e3.jpe",
   },
   {
     name: "Re:ZERO",
-    link: "https://www1.otakustv.com/anime/re-zero-kara-hajimeru-isekai-seikatsu-rnvegmpu?page=1",
+    link: "https://tioanime.com/anime/rezero-kara-hajimeru-isekai-seikatsu",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/ai8bVS8Suvu4ErBhmgBvtESirBY.jpg",
   },
   {
     name: "Re:ZERO Director's Cut",
-    link: "https://www1.otakustv.com/anime/re-zero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban-rno4nfif",
+    link: "https://ww3.animeonline.ninja/online/rezero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban-1/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/X5cAre2pNpHtIiLPWC5A2pxdUL.jpg",
   },
@@ -4087,13 +4099,13 @@ const data = [
   },
   {
     name: "Re:ZERO Latino",
-    link: "https://henaojara2.com/ver/rezero-espanol-latino-hd/",
+    link: "https://drive.google.com/drive/folders/1sdtN-iEX5Jrr4v9ZaigtAa_QgDcDN1M8",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/ai8bVS8Suvu4ErBhmgBvtESirBY.jpg",
   },
   {
     name: "Re:ZERO Second Season",
-    link: "https://www1.otakustv.com/anime/re-zero-kara-hajimeru-isekai-seikatsu-2nd-season-f2hnt1gd",
+    link: "https://tioanime.com/anime/rezero-kara-hajimeru-isekai-seikatsu-2nd-season",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/653fb1c89ecec17dc6947308819d702b.jpe",
   },
@@ -4111,13 +4123,25 @@ const data = [
   },
   {
     name: "Re:ZERO Third Season",
-    link: "https://www1.otakustv.com/anime/re-zero-kara-hajimeru-isekai-seikatsu-3rd-season",
+    link: "https://tioanime.com/anime/rezero-kara-hajimeru-isekai-seikatsu-3rd-season",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/5525651c53b49243de6835134651192c.jpg",
   },
   {
+    name: "Re:ZERO Fourth Season",
+    link: "https://tioanime.com/anime/rezero-kara-hajimeru-isekai-seikatsu-4th-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/tWMHnyFIhw6YYCBCvHIotVxflQQ.jpg",
+  },
+  {
+    name: "Re:ZERO Fourth Season",
+    link: "https://latanime.org/anime/rezero-kara-hajimeru-isekai-seikatsu-s4-latino",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/tWMHnyFIhw6YYCBCvHIotVxflQQ.jpg",
+  },
+  {
     name: "Re:ZERO Third Season Latino",
-    link: "https://www.henaojara.com/veronline/season/rezero-kara-hajimeru-isekai-seikatsu-espanol-latino-hd-3/",
+    link: "https://drive.google.com/drive/folders/11mMl4_yvFaUX6oENxnyoNxByefitwh4T",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/5525651c53b49243de6835134651192c.jpg",
   },
@@ -4128,20 +4152,14 @@ const data = [
       "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3w2CE7kSgqNWv0XoAn7P45cPdQ2.jpg",
   },
   {
-    name: "Re:ZERO Cortos",
-    link: "https://www.crunchyroll.com/es/series/GYK5PDM8R/rezero--starting-life-in-another-world--shorts",
-    image:
-      "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/e930f63a0d8f58ff795a4b30f2d8a9c3.jpe",
-  },
-  {
     name: "Reborn to Master the Blade",
-    link: "https://www1.otakustv.com/anime/eiyuuou-bu-wo-kiwameru-tame-tenseisu-soshite-sekai-saikyou-no-minarai-kishi",
+    link: "https://tioanime.com/anime/eiyuuou-bu-wo-kiwameru-tame-tenseisu",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/ff3eba651433cebc13c990cf34e7ffb8.jpe",
   },
   {
     name: "Record of Ragnarok",
-    link: "https://www1.otakustv.com/anime/shuumatsu-no-valkyrie",
+    link: "https://tioanime.com/anime/shuumatsu-no-walkure",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/6jt8ufODNT3EFeWJm62mdn8lSCS.jpg",
   },
@@ -4153,7 +4171,7 @@ const data = [
   },
   {
     name: "Record of Ragnarok 2",
-    link: "https://www1.otakustv.com/anime/shuumatsu-no-valkyrie-2nd-season",
+    link: "https://tioanime.com/anime/shuumatsu-no-walkure",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/lB9OT1hH6ZXucAI4Z0JDBVlLKab.jpg",
   },
@@ -4171,21 +4189,15 @@ const data = [
   },
   {
     name: "Remake Our Life!",
-    link: "https://www1.otakustv.com/anime/bokutachi-no-remake",
+    link: "https://tioanime.com/anime/bokutachi-no-remake",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a07f932b819930bfa0f4048a4ee22384.jpe",
   },
   {
     name: "REVENGER",
-    link: "https://www1.otakustv.com/anime/revenger",
+    link: "https://tioanime.com/anime/revenger",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/3012ed0dce7ad49334f28553a9cef7c3.jpe",
-  },
-  {
-    name: "Romantic Killer",
-    link: "https://www1.otakustv.com/anime/romantic-killer",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/vy4ogEDRNuwIzMa9Sz0JihnKlqV.jpg",
   },
   {
     name: "Romantic Killer Latino",
@@ -4195,7 +4207,7 @@ const data = [
   },
   {
     name: "RUMBLE GARANNDOLL",
-    link: "https://www1.otakustv.com/anime/gyakuten-sekai-no-denchi-shoujo",
+    link: "https://tioanime.com/anime/gyakuten-sekai-no-denchi-shoujo",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/5f6f3cee84c31c0eed461956db23d682.jpe",
   },
@@ -4219,27 +4231,15 @@ const data = [
   },
   {
     name: "Ruri Rocks",
-    link: "https://henaojara.com/animeonline/ruri-no-houseki-sub-espanol-hd/",
+    link: "https://tioanime.com/anime/ruri-no-houseki",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/hpsyvmRkqDXDFZVdAcNBYeceySw.jpg",
   },
   {
     name: "RWBY Volumen 8",
-    link: "https://www1.otakustv.com/anime/rwby-volume-8",
+    link: "https://tioanime.com/anime/rwby-hyousetsu-teikoku",
     image:
       "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/o3GIkPWRhvqB1AmGLhwgfnT5aut.jpg",
-  },
-  {
-    name: "RWBY Volumen 9",
-    link: "https://www1.otakustv.com/anime/rwby-season-9",
-    image:
-      "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/916bf637ea31d8107363fa2170eadac0.jpe",
-  },
-  {
-    name: "RWBY: Ice Queendom",
-    link: "https://www1.otakustv.com/anime/rwby-hyousetsu-teikoku",
-    image:
-      "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/42c8f9095b19a472070f3c9109e82c4f.jpe",
   },
   {
     name: "Saekano",
@@ -6541,37 +6541,49 @@ const data = [
   },
   {
     name: "Reborn as a Vending Machine",
-    link: "https://www1.otakustv.com/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou",
+    link: "https://tioanime.com/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/4e6d92a8a40b7028011b9692c974aa65.jpe",
   },
   {
     name: "Reborn as a Vending Machine Latino",
-    link: "https://www.henaojara.com/ver/season/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-espanol-latino-hd-1/",
+    link: "https://drive.google.com/drive/folders/1ReHPGjYPP1yYtFNZoDlGZgJsn60dp7Ur",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/4e6d92a8a40b7028011b9692c974aa65.jpe",
   },
   {
     name: "Reborn as a Vending Machine Season 2",
-    link: "https://www1.otakustv.com/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season",
+    link: "https://tioanime.com/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/oTHetLGwDKgfgdxhcIso1ebQ2Dp.jpg",
   },
   {
     name: "Reborn as a Vending Machine Season 2 Latino",
-    link: "https://otakuverso.net/anime/reborn-as-a-vending-machine-i-now-wander-the-dungeon-season-2-latino",
+    link: "https://latanime.org/anime/reborn-as-a-vending-machine-now-i-wander-the-dungeon-s2-latino",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/oTHetLGwDKgfgdxhcIso1ebQ2Dp.jpg",
   },
   {
+    name: "Reborn as a Vending Machine Season 3",
+    link: "https://tioanime.com/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/8JSZFFl3kauZ8Wd6s5WX2w3EcN0.jpg",
+  },
+  {
+    name: "Reborn as a Vending Machine Season 3 Latino",
+    link: "https://latanime.org/anime/reborn-as-a-vending-machine-i-now-wander-the-dungeon-temporada-3",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/8JSZFFl3kauZ8Wd6s5WX2w3EcN0.jpg",
+  },
+  {
     name: "Rurouni Kenshin",
-    link: "https://www1.otakustv.com/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023",
+    link: "https://tioanime.com/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/8c989998711d1f0ee8923fd96e023e96.jpg",
   },
   {
     name: "Rurouni Kenshin Latino",
-    link: "https://www.henaojara.com/ver/season/rurouni-kenshin-meiji-kenkaku-romantan-espanol-latino-hd-1/",
+    link: "https://latanime.org/anime/rurouni-kenshin-2023-latino",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/8c989998711d1f0ee8923fd96e023e96.jpg",
   },
@@ -8059,7 +8071,7 @@ const data = [
   },
   {
     name: "Rick and Morty: The Anime",
-    link: "https://www1.otakustv.com/anime/rick-and-morty-the-anime",
+    link: "https://ww3.animeonline.ninja/online/rick-y-morty-el-anime/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/88qsBmh6df6ZfmzsGkaFYEtXErd.jpg",
   },
@@ -8401,7 +8413,7 @@ const data = [
   },
   {
     name: "Ririsa, una chica en 2.5D",
-    link: "https://www1.otakustv.com/anime/25-jigen-no-ririsa",
+    link: "https://tioanime.com/anime/25jigen-no-ririsa",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/kI0e1DQiL6Cy2ykPlw5BpEtCayO.jpg",
   },

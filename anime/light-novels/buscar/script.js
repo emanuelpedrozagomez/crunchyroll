@@ -2594,8 +2594,13 @@ const data = [
     image: "../../img/roshidare.jpg",
   },
   {
+    name: "Alya, The Brave Girl Who Can Occasionally Speak Russian Light Novel",
+    link: "https://drive.google.com/drive/folders/1twj_oLgvhEyymIy7v-jmv5vSeuAye8ZT",
+    image: "../../img/Alya Novela Ligera Spin Off.jpg",
+  },
+  {
     name: "Los Diarios de la Boticaria Light Novel",
-    link: "https://zonatmo.com/library/novel/35683/kusuriya-no-hitorigoto-novela",
+    link: "https://laplumadelarquitecto.blogspot.com/p/kusuriya-no-hitorigoto.html",
     image:
       "https://m.media-amazon.com/images/I/91yTsBLvNOS._UF1000,1000_QL80_.jpg",
   },

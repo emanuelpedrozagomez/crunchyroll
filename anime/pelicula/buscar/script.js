@@ -1429,7 +1429,7 @@ const data = [
   },
   {
     name: "Sailor Moon Cosmos Latino",
-    link: "https://ww3.animeonline.ninja/pelicula/bishoujo-senshi-sailor-moon-cosmos-movie-081224/",
+    link: "https://latanime.org/anime/pretty-guardian-sailor-moon-cosmos-la-pelicula-latino",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/jjtA1eeiJmjc1lZla1N9Ha0CYTf.jpg",
   },
@@ -1672,6 +1672,18 @@ const data = [
     link: "https://pluto.tv/latam/on-demand/movies/616f019f4f409e001a48881c/details",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/guTLPlGoKrMffhDgn1TCP2ocsvj.jpg",
+  },
+  {
+    name: "Detective Conan: El Décimoprimer Delantero",
+    link: "https://www.youtube.com/watch?v=pvsguu1cwfc&pp=ygUKdG1zIGxhdGlubw%3D%3D",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/uvQUyoLNm9dUyKn7NTDuYnexAwn.jpg",
+  },
+  {
+    name: "Five Numbers!",
+    link: "https://play.mercadolibre.com.mx/ver/five-numbers/c63a06ea75614a2e9a0c6a045ec4369c?origin=mplay_player",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/sl4aAUlOUBKs54JUF5eJYL4stH8.jpg",
   },
 ];
 const searchInput = document.getElementById("searchInput");

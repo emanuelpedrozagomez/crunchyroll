@@ -765,7 +765,7 @@ const data = [
   {
     name: "Re:Zero x Konosuba",
     link: "https://inmanga.com/ver/manga/Re-Zero-x-Konosuba/e49e17d2-2d23-4b3f-8ad0-8f3f84b4b956",
-    image: "https://otakuteca.com/images/books/cover/6162193f50728.webp",
+    image: "../../img/rezeroxkonosuba.jpg",
   },
   {
     name: "Rurouni Kenshin",
@@ -838,6 +838,11 @@ const data = [
     link: "https://lectortmo.com/library/manga/43012/skip-to-loafer",
     image:
       "https://m.media-amazon.com/images/I/819xN25j8LL._AC_UF894,1000_QL80_.jpg",
+  },
+  {
+    name: "Smoking Behind the Supermarket with You",
+    link: "",
+    image: "https://m.media-amazon.com/images/I/81Q6apsioXL.jpg",
   },
   {
     name: "Soul Eater",

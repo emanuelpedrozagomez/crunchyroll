@@ -175,7 +175,7 @@ const data = [
   },
   {
     name: "Gintama: Mitsuba Series",
-    link: "https://youtu.be/tJGLCzf6kIk?si=PKDtnzsef8dalf0c",
+    link: "https://www.youtube.com/playlist?list=PLFTSA9bmjox0rN-zLDkIFbYq3L2Ly6_xC",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/yxQb5JzBCkZsZv79q2IjHRI3t7m.jpg",
   },

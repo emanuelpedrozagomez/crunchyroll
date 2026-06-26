@@ -2911,7 +2911,7 @@ const data = [
   },
   {
     name: "Konosuba Season 2 Latino",
-    link: "https://www1.otakustv.com/anime/kono-subarashii-sekai-ni-shukufuku-wo-2-latino-vtr2xy5b",
+    link: "https://drive.google.com/drive/folders/1ImzncU-L4vW3bkZHDBDfnzyPjZaQO-h9",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/ccfcc995823a0bac58f924b9ed19cf63.jpe",
   },
@@ -3163,13 +3163,13 @@ const data = [
   },
   {
     name: "Magical Senpai",
-    link: "https://www1.otakustv.com/anime/tejina-senpai",
+    link: "https://tioanime.com/anime/tejinasenpai",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/310b17111fbab5fba4dcc45f318d5f3a.jpe",
   },
   {
     name: "Magic Knight Rayearth",
-    link: "https://www1.otakustv.com/anime/magic-knight-rayearth",
+    link: "https://ww3.animeonline.ninja/online/magic-knight-rayearth/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/wA4bYj28zmKyi2xhCfwczg35JGC.jpg",
   },
@@ -4258,6 +4258,18 @@ const data = [
     link: "https://ww3.animeonline.ninja/online/niwatori-fighter-rooster-fighter/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/rvLiZOzkpLglemPSv2LwAS7Fw7u.jpg",
+  },
+  {
+    name: "Rompiendo el hielo",
+    link: "https://tioanime.com/anime/koori-no-jouheki",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/xAUiRr8Q4NQKSqX0SMNMkwVbvcb.jpg",
+  },
+  {
+    name: "Rompiendo el hielo Latino",
+    link: "https://latanime.org/anime/rompiendo-el-hielo",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/xAUiRr8Q4NQKSqX0SMNMkwVbvcb.jpg",
   },
   {
     name: "Ruri Rocks",
@@ -7189,19 +7201,31 @@ const data = [
   },
   {
     name: "Spice and Wolf",
-    link: "https://www1.otakustv.com/anime/ookami-to-koushinryou",
+    link: "https://tioanime.com/anime/spice-and-wolf",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/3350c66170f1846a3bbd9dcddbbe2786.jpe",
   },
   {
+    name: "Spice and Wolf Season 2",
+    link: "https://tioanime.com/anime/spice-and-wolf-2",
+    image:
+      "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/v2yDHPGziD6IIaHJSnM66drKODJ.jpg",
+  },
+  {
     name: "Spice and Wolf Latino",
-    link: "https://www.henaojara.com/ver/spice-and-wolf-espanol-latino-hd/",
+    link: "https://latanime.org/anime/spice-and-wolf-latino",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/3350c66170f1846a3bbd9dcddbbe2786.jpe",
   },
   {
     name: "Spice and Wolf Season 2 Latino",
-    link: "https://www.henaojara.com/ver/spice-and-wolf-temporada-2-espanol-latino-hd/",
+    link: "https://latanime.org/anime/spice-and-wolf-latino",
+    image:
+      "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/v2yDHPGziD6IIaHJSnM66drKODJ.jpg",
+  },
+  {
+    name: "Spice and Wolf 2024 Latino",
+    link: "https://latanime.org/anime/spice-and-wolf-2024-s1-latino",
     image:
       "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/v2yDHPGziD6IIaHJSnM66drKODJ.jpg",
   },

@@ -1685,6 +1685,24 @@ const data = [
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/sl4aAUlOUBKs54JUF5eJYL4stH8.jpg",
   },
+  {
+    name: "DEEMO - Las Llaves Del Recuerdo",
+    link: "https://youtube.com/playlist?list=PLFTSA9bmjox0NsAdLw-_chcMm4p2wh6nl&si=FRFwt3FhMK6rRLFq",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/xj15P5r52Zz7mefHa3d8wv1dkNI.jpg",
+  },
+  {
+    name: "Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved",
+    link: "https://tioanime.com/anime/kobayashisan-chi-no-maid-dragon-samishigariya-no-ryuu",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/gmgFCW1xOragiqDLYuhpttbrmBu.jpg",
+  },
+  {
+    name: "Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved Latino",
+    link: "https://latanime.org/anime/kobayashi-san-chi-no-maid-dragon-samishigariya-no-ryuu",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/gmgFCW1xOragiqDLYuhpttbrmBu.jpg",
+  },
 ];
 const searchInput = document.getElementById("searchInput");
 const resultsList = document.getElementById("results");

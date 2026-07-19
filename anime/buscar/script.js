@@ -3732,6 +3732,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/144d9ff360e87f7bcc91e1984ed0b3f3.jpe",
   },
   {
+    name: "Oh Boy, Was I Wrong About Her",
+    link: "https://tioanime.com/anime/tenkosaki",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/viUUyyGeTq06gVQNBG3iylWd7up.jpg",
+  },
+  {
     name: "Ouran High School Host Club",
     link: "https://play.mercadolibre.com.ar/ver/ouran-high-school-host-club/46e8a2e9b2af4fad88bd3bfe4db4522e?origin=mplay_search",
     image:
@@ -3820,6 +3826,12 @@ const data = [
     link: "https://tioanime.com/anime/oshi-no-ko",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/A2o4cNRVeFNWdN227wKS2jYi6v7.jpg",
+  },
+  {
+    name: "Oshi No Ko Latino",
+    link: "https://ww3.animeonline.ninja/online/oshi-no-ko-100524/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/rvy4W28wYkct3IFxU0RGF2uHppG.jpg",
   },
   {
     name: "Otaku Elf",
@@ -5586,6 +5598,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/oqvJfqBLNZR7BJAPkLfN5HioJQ6.jpg",
   },
   {
+    name: "Though I Am An INEPT VILLANESS",
+    link: "https://tioanime.com/anime/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/oHp63z7hAvCKDPMxQ3YZqVjKGfn.jpg",
+  },
+  {
     name: "Tiger & Bunny",
     link: "https://www1.otakustv.com/anime/tiger-bunny",
     image:
@@ -6154,6 +6172,12 @@ const data = [
     link: "https://www1.otakustv.com/anime/shigatsu-wa-kimi-no-uso-tcfmlexm",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/589632aedf2ed936e2c7ba95ed6ed5d4.jpe",
+  },
+  {
+    name: "Young Ladies Don't Play Fighting Games",
+    link: "https://tioanime.com/anime/taiari-deshita-ojousama-wa-kakutou-game-nante-shinai",
+    image:
+      "http://media.themoviedb.org/t/p/w500_and_h282_face/neAbCpguP8yGzPcsYToZY199I1W.jpg",
   },
   {
     name: "Your Forma",
@@ -8179,9 +8203,21 @@ const data = [
   },
   {
     name: "Magilumiere Magical Girls S. A. Latino",
-    link: "https://henaojara.com/animeonline/season/kabushiki-gaisha-magi-lumiere-espanol-latino-hd-1/",
+    link: "https://latanime.org/anime/magilumiere-magical-girls-s-a-latino",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/pUyN568pVATUiwCou0Z1EHOM7ff.jpg",
+  },
+  {
+    name: "Magilumiere Magical Girls S. A. Season 2",
+    link: "https://tioanime.com/anime/kabushikigaisha-magilumiere-2nd-season",
+    image:
+      "https://m.media-amazon.com/images/S/pv-target-images/8db5852f146179c1bb22563e40cd4a14dc16489f4fd94acdee5f039280669689._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kvf21cb47db8d34aa971cd86f57a65cf8d_SX624_FMavif_PQ65_.jpghttps://m.media-amazon.com/images/S/pv-target-images/5903ea7e5f4db5c97b5a1c978622e1fcddf46c32de7cc6ed1552d3141d86dc8e._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,808,263,156_SX480_FMwebp_.jpg",
+  },
+  {
+    name: "Magilumiere Magical Girls S. A. Season 2 Latino",
+    link: "https://latanime.org/anime/magilumiere-magical-girls-s-a-temporada-2",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/x1mTf4fa07N2mhSByncmLgQQkLx.jpg",
   },
   {
     name: "Orb: On the Movements of the Earth",
@@ -8380,6 +8416,12 @@ const data = [
     link: "https://www1.otakustv.com/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/q8CwjMcBxJzLVG3u6pF0TZDMbSB.jpg",
+  },
+  {
+    name: "The Exiled Heavy Knight Knows How to Game the System",
+    link: "https://tioanime.com/anime/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/eDB5wj9AqqFKq1x16LU5E9WHiJa.jpg",
   },
   {
     name: "ShiroBako",

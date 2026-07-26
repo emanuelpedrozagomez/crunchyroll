@@ -2454,6 +2454,12 @@ const data = [
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover,format=auto,quality=94,width=1920/keyart/G8DHV784M-backdrop_wide",
   },
   {
+    name: "I Saved Myself with a Potion!: Life in Another World",
+    link: "https://www.youtube.com/watch?v=Q5AFK8uWAIw",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/5PliFSpNzgXLoDHpwW05CmVx7JX.jpg",
+  },
+  {
     name: "Jojos Bizarre Adventure",
     link: "https://tioanime.com/anime/jojos-bizarre-adventure-the-animation",
     image:
@@ -2656,6 +2662,18 @@ const data = [
     link: "https://tioanime.com/anime/kaguyasama-wa-kokurasetai-otona-e-no-kaidan",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/qXvWMHvA5pnleR0nTaGjzBHbD2X.jpg",
+  },
+  {
+    name: "KAIJU GIRL CARAMELISE",
+    link: "https://tioanime.com/anime/otome-kaijuu-carameliser",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/yixHT0mbNeKMdf7Kcn1zKBx7d8B.jpg",
+  },
+  {
+    name: "KAIJU GIRL CARAMELISE Latino",
+    link: "https://latanime.org/anime/kaiju-girl-caramelise",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/yixHT0mbNeKMdf7Kcn1zKBx7d8B.jpg",
   },
   {
     name: "Kaina of the Great Snow Sea",
@@ -3556,6 +3574,12 @@ const data = [
     link: "https://tioanime.com/anime/mamahaha-no-tsurego-ga-motokano-datta",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/c8a2cf25205400af268d297da1856b62.jpe",
+  },
+  {
+    name: "My Stepmother and Stepsisters Aren't Wicked",
+    link: "https://www.youtube.com/playlist?list=PLCTv3-IP7ow8",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/2LTk3qnp6QOas9NzeiYhQ9eR9EA.jpg",
   },
   {
     name: "My Teen Romantic Comedy SNAFU",
@@ -4675,7 +4699,7 @@ const data = [
   },
   {
     name: "Summoned to Another World for a Second Time",
-    link: "https://www1.otakustv.com/anime/isekai-shoukan-wa-nidome-desu",
+    link: "https://tioanime.com/anime/isekai-shoukan-wa-nidome-desu",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/82815b01fe4b6752e1158c453e197e42.jpe",
   },
@@ -4759,7 +4783,7 @@ const data = [
   },
   {
     name: "Summer Time Render",
-    link: "https://www1.otakustv.com/anime/summertime-render",
+    link: "https://www1.animeonline.ninja/online/summer-time-render/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/P3jORzLiIqJVJIfXPlTgBE69H0.jpg",
   },
@@ -4770,12 +4794,6 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/1czz0r7urqCPP0CZTAEkCk4TZY1.jpg",
   },
   {
-    name: "Super Crooks",
-    link: "https://www1.otakustv.com/anime/super-crooks",
-    image:
-      "https://www.themoviedb.org/t/p/w500_and_h282_face/r6tjPbXBz4jKFrfvEb8slVPOLIL.jpg",
-  },
-  {
     name: "Super Crooks Latino",
     link: "https://drive.google.com/drive/u/0/folders/1xU0du59pyuRkuPzfLSDHPcINLV1Sbo8A",
     image:
@@ -4783,55 +4801,55 @@ const data = [
   },
   {
     name: "Sword Art Online",
-    link: "https://www1.otakustv.com/anime/sword-art-online-oqcgrd57",
+    link: "https://tioanime.com/anime/sword-art-online",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/pDqx7g9nQxRCGch5WFKvDFmJ87o.jpg",
   },
   {
     name: "Sword Art Online II",
-    link: "https://www1.otakustv.com/anime/sword-art-online-ii-cotzaopp",
+    link: "https://tioanime.com/anime/sword-art-online-2",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/jLO2dImnY1N8JjzaK7O7FW3aRW2.jpg",
   },
   {
     name: "Sword Art Online Alicization",
-    link: "https://www1.otakustv.com/anime/sword-art-online-alicization-omlvldsi",
+    link: "https://tioanime.com/anime/sword-art-online-alicization",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/fsatKuTodTjj3EHQytcgsnbZ5qb.jpg",
   },
   {
     name: "Sword Art Online Alicization War of Underworld",
-    link: "https://www1.otakustv.com/anime/sword-art-online-alicization-war-of-underworld-rxin0gqh",
+    link: "https://tioanime.com/anime/sword-art-online-alicization-war-of-underworld",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2ac201aa63c364c1520838bfa24bb3b4.jpe",
   },
   {
     name: "Sword Art Online Alternative: Gun Gale Online",
-    link: "https://www.crunchyroll.com/es/series/GY79P41KR/sword-art-online-alternative-gun-gale-online",
+    link: "https://tioanime.com/anime/sword-art-online-alternative-gun-gale-online",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/80f690edbd849615c1cd383fe7c05423.jpe",
   },
   {
     name: "Sword Art Online Alternative: Gun Gale Online II",
-    link: "https://www1.otakustv.com/anime/sword-art-online-alternative-gun-gale-online-ii",
+    link: "https://tioanime.com/anime/sword-art-online-alternative-gun-gale-online-ii",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/f92db048f55fd6b757a8450756f887a1.jpg",
   },
   {
     name: "Sword Art Online Latino",
-    link: "https://www.henaojara.com/ver/sword-art-online-espanol-latino-hd/",
+    link: "https://ww3.animeonline.ninja/online/sword-art-online-1-100524/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/pDqx7g9nQxRCGch5WFKvDFmJ87o.jpg",
   },
   {
     name: "Sword Art Online II Latino",
-    link: "https://www.henaojara.com/ver/sword-art-online-temporada-2-espanol-latino-hd/",
+    link: "https://ww3.animeonline.ninja/online/sword-art-online-1-100524/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/jLO2dImnY1N8JjzaK7O7FW3aRW2.jpg",
   },
   {
     name: "Sword Art Online Alicization Latino",
-    link: "https://www.henaojara.com/ver/sword-art-online-temporada-3-espanol-latino-hd/",
+    link: "https://ww3.animeonline.ninja/online/sword-art-online-1-100524/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/fsatKuTodTjj3EHQytcgsnbZ5qb.jpg",
   },
@@ -8197,7 +8215,7 @@ const data = [
   },
   {
     name: "Magilumiere Magical Girls S. A.",
-    link: "https://www1.otakustv.com/anime/kabushikigaisha-magi-lumiere",
+    link: "https://tioanime.com/anime/kabushikigaisha-magilumiere",
     image:
       "https://m.media-amazon.com/images/S/pv-target-images/5903ea7e5f4db5c97b5a1c978622e1fcddf46c32de7cc6ed1552d3141d86dc8e._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,808,263,156_SX480_FMwebp_.jpg",
   },

@@ -168,6 +168,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/oAfc1oNsURepm6VegBSBw1IGMF4.jpg",
   },
   {
+    name: "Avatar: The Last Airbender Latino",
+    link: "https://pluto.tv/latam/shows/avatar-the-last-airbender-lt/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/r1giEBi1aP45uwZTfqFjf2UjB1W.jpg",
+  },
+  {
     name: "APPARE-RANMAN Latino",
     link: "https://www1.animeonline.ninja/online/appare-ranman/",
     image:
@@ -4638,6 +4644,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/t19vHBHvOVulT4qFfIGjRdINldm.jpg",
   },
   {
+    name: "Smoking Behind the Supermarket with You Latino",
+    link: "https://ww3.animeonline.ninja/online/super-no-ura-de-yani-suu-futari/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/t19vHBHvOVulT4qFfIGjRdINldm.jpg",
+  },
+  {
     name: "Sleepy Princess in the Demon Castle",
     link: "https://www1.otakustv.com/anime/maoujou-de-oyasumi",
     image:
@@ -4861,7 +4873,7 @@ const data = [
   },
   {
     name: "Taisho Otome Fairytale",
-    link: "https://www1.otakustv.com/anime/taishou-otome-otogibanashi",
+    link: "https://tioanime.com/anime/taishou-otome-otogibanashi",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/kEaJRuvyxYxLk9nfZjG6pPr5Z5n.jpg",
   },
@@ -7831,19 +7843,19 @@ const data = [
   },
   {
     name: "T.P BON",
-    link: "https://www1.otakustv.com/anime/tp-bon",
+    link: "https://ww3.animeonline.ninja/online/tp-bon/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/lBjb5NJ7gqV9d8es5JS2D4NQq4o.jpg",
   },
   {
     name: "T.P BON 2ND SEASON",
-    link: "https://www1.otakustv.com/anime/tp-bon-season-2",
+    link: "https://ww3.animeonline.ninja/online/tp-bon/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/f59kqk5K024neMiFCBPU5lp8ODd.jpg",
   },
   {
     name: "T.P BON Latino",
-    link: "https://wvw.henaojara.com/veronline/season/t%e3%83%bbp-bon-1/",
+    link: "https://ww3.animeonline.ninja/online/tp-bon/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/lBjb5NJ7gqV9d8es5JS2D4NQq4o.jpg",
   },

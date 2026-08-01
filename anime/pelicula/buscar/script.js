@@ -954,6 +954,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/sl5rXSyMTzK5WkpRO9oVIkqr6DE.jpg",
   },
   {
+    name: "Avatar: Aang, El último Maestro Aire Latino",
+    link: "https://drive.google.com/drive/folders/15YQEqsZib-0uPpsAK4kIB9l0P938TYGj",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/bVfTSZ6lsg3OtbTYWYNRokRf6jB.jpg",
+  },
+  {
     name: "Kanna Y Los Dioses De Octubre Latino",
     link: "https://drive.google.com/drive/u/0/folders/1O3g1RXAd-3j4-QEVBwABR3cZjZOIWjGy",
     image:
@@ -1188,6 +1194,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/A5IUpILPQufbCbjI62LXrYZTWhm.jpg",
   },
   {
+    name: "Who Said Death Is Beautiful?",
+    link: "https://www.youtube.com/watch?v=O9WA-_fy9nU&list=PLFTSA9bmjox0NsAdLw-_chcMm4p2wh6nl&index=2",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/hgsgWBFX23dz1AIrJqxnzNOZ5Ig.jpg",
+  },
+  {
     name: "Youjo Senki Movie",
     link: "https://www1.otakustv.com/anime/youjo-senki-movie",
     image:
@@ -1332,10 +1344,10 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/rvHT1o9Km0fHE1YRLMSvWkVCLVM.jpg",
   },
   {
-    name: "Assassination Classroom 365 Days Time The Movie",
-    link: "https://www1.otakustv.com/anime/ansatsu-kyoushitsu-365-nichi-no-jikan",
+    name: "Assassination Classroom the Movie: Our Time",
+    link: "https://tioanime.com/anime/ansatsu-kyoushitsu-movie-minna-no-jikan",
     image:
-      "https://media.themoviedb.org/t/p/w500_and_h282_face/s4B1dW363mFhQ3BJBkZOr0wTWkb.jpg",
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/zp2Bwo5UJejsCoFOtXRGU1QlkBm.jpg",
   },
   {
     name: "Dragon Ball: El Camino Hacia el Mas Fuerte",

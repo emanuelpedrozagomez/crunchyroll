@@ -3126,6 +3126,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/aB7yvZdtFJYXyoiUSym7gWaVGxG.jpg",
   },
   {
+    name: "Love Unseen Beneath the Clear Night Sky",
+    link: "https://tioanime.com/anime/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/dIEiKJYHndaoz8pFrLtfSRxevmq.jpg",
+  },
+  {
     name: "Lucky Star",
     link: "https://tioanime.com/anime/lucky-star",
     image:
@@ -3382,6 +3388,18 @@ const data = [
     link: "https://ww3.animeonline.ninja/online/mobile-suit-gundam-gquuuuuux/",
     image:
       "https://m.media-amazon.com/images/S/pv-target-images/cd557cbaa168f746bb5a6cc3954e7d87a7befe9fd54b181736e4ce4688257653._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_SX500_FMwebp_.jpg",
+  },
+  {
+    name: "Mobile Suit Gundam Seed",
+    link: "https://www.youtube.com/playlist?list=PLGCy0ANGbKCM",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/44Z4dBT02S6EKrw7g8bZirFBs0i.jpg",
+  },
+  {
+    name: "Mobile Suit Gundam Seed Destiny",
+    link: "https://www.youtube.com/playlist?list=PLH28wqlpBLfA",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/2dvGER0Hsj809EDhg9SUkd8CFTZ.jpg",
   },
   {
     name: "Mobile Suit Gundam: The Witch from Mercury",
@@ -8170,6 +8188,12 @@ const data = [
     link: "https://ww3.animeonline.ninja/online/rick-y-morty-el-anime/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/88qsBmh6df6ZfmzsGkaFYEtXErd.jpg",
+  },
+  {
+    name: "RILAKKUMA",
+    link: "https://www.youtube.com/playlist?list=PLRe9ARNnYSY4hxOzWeNuoM6fvl4eM2lWN",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/lWV1rHlqSjgBwe6FCS98zkMoxsj.jpg",
   },
   {
     name: "Sakuna: Of Rice and Ruin",

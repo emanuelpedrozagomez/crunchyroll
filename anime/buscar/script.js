@@ -3181,7 +3181,7 @@ const data = [
   },
   {
     name: "Lycoris Recoil: Friends are thieves of time",
-    link: "https://ww3.animeonline.ninja/online/lycoris-recoil/",
+    link: "https://www.youtube.com/watch?v=Er8gI7WK1wA&t=7s",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/i65FZhvttMDad7prVZwGDto6CqE.jpg",
   },
@@ -4957,13 +4957,13 @@ const data = [
   },
   {
     name: "That Time I Got Reincarnated as a Slime",
-    link: "https://www1.otakustv.com/anime/tensei-shitara-slime-datta-ken-pwf5ir9k",
+    link: "https://tioanime.com/anime/tensei-shitara-slime-datta-ken",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/l0yfFJcuiNEYW17QfVyNBCpuTGr.jpg",
   },
   {
     name: "That Time I Got Reincarnated as a Slime OVAS",
-    link: "https://www1.otakustv.com/anime/tensei-shitara-slime-datta-ken-ova-peoazol5",
+    link: "https://tioanime.com/anime/tensei-shitara-slime-datta-ken-ova",
     image:
       "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xNGKCIbKI32iUo3vTKzZoulLCum.jpg",
   },
@@ -4975,61 +4975,61 @@ const data = [
   },
   {
     name: "That Time I Got Reincarnated as a Slime 2",
-    link: "https://www1.otakustv.com/anime/tensei-shitara-slime-datta-ken-2nd-season-0fx4aeuz",
+    link: "https://tioanime.com/anime/tensei-shitara-slime-datta-ken-2nd-season",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/183aa89af7da4843887aa1b9dc67b252.jpe",
   },
   {
     name: "That Time I Got Reincarnated as a Slime 2 Latino",
-    link: "https://henaojara2.com/ver/tensei-shitara-temporada-2-espanol-latino-hd/",
+    link: "https://ww3.animeonline.ninja/online/tensei-shitara-slime-datta-ken-7-051325/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/183aa89af7da4843887aa1b9dc67b252.jpe",
   },
   {
     name: "Theatre of Darkness 7",
-    link: "https://www1.otakustv.com/anime/yami-shibai-7-gq9zi4yn",
+    link: "https://tioanime.com/anime/yami-shibai-7",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/96sWPMXdzB9cSwNwaIPh2XI8t0R.jpg",
   },
   {
     name: "Theatre of Darkness 8",
-    link: "https://www1.otakustv.com/anime/yami-shibai-8-hzsdeyea",
+    link: "https://tioanime.com/anime/yami-shibai-8",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/kdgX5uDV5HoaiIo8HsCEyx6ncH6.jpg",
   },
   {
     name: "Theatre of Darkness 9",
-    link: "https://www1.otakustv.com/anime/yami-shibai-9-jm5so1rz",
+    link: "https://www1.animeonline.ninja/online/yami-shibai/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/upkcoee5VhPeTTbLdPERtCVhy4N.jpg",
   },
   {
     name: "Theatre of Darkness 10",
-    link: "https://www1.otakustv.com/anime/yami-shibai-10-xtf7gugf",
+    link: "https://www1.animeonline.ninja/online/yami-shibai/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2da652c121a8a09b04978e7acc11bc76.jpe",
   },
   {
     name: "Theatre of Darkness 12",
-    link: "https://www1.otakustv.com/anime/yami-shibai-12",
+    link: "https://www1.animeonline.ninja/online/yami-shibai/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/fRohxjKJXpKy3rplXoqIOAt93dV.jpg",
   },
   {
     name: "Theatre of Darkness 13",
-    link: "https://www1.otakustv.com/anime/yami-shibai-13",
+    link: "https://www1.animeonline.ninja/online/yami-shibai/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/7yUOrBr2EwJYSEYOwJ0M7og8hJ2.jpg",
   },
   {
     name: "Theatre of Darkness 14",
-    link: "https://www1.otakustv.com/anime/yami-shibai-14",
+    link: "https://www1.animeonline.ninja/online/yami-shibai/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/mqOFyE4LxF7PsvXfOSQwwPGkXz0.jpg",
   },
   {
     name: "Theatre of Darkness 15",
-    link: "https://www1.otakustv.com/anime/yami-shibai-15",
+    link: "https://www1.animeonline.ninja/online/yami-shibai/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/7yUOrBr2EwJYSEYOwJ0M7og8hJ2.jpg",
   },
@@ -5539,13 +5539,13 @@ const data = [
   },
   {
     name: "The Slime Diaries",
-    link: "https://www1.otakustv.com/anime/tensura-nikki-tensei-shitara-slime-datta-ken-avgxncny",
+    link: "https://tioanime.com/anime/tensura-nikki-tensei-shitara-slime-datta-ken",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/f3b0bb89e118f89f738d6dc4f755fba8.jpe",
   },
   {
     name: "The Slime Diaries Latino",
-    link: "https://henaojara2.com/ver/tensura-nikki-tensei-shitara-slime-datta-ken-espanol-latino-hd/",
+    link: "https://ww3.animeonline.ninja/online/tensura-nikki-tensei-shitara-slime-datta-ken-091625/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/f3b0bb89e118f89f738d6dc4f755fba8.jpe",
   },

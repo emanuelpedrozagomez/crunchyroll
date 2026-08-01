@@ -547,13 +547,13 @@ const data = [
   },
   {
     name: "That Time I Got Reincarnated as a Slime The Movie: Scarlet Bond",
-    link: "https://www1.otakustv.com/anime/tensei-shitara-slime-datta-ken-movie-guren-no-kizuna-hen",
+    link: "https://tioanime.com/anime/tensei-shitara-slime-datta-ken-movie-guren-no-kizunahen",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/xBspq7kJsfkzch95MzFl5RDDMK4.jpg",
   },
   {
     name: "That Time I Got Reincarnated as a Slime The Movie: Scarlet Bond Latino",
-    link: "https://henaojara2.com/ver/season/tensei-shitara-slime-datta-ken-movie-espanol-latino-hd-1/",
+    link: "https://www1.animeonline.ninja/pelicula/tensei-shitara-slime-datta-ken-movie/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/xBspq7kJsfkzch95MzFl5RDDMK4.jpg",
   },

@@ -7141,7 +7141,7 @@ const data = [
   },
   {
     name: "That Time I Got Reincarnated as a Slime Visions of Coleus",
-    link: "https://www1.otakustv.com/anime/tensei-shitara-slime-datta-ken-coleus-no-yume",
+    link: "https://tioanime.com/anime/tensei-shitara-slime-datta-ken-coleus-no-yume",
     image:
       "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/kR1yeVqxkPuELSK34dUAg834k7x.jpg",
   },
@@ -7660,6 +7660,18 @@ const data = [
     link: "https://www1.otakustv.com/anime/tensei-shitara-slime-datta-ken-3rd-season",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=1200,height=675,quality=85/catalog/crunchyroll/c66e81aad52628a7f0738987903f92d2.jpe",
+  },
+  {
+    name: "That Time I Got Reincarnated as a Slime Season 4",
+    link: "https://tioanime.com/anime/tensei-shitara-slime-datta-ken-4th-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/uf7B3sqFCA1qFmoMlJ9ysHxPO3S.jpg",
+  },
+  {
+    name: "That Time I Got Reincarnated as a Slime Season 4 Latino",
+    link: "https://ww3.animeonline.ninja/online/tensei-shitara-slime-datta-ken-7-051325/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/uf7B3sqFCA1qFmoMlJ9ysHxPO3S.jpg",
   },
   {
     name: "Boku no Hero Academia: Memories",

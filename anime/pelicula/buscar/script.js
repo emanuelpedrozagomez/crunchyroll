@@ -558,6 +558,18 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/xBspq7kJsfkzch95MzFl5RDDMK4.jpg",
   },
   {
+    name: "That Time I Got Reincarnated as a Slime La Película: Lágrimas del mar celeste",
+    link: "https://tioanime.com/anime/tensei-shitara-slime-datta-ken-movie-2-soukai-no-namidahen",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/2H7prtwvZQTrMKjSrVGQb25rGf7.jpg",
+  },
+  {
+    name: "That Time I Got Reincarnated as a Slime La Película: Lágrimas del mar celeste Latino",
+    link: "https://ww3.animeonline.ninja/pelicula/tensei-shitara-slime-datta-ken-movie-2-soukai-no-namida-hen/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/2H7prtwvZQTrMKjSrVGQb25rGf7.jpg",
+  },
+  {
     name: "DanMachi: La película",
     link: "https://www1.otakustv.com/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya",
     image:

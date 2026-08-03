@@ -534,6 +534,18 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/ck9dE7kwAuxXwswo3OWEeOerRSj.jpg",
   },
   {
+    name: "BLACK TORCH",
+    link: "https://tioanime.com/anime/black-torch",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/dHjGRJqVdPVywCPYVDgqUiTXbsP.jpg",
+  },
+  {
+    name: "BLACK TORCH Latino",
+    link: "https://ww3.animeonline.ninja/online/black-torch/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/dHjGRJqVdPVywCPYVDgqUiTXbsP.jpg",
+  },
+  {
     name: "Bleach",
     link: "https://tioanime.com/anime/bleach-tv",
     image:
@@ -748,6 +760,12 @@ const data = [
     link: "https://henaojara2.com/ver/boku-no-hero-temporada-2-espanol-latino-hd/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/6wSSyRNeF9vBJ1h29nuw3vG9hZI.jpg",
+  },
+  {
+    name: "Boku No Hero Academia: I am a hero too",
+    link: "https://tioanime.com/anime/boku-no-hero-academia-i-am-a-hero-too",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/3UlQDCm7HbgdPE9u2BntRmrZZAD.jpg",
   },
   {
     name: "Boruto Naruto Next Generations",
@@ -5053,19 +5071,19 @@ const data = [
   },
   {
     name: "The Ancient Magus Bridge",
-    link: "https://www1.otakustv.com/anime/mahoutsukai-no-yome",
+    link: "https://tioanime.com/anime/mahoutsukai-no-yome",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/6RsvEFTSKUgjfG8vI299qrycZY4.jpg",
   },
   {
     name: "The Ancient Magus Bridge Latino",
-    link: "https://www.facebook.com/watch/101974755365056/713852570517329/",
+    link: "https://ww3.animeonline.ninja/online/mahoutsukai-no-yome/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/6RsvEFTSKUgjfG8vI299qrycZY4.jpg",
   },
   {
     name: "The Ancient Magus Bridge OVA 1",
-    link: "https://www1.otakustv.com/anime/mahoutsukai-no-yome-hoshi-matsu-hito",
+    link: "https://tioanime.com/anime/mahoutsukai-no-yome-hoshi-matsu-hito",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/pjXffujvrhSYvoZcdV7RbeklxwL.jpg",
   },
@@ -5077,7 +5095,7 @@ const data = [
   },
   {
     name: "The Ancient Magus Bridge OVA 2",
-    link: "https://www1.otakustv.com/anime/mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi",
+    link: "https://tioanime.com/anime/mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/s4K6eHbwVEiyE7CwtmG3upH2IPH.jpg",
   },
@@ -5089,25 +5107,31 @@ const data = [
   },
   {
     name: "The Ancient Magus Bride Season 2",
-    link: "https://www1.otakustv.com/anime/mahoutsukai-no-yome-season-2",
+    link: "https://tioanime.com/anime/mahoutsukai-no-yome-season-2",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d6c933d9ac9ad27f1231b2e3ab061853.jpe",
   },
   {
     name: "The Ancient Magus Bride Season 2 Latino",
-    link: "https://www1.henaojara.com/ver/season/mahoutsukai-no-yome-espanol-latino-hd-2/",
+    link: "https://ww3.animeonline.ninja/online/mahoutsukai-no-yome/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d6c933d9ac9ad27f1231b2e3ab061853.jpe",
   },
   {
     name: "The Angel Next Door Spoils Me Rotten",
-    link: "https://www1.otakustv.com/anime/otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken",
+    link: "https://tioanime.com/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-ken",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/f8d67f897026df95f8104660f5e5b15b.jpe",
   },
   {
+    name: "The Angel Next Door Spoils Me Rotten Season 2",
+    link: "https://tioanime.com/anime/otonari-no-tenshisama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/8k6I55KwTIMemMyU9fFhBvzZWTm.jpg",
+  },
+  {
     name: "The Aquatope On White Sand",
-    link: "https://henaojara.com/animeonline/shiroi-suna-no-aquatope-sub-espanol-hd/",
+    link: "https://tioanime.com/anime/shiroi-suna-no-aquatope",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/3ca937d063acd70f7b7b5996fe5838d4.jpe",
   },
@@ -5648,6 +5672,12 @@ const data = [
   {
     name: "Though I Am An INEPT VILLANESS",
     link: "https://tioanime.com/anime/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/oHp63z7hAvCKDPMxQ3YZqVjKGfn.jpg",
+  },
+  {
+    name: "Though I Am An INEPT VILLANESS Latino",
+    link: "https://ww3.animeonline.ninja/online/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/oHp63z7hAvCKDPMxQ3YZqVjKGfn.jpg",
   },
@@ -6570,6 +6600,18 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/7fafdb10010de70d08cc58c1dad4e5d1.jpe",
   },
   {
+    name: "Mushoku Tensei Jobless Reincarnation Season 3",
+    link: "https://tioanime.com/anime/mushoku-tensei-iii-isekai-ittara-honki-dasu",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/9qTNrEMxqBtcGcY45S0otQsiDTa.jpg",
+  },
+  {
+    name: "Mushoku Tensei Jobless Reincarnation Season 3 Latino",
+    link: "https://ww3.animeonline.ninja/online/mushoku-tensei-isekai-ittara-honki-dasu-082125/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/9qTNrEMxqBtcGcY45S0otQsiDTa.jpg",
+  },
+  {
     name: "My Friend's Little Sister Has It In for Me!",
     link: "https://tioanime.com/anime/tomodachi-no-imouto-ga-ore-ni-dake-uzai",
     image:
@@ -6798,6 +6840,18 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/fXFiKGBoPWFpoc9U1w2P2xTGtbW.jpg",
   },
   {
+    name: "NEEDY GIRL OVERDOSE",
+    link: "https://tioanime.com/anime/needy-girl-overdose",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/yOHyK4Op0rub2l5T7aCTvt4PZhB.jpg",
+  },
+  {
+    name: "NEEDY GIRL OVERDOSE Latino",
+    link: "https://ww3.animeonline.ninja/online/needy-girl-overdose/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/yOHyK4Op0rub2l5T7aCTvt4PZhB.jpg",
+  },
+  {
     name: "Special A Latino",
     link: "https://pluto.tv/es/on-demand/series/special-a-lt/details/season/1",
     image:
@@ -6949,21 +7003,27 @@ const data = [
   },
   {
     name: "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
-    link: "https://www1.otakustv.com/anime/kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-nin-no-kanojo",
+    link: "https://tioanime.com/anime/kimi-no-koto-ga-daidaidaidaidaisuki-na-100nin-no-kanojo",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/530b81ea91a57829a9851e68b96db82c.jpe",
   },
   {
     name: "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Latino",
-    link: "https://henaojara.com/animeonline/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-espanol-latino-hd/",
+    link: "https://ww3.animeonline.ninja/online/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/530b81ea91a57829a9851e68b96db82c.jpe",
   },
   {
     name: "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2",
-    link: "https://www1.otakustv.com/anime/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-2nd-season",
+    link: "https://tioanime.com/anime/kimi-no-koto-ga-daidaidaidaidaisuki-na-100nin-no-kanojo",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/2EiJ7kOcuGef855BDBVkO3vufZP.jpg",
+  },
+  {
+    name: "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
+    link: "https://tioanime.com/anime/kimi-no-koto-ga-daidaidaidaidaisuki-na-100nin-no-kanojo",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/mdt4T6A3uLYS9hyJRTWvHxvPSGc.jpg",
   },
   {
     name: "After-school Hanako-kun",
@@ -7189,25 +7249,25 @@ const data = [
   },
   {
     name: "The Apothecary Diaries",
-    link: "https://henaojara.com/animeonline/kusuriya-no-hitorigoto-sub-espanol-hd/",
+    link: "https://tioanime.com/anime/kusuriya-no-hitorigoto",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/880a9a293ef5b71e1122e85543f8e86d.jpe",
   },
   {
     name: "The Apothecary Diaries Season 2",
-    link: "https://henaojara.com/animeonline/kusuriya-no-hitorigoto-sub-espanol-hd/n",
+    link: "https://tioanime.com/anime/kusuriya-no-hitorigoto",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/urKVIVAwGX7cpNfsGi4AdPn22Kh.jpg",
   },
   {
     name: "The Maomao Diaries Season 2",
-    link: "https://henaojara.com/animeonline/kusuriya-no-hitorigoto-sub-espanol-hd/",
+    link: "https://www.youtube.com/playlist?list=PLtdSPZNWT1AuqiQ8woVbbC2hVWqlbO7Nl",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/p5L6AMEFLsNn9bFqwdcJuCgspsQ.jpg",
   },
   {
     name: "The Apothecary Diaries Season 2 Latino",
-    link: "https://henaojara.com/animeonline/season/kusuriya-no-hitorigoto-espanol-latino-hd-2/",
+    link: "https://ww3.animeonline.ninja/online/kusuriya-no-hitorigoto/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/h4tYrFlKXhemuE0YF0ar0EUvroO.jpg",
   },
@@ -8428,6 +8488,24 @@ const data = [
     link: "https://www.henaojara.com/veronline/season/kimi-wa-meido-sama-espanol-latino-hd-1/",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/ff503d8b939e73ed62f126b4ae5c7909.jpg",
+  },
+  {
+    name: "Youjo Senki",
+    link: "https://tioanime.com/anime/youjo-senki",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/j3ucLcUZQMA8GCVQgYEfdX7hTBq.jpg",
+  },
+  {
+    name: "Youjo Senki Season 2",
+    link: "https://tioanime.com/anime/youjo-senki-ii",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/l2doJmWQUtX1pJwjf9M0b3tTWxD.jpg",
+  },
+  {
+    name: "Youjo Senki Latino",
+    link: "https://ww3.animeonline.ninja/online/youjo-senki-saga-of-tanya-the-evil-102924/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/l2doJmWQUtX1pJwjf9M0b3tTWxD.jpg",
   },
   {
     name: "El Gran Pasaje",

@@ -3576,6 +3576,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/ffad1b93800580a55173288141b9a321.jpe",
   },
   {
+    name: "My Love Story with Yamada-kun at Lv999 Latino",
+    link: "https://ww3.animeonline.ninja/online/yamada-kun-to-lv999-no-koi-wo-suru/",
+    image:
+      "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/ffad1b93800580a55173288141b9a321.jpe",
+  },
+  {
     name: "My Next Life as a Villainess: All Routes Lead to Doom!",
     link: "https://tioanime.com/anime/otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta",
     image:
@@ -7261,7 +7267,7 @@ const data = [
   },
   {
     name: "The Maomao Diaries Season 2",
-    link: "https://www.youtube.com/playlist?list=PLtdSPZNWT1AuqiQ8woVbbC2hVWqlbO7Nl",
+    link: "https://www.youtube.com/playlist?list=PLtdSPZNWT1AtlB6oZ-OLqZKXwMdMnIDiC",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/p5L6AMEFLsNn9bFqwdcJuCgspsQ.jpg",
   },

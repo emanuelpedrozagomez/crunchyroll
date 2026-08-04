@@ -576,6 +576,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/eBdT6fBRMHO4bq00VZcAGlDGizz.jpg",
   },
   {
+    name: "Demon Slayer: Mugen Train Movie",
+    link: "https://amasian.tv/video/movies/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+    image:
+      "https://www.themoviedb.org/t/p/w500_and_h282_face/AqhA7GXDEaP1spOWih195YzSPem.jpg",
+  },
+  {
     name: "Demon Slayer: Mugen Train Movie Latino",
     link: "https://henaojara2.com/ver/episode/kimetsu-no-yaiba-mugen-train-espanol-latino-hd-1x1/",
     image:

@@ -768,6 +768,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/3UlQDCm7HbgdPE9u2BntRmrZZAD.jpg",
   },
   {
+    name: "Boku No Hero Academia: I am a hero too Latino",
+    link: "https://ww3.animeonline.ninja/episodio/boku-no-hero-academia-i-am-a-hero-too/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/3UlQDCm7HbgdPE9u2BntRmrZZAD.jpg",
+  },
+  {
     name: "Boruto Naruto Next Generations",
     link: "https://tioanime.com/anime/boruto-naruto-next-generations-tv",
     image:
@@ -5143,79 +5149,79 @@ const data = [
   },
   {
     name: "The Café Terrace and Its Goddesses",
-    link: "https://www1.otakustv.com/anime/megami-no-cafe-terrace",
+    link: "https://tioanime.com/anime/megami-no-cafe-terrace",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/6fc32f0b24ef2dd7c9e897dced82dc72.jpe",
   },
   {
     name: "The Café Terrace and Its Goddesses 2nd Season",
-    link: "https://www1.otakustv.com/anime/megami-no-cafe-terrace-2nd-season",
+    link: "https://tioanime.com/anime/megami-no-cafe-terrace",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/wYlEVn1tZJ8AQp5BRhKemulfpuv.jpg",
   },
   {
     name: "The Café Terrace and Its Goddesses Latino",
-    link: "https://wvw.henaojara.com/veronline/season/megami-no-cafe-terrace-espanol-latino-hd-1/",
+    link: "https://ww3.animeonline.ninja/online/megami-no-cafe-terrace/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/6fc32f0b24ef2dd7c9e897dced82dc72.jpe",
   },
   {
     name: "The Case Study of Vanitas",
-    link: "https://www1.otakustv.com/anime/vanitas-no-carte",
+    link: "https://tioanime.com/anime/vanitas-no-carte",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/69a055ceed91e4513bf8b986f3069381.jpe",
   },
   {
     name: "The Case Study of Vanitas Latino",
-    link: "https://henaojara2.com/ver/vanitas-no-carte-espanol-latino-hd/",
+    link: "https://ww3.animeonline.ninja/online/vanitas-no-carte/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/69a055ceed91e4513bf8b986f3069381.jpe",
   },
   {
     name: "The Daily Life of the Immortal King",
-    link: "https://www1.otakustv.com/anime/xian-wang-de-richang-shenghuo",
+    link: "https://ww3.animeonline.ninja/online/the-daily-life-of-the-immortal-king-052125/",
     image:
       "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qYqIo1VygQ2EB5RDBI7nJV2ii1s.jpg",
   },
   {
     name: "The Daily Life of the Immortal King II",
-    link: "https://www1.otakustv.com/anime/xian-wang-de-richang-shenghuo-2",
+    link: "https://ww3.animeonline.ninja/online/the-daily-life-of-the-immortal-king-052125/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/jRGFuU1i3tj1KyEkw44UV3RKrlK.jpg",
   },
   {
     name: "The Daily Life of the Immortal King III",
-    link: "https://www1.otakustv.com/anime/xian-wang-de-richang-shenghuo-3",
+    link: "https://ww3.animeonline.ninja/online/the-daily-life-of-the-immortal-king-052125/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/e927496ff24c95e32084e7c17153de6a.jpe",
   },
   {
     name: "The Dangers In My Heart",
-    link: "https://www1.otakustv.com/anime/boku-no-kokoro-no-yabai-yatsu",
+    link: "https://tioanime.com/anime/boku-no-kokoro-no-yabai-yatsu",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
   },
   {
     name: "The Day I Became a God",
-    link: "https://www1.otakustv.com/anime/kamisama-ni-natta-hi-tdnqoprm",
+    link: "https://tioanime.com/anime/kamisama-ni-natta-hi",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d7978048e716171bacde57fa1f5bb8c3.jpe",
   },
   {
     name: "The Demon Girl Next Door",
-    link: "https://www1.otakustv.com/anime/machikado-mazoku-tpvskpze",
+    link: "https://tioanime.com/anime/machikado-mazoku",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/6JQkltRqkLZWyYywBKWWvlvykfj.jpg",
   },
   {
     name: "The Demon Girl Next Door II",
-    link: "https://www.animelatinohd.com/anime/machikado-mazoku-2-choume",
+    link: "https://tioanime.com/anime/machikado-mazoku-2choume",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/gBPqjvSE9yE1AG7NA4YvSkFg5gp.jpg",
   },
   {
     name: "The Detective is Already Dead",
-    link: "https://www1.otakustv.com/anime/tantei-wa-mou-shindeiru",
+    link: "https://tioanime.com/anime/tantei-wa-mou-shindeiru",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2102fb31e3fd1d15e3f17ebbd7df41ae.jpe",
   },
@@ -5227,37 +5233,37 @@ const data = [
   },
   {
     name: "The Dinner Table Detective",
-    link: "https://www1.otakustv.com/anime/nazotoki-wa-dinner-no-ato-de",
+    link: "https://tioanime.com/anime/nazotoki-wa-dinner-no-ato-de",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/pmARZuOtVF9vKkP02Jbar0PhFan.jpg",
   },
   {
     name: "The Dinner Table Detective Latino",
-    link: "https://henaojara.com/animeonline/season/nazotoki-wa-dinner-no-ato-de-espanol-latino-hd-1/",
+    link: "https://ww3.animeonline.ninja/online/nazotoki-wa-dinner-no-ato-de/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/pmARZuOtVF9vKkP02Jbar0PhFan.jpg",
   },
   {
     name: "The Duke of Death and His Maid",
-    link: "https://www1.otakustv.com/anime/shinigami-bocchan-to-kuro-maid",
+    link: "https://tioanime.com/anime/shinigami-bocchan-to-kuro-maid",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/lr9ucngSJr0u1cyuUdZ6fN2LZk7.jpg",
   },
   {
     name: "The Duke of Death and His Maid Latino",
-    link: "https://henaojara2.com/ver/shinigami-bocchan-to-kuro-maid-espanol-latino-hd/",
+    link: "https://ww3.animeonline.ninja/online/shinigami-bocchan-to-kuro-maid/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/lr9ucngSJr0u1cyuUdZ6fN2LZk7.jpg",
   },
   {
     name: "The Dungeon Of Black Company",
-    link: "https://www1.otakustv.com/anime/meikyuu-black-company",
+    link: "https://tioanime.com/anime/meikyuu-black-company",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a4bb2958dc3ec31f02c07b3d9545c1a2.jpe",
   },
   {
     name: "The Dungeon Of Black Company Latino",
-    link: "https://www.henaojara.com/ver/meikyuu-black-company-espanol-latino-hd/",
+    link: "https://ww3.animeonline.ninja/online/meikyuu-black-company/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a4bb2958dc3ec31f02c07b3d9545c1a2.jpe",
   },
@@ -7242,6 +7248,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/nwcAJJ6QTxU7JfWwdRgJjtiYYXO.jpg",
   },
   {
+    name: "Akane-banashi Latino",
+    link: "https://ww3.animeonline.ninja/online/akane-banashi/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/nwcAJJ6QTxU7JfWwdRgJjtiYYXO.jpg",
+  },
+  {
     name: "Akaneiro ni Somaru Saka Latino",
     link: "https://otakuverso.net/anime/akaneiro-ni-somaru-saka-latino",
     image:
@@ -7321,15 +7333,15 @@ const data = [
   },
   {
     name: "The Duke of Death and His Maid Season 2",
-    link: "https://www1.otakustv.com/anime/shinigami-bocchan-to-kuro-maid-2nd-season",
+    link: "https://tioanime.com/anime/shinigami-bocchan-to-kuro-maid-2nd-season",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/9aecdd86d9bb107391d2af6892e927fc.jpe",
   },
   {
-    name: "The Duke of Death and His Maid Season 2 Latino",
-    link: "https://www.henaojara.com/ver/season/shinigami-bocchan-to-kuro-maid-espanol-latino-hd-2/",
+    name: "The Duke of Death and His Maid Season 3",
+    link: "https://tioanime.com/anime/shinigami-bocchan-to-kuro-maid-3rd-season",
     image:
-      "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/9aecdd86d9bb107391d2af6892e927fc.jpe",
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/cLtFVc5hPnC7Zi15To6KjEHcztd.jpg",
   },
   {
     name: "K-On!: Live House",
@@ -7387,7 +7399,7 @@ const data = [
   },
   {
     name: "The Daily Life of the Immortal King IV",
-    link: "https://www1.otakustv.com/anime/xian-wang-de-richang-shenghuo-4",
+    link: "https://ww3.animeonline.ninja/online/the-daily-life-of-the-immortal-king-052125/",
     image:
       "https://www.themoviedb.org/t/p/w160_and_h90_bestv2/akM4HhNxTscegmpTi8UemVmCweL.jpg",
   },
@@ -7471,7 +7483,7 @@ const data = [
   },
   {
     name: "The Dangers In My Heart Season 2",
-    link: "https://www1.otakustv.com/anime/boku-no-kokoro-no-yabai-yatsu-season-2",
+    link: "https://tioanime.com/anime/boku-no-kokoro-no-yabai-yatsu",
     image:
       "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/50x5nPSmlKRqeiuvIOrUkUIlLS8.jpg",
   },
@@ -8419,7 +8431,7 @@ const data = [
   },
   {
     name: "The Do-Over Damsel Conquers the Dragon Emperor",
-    link: "https://www1.otakustv.com/anime/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu",
+    link: "https://tioanime.com/anime/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/a72f74e160304530a2131fe8b765a3a5.jpg",
   },

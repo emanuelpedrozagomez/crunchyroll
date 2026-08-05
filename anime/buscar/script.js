@@ -4729,13 +4729,13 @@ const data = [
   },
   {
     name: "Sound! Euphonium",
-    link: "https://www1.otakustv.com/anime/hibike-euphonium",
+    link: "https://tioanime.com/anime/hibike-euphonium",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/1Rr1h1wRhaBXUqbgha3pJPi52tf.jpg",
   },
   {
     name: "Sound! Euphonium 2",
-    link: "https://www1.animeonline.ninja/online/hibike-euphonium/",
+    link: "https://tioanime.com/anime/hibike-euphonium-2",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/976ba94e475c0b7a6881ade519a9adb4.jpe",
   },
@@ -5251,9 +5251,21 @@ const data = [
   },
   {
     name: "The Duke of Death and His Maid Latino",
-    link: "https://ww3.animeonline.ninja/online/shinigami-bocchan-to-kuro-maid/",
+    link: "https://drive.google.com/drive/folders/1riXCYzLFATWdex0kHCX0_7z014KSPIBw",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/lr9ucngSJr0u1cyuUdZ6fN2LZk7.jpg",
+  },
+  {
+    name: "The Duke of Death and His Maid Season 2 Latino",
+    link: "https://drive.google.com/drive/folders/1-PhgMjsLIoP1RBvFhHmj9CVV7jYAK2H5?sort=13&direction=a",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/etYTivKjLDPnTtrxmdIX8d947pO.jpg",
+  },
+  {
+    name: "The Duke of Death and His Maid Season 3 Latino",
+    link: "https://drive.google.com/drive/folders/1iyyXh7zTshhaVJTXchAybeu5CFRqoOC2?sort=13&direction=a",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/cLtFVc5hPnC7Zi15To6KjEHcztd.jpg",
   },
   {
     name: "The Dungeon Of Black Company",
@@ -5281,13 +5293,13 @@ const data = [
   },
   {
     name: "The Forest Of Piano",
-    link: "https://www1.otakustv.com/anime/piano-no-mori-tv",
+    link: "https://tioanime.com/anime/piano-no-mori-tv",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/x8adVt7IMslxgz7iC0Tw5WN9Iua.jpg",
   },
   {
     name: "The Forest Of Piano Season 2",
-    link: "https://www1.otakustv.com/anime/piano-no-mori-2",
+    link: "https://ww3.animeonline.ninja/online/piano-no-mori-tv/",
     image:
       "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gZMl28HvGChn4Z7xvJNzHxmHBmF.jpg",
   },
@@ -5305,19 +5317,19 @@ const data = [
   },
   {
     name: "The Fruit of Evolution",
-    link: "https://www1.otakustv.com/anime/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei",
+    link: "https://tioanime.com/anime/shin-shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/fbc45243e0eccaa67aca9a78247387a3.jpe",
   },
   {
     name: "The Fruit of Evolution Latino",
-    link: "https://henaojara2.com/ver/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-espanol-latino-hd/",
+    link: "https://drive.google.com/drive/folders/1aFjMNqBlq8CwvDe8j_lMAXIiqGLX_sVH",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/fbc45243e0eccaa67aca9a78247387a3.jpe",
   },
   {
     name: "The Future Diary",
-    link: "https://www1.otakustv.com/anime/mirai-nikki",
+    link: "https://tioanime.com/anime/mirai-nikki-2011",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/c4b6a178ceb51cdfb68cffe6bfbfe90a.jpe",
   },
@@ -5329,25 +5341,25 @@ const data = [
   },
   {
     name: "The Garden of Sinners",
-    link: "https://www1.otakustv.com/anime/kara-no-kyoukai",
+    link: "https://tioanime.com/anime/kara-no-kyoukai",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/051ddbd1cb6b96edeec241c0111538bb.jpe",
   },
   {
     name: "The Genius Prince's",
-    link: "https://www1.otakustv.com/anime/tensai-ouji-no-akaji-kokka-saisei-jutsu",
+    link: "https://tioanime.com/anime/tensai-ouji-no-akaji-kokka-saisei-jutsu",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/5328bba7e64af22164b51ec37644cca7.jpe",
   },
   {
     name: "The Genius Prince's Latino",
-    link: "https://www.henaojara.com/ver/tensai-ouji-no-akaji-kokka-saisei-jutsu-espanol-latino-hd/",
+    link: "https://ww3.animeonline.ninja/online/tensai-ouji-no-akaji-kokka-saisei-jutsu-souda-baikoku-shiyou/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/5328bba7e64af22164b51ec37644cca7.jpe",
   },
   {
     name: "The God of High School",
-    link: "https://www1.otakustv.com/anime/the-god-of-high-school-jarnfrk2",
+    link: "https://tioanime.com/anime/the-god-of-high-school",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/f5507ec17b372d049a7d7d3e0634c31f.jpe",
   },
@@ -5359,55 +5371,55 @@ const data = [
   },
   {
     name: "The Great Jahy Will Not Be Defeated!",
-    link: "https://www1.otakustv.com/anime/jahy-sama-wa-kujikenai",
+    link: "https://tioanime.com/anime/jahysama-wa-kujikenai",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/6a2835dce2872f4c7d2cbbb2d5cb3c43.jpe",
   },
   {
     name: "The Great Jahy Will Not Be Defeated! Latino",
-    link: "https://henaojara2.com/ver/jahy-sama-wa-kujikenai-espanol-latino-hd/",
+    link: "https://drive.google.com/drive/folders/1ntP77ckJNcOOHvzTZ4XVLf9ucIsYYzOD",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/6a2835dce2872f4c7d2cbbb2d5cb3c43.jpe",
   },
   {
     name: "The Heike Story",
-    link: "https://www1.otakustv.com/anime/heike-monogatari-bzdxqesj",
+    link: "https://tioanime.com/anime/heike-monogatari",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d1effd6e4c28051c45d3e9f17c5cc061.jpe",
   },
   {
     name: "The Helpful Fox Senko-san",
-    link: "https://www1.otakustv.com/anime/sewayaki-kitsune-no-senko-san",
+    link: "https://tioanime.com/anime/sewayaki-kitsune-no-senkosan",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/35709e93109cd3f005c5fdc5d8d45a67.jpe",
   },
   {
     name: "The Hidden Dungeon Only I Can Enter",
-    link: "https://www1.otakustv.com/anime/ore-dake-haireru-kakushi-dungeon",
+    link: "https://tioanime.com/anime/ore-dake-haireru-kakushi-dungeon",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/6bcfad7c9dbc77275fe7ab4744d91910.jpe",
   },
   {
     name: "The Hidden Dungeon Only I Can Enter Latino",
-    link: "https://www.henaojara.com/ver/ore-dake-haireru-kakushi-dungeon-espanol-latino-hd/",
+    link: "https://drive.google.com/drive/folders/1uhG1NC7D5Fyl5FG-89R4w53pmX6ekb6p",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/6bcfad7c9dbc77275fe7ab4744d91910.jpe",
   },
   {
     name: "The Honor at Magic High School",
-    link: "https://www.animelatinohd.com/anime/mahouka-koukou-no-yuutousei",
+    link: "https://tioanime.com/anime/mahouka-koukou-no-yuutousei",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/7ff8ddfd02113230676e01a99771ed04.jpe",
   },
   {
     name: "The Iceblade Sorcerer Shall Rule the World",
-    link: "https://www1.otakustv.com/anime/hyouken-no-majutsushi-ga-sekai-wo-suberu",
+    link: "https://tioanime.com/anime/hyouken-no-majutsushi-ga-sekai-wo-suberu",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a0f5394d63f1a946071f7cb8b3f87ceb.jpe",
   },
   {
     name: "The Irregular at Magic High School",
-    link: "https://www.animelatinohd.com/anime/mahouka-koukou-no-rettousei",
+    link: "https://tioanime.com/anime/mahouka-koukou-no-rettousei",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/6TdptNC8E4Y7aujYmQLC6WyGWMx.jpg",
   },
@@ -6769,7 +6781,7 @@ const data = [
   },
   {
     name: "The Fruit of Evolution Season 2",
-    link: "https://www1.otakustv.com/anime/shin-shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei",
+    link: "https://tioanime.com/anime/shin-shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/9E0wLuM7Jvm8t7woQaOEIUcGdht.jpg",
   },
@@ -7051,7 +7063,7 @@ const data = [
   },
   {
     name: "THE IDOLM@STER CINDERELLA GIRLS U149",
-    link: "https://www1.otakustv.com/anime/the-idolmster-cinderella-girls-u149",
+    link: "https://tioanime.com/anime/the-idolmaster-cinderella-girls",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/9c16a830d59f86b0dda4ff9cc89e44ba.jpe",
   },
@@ -7207,7 +7219,7 @@ const data = [
   },
   {
     name: "The Fruit of Evolution Season 2 Latino",
-    link: "https://www.henaojara.com/ver/season/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-espanol-latino-hd-2/",
+    link: "https://drive.google.com/drive/folders/1LXtPY2SBbiegX9EWSnE0nGjSrihUSclu",
     image:
       "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3AY8moSLf0dTtqtKFwkGFRO4oJ6.jpg",
   },
@@ -7297,7 +7309,7 @@ const data = [
   },
   {
     name: "The Iceblade Sorcerer Shall Rule the World Latino",
-    link: "https://www.henaojara.com/ver/season/hyouken-no-majutsushi-ga-sekai-wo-suberu-espanol-latino-hd-1/",
+    link: "https://drive.google.com/drive/folders/1Rs1HLcVkntnqe4YxJog_SnfUh9VkpFaE",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a0f5394d63f1a946071f7cb8b3f87ceb.jpe",
   },
@@ -7765,7 +7777,7 @@ const data = [
   },
   {
     name: "Sound! Euphonium 3",
-    link: "https://www1.otakustv.com/anime/hibike-euphonium-3",
+    link: "https://ww3.animeonline.ninja/online/hibike-euphonium-070125/",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=1200,height=675,quality=85/catalog/crunchyroll/d79eba1c5794b6bc868a4e0bc6a9322f.jpe",
   },
@@ -8569,13 +8581,13 @@ const data = [
   },
   {
     name: "The Eminence in Shadow",
-    link: "https://www1.otakustv.com/anime/kage-no-jitsuryokusha-ni-naritakute",
+    link: "https://tioanime.com/anime/kage-no-jitsuryokusha-ni-naritakute",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/5AhNbEQ7AgCBNgfcH3o0qhE1M4X.jpg",
   },
   {
     name: "The Eminence in Shadow 2nd Season",
-    link: "https://www1.otakustv.com/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season",
+    link: "https://tioanime.com/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/q8CwjMcBxJzLVG3u6pF0TZDMbSB.jpg",
   },

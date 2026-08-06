@@ -235,6 +235,12 @@ const data = [
       "https://m.media-amazon.com/images/I/814ZrdPDRfL._AC_UF894,1000_QL80_.jpg",
   },
   {
+    name: "El pecado original de Takopi",
+    link: "https://mangamillion.shueisha.co.jp/es/title/4",
+    image:
+      "https://imgs.search.brave.com/jQWmE0EonqlNoJpQH3556wPQNHAll_ybJ7SfoAKpfQg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vbWVvd21l/b3dndWF0ZW1hbGEu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI1LzAzL3Rha29w/aS0xLmpwZz9maXQ9/NDAwLDU1OSZzc2w9/MQ",
+  },
+  {
     name: "Fairy Tail",
     link: "https://inmanga.com/ver/manga/Fairy-Tail/d39c9e78-2d59-422a-b888-cdf6e7d72cbc",
     image:
@@ -302,6 +308,12 @@ const data = [
     name: "Goblin Slayer: Brand New Day",
     link: "https://inmanga.com/ver/manga/Goblin-Slayer-Brand-New-Day/915c87ee-1081-4d1f-af21-98b237971b62",
     image: "https://m.media-amazon.com/images/I/51Qv4VmIuQL.jpg",
+  },
+  {
+    name: "Golden Kamuy",
+    link: "https://mangamillion.shueisha.co.jp/es/title/64",
+    image:
+      "https://imgs.search.brave.com/2UgYk2xnRYiGQctQohRLk4qmUiQmuIF3RKEP-S4TLxQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFmRDN5RTBSUUwu/anBn",
   },
   {
     name: "Golden Time",
@@ -528,6 +540,12 @@ const data = [
       "https://img1.ak.crunchyroll.com/i/spire3/9d8a8183b40eacb1911e0489bd7dc6421638218741_main.png",
   },
   {
+    name: "Kowloon Generic Romance",
+    link: "https://mangamillion.shueisha.co.jp/es/title/1108",
+    image:
+      "https://imgs.search.brave.com/P6Aef26Q41LD2ypm30YKrjCEQm_uajCMXLSkLRRRDuw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFsRGJKeVBPQkwu/anBn",
+  },
+  {
     name: "Kubo no me deja ser invisible",
     link: "https://mangaplus.shueisha.co.jp/titles/200089",
     image: "https://m.media-amazon.com/images/I/71FZU3diOWL.jpg",
@@ -576,6 +594,11 @@ const data = [
     name: "Mashle",
     link: "https://lectortmo.com/library/manga/48025/mashle",
     image: "../../img/mashle.jpg",
+  },
+  {
+    name: "MIS 100 NOVIAS QUE ME QUIEREN MOGOLLÓN MOGOLLÓN",
+    link: "https://mangamillion.shueisha.co.jp/es/title/1138",
+    image: "../../img/100novias.avif",
   },
   {
     name: "Mieruko-Chan",
@@ -829,7 +852,7 @@ const data = [
   },
   {
     name: "Shokugeki no Soma",
-    link: "https://inmanga.com/ver/manga/Shokugeki-no-Soma/6cbdc6ec-f4ba-4f4d-8054-d4ad2d04df0c",
+    link: "https://mangamillion.shueisha.co.jp/es/title/1027",
     image:
       "https://m.media-amazon.com/images/I/51W8+BwjpNL._SX331_BO1,204,203,200_.jpg",
   },

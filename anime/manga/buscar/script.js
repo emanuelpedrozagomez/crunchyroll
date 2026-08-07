@@ -31,6 +31,11 @@ const data = [
     image: "https://cdn.myanimelist.net/images/manga/3/184551.jpg",
   },
   {
+    name: "Akane banashi",
+    link: "https://mangamillion.shueisha.co.jp/es/title/1000",
+    image: "https://m.media-amazon.com/images/I/81dpQGga2nL.jpg",
+  },
+  {
     name: "Another",
     link: "https://inmanga.com/ver/manga/Another/6ca12a70-53ef-4da8-b3dd-db7c72775e14",
     image:
@@ -91,7 +96,7 @@ const data = [
   },
   {
     name: "Boruto Naruto Next Generations",
-    link: "https://inmanga.com/ver/manga/Boruto/c7922ed3-318a-486e-81fe-bfe7461797a2",
+    link: "https://mangamillion.shueisha.co.jp/es/title/46",
     image:
       "https://m.media-amazon.com/images/I/61mXuhA03UL._SX331_BO1,204,203,200_.jpg",
   },
@@ -109,7 +114,7 @@ const data = [
   },
   {
     name: "Burn the Witch",
-    link: "https://inmanga.com/ver/manga/Burn-The-Witch/a295a267-c964-4995-a1c8-0831c55c3f9a",
+    link: "https://mangamillion.shueisha.co.jp/es/title/1078",
     image:
       "https://www.themoviedb.org/t/p/w440_and_h660_face/ztSeBcOfx99lk4L7wkDFWAfl0ks.jpg",
   },
@@ -184,6 +189,12 @@ const data = [
     link: "https://lectortmo.com/library/manga/10118/Dungeon-ni-Deai-o-Motomeru-no-wa-Machigatte-Iru-Darou-ka-4koma--Days-of-Goddess-",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk5SPvr9sbssCEMAxApvSZYFbSMMLR8zOraw&usqp=CAU",
+  },
+  {
+    name: "Dark Gathering",
+    link: "https://mangamillion.shueisha.co.jp/es/title/1090",
+    image:
+      "https://m.media-amazon.com/images/I/81gka7-PE4L._AC_UF1000,1000_QL80_.jpg",
   },
   {
     name: "Darling In The FranXX",
@@ -332,6 +343,11 @@ const data = [
       "https://pack-yak.intomanga.com/thumbnails/manga/Golden-Time/55c1e529-ae1a-4b71-8808-b37a953bd370",
   },
   {
+    name: "Gintama",
+    link: "https://mangamillion.shueisha.co.jp/es/title/103",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNDeVyqDbY_sGqAuzH9MLS16cEVewckbeXR_TWrV_mD5ahWeiQY_owxmc0&s=10",
+  },
+  {
     name: "Girlfriend, Girlfriend",
     link: "https://lectortmo.com/library/manga/48563/kanojo-mo-kanojo",
     image: "https://m.media-amazon.com/images/I/51vNuggtVKL.jpg",
@@ -468,7 +484,7 @@ const data = [
   },
   {
     name: "Kaguya-sama",
-    link: "https://lectortmo.com/library/manga/131/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunosen",
+    link: "https://mangamillion.shueisha.co.jp/es/title/58",
     image: "https://m.media-amazon.com/images/I/81+380N1RFL.jpg",
   },
   {
@@ -525,7 +541,7 @@ const data = [
   },
   {
     name: "Kimi Ni Todoke",
-    link: "https://inmanga.com/ver/manga/Kimi-Ni-Todoke/62aad989-b37d-410f-893d-5ae788fa9ffc",
+    link: "https://mangamillion.shueisha.co.jp/es/title/100",
     image:
       "https://m.media-amazon.com/images/I/51rsjJvXMsL._SX330_BO1,204,203,200_.jpg",
   },
@@ -692,6 +708,11 @@ const data = [
     image: "https://m.media-amazon.com/images/I/81+j6ZZFFML.jpg",
   },
   {
+    name: "My Love Story!!",
+    link: "https://mangamillion.shueisha.co.jp/es/title/1120",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf1Jm5piV7gkztn9zHVvMhPqlvMVqEwLzYVtCQWkwrmjQcJMlQloYBVVIF&s=10",
+  },
+  {
     name: "My Next Life as a Villainess: On the Verge of Doom!",
     link: "https://lectortmo.com/library/manga/46698/otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shite-shimatta-zettai-zetsumei-hametsu-sunzen-hen",
     image:
@@ -713,6 +734,11 @@ const data = [
     link: "https://lectortmo.com/library/manga/50480/hamefura-x-arte",
     image:
       "https://media.themoviedb.org/t/p/w220_and_h330_face/lecDLCk9WzB9HhGiLFBs4UoRhO2.jpg",
+  },
+  {
+    name: "NANA",
+    link: "https://mangamillion.shueisha.co.jp/es/title/112",
+    image: "https://m.media-amazon.com/images/I/91SzVsLIF4L.jpg",
   },
   {
     name: "Naruto",
@@ -758,6 +784,12 @@ const data = [
     image: "https://m.media-amazon.com/images/I/51iTzpttHgL.jpg",
   },
   {
+    name: "One Piece",
+    link: "https://mangamillion.shueisha.co.jp/es/title/1",
+    image:
+      "https://m.media-amazon.com/images/I/81RPyRG5AdL._UF1000,1000_QL80_.jpg",
+  },
+  {
     name: "One Punch Man",
     link: "https://inmanga.com/ver/manga/One-Punch-Man/030de05e-ef8f-4cfe-a349-89b4599f6bf5",
     image:
@@ -765,7 +797,7 @@ const data = [
   },
   {
     name: "Oshi No Ko",
-    link: "https://lectortmo.com/library/manga/49490/oshi-no-ko",
+    link: "https://mangamillion.shueisha.co.jp/es/title/19",
     image:
       "https://m.media-amazon.com/images/I/51jhRrffW5L._SX331_BO1,204,203,200_.jpg",
   },
@@ -822,6 +854,12 @@ const data = [
     link: "https://inmanga.com/ver/manga/Rokudenashi-Majutsu-Koushi-to-Akashic-Records/aba78f85-0bda-4dd8-af5e-46937b092c59",
     image:
       "https://pack-yak.intomanga.com/thumbnails/manga/Rokudenashi-Majutsu-Koushi-to-Akashic-Records/aba78f85-0bda-4dd8-af5e-46937b092c59",
+  },
+  {
+    name: "ROMANTIC KILLER",
+    link: "https://mangamillion.shueisha.co.jp/es/title/1054",
+    image:
+      "https://m.media-amazon.com/images/I/8146wJKc+yL.jpg",
   },
   {
     name: "Saekano",
@@ -899,6 +937,11 @@ const data = [
     name: "Soy una Diosa ¿Y ahora que?",
     link: "https://inmanga.com/ver/manga/Kamisama-Hajimemashita/e2d29e94-29ec-4c5f-90ca-c485103817f3",
     image: "https://m.media-amazon.com/images/I/81c4DLObIxL.jpg",
+  },
+  {
+    name: "Summer Time Render",
+    link: "https://mangamillion.shueisha.co.jp/es/title/1048",
+    image: "https://m.media-amazon.com/images/I/51yU7uuj5gL._AC_UF1000,1000_QL80_.jpg",
   },
   {
     name: "La chica que me gusta olvidó sus lentes",
@@ -1075,7 +1118,7 @@ const data = [
   },
   {
     name: "The Promised Neverland",
-    link: "https://inmanga.com/ver/manga/The-Promised-Neverland/df035c49-d49f-4f15-bd2d-4ae9ea94d72d",
+    link: "https://mangamillion.shueisha.co.jp/es/title/40",
     image: "https://m.media-amazon.com/images/I/81GIb6GMhRL.jpg",
   },
   {
@@ -1094,6 +1137,11 @@ const data = [
     name: "Torre de Dios",
     link: "https://inmanga.com/ver/manga/Torre-de-Dios/3e589d2a-12b3-4144-bbc0-4c24d76582f6",
     image: "https://m.media-amazon.com/images/I/51N704I+B2L._AC_SY780_.jpg",
+  },
+  {
+    name: "Tú y yo somos polos opuestos",
+    link: "https://mangamillion.shueisha.co.jp/es/title/1066",
+    image: "https://m.media-amazon.com/images/I/61dl5CZe8AL._AC_UF1000,1000_QL80_.jpg",
   },
   {
     name: "Urusei Yatsura",
@@ -1132,6 +1180,12 @@ const data = [
       "https://pack-yak.intomanga.com/thumbnails/manga/Ookami-Kodomo-No-Ame-To-Yuki/f5076b22-7017-416d-b1c9-9c450e74239e",
   },
   {
+    name: "Witch Watch",
+    link: "https://mangamillion.shueisha.co.jp/es/title/1006",
+    image:
+      "https://m.media-amazon.com/images/I/71DdUOgp90L._AC_UF894,1000_QL80_.jpg",
+  },
+  {
     name: "World Trigger",
     link: "https://mangaplus.shueisha.co.jp/titles/200023",
     image:
@@ -1158,6 +1212,11 @@ const data = [
     name: "Yu-Gi-Oh! Gx",
     link: "https://inmanga.com/ver/manga/Yu-Gi-Oh-Gx/a5f4c7ce-0920-47a5-9c85-47b5f976bc19",
     image: "https://m.media-amazon.com/images/I/51CkXLCcePL.jpg",
+  },
+  {
+    name: "YU YU HAKUSHO",
+    link: "https://mangamillion.shueisha.co.jp/es/title/1033",
+    image: "https://m.media-amazon.com/images/I/81TG8JXmZ9L.jpg",
   },
   {
     name: "Zom 100: The Bucket List of the Dead",
@@ -1214,6 +1273,12 @@ const data = [
       "https://m.media-amazon.com/images/I/8163Ey4i0GL._AC_UF1000,1000_QL80_.jpg",
   },
   {
+    name: "Honey lemon soda",
+    link: "https://mangamillion.shueisha.co.jp/es/title/43",
+    image:
+      "https://m.media-amazon.com/images/I/81LfJ2d9NcL._AC_UF1000,1000_QL80_.jpg",
+  },
+  {
     name: "SAKAMOTO DAYS",
     link: "https://mangaplus.shueisha.co.jp/titles/200059",
     image:
@@ -1238,7 +1303,7 @@ const data = [
   },
   {
     name: "Look Back",
-    link: "https://zonatmo.com/library/one_shot/61622/look-back",
+    link: "https://mangamillion.shueisha.co.jp/es/title/7",
     image: "https://m.media-amazon.com/images/I/81r9pMwJCoL.jpg",
   },
   {

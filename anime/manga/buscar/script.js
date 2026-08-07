@@ -16,6 +16,16 @@ const data = [
       "https://m.media-amazon.com/images/I/91HGinJFr7L._AC_UF1000,1000_QL80_.jpg",
   },
   {
+    name: "Anohana: The Flower We Saw That Day",
+    link: "https://mangamillion.shueisha.co.jp/es/title/301",
+    image: "https://imgs.search.brave.com/BzT7rpnj_rubU4kUt-8ZF3AGlXRxCbs14wo0Ytm5jy0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL2lCRUFB/T1N3Q1ZoaXppQ0Ev/cy1sNTAwLmpwZw",
+  },
+  {
+    name: "Aharen-san is Indecipherable (Omnibus)",
+    link: "https://mangamillion.shueisha.co.jp/es/title/1057",
+    image: "https://cdn-scissors.gigaviewer.com/image/scale/3c8905c76513d74360f5c4698fe5a56f20bfd871/enlarge=0;height=372;no_unsharpmask=1;quality=90;version=1;width=372/https%3A%2F%2Fcdn-ak-img.shonenjumpplus.com%2Fpublic%2Fvolume-thumbnail%2F9253191255632936445-eb3f0631b6d4f77c2c9ba865aeb6094f%3F1784875772",
+  },
+  {
     name: "Aho Girl",
     link: "https://inmanga.com/ver/manga/Aho-Girl/20f2c667-b163-4816-991f-3c1c2af8161c",
     image: "https://cdn.myanimelist.net/images/manga/3/184551.jpg",
@@ -388,6 +398,12 @@ const data = [
       "https://m.media-amazon.com/images/I/812KWAh4ZPL._AC_UF1000,1000_QL80_.jpg",
   },
   {
+    name: "KILL BLUE",
+    link: "https://mangamillion.shueisha.co.jp/es/title/1012",
+    image:
+      "https://imgs.search.brave.com/-px7eXtq4e0MOJ6Z0oHnLLcpeHMbEZaUgArhrmM24nE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTE4MzBHbkQxMkwu/anBn",
+  },
+  {
     name: "Insomniacs After School",
     link: "https://lectortmo.com/library/manga/45780/kimi-wa-houkago-insomnia",
     image:
@@ -713,6 +729,12 @@ const data = [
     link: "https://inmanga.com/ver/manga/Neon-Genesis-Evangelion-Ikari-Shinji-Ikusei-Keikaku/a5026f6f-77cb-4a65-bba9-d3f3fad65c5e",
     image:
       "https://pack-yak.intomanga.com/thumbnails/manga/Neon-Genesis-Evangelion-Ikari-Shinji-Ikusei-Keikaku/a5026f6f-77cb-4a65-bba9-d3f3fad65c5e",
+  },
+  {
+    name: "¡No hay manera de que pueda tener una amante! ¿O quizá sí?",
+    link: "https://mangamillion.shueisha.co.jp/es/title/1102",
+    image:
+      "https://imgs.search.brave.com/QGrmoEElGDo44OHy8ogwFPbWtGORAPwwwC3A5Kgc13E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYW5n/YWRleC5vcmcvY292/ZXJzL2UxNjBhOGUz/LTMwNGYtNGRjYS04/MzhiLWVlMTgyMWM0/OTBkOC8yOGUwYmE2/Ny1iNzE0LTRhYWUt/YjVhZC01NWZjMjBm/Njk5MTguanBnLjUx/Mi5qcGc",
   },
   {
     name: "No Game No Life",

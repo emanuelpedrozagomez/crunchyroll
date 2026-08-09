@@ -718,12 +718,6 @@ const data = [
       "https://static.wixstatic.com/media/46079e_27cae559dc48413688d49d3f4bcb1f3a~mv2.jpg/v1/fill/w_227,h_341,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9781975333546.jpg",
   },
   {
-    name: "Golden Time Light Novel",
-    link: "https://lectortmo.com/library/novel/13699/Golden-Time",
-    image:
-      "https://universonl.files.wordpress.com/2017/12/goldenti.jpg?w=187&h=272",
-  },
-  {
     name: "Hensuki Light Novel Vol 1",
     link: "https://mega.nz/file/mFhlnaKD#w5uHOE1Uyx2cA91AeWpiWCGZO1YTNoOUC864M07FBU4",
     image:
@@ -1008,12 +1002,6 @@ const data = [
     link: "https://mega.nz/file/XgkDlCgJ#ZQ2TaxOMi_IV6pTtd7bYxFkT8aHE6Us4c7N3OK233X8",
     image:
       "https://universonl.files.wordpress.com/2014/10/highs19.jpg?w=190&h=276",
-  },
-  {
-    name: "High School DxD Light Novel Vol 20-24",
-    link: "https://lectortmo.com/library/novel/10887/high-school-dxd",
-    image:
-      "https://universonl.files.wordpress.com/2014/10/highs20.jpg?w=190&h=276",
   },
   {
     name: "The Vexations of a Shut-In Vampire Princess Light Novel Vol 1",
@@ -1330,6 +1318,12 @@ const data = [
     link: "https://lectortmo.com/library/novel/72410/lycoris-recoil-ordinary-days",
     image:
       "https://m.media-amazon.com/images/I/712kzyWKyLL._AC_UF1000,1000_QL80_.jpg",
+  },
+  {
+    name: "Makeine: Too Many Losing Heroines! Light Novel Vol 1",
+    link: "https://mega.nz/folder/KMgECYLR#3lpuh2uuPAoLFywFQ7j1JA",
+    image:
+      "https://m.media-amazon.com/images/I/81RXt619S3L._AC_UF1000,1000_QL80_.jpg",
   },
   {
     name: "My Stepmom's Daughter is my EX Light Novel Vol 1",
@@ -1689,7 +1683,7 @@ const data = [
   },
   {
     name: "Parallel World Pharmacy Light Novel",
-    link: "https://zonatmo.com/library/novel/15623/Parallel-World-Pharmacy",
+    link: "https://machinastranslations.wordpress.com/2017/01/08/prologo-2/",
     image:
       "https://universonl.files.wordpress.com/2016/01/diferent.jpg?w=318&h=462",
   },
@@ -1926,11 +1920,6 @@ const data = [
     link: "https://mega.nz/folder/CZwmkIKD#FkdDjLSq9ImKnBnrow2yvg/file/jVwSWIwB",
     image:
       "https://universonl.files.wordpress.com/2015/08/rainy_day_cover.jpg?w=606&h=878",
-  },
-  {
-    name: "Slave Harem In The Labyrinth Of The Other World Light Novel",
-    link: "https://lectortmo.com/library/novel/14065/Slave-harem-in-the-labyrinth-o",
-    image: "https://universonl.files.wordpress.com/2017/12/slaveharem.jpg",
   },
   {
     name: "Strike the Blood Light Novel Vol 1",

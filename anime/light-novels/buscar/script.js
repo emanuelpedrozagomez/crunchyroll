@@ -1302,8 +1302,8 @@ const data = [
       "https://m.media-amazon.com/images/I/81WITzxV1ZL._UF1000,1000_QL80_.jpg",
   },
   {
-    name: "Kuma Kuma Kuma Bear Light Novel",
-    link: "https://lectortmo.com/library/novel/24545/Kuma-Kuma-Kuma-Bear",
+    name: "Kuma Kuma Kuma Bear Light Novel Vol 1",
+    link: "https://drive.google.com/drive/folders/1UYcOdqv2cgTmupBWsNb0y_99VF5Qy92D",
     image:
       "https://universonl.files.wordpress.com/2016/09/thebear1.jpg?w=300&h=436",
   },

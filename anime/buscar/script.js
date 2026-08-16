@@ -516,6 +516,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/qAq9RBeHZoTMDFqQZ2o4cE5CJIQ.jpg",
   },
   {
+    name: "Beyond Twilight",
+    link: "https://www.youtube.com/watch?v=1KZliDeAbKU&list=PLFbCtw0zEsLQ&index=12&pp=iAQB",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/xhgY2TVkgjPecWh2kfs9BuQ9fL7.jpg",
+  },
+  {
     name: "Black Clover",
     link: "https://henaojara.com/animeonline/black-clover-sub-espanol-hd/",
     image:
@@ -994,6 +1000,12 @@ const data = [
     link: "https://tioanime.com/anime/chitosekun-wa-ramune-bin-no-naka",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/lm0Nb9N4KENmHbogK5ZGqfVQt9V.jpg",
+  },
+  {
+    name: "Chubby Girlfriend ＆ Pity Boyfriend",
+    link: "https://www.youtube.com/watch?v=9m1XzbVd6Mc&list=PLFbCtw0zEsLQ&index=1&pp=iAQB",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/S3VHcS8Lt62xqGvKWKZd9DTAPc.jpg",
   },
   {
     name: "Cinderella Chef",
@@ -2490,6 +2502,18 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/5PliFSpNzgXLoDHpwW05CmVx7JX.jpg",
   },
   {
+    name: "Jaadugar: A Witch in Mongolia",
+    link: "https://ww3.animeonline.ninja/online/tenmaku-no-jaadugar/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/8ulVow8v7B8Lrw47y4hyGPRnrJf.jpg",
+  },
+  {
+    name: "Jaadugar: A Witch in Mongolia Latino",
+    link: "https://ww3.animeonline.ninja/online/tenmaku-no-jaadugar/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/8ulVow8v7B8Lrw47y4hyGPRnrJf.jpg",
+  },
+  {
     name: "Jojos Bizarre Adventure",
     link: "https://tioanime.com/anime/jojos-bizarre-adventure-the-animation",
     image:
@@ -2728,6 +2752,12 @@ const data = [
     link: "https://www1.animeonline.ninja/online/kannazuki-no-miko-destiny-of-the-shrine-maiden-4/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/cXgzwd0ORzZVjMRRcl9Ic3OVcJr.jpg",
+  },
+  {
+    name: "Kanagawa Elves",
+    link: "https://www.youtube.com/watch?v=cIdiftM-yrU&list=PLFbCtw0zEsLQ&index=9&pp=iAQB",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/3gfRcFMsXDb70YxCaueKqNZwsix.jpg",
   },
   {
     name: "Kanojo Okarishimasu",
@@ -3076,6 +3106,12 @@ const data = [
     link: "https://www1.animeonline.ninja/online/shiguang-dailiren-link-click/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/4e2887f99eb5eff532182b77cf6d7acf.jpe",
+  },
+  {
+    name: "Link Click III",
+    link: "https://www1.animeonline.ninja/online/shiguang-dailiren-link-click/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/gzQltbIGuFky0dtbRuo65NnB2S9.jpg",
   },
   {
     name: "Little Witch Academia",
@@ -3462,6 +3498,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/biIgHdk39UcIdMvtNEMiotFl86s.jpg",
   },
   {
+    name: "Monster Eater",
+    link: "https://www.youtube.com/watch?v=u7Wze_q0eQg&list=PLFbCtw0zEsLQ&index=5&pp=iAQB",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/qI6B60gTWnVKoJa8asQIoIyH7lJ.jpg",
+  },
+  {
     name: "Monster Girl Doctor",
     link: "https://tioanime.com/anime/monster-musume-no-oishasan",
     image:
@@ -3478,6 +3520,12 @@ const data = [
     link: "https://ww3.animeonline.ninja/online/fuufu-ijou-koibito-miman-040925/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/8a9adc8fd5b4c946d6ee86f29da554c0.jpe",
+  },
+  {
+    name: "Moriarty's Perfect Crime",
+    link: "https://www.youtube.com/watch?v=xf8O6F_qCr0&list=PLFbCtw0zEsLQ&index=6&pp=iAQB",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/2G9bggvG5zprvIrCiohyFMh1Dr0.jpg",
   },
   {
     name: "Mother Of The Goddess' Dormitory",
@@ -3988,6 +4036,12 @@ const data = [
     link: "https://tioanime.com/anime/mousou-dairinin",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/kCEymZlfSUkJL03KQnQjBSokXJU.jpg",
+  },
+  {
+    name: "Perfect Addiction",
+    link: "https://www.youtube.com/watch?v=e1QZsu7ydGw&list=PLFbCtw0zEsLQ&index=2&pp=iAQB",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/lwe1WLNlyBLktr6HxNhuew2LoJL.jpg",
   },
   {
     name: "Pokémon",
@@ -5544,6 +5598,12 @@ const data = [
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/50235f7ea62db8d5271070aac4d457b2.jpg",
   },
   {
+    name: "The Regression of Great Sage Riddle",
+    link: "https://www.youtube.com/watch?v=ixV0lq2opcI&list=PLFbCtw0zEsLQ&index=7&pp=iAQB0gcJCf4LAYcqIYzv",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/xwKZE3KyZNgef8MUQbZHMh9S1Z5.jpg",
+  },
+  {
     name: "The Reincarnation Of The Strongest Exorcist In Another World",
     link: "https://www1.otakustv.com/anime/saikyou-onmyouji-no-isekai-tenseiki",
     image:
@@ -6190,6 +6250,12 @@ const data = [
     link: "https://henaojara.com/animeonline/season/witch-watch-espanol-latino-hd-1/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/9vZSj134qTv3xnP4ZiTAVNDCh8V.jpg",
+  },
+  {
+    name: "With Vengeance, Sincerely, Your Broken Saintess",
+    link: "https://www.youtube.com/watch?v=hi1Bnwsq-Ec&list=PLFbCtw0zEsLQ&index=4&pp=iAQB",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/wqIuSiyOVtLGNtv6sc2qxdy7vrV.jpg",
   },
   {
     name: "Wonder Egg Priority",
@@ -8334,6 +8400,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/nqHDBrW6MjVUFQPvSsTpEDj9VJH.jpg",
   },
   {
+    name: "Lockdown Zone: Level X",
+    link: "https://www.youtube.com/watch?v=znTxPQpP9KU&list=PLFbCtw0zEsLQ&index=10&pp=iAQB",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/z4tiXqS6eUXXp42mvh5bR73YRDL.jpg",
+  },
+  {
     name: "Princess Principal",
     link: "https://tioanime.com/anime/princess-principal",
     image:
@@ -8490,6 +8562,11 @@ const data = [
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/229277f27250bcb8a2b9516e54d0f965.jpg",
   },
   {
+    name: "I'll Live a Long Life to Dote on My Favorite Stepbrother!",
+    link: "https://www.youtube.com/watch?v=C9S6jyUgd44&list=PLFbCtw0zEsLQ&index=8&pp=iAQB",
+    image:"https://media.themoviedb.org/t/p/w500_and_h282_face/7wiuRRoCEJcv7I3mKVODhTc6rxn.jpg",
+  },
+  {
     name: "Slow Start",
     link: "https://www1.otakustv.com/anime/slow-start",
     image:
@@ -8518,6 +8595,12 @@ const data = [
     link: "https://www.henaojara.com/veronline/season/kimi-wa-meido-sama-espanol-latino-hd-1/",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/ff503d8b939e73ed62f126b4ae5c7909.jpg",
+  },
+  {
+    name: "You Don't Know Gunma Yet: Reiwa Version",
+    link: "https://www.youtube.com/watch?v=sqQFCj1ZmuE&list=PLFbCtw0zEsLQ&index=11&pp=iAQB",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/5Fif0pCk943ghQ6fV2NbTvOFKs.jpg",
   },
   {
     name: "Youjo Senki",

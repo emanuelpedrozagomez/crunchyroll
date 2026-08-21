@@ -564,6 +564,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/lJzpEfNbaxuhFVp7C9VRrEGD9Xg.jpg",
   },
   {
+    name: "Goblin: El Guardián",
+    link: "https://vix.com/es-es/detail/series-5684",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/7e7Zk6Kp9ctCTUBgONpD1dCVkba.jpg",
+  },
+  {
     name: "Lanzándote un hechizo",
     link: "https://www.viki.com/tv/39612c-casting-a-spell-to-you#episodes",
     image:

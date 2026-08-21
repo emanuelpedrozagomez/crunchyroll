@@ -511,7 +511,7 @@ const data = [
   },
   {
     name: "Beyblade X Latino",
-    link: "https://www.henaojara.com/veronline/beyblade-x-espanol-latino-hd/",
+    link: "https://www.youtube.com/show/VLPLeT4xBBJ8AHIEJ8kOa6AA8p1Tmn1f7R2F?sbp=KgtNZUJsLWV1WmtZUUAB",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/qAq9RBeHZoTMDFqQZ2o4cE5CJIQ.jpg",
   },
@@ -2718,6 +2718,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/qXvWMHvA5pnleR0nTaGjzBHbD2X.jpg",
   },
   {
+    name: "Kaguya-sama: Love Is War -Stairway to Adulthood- Latino",
+    link: "https://ww3.animeonline.ninja/online/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-8/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/qXvWMHvA5pnleR0nTaGjzBHbD2X.jpg",
+  },
+  {
     name: "KAIJU GIRL CARAMELISE",
     link: "https://tioanime.com/anime/otome-kaijuu-carameliser",
     image:
@@ -4824,6 +4830,18 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/ocKkHtXnQfctHAtK8bDVp1jEsIk.jpg",
   },
   {
+    name: "Super Cubo",
+    link: "https://www.youtube.com/watch?v=xzDE04vT7us",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/1zCbkzzadsrHpPARrmn8AvilNGH.jpg",
+  },
+  {
+    name: "Super Cubo Latino",
+    link: "https://www.youtube.com/playlist?list=PLwDZ8tisoPmQS5wps2tVisI8Tdv8xXV00",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/1zCbkzzadsrHpPARrmn8AvilNGH.jpg",
+  },
+  {
     name: "Spy Classroom",
     link: "https://www1.otakustv.com/anime/spy-kyoushitsu",
     image:
@@ -5479,19 +5497,19 @@ const data = [
   },
   {
     name: "The King's Avatar",
-    link: "https://www1.otakustv.com/anime/quan-zhi-gao-shou",
+    link: "https://www.youtube.com/watch?v=WEKFKO8wTYM",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/u60TgdPLhfhGT94Xm3es2urm052.jpg",
   },
   {
     name: "The Last Summoner",
-    link: "https://www1.otakustv.com/anime/zuihou-de-zhaohuan-shi",
+    link: "https://www.bilibili.tv/play/1053337",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/514dc96ef8f7eaac948d6df35ecba0ba.jpe",
   },
   {
     name: "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
-    link: "https://www1.otakustv.com/anime/tensei-oujo-to-tensai-reijou-no-mahou-kakumei",
+    link: "https://tioanime.com/anime/tensei-oujo-to-tensai-reijou-no-mahou-kakumei",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/7bb8fa94cb9349d76d36559294bd729e.jpe",
   },
@@ -5527,7 +5545,7 @@ const data = [
   },
   {
     name: "The Misfit Of Demon King Academy II",
-    link: "https://www1.otakustv.com/anime/maou-gakuin-no-futekigousha-ii",
+    link: "https://tioanime.com/anime/maou-gakuin-no-futekigousha-2nd-season",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a547cd366a9ba8d5af119d3afeb283cd.jpe",
   },
@@ -5539,37 +5557,37 @@ const data = [
   },
   {
     name: "THE PROMISED NEVERLAND",
-    link: "https://www1.otakustv.com/anime/yakusoku-no-neverland-esnpiuqk",
+    link: "https://tioanime.com/anime/yakusoku-no-neverland",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a7243613edbb4322bf20caed6a270b52.jpe",
   },
   {
     name: "THE PROMISED NEVERLAND Season 2",
-    link: "https://www1.otakustv.com/anime/yakusoku-no-neverland-2nd-season-1ljual60",
+    link: "https://tioanime.com/anime/yakusoku-no-neverland-2nd-season",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/uAjMQlbPkVHmUahhCouANlHSDW2.jpg",
   },
   {
     name: "The Quintessential Quintuplets",
-    link: "https://www1.otakustv.com/anime/gotoubun-no-hanayome",
+    link: "https://tioanime.com/anime/gotoubun-no-hanayome",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/dwEkNoGFZJWqiwJrnzVfmtmVhfU.jpg",
   },
   {
     name: "The Quintessential Quintuplets II",
-    link: "https://www1.otakustv.com/anime/gotoubun-no-hanayome-2nd-season",
+    link: "https://tioanime.com/anime/gotoubun-no-hanayome-2nd-season",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/010634e9d1c76f0596248c1091e4586c.jpe",
   },
   {
     name: "The Quintessential Quintuplets Latino",
-    link: "https://henaojara.com/animeonline/las-quintillizas-gotoubun-no-hanayome-espanol-latino-hd/",
+    link: "https://ww3.animeonline.ninja/online/gotoubun-no-hanayome/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/dwEkNoGFZJWqiwJrnzVfmtmVhfU.jpg",
   },
   {
     name: "The Quintessential Quintuplets II Latino",
-    link: "https://henaojara.com/animeonline/las-quintillizas-temporada-2-gotoubun-no-hanayome-espanol-latino-hd/",
+    link: "https://ww3.animeonline.ninja/online/gotoubun-no-hanayome/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/010634e9d1c76f0596248c1091e4586c.jpe",
   },
@@ -5593,7 +5611,7 @@ const data = [
   },
   {
     name: "The Red Ranger Becomes an Adventurer in Another World",
-    link: "https://www1.otakustv.com/anime/sentai-red-isekai-de-boukensha-ni-naru",
+    link: "https://tioanime.com/anime/sentai-red-isekai-de-boukensha-ni-naru",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/50235f7ea62db8d5271070aac4d457b2.jpg",
   },
@@ -5605,13 +5623,13 @@ const data = [
   },
   {
     name: "The Reincarnation Of The Strongest Exorcist In Another World",
-    link: "https://www1.otakustv.com/anime/saikyou-onmyouji-no-isekai-tenseiki",
+    link: "https://tioanime.com/anime/saikyou-onmyouji-no-isekai-tenseiki",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/29d7ab80516332c12a6df6c2aa321d35.jpe",
   },
   {
     name: "The Rising of the Shield Hero",
-    link: "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-kzp05udj",
+    link: "https://tioanime.com/anime/tate-no-yuusha-no-nariagari",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/63hr8JQSfsxWtY6JxJGxyUYDw5Q.jpg",
   },
@@ -5623,7 +5641,7 @@ const data = [
   },
   {
     name: "The Rising of the Shield Hero Season 2",
-    link: "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-2-zpr63ugp",
+    link: "https://tioanime.com/anime/tate-no-yuusha-no-nariagari-season-2",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a05f3e4b27485d33c5bf2b0e80c6d3c6.jpe",
   },
@@ -5635,7 +5653,7 @@ const data = [
   },
   {
     name: "The Rising of the Shield Hero Season 4",
-    link: "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-4",
+    link: "https://tioanime.com/anime/tate-no-yuusha-no-nariagari-season-4",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/ty1K4TbPB6VG3DXmxgvePRcrk0J.jpg",
   },
@@ -6895,7 +6913,7 @@ const data = [
   },
   {
     name: "The Quintessential Quintuplets Especial",
-    link: "https://www1.otakustv.com/anime/gotoubun-no-hanayome-specials",
+    link: "https://ww3.animeonline.ninja/online/gotoubun-no-hanayome/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/udVZPpeXEVksTCEmWD4UcIZcRvV.jpg",
   },
@@ -7057,7 +7075,7 @@ const data = [
   },
   {
     name: "The Rising of the Shield Hero Season 3",
-    link: "https://www1.otakustv.com/anime/tate-no-yuusha-no-nariagari-season-3",
+    link: "https://tioanime.com/anime/tate-no-yuusha-no-nariagari-season-3",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/35XW9qiJjUvWulmySWmsODfiFqm.jpg",
   },
@@ -8787,6 +8805,12 @@ const data = [
     link: "https://ww3.animeonline.ninja/online/medalist/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/vxfl4KY3WsENBT4UkWmNPQBypeQ.jpg",
+  },
+  {
+    name: "Megalobox Latino",
+    link: "https://tubitv.com/es-mx/series/300022217/megalobox",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/cW5RGyN0VrbUCCn900GGv9Eu4lb.jpg",
   },
   {
     name: "Sorairo Utility",

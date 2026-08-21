@@ -660,6 +660,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/jALSBQCFjwf3rvkKjpmBZnVeTjT.jpg",
   },
   {
+    name: "Lupin III: El castillo de Cagliostro Latino",
+    link: "https://tubitv.com/es-mx/movies/100061819/lupin-iii-el-castillo-de-cagliostro",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/42t0LEy3EUNTrLWFNsN1YeEXSIT.jpg",
+  },
+  {
     name: "Lupin III vs. Cat's Eye Latino",
     link: "https://www1.animeonline.ninja/pelicula/lupin-iii-vs-cats-eye/",
     image:

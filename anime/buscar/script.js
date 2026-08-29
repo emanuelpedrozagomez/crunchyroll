@@ -516,6 +516,18 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/qAq9RBeHZoTMDFqQZ2o4cE5CJIQ.jpg",
   },
   {
+    name: "Beyblade X Season 2 Latino",
+    link: "https://www.youtube.com/show/VLPLeT4xBBJ8AHJ1-tVeWigWpP3MZFAZOF0e?sbp=KgtkX00wOTMtSFppSUAB",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/l1cRIS7WstvSUGSht7s7eL4i38y.jpg",
+  },
+  {
+    name: "Beyblade X Season 3 Latino",
+    link: "https://www.youtube.com/watch?v=iyVLvpkF4gQ&pp=ygUhYmV5YmxhZGUgeCB0ZW1wb3JhZGEgMyBlcGlzb2RpbyAx",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/itjGSSBgC5KB9WGakwK01rzy6dv.jpg",
+  },
+  {
     name: "Beyond Twilight",
     link: "https://www.youtube.com/watch?v=1KZliDeAbKU&list=PLFbCtw0zEsLQ&index=12&pp=iAQB",
     image:

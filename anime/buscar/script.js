@@ -378,6 +378,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/rlpBH7uRM7t05EGwtFszwNnrJo0.jpg",
   },
   {
+    name: "B't X Latino",
+    link: "https://tubitv.com/es-mx/series/300022256/b-t-x",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/2HHSTeOXcerGt2TKNZGALV33lMx.jpg",
+  },
+  {
     name: "Babe, My Love Latino",
     link: "https://ww3.animeonline.ninja/online/aishiteruze-baby-babe-my-love/",
     image:

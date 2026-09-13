@@ -228,6 +228,30 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/oXmVdzLXgkPefUKFbFl6uoQ5aU7.jpg",
   },
   {
+    name: "Kamen Rider Zeztz (Cambio)",
+    link: "https://www.youtube.com/show/VLPLOjJYTBMqZ4k?sbp=KgtHUWdZaThNZ0pUNEAB",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/6DT7u7g9SLDMQCGi5lSNxeaObxb.jpg",
+  },
+  {
+    name: "Kamen Rider Zeztz (Hanshin)",
+    link: "https://www.youtube.com/show/VLPLSl97jgFhDxs?sbp=KgtLdTU4TmZHUjUwTUAB",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/6DT7u7g9SLDMQCGi5lSNxeaObxb.jpg",
+  },
+  {
+    name: "Kamen Rider MY-TH (Cambio)",
+    link: "https://www.youtube.com/show/VLPLMMsrvrsjvh4?sbp=Kgt4WWRoc0IzRnhob0AB",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/iIvynG6KdJz9ctWfoyHuGBfA1Eq.jpg",
+  },
+  {
+    name: "Kamen Rider MY-TH (Hanshin)",
+    link: "https://www.youtube.com/show/VLPLMletGp96slY?sbp=Kgs1QXFRN3Npal95TUAB",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/iIvynG6KdJz9ctWfoyHuGBfA1Eq.jpg",
+  },
+  {
     name: "Kanojo Okarishimasu Live Action",
     link: "https://www.viki.com/tv/38941c-rental-a-girlfriend#episodes",
     image:
@@ -790,6 +814,12 @@ const data = [
     link: "https://vix.com/es-es/detail/series-4981",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/9CUgyUnNu1Wli4kqlC9rwc2zCtm.jpg",
+  },
+  {
+    name: "Amor oculto Latino",
+    link: "https://www.youtube.com/playlist?list=PLPo2Fp6MBo1c",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/eP6YAFcGXZk472pOyyFidmeUwjX.jpg",
   },
   {
     name: "Doom at your Service latino",

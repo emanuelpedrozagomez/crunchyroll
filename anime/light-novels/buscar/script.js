@@ -845,7 +845,7 @@ const data = [
     name: "Aria the Scarlet Ammo: Spark Out",
     link: "https://mega.nz/folder/UGQhyS7S#RvWK23vS_-82ur1bbYF3Lg",
     image:
-      "https://cdn1.booknode.com/book_cover/1216/hidan_no_aria_tome_9_spark_out-1215819-264-432.jpg",
+      "https://imgs.search.brave.com/GWXyPbuhighzhobREvehku0ofkEZVB7dq6Ma2v0oXGc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFCV0ltV2dJQkwu/anBn",
   },
   {
     name: "Aria the Scarlet Ammo: Arcanum Duo",

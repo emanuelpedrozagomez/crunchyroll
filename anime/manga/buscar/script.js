@@ -262,6 +262,12 @@ const data = [
       "https://imgs.search.brave.com/jQWmE0EonqlNoJpQH3556wPQNHAll_ybJ7SfoAKpfQg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vbWVvd21l/b3dndWF0ZW1hbGEu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI1LzAzL3Rha29w/aS0xLmpwZz9maXQ9/NDAwLDU1OSZzc2w9/MQ",
   },
   {
+    name: "Even the Student Council Has Its Holes!",
+    link: "https://kmanga.kodansha.com/title/10685/episode/364014",
+    image:
+      "https://m.media-amazon.com/images/I/81yOIubA0cL._AC_UF1000,1000_QL80_.jpg",
+  },
+  {
     name: "Fairy Tail",
     link: "https://inmanga.com/ver/manga/Fairy-Tail/d39c9e78-2d59-422a-b888-cdf6e7d72cbc",
     image:

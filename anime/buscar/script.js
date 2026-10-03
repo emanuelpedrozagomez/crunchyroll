@@ -1,5 +1,11 @@
 const data = [
   {
+    name: "#I'm Looking for a Zombie",
+    link: "https://tioanime.com/anime/zombie-sagashitemasu",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/9ViNpdwhuypw5SjR5Zq7L2IJLxY.jpg",
+  },
+  {
     name: "86 EIGHTY-SIX",
     link: "https://tioanime.com/anime/86-eighty-six",
     image:
@@ -1896,6 +1902,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/bBDHtJnMpEpBFvGPKNInDa8KgjN.jpg",
   },
   {
+    name: "FX Fighter Kurumi-chan",
+    link: "https://tioanime.com/anime/fx-senshi-kurumichan",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/9SnAPMswGzC6OsBO6mGUrlPdBBB.jpg",
+  },
+  {
     name: "Gachiakuta",
     link: "https://tioanime.com/anime/gachiakuta",
     image:
@@ -2335,7 +2347,7 @@ const data = [
   },
   {
     name: "Ichijyoma Mankitsu Gurashi!",
-    link: "https://youtube.com/playlist?list=PLhGamQZtJ7K8OWPQvBPauPeJeiG4tQpPl&si=c5YBRN1q4A91y9UN",
+    link: "https://watch.plex.tv/es/show/ichijyoma-mankitsu-gurashi/season/1",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/1p6Ijk6ubxbJUyN6cNoEJ02e39l.jpg",
   },
@@ -5952,6 +5964,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/2GzS012iY43EIijGpk7vMQx8qd4.jpg",
   },
   {
+    name: "Tougen Anki: Arco de las Cataratas Kengo en Nikko",
+    link: "https://www.youtube.com/watch?v=GypG85OqAuk",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/4ZpPB2QjIFoU2XZuchILTBRy38n.jpg",
+  },
+  {
     name: "Toradora!",
     link: "https://www1.otakustv.com/anime/toradora",
     image:
@@ -7396,6 +7414,12 @@ const data = [
     link: "https://www.youtube.com/playlist?list=PLtdSPZNWT1AtlB6oZ-OLqZKXwMdMnIDiC",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/p5L6AMEFLsNn9bFqwdcJuCgspsQ.jpg",
+  },
+  {
+    name: "The Apothecary Diaries Season 3",
+    link: "https://tioanime.com/anime/kusuriya-no-hitorigoto",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/yJ2KNgLHzUWqeEX6WkwMqFRhVax.jpg",
   },
   {
     name: "The Apothecary Diaries Season 2 Latino",

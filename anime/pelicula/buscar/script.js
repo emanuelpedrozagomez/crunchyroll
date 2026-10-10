@@ -1745,6 +1745,12 @@ const data = [
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/gmgFCW1xOragiqDLYuhpttbrmBu.jpg",
   },
+  {
+    name: "Mobile Suit Gundam Narrative",
+    link: "https://www.youtube.com/watch?v=D5dJSEd8sgw",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/oOq8Op8HnUFY5BhJiryC2ND8qRw.jpg",
+  },
 ];
 const searchInput = document.getElementById("searchInput");
 const resultsList = document.getElementById("results");

@@ -547,7 +547,7 @@ const data = [
   },
   {
     name: "Black Clover",
-    link: "https://henaojara.com/animeonline/black-clover-sub-espanol-hd/",
+    link: "https://tioanime.com/anime/black-clover-tv",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/okPoLAGtpGhyn9WHlzuNqCYrr9u.jpg",
   },
@@ -556,6 +556,12 @@ const data = [
     link: "https://henaojara.com/animeonline/black-clover-espanol-latino-hd/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/okPoLAGtpGhyn9WHlzuNqCYrr9u.jpg",
+  },
+  {
+    name: "Black Clover Season 2",
+    link: "https://tioanime.com/anime/black-clover-2nd-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/wKaWS9VbvZrl8V7gSpThYYqkNuW.jpg",
   },
   {
     name: "Black Rock Shooter: Dawn Fall Latino",
@@ -1642,6 +1648,12 @@ const data = [
     link: "https://ww3.animeonline.ninja/online/estab-life-great-escape/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/7wKEIfF62WllJavkkSGRGEuYCR3.jpg",
+  },
+  {
+    name: "Even the Student Council Has Its Holes!",
+    link: "https://tioanime.com/anime/seitokai-ni-mo-ana-wa-aru",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/mDlSrssXO7O7AiieZ3YZk2XpFsa.jpg",
   },
   {
     name: "Eyeshield 21",
@@ -3312,6 +3324,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/wA4bYj28zmKyi2xhCfwczg35JGC.jpg",
   },
   {
+    name: "Magic Knight Rayearth (2026)",
+    link: "https://tioanime.com/anime/magic-knight-rayearth-2026",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/KJgzniF7wPLDRecKMBrKhKjtuk.jpg",
+  },
+  {
     name: "Maria Watches Over Us Latino",
     link: "https://ww2.animeonline.ninja/online/maria-sama-ga-miteru-051123/",
     image:
@@ -3499,7 +3517,7 @@ const data = [
   },
   {
     name: "Mobile Suit Gundam: The Witch from Mercury",
-    link: "https://ww3.animeonline.ninja/online/mobile-suit-gundam-the-witch-from-mercury-042724/",
+    link: "https://www.youtube.com/playlist?list=PLWjd5-5xOmvw",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/6yUkYaULo6v1xOMEJ6TKorR0zDk.jpg",
   },
@@ -3520,6 +3538,12 @@ const data = [
     link: "https://ww3.animeonline.ninja/online/mobile-suit-gundam-the-witch-from-mercury-042724/",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/07fda9ad4ae86df75320c1543a53719b.jpe",
+  },
+  {
+    name: "Mobile Suit Gundam Unicorn RE:0096",
+    link: "https://www.youtube.com/playlist?list=PLNnxffb3X1XE",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/A0rGkQH2itNL8c8kypWeSmMWBFb.jpg",
   },
   {
     name: "Monster",
@@ -3808,6 +3832,12 @@ const data = [
     link: "https://ww3.animeonline.ninja/online/new-panty-and-stocking-with-garterbelt/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/j5Mj8QAhLEo5lCypRT4NTNFqfJh.jpg",
+  },
+  {
+    name: "Night Head Genesis",
+    link: "https://www.youtube.com/playlist?list=PLFTSA9bmjox050EqmeGncUcMdyG2jKtTq",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/lqcscGtCMwtvKSkRCsqqwXtfPOv.jpg",
   },
   {
     name: "Nisekoi",
@@ -4246,6 +4276,12 @@ const data = [
     link: "https://tioanime.com/anime/ranma-12-2024-2nd-season",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/tCniZ5p6lqgeG9BflTBh6phgeZb.jpg",
+  },
+  {
+    name: "Ranma 1/2 (2024) 3rd Season",
+    link: "https://tioanime.com/anime/ranma-12-2024-3rd-season",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/mlbMnGnERZjHvM7h0BX2qXHB8m4.jpg",
   },
   {
     name: "Ranma 1/2 (2024) Latino",
@@ -5280,6 +5316,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/69a055ceed91e4513bf8b986f3069381.jpe",
   },
   {
+    name: "The Cold Sato-san is Only Sweet to Me",
+    link: "https://tioanime.com/anime/shiotaiou-no-satousan-ga-ore-ni-dake-amai",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/mK198Oi47DvQSaOHQ0vXO2aD3Nk.jpg",
+  },
+  {
     name: "The Daily Life of the Immortal King",
     link: "https://ww3.animeonline.ninja/online/the-daily-life-of-the-immortal-king-052125/",
     image:
@@ -5326,6 +5368,12 @@ const data = [
     link: "https://tioanime.com/anime/tantei-wa-mou-shindeiru",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2102fb31e3fd1d15e3f17ebbd7df41ae.jpe",
+  },
+  {
+    name: "The Detective is Already Dead Season 2",
+    link: "https://tioanime.com/anime/tantei-wa-mou-shindeiru-season-2",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/pPATGma4hs6Xw4jXVJLfd8VbF3C.jpg",
   },
   {
     name: "The Detective is Already Dead Latino",
@@ -5796,6 +5844,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/0774ee81c127face1b288ef788bb51c8.jpe",
   },
   {
+    name: "The World's Strongest Witch",
+    link: "https://tioanime.com/anime/sekai-saikyou-no-majo-hajimemashita",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/qTblrDpbYGvX4UdCL4mqtAnb3ir.jpg",
+  },
+  {
     name: "There's No Freaking Way I'll Be Your Lover! Unless..",
     link: "https://watch.plex.tv/es/show/theres-no-freaking-way-ill-be-your-lover-unless/season/1",
     image:
@@ -5966,6 +6020,12 @@ const data = [
   {
     name: "Tougen Anki: Arco de las Cataratas Kengo en Nikko",
     link: "https://www.youtube.com/watch?v=GypG85OqAuk",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/4ZpPB2QjIFoU2XZuchILTBRy38n.jpg",
+  },
+  {
+    name: "Tougen Anki: Arco de las Cataratas Kengo en Nikko Latino",
+    link: "https://www.youtube.com/watch?v=Gxn8FsOFyow",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/4ZpPB2QjIFoU2XZuchILTBRy38n.jpg",
   },
@@ -8544,6 +8604,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/iP1wh8pjHPOP7S7DewTa4KDDgVO.jpg",
   },
   {
+    name: "Blue Box Season 2",
+    link: "https://tioanime.com/anime/ao-no-hako-season-2",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/f5Do1KBLiKSvnHf1lgkMnYDVJyQ.jpg",
+  },
+  {
     name: "DAN DA DAN",
     link: "https://www1.otakustv.com/anime/dandadan",
     image:
@@ -8625,6 +8691,11 @@ const data = [
     name: "I'll Live a Long Life to Dote on My Favorite Stepbrother!",
     link: "https://www.youtube.com/watch?v=C9S6jyUgd44&list=PLFbCtw0zEsLQ&index=8&pp=iAQB",
     image:"https://media.themoviedb.org/t/p/w500_and_h282_face/7wiuRRoCEJcv7I3mKVODhTc6rxn.jpg",
+  },
+  {
+    name: "I'm Dating a Dark Summoner",
+    link: "https://tioanime.com/anime/dark-summoner-to-dekiteiru",
+    image:"https://media.themoviedb.org/t/p/w500_and_h282_face/4Z3YWd2veKotBa0ee1hklNK2kd8.jpg",
   },
   {
     name: "Slow Start",

@@ -1751,6 +1751,12 @@ const data = [
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/oOq8Op8HnUFY5BhJiryC2ND8qRw.jpg",
   },
+  {
+    name: "La Princesa Kaguya del Cosmos",
+    link: "https://latanime.org/anime/la-princesa-kaguya-del-cosmos",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/lhAoA8XYY8FUhZ9KUNQFwLXu3tZ.jpg",
+  },
 ];
 const searchInput = document.getElementById("searchInput");
 const resultsList = document.getElementById("results");

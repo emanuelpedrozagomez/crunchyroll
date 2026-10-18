@@ -141,6 +141,11 @@ const data = [
     image: "../../img/chinsawman.jpg",
   },
   {
+    name: "Chainsmoker Cat",
+    link: "https://kmanga.kodansha.com/title/10739/episode/368700",
+    image: "https://m.media-amazon.com/images/I/81JbePN1f5L._AC_UF1000,1000_QL80_.jpg",
+  },
+  {
     name: "Charlotte",
     link: "https://inmanga.com/ver/manga/Charlotte/adb4fd60-b04b-4684-9305-e3f9ed41bdb4",
     image:
@@ -1056,7 +1061,7 @@ const data = [
   {
     name: "Tonari no Seki-kun Junior",
     link: "https://lectortmo.com/library/manga/54368/tonari-no-seki-kun-junior",
-    image: "https://cdn.myanimelist.net/images/manga/3/247172.jpg",
+    image: "https://ramenparados.com/wp-content/uploads/2023/05/71EFBe1rVXS.jpg",
   },
   {
     name: "That Time I Got Reincarnated as a Slime",
@@ -1126,6 +1131,11 @@ const data = [
     name: "The Promised Neverland",
     link: "https://mangamillion.shueisha.co.jp/es/title/40",
     image: "https://m.media-amazon.com/images/I/81GIb6GMhRL.jpg",
+  },
+  {
+    name: "Though I Am an Inept Villainess",
+    link: "https://kmanga.kodansha.com/title/10738/episode/368887",
+    image: "https://m.media-amazon.com/images/I/91nRiWIfSOL._UF1000,1000_QL80_.jpg",
   },
   {
     name: "Tokyo Metropolitan Curse Technical School",

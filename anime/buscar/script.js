@@ -1542,6 +1542,12 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/3PTiPaysswwacE9uDtJorZ7MCKs.jpg",
   },
   {
+    name: "Dragon Ball Super: BEERUS",
+    link: "https://tioanime.com/anime/dragon-ball-super-beerus",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/rtf7gQIFXmMteFyR3EYWfEpe1rG.jpg",
+  },
+  {
     name: "Dragon Ball Z Latino",
     link: "https://www.lacartoons.com/serie/41",
     image:

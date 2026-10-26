@@ -564,6 +564,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/wKaWS9VbvZrl8V7gSpThYYqkNuW.jpg",
   },
   {
+    name: "Black Clover Season 2 Latino",
+    link: "https://ww3.animeonline.ninja/online/black-clover-091124/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/wKaWS9VbvZrl8V7gSpThYYqkNuW.jpg",
+  },
+  {
     name: "Black Rock Shooter: Dawn Fall Latino",
     link: "https://henaojara2.com/ver/black-rock-shooter-dawn-fall-espanol-latino-hd/",
     image:
@@ -1116,10 +1122,22 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/obzl1uYiC8gevu2YZIifw42hRt5.jpg",
   },
   {
+    name: "Cyberpunk Edgerunners 2",
+    link: "https://tioanime.com/anime/cyberpunk-edgerunners-2",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/77QtaAm2CSv25PgSKb0g08oIx7T.jpg",
+  },
+  {
     name: "Cyberpunk Edgerunners Latino",
     link: "https://henaojara2.com/ver/cyberpunk-edgerunners-espanol-latino-hd/",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/obzl1uYiC8gevu2YZIifw42hRt5.jpg",
+  },
+  {
+    name: "Cyberpunk Edgerunners 2 Latino",
+    link: "https://ww3.animeonline.ninja/online/cyberpunk-edgerunners-051225/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/77QtaAm2CSv25PgSKb0g08oIx7T.jpg",
   },
   {
     name: "D4DJ First Mix",
@@ -6894,6 +6912,18 @@ const data = [
       "https://www.themoviedb.org/t/p/w500_and_h282_face/fw6Fd4yYka49hdJs53ig7gGuw04.jpg",
   },
   {
+    name: "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+    link: "https://tioanime.com/anime/mezametara-saikyou-soubi-to-uchuusenmochi-datta-node-ikkodate-mezashite-youhei-toshite-jiyuu-ni-ikitai",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/kkDx2SP47tzylSIadCemWp6vUX9.jpg",
+  },
+  {
+    name: "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! Latino",
+    link: "https://ww3.animeonline.ninja/online/mezametara-saikyou-soubi-to-uchuusen-mochi-datta-no-de-ikkodate-mezashite-youhei-toshite-jiyuu-ni-ikitai/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/kkDx2SP47tzylSIadCemWp6vUX9.jpg",
+  },
+  {
     name: "Reborn as a Vending Machine",
     link: "https://tioanime.com/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou",
     image:
@@ -7492,6 +7522,12 @@ const data = [
     link: "https://ww3.animeonline.ninja/online/kusuriya-no-hitorigoto/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/h4tYrFlKXhemuE0YF0ar0EUvroO.jpg",
+  },
+  {
+    name: "The Apothecary Diaries Season 3 Latino",
+    link: "https://ww3.animeonline.ninja/online/kusuriya-no-hitorigoto/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/yJ2KNgLHzUWqeEX6WkwMqFRhVax.jpg",
   },
   {
     name: "Akuma-kun Latino",
@@ -8142,6 +8178,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/Ab1iaTfaLBpkBbiuWJriBzm273a.jpg",
   },
   {
+    name: "A Certain Dark Item",
+    link: "https://tioanime.com/anime/toaru-anbu-no-item",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/ezBiIiZfg3AG6SW3TAzif1J7XaV.jpg",
+  },
+  {
     name: "A Condition Called Love",
     link: "https://henaojara.com/animeonline/hananoi-kun-to-koi-no-yamai-sub-espanol-hd/",
     image:
@@ -8635,7 +8677,7 @@ const data = [
   },
   {
     name: "Blue Box Latino",
-    link: "https://henaojara.com/animeonline/season/ao-no-hako-blue-box-espanol-latino-hd-1/",
+    link: "https://ww3.animeonline.ninja/online/ao-no-hako-blue-box/",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/iP1wh8pjHPOP7S7DewTa4KDDgVO.jpg",
   },

@@ -1757,6 +1757,12 @@ const data = [
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/lhAoA8XYY8FUhZ9KUNQFwLXu3tZ.jpg",
   },
+  {
+    name: "La Heroina del Moño",
+    link: "https://ww3.animeonline.ninja/pelicula/the-ribbon-hero/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/tpbbnymebVYR6SQdvRBZRXnF3f4.jpg",
+  },
 ];
 const searchInput = document.getElementById("searchInput");
 const resultsList = document.getElementById("results");

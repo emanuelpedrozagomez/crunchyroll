@@ -1277,6 +1277,18 @@ const data = [
       "https://m.media-amazon.com/images/I/81kHWcb7n4L._AC_UF1000,1000_QL80_.jpg",
   },
   {
+    name: "Magic Knight Rayearth",
+    link: "https://kmanga.kodansha.com/title/10752/episode/369036",
+    image:
+      "https://m.media-amazon.com/images/I/91Kh6cCNqQL.jpg",
+  },
+  {
+    name: "Magic Knight Rayearth 2",
+    link: "https://kmanga.kodansha.com/title/10753/episode/369065",
+    image:
+      "https://m.media-amazon.com/images/I/71yRB6btS+L._AC_UF1000,1000_QL80_.jpg",
+  },
+  {
     name: "Magilumiere Co. Ltd.",
     link: "https://mangaplus.shueisha.co.jp/titles/200091",
     image:

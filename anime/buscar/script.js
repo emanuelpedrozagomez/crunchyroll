@@ -565,7 +565,7 @@ const data = [
   },
   {
     name: "Black Clover Season 2 Latino",
-    link: "https://ww3.animeonline.ninja/online/black-clover-091124/",
+    link: "https://www.youtube.com/watch?v=7z3yvRf9VSs&t=10s",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/wKaWS9VbvZrl8V7gSpThYYqkNuW.jpg",
   },
@@ -2683,7 +2683,7 @@ const data = [
   },
   {
     name: "Junji Ito Maniac: Relatos japoneses de lo macabro",
-    link: "https://ww3.animeonline.ninja/online/itou-junji-maniac/",
+    link: "https://www.youtube.com/watch?v=wM5s2ugDpos&pp=ygUVY3J1bmNoeXJvbGwganVuamkgaXRv",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/tI4A1Md9J5QHARl60TsMpekSsvg.jpg",
   },
@@ -4873,7 +4873,7 @@ const data = [
   },
   {
     name: "Soul Eater Latino",
-    link: "https://www.animelatinohd.com/anime/soul-eater",
+    link: "https://www.youtube.com/watch?v=o7fRq_20-Vs&pp=ygUYY3J1bmNoeXJvbGwgYmxhY2sgY2xvdmVy",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/9c7777be900482f4adf0bac981821866.jpe",
   },
@@ -5406,6 +5406,12 @@ const data = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2102fb31e3fd1d15e3f17ebbd7df41ae.jpe",
   },
   {
+    name: "The Detective is Already Dead Season 2 Latino",
+    link: "https://www.animelatinohd.com/anime/tantei-wa-mou-shindeiru",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/pPATGma4hs6Xw4jXVJLfd8VbF3C.jpg",
+  },
+  {
     name: "The Dinner Table Detective",
     link: "https://tioanime.com/anime/nazotoki-wa-dinner-no-ato-de",
     image:
@@ -5809,13 +5815,13 @@ const data = [
   },
   {
     name: "The Tatami Time Machine Blues",
-    link: "https://www1.otakustv.com/anime/yojouhan-time-machine-blues",
+    link: "https://tioanime.com/anime/yojou-han-shinwa-taikei",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/8edHlfEtyF8wEgl4Cy5sMR5b8YL.jpg",
   },
   {
     name: "The Tower of God",
-    link: "https://www1.otakustv.com/anime/kami-no-tou-fouthv1g",
+    link: "https://tioanime.com/anime/kami-no-tou",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/3c4b62cf2aadaa02f7c818e84cabbc7b.jpe",
   },
@@ -5827,7 +5833,7 @@ const data = [
   },
   {
     name: "The Tower of God Season 2",
-    link: "https://www1.otakustv.com/anime/kami-no-tou-ouji-no-kikan",
+    link: "https://tioanime.com/anime/kami-no-tou-ouji-no-kikan",
     image:
       "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/17d5c4c897b235b8c887a17c43816091.jpg",
   },
@@ -5839,7 +5845,7 @@ const data = [
   },
   {
     name: "The Vampire Dies in No Time",
-    link: "https://www1.otakustv.com/anime/kyuuketsuki-sugu-shinu",
+    link: "https://tioanime.com/anime/kyuuketsuki-sugu-shinu",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/dv4Y9drbecu2w4qfwzpSNR4RMOx.jpg",
   },
@@ -5851,13 +5857,13 @@ const data = [
   },
   {
     name: "The Vampire Dies in No Time 2",
-    link: "https://www1.otakustv.com/anime/kyuuketsuki-sugu-shinu-2",
+    link: "https://tioanime.com/anime/kyuuketsuki-sugu-shinu-2",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/1fa2648b6f2fb24a1847a004c75e0324.jpe",
   },
   {
     name: "The World's Finest Assassin",
-    link: "https://www1.otakustv.com/anime/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru",
+    link: "https://tioanime.com/anime/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/0774ee81c127face1b288ef788bb51c8.jpe",
   },
@@ -7159,7 +7165,7 @@ const data = [
   },
   {
     name: "The Shiunji Family Children",
-    link: "https://www1.otakustv.com/anime/shiunji-ke-no-kodomotachi",
+    link: "https://tioanime.com/anime/shiunjike-no-kodomotachi",
     image:
       "https://media.themoviedb.org/t/p/w500_and_h282_face/q2nJhG2ndDi2LcZwFOKdFR86KOE.jpg",
   },
@@ -7171,7 +7177,7 @@ const data = [
   },
   {
     name: "The Saint's Magic Power is Omnipotent",
-    link: "https://www1.otakustv.com/anime/seijo-no-maryoku-wa-bannou-desu",
+    link: "https://tioanime.com/anime/seijo-no-maryoku-wa-bannou-desu",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/274abcac5fe5966f5a8afbd42a976916.jpe",
   },
@@ -7183,7 +7189,7 @@ const data = [
   },
   {
     name: "The Saint's Magic Power is Omnipotent Season 2",
-    link: "https://www1.otakustv.com/anime/seijo-no-maryoku-wa-bannou-desu-2nd-season",
+    link: "https://tioanime.com/anime/seijo-no-maryoku-wa-bannou-desu-2nd-season",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/u1KvPCwqUH0Qr8btglG0cDnxUEj.jpg",
   },
@@ -7285,7 +7291,7 @@ const data = [
   },
   {
     name: "The Vexations of a Shut-In Vampire Princess",
-    link: "https://www1.otakustv.com/anime/hikikomari-kyuuketsuki-no-monmon",
+    link: "https://tioanime.com/anime/hikikomari-kyuuketsuki-no-monmon",
     image:
       "https://www.themoviedb.org/t/p/w500_and_h282_face/snAQB7awKwOeX95SBWXBPIgdmeZ.jpg",
   },

@@ -1566,6 +1566,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/rtf7gQIFXmMteFyR3EYWfEpe1rG.jpg",
   },
   {
+    name: "Dragon Ball Super: BEERUS Latino",
+    link: "https://www.facebook.com/share/v/1FJ8Bo8Jiz/",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/rtf7gQIFXmMteFyR3EYWfEpe1rG.jpg",
+  },
+  {
     name: "Dragon Ball Z Latino",
     link: "https://www.lacartoons.com/serie/41",
     image:
@@ -5004,6 +5010,12 @@ const data = [
       "https://media.themoviedb.org/t/p/w500_and_h282_face/wSEJ7oPhaHM2UPXK3Eb16Njmrqo.jpg",
   },
   {
+    name: "Suikoden: The Anime",
+    link: "https://youtube.com/@suikodentheanime-en?si=X8FyfGAYfycAFlKN",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/z25wpJFvh20PykW5K1LZoiSLbxs.jpg",
+  },
+  {
     name: "Summer Time Render",
     link: "https://www1.animeonline.ninja/online/summer-time-render/",
     image:
@@ -5614,6 +5626,12 @@ const data = [
     link: "https://www.bilibili.tv/play/1053337",
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/514dc96ef8f7eaac948d6df35ecba0ba.jpe",
+  },
+  {
+    name: "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+    link: "https://tioanime.com/anime/chii-fuyo",
+    image:
+      "https://media.themoviedb.org/t/p/w500_and_h282_face/2gfGd9W8C9f2Uuf2KK2T4Ave6pa.jpg",
   },
   {
     name: "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",

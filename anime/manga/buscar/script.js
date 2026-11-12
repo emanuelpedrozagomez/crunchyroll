@@ -771,7 +771,7 @@ const data = [
     name: "¡No hay manera de que pueda tener una amante! ¿O quizá sí?",
     link: "https://mangamillion.shueisha.co.jp/es/title/1102",
     image:
-      "https://imgs.search.brave.com/QGrmoEElGDo44OHy8ogwFPbWtGORAPwwwC3A5Kgc13E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYW5n/YWRleC5vcmcvY292/ZXJzL2UxNjBhOGUz/LTMwNGYtNGRjYS04/MzhiLWVlMTgyMWM0/OTBkOC8yOGUwYmE2/Ny1iNzE0LTRhYWUt/YjVhZC01NWZjMjBm/Njk5MTguanBnLjUx/Mi5qcGc",
+      "https://m.media-amazon.com/images/I/7163DTvg3rL._UF1000,1000_QL80_.jpg",
   },
   {
     name: "No Game No Life",
